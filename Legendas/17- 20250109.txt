@@ -1,0 +1,1550 @@
+Porque Dankuad meteor Doyes 3390DC por Friday
+vamos ter as prime práticas também do ano.
+Hoje a gente vai começar a ver se sobre a parte da explora torre dos dados.
+E vamos passar um pouco também sobre entender o que a gente aplica para a vida estatística.
+No pai, principalmente a parte de teulha de probabilidades,
+que a gente enfim acaba tendo que usar no nosso dia de dia de várias formas.
+Então é muito legal a gente ver aqui também.
+Então a gente vai aproveitar essa atividade para a atividade de hoje para fazer isso.
+A gente vai usar alguns datas que são bem conhecidos.
+Vamos explorar muita parte de entender algumas méticas de estatística para entender
+e quais são os dados que a gente está trabalhando.
+Pega algumas formas mesmo de com poucas, vamos ver com poucos com umas a gente estar aí muito informação.
+Então é muito mais não é tanto de preciso saber tanta coisa.
+Se você resolver muito mais no sentido de intermode de programação, é bem tranquilo.
+É muito mais interpetação do que a gente vai estar aí.
+Então esse é um processo que a gente vai fazer hoje.
+Vamos começar aqui no colabe.
+Então a gente já fez outros projetinhos aqui no colabe.
+Pra quem não conhece, o colabe não foi a mente da Google, né?
+Que disponibiliza pra gente.
+Tudo já tudo está lá do pai, então a gente precisa ver a tempo com toda a parte de configuração.
+Então é isso pessoal, alguma dúvida, se alguém quiser tentar uma coisa também sobre
+com o passei a pegar de hoje sobre o colabe.
+Mais a ideia de hoje é isso.
+Então vamos lá, vamos seguir em frente.
+Beleza.
+A gente tem aqui, vamos ligar a nossa...
+A nossa seção aqui do colabe.
+Hoje a gente vai trabalhar com um data set nativo do Cborn.
+Então, para ficar mais claro que o que a gente está fazendo nesse primeiro passo aqui.
+A gente vai portar alguns bibliotecos, a gente vai portar o pão dos que a gente já conhece.
+O Cborn, ele é meio parecido com o mais plato libre.
+Então, ambos têm a amoperada de consoção de gráficos,
+eles são bibliotecos para consoção de gráficos, de visualizações dentro do pai.
+A principal diferença é que o Cborn é mais voltado para estatística para a verdade estatística.
+Então, ele já tem algumas ferramentas estatísticas meio que embutidas nos gráficos.
+E aí alguns gráficos mais voltados para a estatística.
+E o mais plato libre não, ele é mais generalista, assim, não falar, né.
+E o mais plato libre você consegue criar gráficos de todo com o da tipo.
+Mas ele não é pesaste, tem várias ferramentas para estatística.
+Ele não é dedicado a acração de gráficos estatísticos como o Cborn.
+E o Cborn também eu, pessoalmente, acho, apesar do Cborn ser construído em cima do mais plato libre.
+Então, o pessoal construiu a biblioteca do Cborn, eles chegaram e falar, não.
+Como pegar então o mais plato libre, vamos dar uma adaptada na ele e criar gráficos voltados para a estatística de forma mais fácil.
+Então, em vez do cardo usuário, pegar mais plato libre.
+E várias manipulações para chegar no gráfico, o Cborn de oferece esse gráfico pronto para eles, não é?
+Não é isso aí, bem.
+E ele deixe a tipo com configurações de gráfico para a minha opinião de Deus, o gráfico com mais, vamos dizer assim, bonitinhos, né, amigáveis.
+Vamos também o Cypai Steads.
+A gente vai ver com o Cainchuza, o Cypai Ambuloteca de manipulação de dados para voltados para, provavelmente,
+a algebra, então ele traz algumas manipulações matemáticas para a gente.
+Se você não vê, ele conecte aqui em porta o método Steads.
+Se você não vê que a Métrica em Coilo é o método que é usado para a base com a estatística também.
+Então ele traz algumas estatísticas que nem o nome fala em cima do conjunto de dados.
+E a gente vai usar isso no vingando para pegar a estatística Z, quem a gente usa para calcular os áudilais de o conjunto de dados.
+Então essa ideia lá para frente.
+A pessoa eu vou abrir aqui também o chat aqui do lado, então se alguém quiser tentar um banco, e é algum momento,
+ficaram um tás de também de usar o chat.
+E seguindo aqui para fechar o num pai, que a gente já conhece, o num pai é ele aparecido com o Cypai.
+O Cypai também é uma abstração do num pai, mas o num pai ele traz os matemáticas mais básicos.
+Então essa é basicamente a principal diferença que do num pai é por Cypai.
+Dentro do Cypai, que não falei, ele é voltado para estar títica.
+Uma das ferrametes que ele traz é uma método muito legal, que tem dentro dele chamado Lúde,
+Data Seix, para inclusive quem quer entender com o Cypai de funcionário, que quiser dar uma esforada.
+Então aqui no colabo, volta aqui em Póximone, o apelido dele é o SNS.
+Então esses apelidos aqui, nada mais são o capelido, está pessoal com a gente em Póximone.
+E para evitar que a gente fique escrevendo, pando das pontas da taprengla do código.
+Então é uma cor da gente reduzir a escrita e para o Cébolo não apelido, ainda ele é o SNS.
+A gente vai ser o SNS, padrão, mas você pode botar um nome que você quiser.
+Você pode ter uma sorte de SNS, você consegue, depois, ao longo do código que chamar de SNS.
+Mas o padrão é para o Rúde para outras pessoas entender isso, o cor, todo isso, o padrão é o SNS.
+Então, beleza, quem eu falei dentro dele com o método chamado Lúde, Data Seix,
+dentro desse Lúde, da passage, ele traz realmente Data Seix prontos para a gente.
+Então, isso é vita com que a gente tem que botar lá, fazer o imposto do SNSB, o arquivo textil,
+o conectado de dados, enfim, o Cébolo já traz algumas bibliotecas prontas.
+E, principalmente, para a gente explorar, porque as funcionárias deles,
+tem algumas, alguns data sites bem legais lá dentro.
+Tem um chamado Diamond, que é esse aqui, gente vai dar uma olhada e outro chamado Penis.
+Então, vamos dar uma olhada e cada um deles.
+Então, vamos botar para rodar aqui, nós comprando os enjá, já foi locado pelo Rúde.
+E aqui, ao código, vamos enxercar regulas dos dois data frames.
+Então, aqui, o primeiro data frame, vamos dar uma olhada em Diamond.
+Ela data frames de diamonds, que não eu não me já fala, né?
+Então, aqui a gente tem, na primeira coluna,
+é Carte, que é o que o Lát, o dia amante, basicamente, o amigido de tamanho do diamond,
+né? O nunca tinha nunca vendi a mente na vida, provavelmente.
+Então, não sei exatamente, mas o cara de ser no lugar,
+ele está relacionado a também o peso, né?
+Eu não sei se ele exatamente a mente de massa, mas ele é o mec padrão do diamond,
+então, o que Lát, o dia amante.
+Então, ele tem o Corte, isso aqui é dentro da descrição,
+os dados se vocês podem ver. Mas o mundo das características do diamond também o Corte,
+como ele foi lá pedado. Então, aqui ele tem uma olhada,
+o que Lát tem, uma variava no mérito, que a gente pode ver,
+uma variava, eu contino, vamos usar o X3, X3, X3,
+mas aqui a gente tem uma variava, o Cate agora que eu chamo do Cate,
+e a gente também tinha uma classificação do, do, do, do,
+com uma bem lá pedado foi este amante, né?
+Então, eu tenho uma aqui, a dia, o que pra me enxamei a melhor,
+para mim, o Béfico é muito boa, good, premium, good.
+Se eu não me enxamei, ela começa, tem regular good, premium e a dia,
+né? Então, tipo, o premium é o segundo melhor, o good é ser melhor,
+mas enfim, aweitamente, depois, quando a gente finalize os dados.
+Este aqui, cola, é a cor do diamond também,
+dentro do, dentro do, do, do, do, do, do, do, do, do, o Ciboni,
+quem quiser explorar, vocês podem procurar na documentação do, do, do, do, do, do,
+do Ciboni, dentro do, do, do, se, os, os conseguem,
+da documentação, os, os, os, os conseguem ver toda a descrição do,
+do, que tá sendo feito do, do, do que é, é exatamente, né?
+Então, vou continuar os dados para essas colunas.
+Aqui a gente tem a claridade, então, é, esse é um ponto pão ley,
+do Jáunanti né, porque a claridade não é coisa difícil de mincedurar, né?
+Porque, o que é muito claro para mim pode não ser tão claro para você,
+porque dependendo do, aqui, o que, o, tá, o vem na gente,
+fala disso, né? Tipo, agora quando eu, eu saio aqui e vou pro Sol,
+meu olho fica mais sensível aluice, eu olho para alguma coisa,
+ela pode ser mais claro para mim, de que para você.
+Então, esse é uns problemas de algumas características, de alguns, de algumas variáveis,
+com não a gente trabalha com dados.
+É difícil de mencionar.
+Pra claridade, o que o pessoal fez, então tem equipamentos que fazem textes de laser
+e a partir do laser, eles conseguem saber reflexão de amante.
+Então, é algo preto no branco.
+Então, eles sabem exatamente o que o com-retivo laser é aquele jamão, então, ele
+classifica dentro de diferentes classes.
+Então, ele tem a classência em um 2, esse um, bs1, vs2, então, são diferentes
+classificações do partir da refração do jamão.
+Detem que é profundidade.
+Então, aí se enfaindo do jamão, também, da cara que ele acha que ela forma dele,
+tem bom aqui, não lembra exatamente o que é price, que é o preço que ele foi vendido em dólares.
+E aqui, realmente, ele está meio dele.
+X e y.
+Então, é x e x são os eix, né?
+X, comprimento, altura, o z aqui, eu não sei a diferença do def,
+o z deveria ser profundidade, né?
+Então, é uma boa dúvida também, vamos tentar entender que ela é inspirada.
+Olhando agora, o penguins, o outro nosso novo outro da T-7, então, aproveitando
+de um fase análise nesse 2, 7, 1, porque tem muita coisa legal para a gente ver nesse 2,
+né?
+De são com da T-7 parecidos, temos os 2, tem várias, captegóricas e várias,
+contínios, para a gente vai conseguir explorar bem na cenálise, mas ao mesmo tempo
+são das essas diferentes, porque eles tratam de coisas bem diferentes, né?
+Então, é meio prazer, que a gente consegue fazer essa análise e seguir esse processo
+para qualquer coisa que a gente vai analisar.
+Desde que os dados têm de haber organizado, né?
+O total que ele passa, que a gente passou nas últimas principes de pre-processal dados,
+de empresas dos dados, os pãe-timentos, os valores novos, aqui a gente vê,
+tem várias valores novos, já, por exemplo.
+Então, já olhando o penguins, o penguins, a gente tem o insta que foram observados
+em determinado regional região, então que a gente tem asírias da região, tem espécie do penguin,
+viu, se eu não me engano, é o bico, então a gente tem que o bico é largura a profundidade
+do bico e largura da barbatana.
+A massa do penguin, então, espesar nos penguins e os sexos.
+Então, a gente tiver aqui, aqui, as comunes com valores novos,
+da parte, realmente, são observações erradas e realmente não agregulinada,
+porque elas são um lulos em todos os comunes, então que de carga da pra ver quem,
+de prova, vai remover.
+Então, seguindo aqui, vamos, a gente já olhou que os dois datacantes
+eles são um misto de variáveis continuas e catagorcos.
+Então, vamos tentar quebrar do dentro delas exatamente o que a gente falou,
+que é cada um, cada um os datacantes.
+Aqui, as gente tem as áreas costinos,
+aqui, os que a gente falou, que podem assumir números infinitos dentro de muita revolva,
+então, sempre que a gente falar de geralmente, de frações,
+de números noenteiros, a gente está falando de várias costinos,
+porque são coisas que podem assumir uma ONF, sempre lembrem,
+ninguém tem um metro e oitenta, o mais de setenta de altura.
+Sempre você vai ter a 1,5,8,4,7,3,
+sempre vai ter um número seguindo,
+o que a gente trabalha no mundo real,
+são arremundamente pra facilitar a nossa vida,
+mas são várias costinos, que tem valores infinitos dentro de muita revolva.
+Então, lembrem disso também, então, peso também, ninguém tem 60 kilos,
+a pessoa tem 60,3,4,8 infinitos, casos no mix.
+Vare a ver de escretas, não.
+As várias escretas são valores inteiros e contáveis,
+então, a pessoa tem uma casa,
+ela tem duas casos, ela tem três casos,
+só tem um filho,
+ela tem nenhum filho, ela tem dois filhos,
+então, são variáveis coisas que a gente pode contar,
+então, geralmente, são contagens valores inteiros e contáveis.
+E as varevas categoricas que a gente são testas,
+na maioria das vezes, mas aqui o que a gente viu que são com as cações.
+Então, com a ilha, com a espécie, com a qualidade do córgico,
+a cor, estão são variáveis que quebram em categoria.
+E, por exemplo, que a categoria é o clas de cações do conjunto de dados.
+Então, não dá muitos, a gente tem variáveis continos,
+a gente tem o que o arte não carate,
+DevTablePrice, e o HTC e o psilongizer.
+Como variáveis categoricas aqui,
+a gente viu, a gente tem o corte, a cor e a claridade.
+Por último, pingüins, a gente tem como variáveis continas,
+tudo que está como número aqui, né?
+Então, a largura do bico, a profundidade do bico,
+a largura da barbatana e a massa do pingüinho, um grávoc.
+E, variáveis categoricas da ilha, a espécie e o sexo.
+Então, agora vamos começar.
+Um primeiro passo que eu sempre recomendo,
+quando eu vou fazer uma pessoa de algo que tem muito essa dúvida, né?
+Beleza, Bruno, peguei agora, meu quantidade de dados,
+não sei por onde começar.
+Então, primeiro a coisa que eu sempre falo é o describe.
+O describe se consegue estar em muita informação
+um apenas um métodozinho e é muito fácil.
+Então, pega o que o meu data sete,
+boto ponto de describe, não tenham parâmetro.
+Eu posso passar alguns parâmetros de a sedeção, algumas comunas,
+mas no geral, não recomendo,
+só o boto describe se não parâmetro em mando ver.
+E ele traz isso.
+Então, é um monte de informação, né?
+Montero está entendendo que o describe é falo para a gente.
+Primeiro, ele traz somente as variáveis continuas, né?
+Então, ele traz discretas, mas que a gente tem uma discreta,
+no caso, mas ele traz aqui as variáveis num merica,
+basicamente, né?
+Que lá, a atia e profundidade,
+table pra assistir e precisam dizer.
+Primeira coisa, a primeira coluna é a contagem,
+mas contagem no sentido de quantos linhas são valores não lulos.
+Então, o que que a gente já suma é que olhando?
+5, 3, 9, 4, 0 para todas.
+Então, por experiência que eu já sumo que nenhuma coluna,
+tem valor nulo, vestas aqui.
+Porque geralmente, contem valor nulo,
+a gente vê, por exemplo, acha se o X e o X são exatives,
+se valores nulos, ele não meia o TAT53, 9, 6, 4.
+Exintar a 52, 520 e o resto e seus valores nulos,
+né?
+Então, eles em um T,
+crescento estuar do padrão, né?
+Então, como a maioria tá a 6, 3, 9, 6, 4,
+então, o que eu já infero, que é bem provável,
+que muda essa estência em 53, 9, 6, 4, e linhas,
+e nem uma muda as coluna, os três valores faltam.
+Beleza?
+Deu prender.
+É, agora, da média, né?
+Então, a média, o que é a média faz, é o Tango?
+A média, que a gente conhece, é a média na área de México,
+do daquela coluna no mercado.
+Então, o que eu já vi que a média do que lá é 0.8.
+A média do Depth é 62, mais da T-Bo,
+é 57, o preço médio,
+tá ali 3,912,
+o X, né?
+O comprimento é 573,
+o auto-utamém, 533,
+e a profundidade 3,533.
+O desemio padrão,
+a gente falou bastante de esse desemio padrão ao ano passada, né?
+O desemio padrão é a medida que,
+de isso pra gente,
+quanto que os conjuntos,
+as amostras do conjunto de dados,
+fógeno da média.
+Então, lembre-se sempre, né?
+Vamos supor que a média é 50,
+e mais no meu grupo, todo mundo tem 50,
+então, se eu tenho 10 pessoas de 50 anos,
+a média é 50 anos, concordo.
+E desemio padrão vai ser 0,
+porque ninguém fógeno da média.
+Agora, se eu tenho 10 pessoas de 20 anos
+e 10 pessoas de 80 anos,
+de 10 pessoas, né?
+Sim pessoas tem 20 anos,
+e sim pessoas tem 80 anos.
+Se esconcordo aqui a minha média,
+também vai ser 50.
+Vai ser 50, se você somar,
+é 5 vezes 20 dá 100,
+com 5 vezes 80, 400,
+mais 100, 500 de vida de 10, 50.
+Sua média vai ser 50 anos.
+Só que, se eu desgrir o padrão,
+vai ser muito mais alto.
+Porque ninguém na verdade está na sua média,
+se vai ter 5 pessoas com 20,
+que então se já tem 10, 30 anos,
+para a média, e 5 pessoas com 80.
+Então, se já tem outra diferença de 30 anos,
+para a média.
+Se eu desgrir o padrão na média, vai ser 30 anos.
+Então, é pequena metáfora,
+sim, é uma aplicação que dá para a gente,
+as umcealdes e padrão.
+Não desgrir o padrão aqui do que LAT,
+é 0.47.
+Então, a média que está em 0.1,
+não dê o século que ele varia,
+0.46, meu desgrir o padrão.
+O DEF, então, eu vejo aqui, por exemplo,
+o DEF tem uma média de 62,
+e o desgrir o padrão de 1.43.
+Aqui, eu tenho uma média de 0.81,
+o desgrir o padrão de 0.5, praticamente.
+Eu vejo que na proporção,
+o desgrir o padrão aqui está muito maior
+na média do que essas aqui,
+isso é concordo.
+0.5 para 0.8,
+é muito maior do que 1.4 para 62.
+Então, a proporção de isso aqui,
+eu vejo que no que lá,
+acho provavelmente,
+tem uma variação muito maior
+dentro das amostras daquela coluna.
+O mesmo vale pro tempo,
+para a gente me ensaiiu o comportamento aqui do DEF,
+o preço também,
+então, os um padrão é um itualto.
+Então, o que eu já vou inferir aqui,
+que por mais que tem a média
+que seja 39.9,
+provavelmente tem de amantes muito caros,
+então, de amantes ele que estão custando 15, 20 mil,
+que puxam essa média para cima
+e fazem que esse desgrir padrão seja alto também.
+É uma referência,
+vamos ter que validar isso.
+No X e o som exemplo,
+então, eu consigo ver mais o mesmo que o varia,
+pelo tamanho, né?
+Então, pelo tamanho não é uma variação tão grande, né?
+Então, ele sai de...
+Sim, posso poder ver três,
+tem um desgrir padrão de 1.1,
+um ponto 14, 0.7,
+aqui,
+então, principalmente, não são jamais tão grandes,
+a gente está trabalhando.
+É, o menor que lá,
+então, aqui na poluna do Min,
+não é em si do Min,
+acho que você vai ver qual é o menor,
+é valor daquela nossa poluna.
+Então, aqui, o que lá,
+de uma hora, as arponte dois,
+o menor deve ferro 43,
+teve o 43,
+também,
+o dia a uma de mais barato,
+foi 1326,
+e a gente vai ver aqui,
+ó, tem X e Pflonz exerados.
+Então,
+se que, provavelmente,
+um erro do conjunto de dados,
+deve ter alguma coisa que está...
+faltando nessas minções,
+porque a gente, por segundo,
+já manteste, 0, 0, 0, 0, 0, 0.
+É, merez-me?
+O que é o 25?
+25, 55,
+é isso, é o que é o que é o 25?
+É isso é o nosso partiz dos nossos dados.
+Não sempre que a gente pega mais tribuição,
+vamos pensar assim,
+é a vamos distribuir elas em ordem crescentes.
+Então, do menor,
+o maior,
+se eu pegar o 25%
+esse é o primeiro quartinho,
+50% é o quartigo,
+e também, a mediano,
+75% é o quartio 3.
+Mas o que é esse 25%?
+Sempre quer dizer,
+ele quer dizer,
+a partir do primeiro,
+do menor,
+partir do mínimo,
+né?
+Quando eu pegar 25% das minhas amostras,
+eu voltar aonde.
+Então, nesse caso aqui,
+eu vejo que eu vou estar em 0.4.
+Então, o que significa?
+Que um quarto,
+na 25%,
+do jamais,
+tem até 0.4.
+De que o atch?
+Se sentem um de profundidade,
+de 56,
+e que até 25% de a maior,
+está�a 50$.
+Aqui a gente tem o tamanho também.
+Agora, 50% de enfaça beer
+que Gospel Chapeira a gente que é a mediano,
+ou seja, a mediano no ponto
+que divide o nosso cojonde de dados em dois.
+Das 50%, tem mais do que,
+50%, tem menos do que.
+No que lá este é 0.8,
+aqui no preço vamos ver
+é 2 e 4שוב,
+então no preço,
+a gente vê que já teve um salto bem grande do 25%,
+para a mediana, né?
+位o,
+e isso indica
+que justamente reforça naquela nossa hipótese que tem preços, o diamante tem de
+amantes de preços muito elevados. Então vamos seguir aqui.
+X e o que não risamos, também aqui já aumenta um pouco significativamente, então
+eu já sei em vez de se imposto de 70. Agora olhando o máximo, então as maiores
+valores da classe com um nisso. O que o lado que é 5.0, então a gente vê que ele
+estou bastante, né? Então a gente vê que não se atedei 5%. É, é um ponto
+zero para 4 a apenas. E o máximo é 5.0. Então isso já indica, fortemente uma presença de
+altos reais. Ou seja, a moça se está fugindo muito da nossa, da nossa padrão da nossa
+tendência do restante dos dados, né? Porque principalmente aqui é a principal ideia
+que eu junho por um muito grande do sapetei 5 pro máximo. Mas o sapetei 5 é a gente ainda
+tem um grupo muito grande do 15%. Então a gente vai precisar a fomeular. A gente vai precisar
+olhar os peixentes mais para frente do que é no sapetei 5. No preço, a mesma coisa,
+ele sai de 5.0 300 no pecentio no 4, terceiro quartinho, no pecentio de 65. Então ele
+sai que 5.300 e pula para 18.000 e o 10.000. Então o que que é significa? O nosso amostra
+ela está muito chicada para direita, né? Então 50% está até 2.400. Então, 50% do meu
+bolo, do 53.000 custa até 5.000 e até 2.400. Mas eu tenho uma galera aqui, 7.500
+custa até 5.300. Mas o cara mais caro ele custa 18.000 e o 8.100. Então bem mais
+caro, né? Se a gente for pensar aqui da tipo quase 5 vezes a média. É, beleza? Então
+a gente também dá para ver que para o tamanho, né? Como o diamante maior ele é distor,
+totalmente, no termo dos X e dos 11.000. E olha o tanto que informação que a gente
+traiu aqui, acho que eu pico a quase uns 10 minutos, só falando de describe, mas é o describe
+ele é muito prático. Então quando você começa a fazer constantemente, sempre que você
+pegar o cogido de dar o seu recomendo, dá um inselável e describe, é porque principalmente
+vocês vão conseguir extrair esse tanto em formos, vocês vão conseguir entender como é que é o
+cogido de dar esses tantas trabalhando, sem ter que propravente e botar a mão, né? Então,
+tipo, sem ter que ter muito trabalho, sem ter que criar a gráfica, tinha conseguido se
+gente enxerir isso, só vendo o que traz a estabele aqui do describe pra gente.
+Pro pé em vez, a gente vai fazer aqui a mesma coisa e olha aqui, a gente já vê que é
+três vezes com a gente em dois. Então, beleza, eu já vei que tem três vezes com a
+ele tem dois para todas as comunâgrimas, provavelmente a gente viu que tem valores
+faltantes, né? Aqui, mas como sabor de faltantes para todas, como depois
+quando eu vou ver, vou ficar três vezes com a gente em dois e isso é essa minha
+mostra, três vezes com a gente em dois pinguinhos, a média do bico é
+quarenta e três a média da profundidade do bica de 17, a média da
+barra da pão, né? É 200 milímetros e a massa média não fez o média
+quatroquilos e dosentes, o pinguinhos. O último vídeo padrão, vamos olhar
+principalmente a massa aqui, né? Depois a outras, acho que já fica implícito
+também, mas vamos olhar aqui a massa. A massa é de quatro milímetros, quando
+se viu padrão de 800. Quando eu olho mínimo, pinguim mais leve ele pés a dois
+1700. 25% vai até 3.550. 50% vai até quatro milímetros, 50.
+70% vai até quatro milímetros, 75 e o pinguim mais gordos de todos,
+essas 6.300. Então não é uma assim, por mais que tem um salto aqui, você vai
+ter sim pro máximo. Nesse caso aqui a gente vê que é um salto muito
+menor, por exemplo, do que não dá essa gente do jamais, né? Então que
+o preço fica se algo mais discrepanche, de ver que o pinguim mais pesado ele não é
+tão mais pesado igual o diamante mais caro, é tão mais caro, sabe? Então essa
+ideia é que a gente consegue ver com a distribuição menos alongada para
+massa pelo menos e para as outras características também, é que a menor,
+ou olhar a batana menor batana, ela sete a 72, 25% vai para 190. A
+mediana seta para 87, 75% em 113 é maior com a batana dos 30. Então
+60 centímetros apenas separam a menor da maior batana. E se indica aqui, por exemplo,
+pela mediana pelo desvipadrão não toma o outro, né? Então aqui o desvipadrão se
+você for botar em proporção em 200 milímetros e os padrões 14 milímetros e em
+4.200 uns vipadrão de 87 gramas, diferente do diamante, né? Que em 4.000 dólares
+e então os vipadrãos 4.000 dólares, é ou seja, os diamantes mais caros que estão
+aqui topo chano, essa média bem para cima e esses vipadrão também deixando
+ele bem mais óbvio, do que nesse caso aqui do batto sete dos pinguim, que, claro,
+tem um pinguim mais pesado aqui e ele tá realmente puxando um pouquinho para direita,
+mas bem menos, né? Dá para ver por exemplo, os vipadrão mais baixo aqui, em proporção,
+comparando os valores. Deu para entender o pessoal sobre o Describio ficou alguma dúvida,
+não ver que tá pra tomar uma aguinha.
+Então, seguindo aqui, vamos começar a visualizar os estogramas, né?
+Fala bastante sobre estogramas e o estogramorado mais é do que completar
+basicamente esse daz aqui, né? Então aqui a gente tem a referência do mínimo do 25%
+do que é o primeiro quartil da mediiana do Descer quartil e no máximo. Quando a gente
+olha pra instaograma a gente ver o completo, né?
+Dice, então vamos fazer o estogramor para nos diamantes.
+E aqui a gente tem a frequência, né? A gente tem os blocos cada, bloquinho, cada
+como uma desse, é um bloco entre duas partes de preço. Aqui a gente tem bastante
+vários bloquinhos, né? Então, vocês tem muitos bins também quebrarinho. Então, isso é bom
+para a gente ver um nível bem detalhado como que a nossa mostra se comporta.
+A gente pode ver como realmente a frequência do diamantes já até vai bem menos de $1,000,
+é bem mais alta, né? Então, a gente tem 6.5 mil diamantes, a gente for somar em cada
+faixa dessas e aqui, aqui, inferior em $1.000. Então, deixe o botar aqui o aconetinho,
+como é escala? Então aqui, por exemplo, é daqui que eu estou falando.
+A gente tem aqui aos 6.000 nessa faixa aqui, e se mais 5.000 nesses baixos, elas estão
+sem de folhar aqui.
+Próamente menos do que $800, né? Então, é que o que a gente falou, a grande concentração
+dos diamantes está aqui nessa primeira faixa.
+Então, é o que a gente falou, a distribuição, ela é bem ao um gada para direita com o
+couro, e é o que a gente vê aqui.
+E por que é que ela vem ao gada para direita?
+alguém tem o popitch, se quiser não dar o chate, está dando pra ver que é mais interpretar,
+o que que esse grafico está dizendo aqui, né? Quando a gente olha essa parte
+selecionada aqui, o que é isso na parte que eu quero dizer pra gente?
+A pessoa olhe minha ajuda aqui no chate.
+Mas se metrê direita, mostra que é, tem uma pra ser negativa.
+Exato, perfeito, que olha, eu não sei se metrê direita, que é causada principalmente
+pelo jamais, então, o que que a gente está vendo aqui no fim do dia?
+E tem muitos diamantes que não são tão caros, tudo isso que está aqui,
+o grande concentração de volume da nossa mostra está aqui, se escancou.
+Mas ao mesmo tempo, a nossa distribuição, ela é puxada pra direita.
+Por esses diamantes aqui, que são os caros.
+Então, a gente tem poucos diamantes caros que puxam o preço.
+Mas, o preço não é nosso preço médio, e também a curva da distribuição pra direita.
+Então, a isso que acontece aqui, quando a gente analisa o grafico do estogramo,
+a gente vê na frequência, onde há muitos mais caros aqui, vai de menos de mais de 10 mil dólares.
+Se a gente for ver, a frequência dele diz bem baixa, né? Estão menos de mil.
+Aqui deve ser menos de quinta, se a gente for pegar.
+Então, a ideia não é um fim do dia é esse, né?
+É algo que a gente já sabe da nossa vida, que é, é a grande maioria das coisas.
+Isso é, isso é o cor em tudo, né?
+A gente for pensar, é...
+A maior grande maioria dos produtos.
+A gente for pensar...
+Se é o produto de lente, por um leite mais barato, vai ser o lente mais comprado.
+Mas existem leites específicos para...
+existem geodos específicos que tem o preço muito mais caro,
+mas em decintas, vende bem, é por isso que por exemplo,
+pode ter uma cor vão dar um prédireita diferente da cor que a gente vai ver agora,
+que é a cor dos 5x.
+Poi está o grano do peso dos 5x.
+Aqui, primeira coisa, a diferença é na quem a gente falou,
+a história é muito menos bings, né?
+Então aqui, tivesse que tem 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
+grupos, né? De vigindo aqui entre o peso.
+Quando a gente olha aqui no preço, aqui, não dá em pra contar,
+mas eu estaria aqui pelo menos, vamos ver se em cuenta sem...
+alguém tem palpix, o que aqui tem tantos bings,
+e aqui tem menos...
+No nosso segundo Instagram, tem bem menos bings, né?
+A gente tem somente 11, e ali a gente tem pelo menos um sem.
+A gente tem palpix, porque a gente tem bem menos...
+Bings, né? Se a segundo o Instagram.
+Eu vou ajudar a passar.
+Olha lá, não.
+Porque a gente tem menos dados.
+Exidado, cara, eu vou lume de dados.
+Então, a gente viu que no primeiro tem 53 mil, né?
+E aqui, no segundo tem 3, 4 dados.
+3, são 3, 4, 5, então, com isso a gente possa ganhar agrupar
+e tem frequências representativas para cada grupo, né?
+Você já frequente que a gente consegue botar no gráfico e fazer sentido.
+Então, imagine aqui pelo Instagram dos pinguinhos,
+seu botasse sem estogrando, e fica muito específico para cada peso, né?
+Não ia ficar fazendo sentido.
+Aqui a gente consegue agrupar e mostrar a mesma tendência,
+então essa ideia de acordo com o seu...
+O outro mais dados você tiver, mas agrupamento você consegue fazer
+com frequências representativas, amigos, que conseguir botar no Instagram,
+e o Instagram não ficar nada bizarro.
+Então, um Instagram linear, é um Instagram que cada grupo consegue ser representativo, né?
+Então, aqui a gente pode ver que a exatamente aqui o que a gente falou.
+Essa aqui é uma curva muito próximo da curva no mal, né?
+A curva normal é aquela que a gente viu.
+Ela é assim, é basicamente uma curva que tem uma média.
+Aqui, eu desvi o padrão, é exato com os dois lados,
+então ela não é uma curva espelhada,
+não vou poder falar assim, né?
+Ela começa num ponto e ela espelhada no outro lado também.
+Aqui a gente vê porque é muito próximo disso, né?
+Aqui a gente tem uma curva levemente alongada para direita aqui um pouquinho,
+igual a gente falou, principalmente por aqueles que meizam mais pesados,
+aqui, mas claramente quando a gente compara um Instagram de cima, né?
+A gente está abrando bem menos a mão-gar para direita,
+acho que também, claro, que para todo mundo,
+esse Instagram que ele se estende muito mais para direita,
+e aqui não,
+a gente está abrando que não é exatamente a curva normal,
+mas é bem mais próximo da aula que eu estou gravando assim.
+Ela bem mais simétrica, né?
+Signindo ali, do que o que a gente vai falar.
+Então, o grande pota aqui é massa corporal,
+começa aqui um pouquinho menos dos três, né?
+Mas a gente vê que tem, sei lá, dez pinhuis aqui, 11,
+e tem menos três quilos,
+e tem,
+está talvez aqui, os três ou quatro, dois ou três,
+que tem mais de seis quilos.
+Tira do isso,
+todos os outros pinhuis,
+então aqui no meio, com qual é o meu, no entre três seis quilos,
+mas eles estão principalmente condensados ali,
+aqui,
+nesse grupo,
+que é o grupo que a gente fala da moda, né?
+O grupo que tem mais frequência.
+Então, o grupo aqui,
+entre vai três e o 800 e 4.000,
+entre três que os 800 e 4.000.
+E é isso, é uma curva,
+que por ela ser muito mais simétrica,
+a nossa mediada é muito mais próximo da média, também, né?
+Com corna,
+que é nossa mediada aqui,
+a média provavelmente ela vai estar por aqui assim,
+enquanto a média,
+vamos fazer esse exercício, vamos voltar lá,
+ou a média,
+aqui é,
+para massa,
+é quatro quilos e 200,
+e para o preço,
+ela é
+para bem,
+a gente está indo que o latino,
+para o preço, ela é,
+para o que o latino é 800,
+zero ponto 800.
+Vamos olhar aqui, o preço que a gente está olhando,
+é um scoop,
+o preço mais de o,
+quatro mil dores,
+então, beleza,
+o preço mais de o jamaí de evitar
+aqui,
+vai,
+então olha como ele está distante
+do da moda, né?
+de onde o ocorre a maior frequência.
+Vamos fazer esse exercício para a
+mediada também,
+onde está a mediada,
+a mediada está no 50,
+então aqui no preço, a mediada está no 2.400,
+está a mediada,
+ela já está mais próximo aqui,
+e geralmente por isso que a gente usa
+aqui, a mediada está aqui,
+então esse é o ponto que de vídeo,
+metais dos nossos dados,
+estão para cá,
+nesses peçuros aqui,
+e metais,
+a outra metais de nossas dados está para cá,
+então esses grupos,
+até a mesma quantidade de valores,
+então esses dois grupos,
+e essa é a mediada,
+a mediada,
+eu vou trocar de cor,
+ela vai estar de porquê,
+4.000,
+que a gente viu ali,
+porquê mais para cá,
+mas enfim,
+e a moda vai ser o esse grupo
+mais representativo,
+aqui,
+que é o pico, né, da nossa curva.
+Então, o que a gente tem de informação,
+realmente é uma curva,
+bem mais alongada para a direita,
+a mediada,
+ela acaba sendo um ponto muito mais
+útil para a gente,
+quando a gente vai prever,
+por exemplo, um valor faltante,
+porque,
+em esses casos,
+que a gente tem uma se metrinha muito grande,
+porque, imagine,
+e nos usamos a média,
+nesse caso,
+aqui,
+é que a gente está,
+tem muitos valores
+puxando a nossa copra direita,
+e está perdendo,
+a gente está muito distorcido para a direita,
+então a gente vai estar prevendo
+principalmente mais alto,
+que ele realmente é,
+se a gente considerar que 50% dos
+nossos dados estão aqui,
+como é um em mais 50% dos nossos dados,
+então,
+nessa faixa,
+aqui o que a gente falou,
+então, vamos fazer esse,
+esse mesmo exercício agora,
+para os pinwins,
+aqui a gente tem os pinwins,
+é a mediana no 4quilos e 50,
+e a média,
+é no 4quilos e dosentes,
+o tombalanquim,
+toma média aqui,
+o outro caso como,
+a média está no 4quilos e dosentes,
+por aqui,
+a média está no 4quilos e 50,
+então está tipo aqui,
+e a nossa moda vai estar aqui no
+um pouco mais alto,
+então, é esse mesmo grupo aqui,
+olha só que interessante,
+aqui, a escala influencia um pouco,
+claro, mas o principal ponto é,
+aqui,
+olha como, está também mais próximos,
+as três medidas principais,
+então a média me diane a moda,
+como elas estão bem mais próximos,
+e só qual é o que a nossa distribuição
+ela bem mais se metre,
+então, quanto mais se metre,
+que a distribuição mais próximo
+montasse os medidas de localização,
+então, também é importante lembrar
+que esse é um pouco muito específico,
+quando a gente,
+muito importante,
+quando a gente vai preencher valores no uso,
+tem que analisar a distribuição,
+para entender se eu não vou preencher ele,
+com a média, provavelmente,
+se tiverem muitos os outros
+lá, as muito valores puxando a curva,
+é a indireção ao mostremetria,
+não é uma boa ideia usada a média,
+que você vai estar por ser
+no provavelmente,
+flexiado por esses valores,
+é grande, se que estão puxando a média
+para cima,
+para baixo,
+então, geralmente, a melhor ideia
+usada a média,
+se não tenta os valores aos
+lá,
+aí, pode ser muito mais interessante
+os da média,
+mas,
+de casos para casa,
+no geral,
+mais ponta a gente,
+entendesse essa metrinha.
+Então, beleza,
+para que a gente fez tudo isso,
+então,
+beleza,
+entendemos nossos variáveis,
+entendemos como elas comportam,
+entendemos que os pinguinhos
+têm uma distribuição muito mais condensada,
+que os jamanos
+têm oitelas que puxam presse lá para cima,
+deu para entender tudo isso,
+pessoal, Gondove,
+show,
+então,
+outro motivo que a gente fez tudo isso,
+é, vamos pensar agora no contexto de,
+eu quero criar o modelo,
+para dizer qual que eu preço justo para onde a noite,
+eu tenho em uma loja de amante,
+e eu quero criar o modelo,
+o lugar mais que que fazer na valiação,
+eu quero criar um modelo para toda vez que a pessoa
+chegar com o diamante,
+eu vou pegar o medir,
+a qualidade,
+o homidio, o exx,
+e, por exemplo,
+a valia ocorte,
+eu vou pegar o pezinho que lá,
+então,
+pronto eu vou botar isso ali no,
+com o seu fossem,
+no momento lado,
+e vai ter o modelo para me dizer o preço,
+o próximo,
+para esse diamante,
+se escancordo,
+que,
+se eu tivesse os outros láis,
+ou seja,
+esse diamante de 15,16,17 mil reais,
+no meu modelo,
+eu não posso estar influência,
+de,
+claro, depende de muita coisa aí,
+depende do algoritmo,
+que tiver usar o modelo,
+e tal,
+mas nem peça em não na parte de previsões,
+peça em mais no,
+no, no, no, na influência dos outros láis,
+vocês concordam que seu tom,
+não lím com meus outros láis,
+os meus base completa,
+que a gente vê o ali que tem de amante 16,
+e 17 mil reais,
+os concordam que seu boto esse pessoal,
+no,
+para construir o meu modelo,
+eu,
+muito provavelmente,
+não vou estar errando as minhas previsões
+para cima,
+porque eu vou estar botando de amantes que não,
+são jamais coborriscedem muitas vezes na minha loja,
+sabe?
+A gente viu o ali que,
+até 50 pessoas de amantes,
+ele supostou até 3 mil,
+3 mil dólares,
+então,
+promençam jamais com o clate menor,
+então,
+você tem que pensar no contexto.
+Se você derre pensar,
+vai motar uma loja de amante,
+não shopping,
+caríssimo,
+e isso vai avaliar de amantes caros,
+aí sim,
+você vai querer de amantes caros no seu modelo.
+Se você vai abrir uma loja,
+não shopping,
+para avaliar de amante de pessoa com pra coisa,
+a gente morreu.
+É,
+é,
+que todo respeito.
+Mas,
+é,
+isso,
+acontece principalmente porque,
+a gente perde esses os olhos, né?
+Então, nesse caso,
+quando a gente está prevente,
+então, nos generarizar,
+é, para coisas mais caras,
+não faz sentido a gente tirar
+esse pessoal,
+o que nós conseguimos de dar,
+quando a gente vai generar as a,
+para coisas mais baratas,
+é,
+para,
+para a maioria dos diamantes,
+a gente faz sentido
+sim,
+remover os olhos,
+porque a gente estaria
+botando uma previsão,
+e nós previsão um pouco mais para cima,
+e então,
+essa ideia aqui,
+por trás,
+de identificar os olhos,
+a gente iria na aula passada,
+que tem dois métodos
+principais para identificar os olhos,
+principal primeiro método,
+um método dos A-Score,
+e aí,
+ele que a gente vai usar aqui,
+os A-Score,
+ele é uma medida para ver
+quantos desvios padrões,
+cada ponto,
+para,
+do,
+da média,
+então,
+ele vai pegar ali,
+cada ponto do nosso cojo de dados,
+ele vai ver,
+qual que é o preço,
+ele vai comparar com a média,
+então,
+ele vai ver quantos desvios padrões,
+cada ponto está fugindo da média,
+para cima ou para baixo.
+Então,
+é por isso que a gente faz aqui o EBS,
+do num pai,
+ele botem o modo,
+o nome modo,
+para quem não lembra,
+em fim,
+tudo positivo,
+ser negativo e ir a postive,
+e esse modo que a gente está falando
+de farência,
+então,
+faz se ela é para cima para baixo,
+a noite,
+então,
+nesse caso,
+que a gente está pegando o modo,
+do estáxido o Z-Score,
+da colona price,
+e o que isso gera para a gente?
+Ele gera,
+basicamente,
+aqui,
+botar,
+mas ele gera quantos desvios
+de cada ponto,
+para o conjunto de dados,
+então,
+ele transforma para Z-Score.
+Esse primeiro ponto está a 0.9,
+esse último,
+aqui,
+Z-Score,
+por 2,
+todo o ver o que é especial,
+que está bem próximo,
+mas não é todo mundo,
+porque a gente tem que ter 3 milinhas,
+quando eu vejo aqui,
+os diamantes que tem mais de 3,
+e os cores,
+olha aqui,
+é o pessoal,
+os diamantes bem caros,
+porque é o nosso mais caro,
+que a gente brilhor dos 8.823,
+esses são já muito mais caros,
+mas, ao mesmo tempo,
+também são 1.2,
+então,
+essa ideia que por trás,
+o que você quer a sonar,
+e que você quer criar,
+você quer criar um modelo para generalizar
+os previsões,
+para todos os diamantes,
+então,
+para sentir manter,
+você quer generalizar,
+para maior e do diamante,
+os diamantes mais baratos,
+então não faz sentido manter,
+mas pode excluir os seus slides,
+e o 3 desvios padrões,
+esse é o número que,
+enfim,
+a bibliografia usa como padrão,
+3 desvios padrões,
+para ele ficar ao lado,
+mas, ao mesmo tempo,
+que isso pode ser mais vigoroso,
+então, posso botar aqui,
+5 desvios padrões,
+então, ninguém foi de 5 desvios padrões,
+vamos ver 4,
+4, ninguém está nem,
+posso ver como ver 3 desvios,
+3 desvios, 3 desvios,
+já foi de 3 desvios,
+3 desvios,
+então, posso ser mais rigoroso,
+que, o posso ser menos rigoroso,
+posso botar 2,
+que vai ter muito mais gente fugindo,
+não que é o 3,
+que é dia,
+então,
+o padrão,
+pessoal usa 3 desvios padrões,
+então,
+sentiu usar estratégia,
+de remoção dos óxilais,
+dos aísscores,
+a gente teria que envolver todo o
+especial aqui em 11.
+10000 noz,
+da nossa base,
+e aqui, as pulse,
+devemos remover os,
+dependindo,
+ainda até me enxiste que eu falei,
+e depende,
+muito do contexto,
+se eu quer usar,
+tirar a estratégia,
+pode fazer sentido,
+da própria,
+então,
+que vamos começar a botar 1 na máximo,
+começar a entender melhor esses filhosções e primeiro passo é analisar as variáveis
+continuas, né? Então a gente vai focar em duas orévas com chinas que a gente vai
+chamar aqui de variáveis alvo, são as variáveis que a gente vai focar no cenário e
+conelacionar as outras variáveis com ela para tentar entender e extrair a
+uma informação. Então vai ser o prácido já muito, né? A gente vai entender como que
+o já amante se dá se chega num preço, a dependê das outras variáveis e o
+peso, né? Borem-mes do ping-win, então a gente vai tentar entender como que o peso
+ping-win se comporta, a dependê das suas outras características. Então em modelos de
+previsão a gente vai ter esses nossos variáveis alvo e também ela fica muito
+mais fácil para ver, nos estrogramos e nos box ports com a gente comparar.
+Então, primeiro passo, esse pegasse eu vou variar a ver o álbum, né? Que no caso
+que é prais e dám-mos para estudar em muitos e borem-mes do pênhos e a gente
+vai olhar com que ela se comporta visualmente. Então aqui no tem segredor, estou usando
+aqui o estplódico, que é um estrograno do cibor e ele já dá tudo pronto quando
+eu boto cada é igual a tro. Ele traz a curva de distribuição que é o
+desenhozinho da curva, né? Então aqui o título é x, xy, xy, aqui o subplódico,
+aqui eu estou botando no segundo, né? E aqui eu estou botando primeiro, então é
+para botar um gráfico lá botos, vocês não vê ali. E aqui embaixo eu estou fazendo
+dos pênhos, mas não coisa, eu estou a gente te plot para as massas dos pênhos.
+E do lado, na direita a gente bota o box port, então vocês vão ver aqui,
+eu fico bem claro, pro diamantes a gente vê como fica claro a diferença, né? Então
+lembra, escupassem a beleza do box port para o estrograno, são duas, mas
+que a gente duas forma de falar mesmo a coisa, então aqui a gente tem muitos
+altos láis, de som, esse pessoal aqui, aqui a gente tem a mediana, lembra que a gente viu
+o canal se a mediana estava aqui, ela está exatamente aqui, nós terceiro
+parte, lembra que a gente viu que estava um pouquinho mais 5 mil, e isso é a
+nossa terceira parte, aqui e aqui está aqui, aqui a gente tem a nossa, a mostra
+que a massa nós digamos de mais caro, de 18 mil, que é o cara que vai estar aqui,
+e ele vai estar aqui também, então, nós primeiro quartil também, vamos lá,
+outra cor, nós primeiro quartil que aqui começava aqui, que era domingando menos de
+mil dólares, e aqui ele está aqui também, então o estrograno e box port,
+estraza e a mesma coisa de duas formas diferentes para a gente, né? A vantagem do box port,
+é ele já traz essa quebra que 2 altos láis, só que ele traz isso no método diferente,
+né? A gente tem um método dos 2, é maior que 3, e a gente tem um outro método no
+método que a gente vai ver agora já já, que é o método de remover todo que foi maior ou
+menor do que 1.5 vezes o e que é o que é o que é, o que é, é o inter quartil reng, o
+inter quartil reng é o entre o que eu nunca a gente viu, que é o primeiro quartil 25%
+aqui é o 50, né? A meijana, ou o que 2, e aqui é o que 3, sempre só,
+é o que 3, é em 75% Bruno, o que esse gráfico conhece é um de um encontro a
+média? Não tem a média, o padrão não tem a média, não é que ele, ok?
+Estão a gente porque o pessoal na estágista ele meio, eles me aqui desprezem a média,
+não é que você sabe de que o que eu falei, da média pode influenciar, então por isso que o
+pessoal usame de ano, mas tem gráficos, se eu não me engano no estogramo, tem estogramas que
+por padrão, eles levam a média assim, você vai ver alguns estogramos que tem uma média, ele leva de
+possino, ele leva uma bolinha no meio do da caixinha que vai ser a média, então os que
+poucos bolhos que fazem isso, então, mas por padrão aqui no se borrer não faz isso, ligar.
+E aí no fim do dia, a gente tem aquele inter quartil, e a gente quer exatamente isso, né? O que 3?
+Menos, o que é um? E aí a gente pega isso aqui, multiplica, por um vígula 5, e a
+gente chega exatamente nesses dois limites, né? O limite inferior que eu ali e o limite superior,
+que eu ali é esse, tudo o que está fora desses limites, eles vão ser considerado aos
+lás, e aí a gente pode remogando, então esse é um segundo método para remunção dos
+altilais, com base no boxpot, né? Com base na construção do boxpot.
+Olha aqui dos penguins, olha aqui como eu estou vendo bem, mas...
+até no boxpot, mas não é um boxpot bem mais centralizado, né? Dá para ver que o boxpot é
+a média também mais centralizada, é que a média, é isso que eu bem mais puxado para direita, né?
+Bem mais acimético mesmo, e um boxpot da covonomó é bem próximo disso, né?
+Mais de vai ser no meio, aqui a gente vê que tem um pouquinho de acimétria também para
+esquen, mas, uns cobrados direita, mas olha aqui que interessante aqui, gente olha, não tem nem um
+ou notilai, e porque ninguém entra fora daquela conta do um ponto 5 vezes o que é aí?
+E quando a gente olha o que é aqui, é esse bústica ele por um vigla assim, todos estão dentro do
+nosso limites superior da mostro, e aqui vai ser a nossa mostra máxima, aqui vai ser a nossa
+pilha, mas pesado, que é o que você é o migraineiro, é o de seis queus e dos anos, e aqui
+o nosso pinho bem mais leve, que era de dois queus e sete-centes, é o migraineiro, vai estar aqui,
+do esporte-se aí, é a gente aqui, seis dos anos, é mais ou menos isso, a gente tem que é a nossa
+média, que vai estar aqui próximo dos quatro, e aqui é exatamente ela que a gente já vista aqui,
+né? Então, a gente já consegue ver muita coisa da nossa distribuição, isso só ia ir às duas
+gráficos, então para você ter uma distribuição, uma dimostão mais completa, o Instagram é melhor,
+né? Porque você consegue ver exatamente como que a frequência daquelas, das amostras de cada
+grupo ela se dá no navariável, mais o box plot, ele é mais completo para analisar o cenário,
+a gente falou de progressar um dos quartes, né? Então, você consegue ver como que ele é
+do que é um, porque dois, o que é três, o máximo da amostra, né? Então, esse é o comportamento bem mais fácil de
+se ver que no box plot, na gente consegue ver como que se dá a progressar na伯-se da amostra,
+se ela é uma amostra que ela se progui de lineamente assim dentro dela, ou se ela é uma amostra que
+ela se concentra muito ali no começo e depois ela vai se xixando muito para direita, né? Acaba ser muito
+comprida, igual a esse aqui do Jamaíx. Beleza, pessoal, o Instagram, box plot, deu para pegar bem,
+visualmente assim ficou uma dúvida sobre algum ponto, esses dois.
+Sempre recomendo, tá? Fazer os dois, depois ele embaixo, a gente vai ver também. Principalmente
+boa você pode se torna muito útil quando a gente quer abrir isso aqui, por exemplo,
+por categoria, e de vai ver ali embaixo. Beleza, analisbe variada, então, quando a gente
+fala de análise bi variada, eu recomendo sempre se fazer em funções, porque para evitar ficar
+monomente ali cruzando, né, todas as variáveis, passevita a vida e ao mesmo tempo, vocês criam
+isso como como se fosse uma amostra que você tem ali, se pode jamais enrair os aí em outros projetos.
+Então, essa é uma função que eu sempre uso nos meus projetos, eu trouxe aqui, ela
+funciona, ela pega um data frame, ela tem uma variável algo, né, que é variável, variável
+dependente que nós caso ele igual a gente falou é o peso e o preço, peso dos pinguinhos
+e o preço de Jamaíx. Aí seja o meu aqui, tem duas listas, né, das variáveis categoricas,
+e das variáveis no méricas. E aqui o retorno, ela não tem nenhum, porque ela já exibiu os gráficos
+diretamente, porque a gente tá aqui, que não vai te poste livre, a gente chama o show. Então,
+aqui se tem variável categorico, ele cruza, todas as variáveis categoricas com a variável
+fazendo um boxpot, então ele vai fazer exatamente isso que a gente falou, ele vai pegar aqui
+ao peso do pinguinho e ele vai quebrar, por espécie, ele vai quebrar por ilha, vai quebrar por...
+acho que a espécie iria nessa domingando. Isso é que isso, então, a gente vai ver todo o peso
+do pinguinho em macho do pinguinho em femen, então a gente vai conseguir ver todas as cruzamentos
+como a sua função, né, muito mais fácil a gente fazer isso, do que a gente imagina fazer o
+mes de poste livre, a concentão do gráfico para cada uma, cada um descrusamente, né, então,
+o que a gente vai cruzar, o peso consegue, o peso com a ilha e o peso com a espécie. Então,
+a gente já tem três gráficos em uma, em um block-intico-og aqui, e se a gente for pensar que a gente
+já vai fazer isso para o outro dataça aí também, então, um bichinho já tem um
+um dos outros gráficos em um block-intico-og. E, para as variáveis no méricas, a gente vai usar
+um escaptenploit, a gente tá falando de midia correlação, né, para a gente vai midia correlação
+do peso, mas outras variáveis no méricas, por exemplo, do pinguinho em midia correlação do peso,
+com a barbatana, do peso com o bico, e no... no dia a mãe, a gente vai ver de presente para
+a relação do peso, do preço com o que o arte, mas a relação provavelmente, um muito, muito,
+muito, muito com relação, né. E aqui, no final, exatamente isso, que a gente vai fazer,
+a gente vai fazer uma análise de correlação, a gente vai chamar aqui o método de cor,
+para a midia correlação de píson, entre as variáveis que a gente vai usar, né, uma correlação,
+que a gente falou é um, se a midia, como a variável cresce, é outra cresce, e ela
+é menos 1, se a medida que uma cresce, a outra diminui, né, se ela são diretamente proponcionais,
+o corra, né, correlação de píson, vai ser 1, se ela são inversamente proponcionais, e a medida
+que uma sóba é outra diminui, elas vão ser menos 1. Então aqui o ritmec, também do cibor,
+né, outro, outro método do cibor, que ele botaria uma pédicalu, é bem maneiro, para a gente
+botar justamente essa correlação, a gente consegue ver de púfiquem cores mais quentes,
+é o que tem uma correlação fote. E aí, olha que eu venho, eu chamo de uma data sete, eu passo
+aqui meu, meu variável ao que eu pressa, passo aqui minhas três variáveis, categóricas e
+passo minhas variáveis no mérito, bem simples, né, pessoal, se podem usar isso para qualquer
+data sete, na vida também, então olha aqui, aqui fica o minha apertado, mas vai dar pra ver,
+a gente consegue ver aqui, ó, o preço do diamante, por tipo de corte, e olha que como dá pra
+ver como influenciar bastante, né, então tiver que ir e quando vocês olharem essas características
+do que você recomendo, é muito fornação, foque na mediana, porque a mediana ela se desdiza bem,
+é aqui de grupo, né, isso é uma gente não quer estar querendo analisar, né, distribuição
+do preço pelo tipo de corte. Então, aqui eu, o fer, é o, ó, a dia, tá aqui bem abaixo
+dos quentes, o preimo, acima, o verigud, aqui abaixo, o gud, próximo ali dos quentes também,
+e eu fé, próximo dos quentes. Eu diria que, cara, tem uma influência, mas não parece tão
+grande do preço pelo corte, vamos ver outras coisas, então, as outras, né, ou pra aqui, já
+parece uma descrepação bem maior, vocês veem como que aqui tá bem mais próximo uma moda outra,
+do que aqui, porque aqui essa cor que se eu não enganais, esse jota de jade, é de isso,
+no ano, é o diamante mais caro que tem, que a cor é um variável que influencia bem mais do que
+o corte, gente pode ver, é o que o jota, por exemplo, o I, eles são quase o dobro, mas que o dobro
+é um comprometido de, e doé, isso aqui em cima não acontece nem um cenário, né, aqui em cima,
+ou nem não é o dobro da outra, sabe, tipo, a mais alta aqui o preimo não é nem, talvez, sei lá, nem
+mil, maior do que eu, a medida não é nem mil, maior do que do fer, então, gente vê que a cor é uma
+variável que influencia muito já no preço do, já mas, então, isso já é uma coisa que você
+tem com a dámos, o nosso acabar e sempre você dá construir, por exemplo, moda outra,
+essa é a relação, é claridade, ou para outra coisa que você basta estar a gente de ela para ver,
+tem aqui claridades que trazem o preço bem para baixo, e a gente tem claridades que
+trazem o preço bem para cima, né, quase o triplo também, então a claridade da
+para ver que outra coisa que influencia bastante o preço do jamanth.
+Agora, olhando o Ska tempo, olha aqui, a relação entre preço e que lá, lembra o que a gente
+fala da relação, da cor relação, ser um, quando a cor relação é um, o gráfico vai ser,
+se eu ver, muito assim, ele vai seguir muito, uma linha de amigida aqui, um cresce, então,
+aqui eu estou para sempre para cima, que eu estou para sempre para lá, né, então a medida
+que eu um cresce e o outro cresce, e essa tendência que a gente está meio aqui, né, então,
+tipo, o preço está crescendo mais, né, para cá, mas a gente está vendo claramente um
+com cor relação positivo aqui, porque a medida que o que lá é de cresce, o preço está crescendo
+também, e a gente vê que algumas crepas, né, o cara aqui de cinco, cinco clases, o cara
+aqui de quatro clases, e a gente vê que todos esses caras aqui, que tem muitos clases,
+então mais de 15 mil, então só isso já reforço claramente, e a cor relação do que
+lá é de com preço, que é muito alto da para ver visualmente aqui no gráfico.
+Eu não vou passar por tudo, né, tem muita coisa aqui, aqui, outra cor relação que dá para
+ver muito óbvio, né, entre o X e o preço, então, que quanto maior, o comprimento do
+diámeno de maior o preço, tem que alguns herados, que promissão, são erros, né, da
+criadiano, é de que tem o que tem o que a gente está, aqui entre o Y, então, esse é um
+caso, por exemplo, e provavelmente, esses caras estão erradas, né, se estão, são os
+láis do Y. Então, esses caras aqui, muito pra um mente, a gente teria que
+envolver, porque esses caras aqui também, né, então a gente tem aqui na esquerda,
+alguns herados, e a gente tem alguns caras que estão fugindo total da nossa,
+enfim, da nossa, da nossa padrão, né, não tem ninguém aqui no meio, então, isso
+é muito estranho, quando a gente vê esse pessoal aqui, muito distante e esse pessoal
+é errado, então, os herados, então, os herados, a gente já viu de que a gente promissaria
+que tirar, enfim, tentar buscar as fãs em situação real, tentar buscar
+o homem, de segunda-me deção deles, esses caras aqui, muito promissores de
+meia que eles estão fora de escala, eles deveriam, por exemplo, três
+viagloser, ou cinco viagloser, que eles estavam em uma aqui, certo? Então, é
+experiência, né, é que o que a gente vê, quando você vem um gráfico
+desse, muita coisa concentrado, o gráfico deveria estar na escala que eu,
+eu desair, e daí, que a gente extraiu a formação valioso, é nesse caso
+aqui, esses caras aqui muito, realmente são os sonhos que estão fora os
+caras, aqui é o mesmo vale pra carne, e agora o que a gente falou é a
+correlação de xy, e pplouzê, entre o clate muito forte, faz todo
+cinchim, né, que quanto o maior ali xy, isso não diz mais pesado, ele vai ser,
+é, e acho que é isso, por aqui, agora, a também é a relação entre
+taboo e death, né, é negativo, né, o dia que o momento é o
+de diminuir, mas beleza, agora olhando dos pinguinhos, pinguinhos tem muita
+coisa a própria própria,
+como é a gente olha, o espécie dos pinguinhos, a gente tem três
+pais, a adelir, xy, e gêntul, só três pais, que veu, olha como a
+gente, ela bem mais pesada, né, então ela média do gêntul, a
+media era que me gêntul ela é tipo mais de cinquilos, e enquanto no xy
+strep na delíola, tipo três quilus, sete centos, olha, só que interessante,
+a gente viu, quando a gente olhava, não consolidada, não tinha nem o
+o ocho lá, né, mas quando a gente olha no, na visão só do xy strep, tem
+o que esse interquate o range aqui, é bem pequenininho, é bem
+conversado, então aqui eu tenho o ocho lá, e que é que provavelmente é
+aquele pinguinhos de três quilus, olha, de 2018, e aqui eu tenho um
+pinguinhos de cinco pontos três, mas dentro da espécie dele, da
+xy strep, ele é o ocho lá, ele é um pinguinho muito grande, e aqui é
+um pinguinho muito pequeno, mesmo para xy strep, porque aqui é a grande maioria dos
+xy streps, sem gente for pensar, 50% está entre primeiro, o quartinho,
+ter sério quartil, né, não se cuenta por centa aqui, 50% dos pinguinhos
+tem entre três quilus e quentos, e quatro quilus, então é muito
+começado, isso, né, independente do sexo, nesse caso, né, então, muito
+é muito interessante também, vezes comportamento que no gêntul não
+gêntul, já por exemplo, a bem mais a um gável, ele vai de quatro até seis
+dosentes, né, e por ele também a gente vê que na ilha de
+o biscum provavelmente tem também uma concentração maior dos pinguinhos da
+espécie, gêntul, então, já dá fazer essa, essa, essa sucessão,
+se aqui a ilha está distondo, é, para cima, provavelmente ela tem a espécie
+maior dos pinguinhos, uma quantidade maior dos pinguinhos, mas pesadas, né, da espécie
+mais pesada.
+E olha aqui, por peso na natureza, é, não padrão, geralmente, não
+os mais são mais pesados, porque as femens a gente vai escolarmente também
+os pinguinhos, os mais pesam em na mediana lide, quatro e três
+entos, das femens, três e oito centos, né, mais interessante, é,
+a gente foi pensar em comparação pra exemplo com a espécie humana,
+a gente vai nem ser muito menor, né, tipo, quatro queus e três
+entos, pra três e oito centos, é bem próximo, a gente
+foi pegar, né, né, a espécie humana, geralmente, o mais
+é mais pesada, né, as pinguinhos femens, tem um peso bem
+próximos pinguinhos, mais justamente, pesada, é um pouco menor.
+E olha aqui, o que eu falei, aqui, é interessante, porque a gente tem que
+lá, lá, agora, da batana, escupelagura, dub, e o peso, então a gente tem
+aqui alguns pinguinhos mais pesados, mas a gente tem alguns
+pinguinhos que tem uma batana bem grande, e um peso bem
+apaixonado, então, que menos quatro queus, e a gente tem mais,
+ao mesmo tempo, a gente não tem nenhum pinguinho muito
+pesado, sem como a batana muito pequena, né, então a gente tem
+esse cara aqui, que tem quase 6 queus, o avatô na
+de qual é desse, então aqui, dá pra ver que tem uma
+correlação, mas ela não é aquela correlação tipo, bem
+padrão, os índios, sabe, decidir a limpez pau ali, que
+quando é uma correlação, a exata, ela vai ser ele, uma
+de agonal, com o qual é? Aqui nesse caso, não é uma
+de agonal, né, gente, várias, várias pontos fugindo da
+de agonal, se a gente foi pensar de agonal, não é?
+E para aqui, a agonal é, a seria isso, né?
+Se a gente for pensar aqui, a gente tem um barulho, não é o
+que a gente não tem várias pontos fugindo aqui bem
+da, da média, né, do que seria uma correlação de um, então,
+esse é um bom exercício, né, é assim, por exemplo, que é
+calculado, quando se tá, tá, do da correlação, não, então, nesse
+caso, a gente vê que não é uma correlação tão
+levada entre as duas variáveis.
+Olha aqui, entri, olha aqui interessante essa
+também, dá para ver claramente dois grupos, né? E aqui, o
+diria, já pela experiência, né, macho feme.
+Porra, gente vê, isso é, especialmente de,
+algoritmo de laterização, né, um algoritmo de
+laterização é bem capaz de identificar esses dois
+grupos aqui diferentes, principalmente, não com os
+nos dados assim, né? Tive claramente que tem dois
+grupos, né? Esconquordo, então, eu diria que esse é o
+grupo e esse é outro grupo. E sendo bem direto, eu diria que
+esse é o grupo das, dos machos e esse é o grupo das
+fames. Os machos, eles são mais pesados e as
+fames têm o ababa ou o bico mais profundo, não tem
+o tempo que, mas se eu escreve saber, eu já vi
+machos dos pulgões, é porque o bico da fêmea, o
+pinguinho tem que ser maior para alimentar o filote. Então,
+enfim, evolução da espécie, mas aqui é muito legal de
+ver isso, né, cara? Que, claramente, aqui é um grupo
+descrepanho, né, daqui que tem grupos dos machos, e são
+mais pesados, né, que a gente viu ali o macho tem a
+teneça é mais pesado, mas a gente tem fêmea
+também, que estão no mesmo nível de peso de macho, né?
+Assim, sem se aforear, né, esses dois grupos aqui,
+eles estão mesmo, pra isso, né?
+Concoado, todo esse lugar era aqui, tem mesmo
+peso entre quatro e cinco e o todo mundo aqui. Mas o
+que que diferenciais, a profundidade da
+vava, tá, do bico, né, não. Por quê? As pinguinhos
+fêmeas, elas têm o bico mais profundo pra alimentar
+os filotes. Então, olha, então, os informações que a gente
+mostrar aqui traíso, olha, de olhar, fazer uma
+ideia a vi variada, né? E aqui sim, olha, aqui sim, uma
+correlação bem positiva, né? Então, que é o,
+isso que flip é na tadeira, né? O, calma na
+tadeira que flip é do lado. Então, aqui, ela tem um
+noise, né? Um barulho muito menor, do que aquela
+outro que a gente viu, então, provavelmente uma
+correlação muito mais forte, entre flip e
+relântima, entre a tamanho da baba-bata, né? E o
+peso, o primeiro. E, olha, aquilo que a gente falou,
+aquela nossa primeira correlação aqui é um
+entre bilhante e bora e mais.
+A tadeira não tem aqui, né? Mas o bora e
+mesmo ele é a gente irou porque a gente tá só fazendo a
+uma prisma em relação entre as variáveis explicatios, sem
+variável, olha. Mas aqui a gente vem exatamente do que a
+gente falou, a quanto maior é babata, né?
+maior o bico e quanto maior o bico.
+E, escudo, quanto menor, quanto maior o tamanho da
+baba, nada a ver é menor, tá meio do bico.
+Essa correlação que a gente não botou no gráfico, né?
+Essa correlação é entre as variáveis entre sí, mas
+interessante ver também, daria provavelmente para
+fazer um gráfico de special e fizemos que se passar,
+mas eu quis mostrar também a gente consegue fazer
+essa mesma análise, por exemplo, a gente olha aqui no
+gráfico de calor, né? Então, a gente tem dois
+métodos para remover os variáveis, e que
+a gente falou dos a escórios, não tem
+segredo, né? A gente já tem os a escórios aqui,
+a gente pega usando os absolutos dos
+estates, os escórios para comum, e aí fica
+muito simples, né? A gente já tem aqui, eu só
+filtro de damos o que tiver os a escórios pelo
+índice de atir, o que tiver os a escórios menor
+e o atreço, então, aí aqui a gente vai ver como
+diminuir e como a nossa média dos que
+lá, também, ela fica bem mais próximo, né?
+Então, aqui, a gente tirou o nosso goro nosso
+diamante mais caro aqui em 1898, então a gente tirou
+toda aquele pessoal ali que tem 16, 16, 18 mil,
+usando esse método aqui, de eliminação os
+os aus lá, estudo que tivermos a escórios, mais
+outro que 3. No PENWIS, aqui a gente vai
+fazer a mesma coisa, né? Fíu, não? A gente vai
+prestar os valores noos, só para remover, porque
+a gente botar aqui, ele já vai remover tudo
+que tiver os aus lá, né? E o outro método, o
+do interquartil Hens, então aqui, que na
+gente falou o quartil, o quartil 25, né? Primeir
+quartil, é 150, 25, de mercado atil aqui no
+25, é o E o terceiro, não sabe o
+tem cinco, então a gente pega aqui, a gente pega
+o interquartil Hens, que é o que é 3 menos o que
+é um, e a gente multiplica por um víula 5,
+então a gente tem o limite inferior, é
+subtrago que é um da multiplicação desse
+um víula 5 vezes entre quartil Hens, tem o que o limite
+inferior de limite superior, e a gente depois só dá
+uma filtrada, não dá a nós tirando esse limite inferior
+e esse limite superior ali lembrando que
+exatamente isso que a gente viu aqui no box plot, né?
+Então a gente tira tudo que tá, fora desse limite,
+né? Então, provavelmente para o PENWIS, não vai
+influenciar, mas para o Dálmuz a gente viu a
+ensima que vai influenciar bastante, que tem
+muito de amantes, que é considerado a
+ótima a inavisão do box plot, então, beleza?
+Aqui não tem segredo também, né?
+A gente vê que o Python esse é bem tranquilo,
+é muito mais a lógica está tig, que é o método
+que tá ali por trás, não tem segredo, não é
+esse Python não é complicado, só tem que saber
+que o trago aqui, o boto price, cheio do que
+foi um maior que o limite inferior, que foi o
+limite superior, só isso, não tem segredo.
+E agora, para fechar, se últimos dez minutinhos,
+tivar explorar que é um os conceitos básicos da
+probabilidade, né? Então, um exemplo é,
+supondo que a altura média da população de PENWIS
+se distribuída normalmente com mais de de
+quatro mil e quinta-segramas, a altura aqui no
+Japálogo do iter, né? A altura é o PESC, então,
+supone que eu peso, a vida é distribuído com
+a média de quatro mil e quinta-segramas e
+os vipadrãos de 200. Então, a gente quer saber
+qual a probabilidade de um PENWIS, que tem a
+massa corporal maior do que 700. E aqui, a
+gente vai chamar justamente aquela, aquele método
+do nome, né? Da função normal, que a
+gente viu, porque ele lembra que a gente viu, que os
+PENWIS eles estão adicivindo, isso é muito
+próximo da normal. Então, porque não vamos
+usar a normal para fazer essa imprensa,
+certo? Então, aqui, beleza, eu vou ver que
+é o 4.700, então, peso médio, 4.500, os
+e o padrão é 200. Então, eu vou chamar uma
+COVID-19, e cdf, comirotivo distribuixo
+function. Ele traz a probabilidade acumulada
+até um sete ponto para determinar a
+distribuição, seguindo aqui, nesse caso, a
+COVID-19. Então, a probabilidade vai ser um
+menos aquela probabilidade acumulada, certo?
+Então, aqui o lock é a média, 4.500, os
+e o padrão é 4.700. Então, ele vai
+fazer essa contó, a probabilidade de um
+bem-meitramasco por a maior do que
+4.600 gramas, é de aproximadamente
+15%. Usando a COVID-19, como referência.
+Então, aqui, a gente só tem a média e o
+de o padrão. A gente consegue ter uma
+referência, que ela é muito próximo da
+COVID-19, está a polar para a
+COVID-19 e cá a colar com se fosse a
+COVID-19. Não, não, não, não, não, não.
+De pergma COVID-19, os vupadrão de
+4.500, com mais de 4.500, os vupadrão de
+2.500, e consegue estimar qual
+que a probabilidade de ser maior ali, por exemplo,
+do que 4.700, né? Se a gente quiser
+se pegar que fosse menor do que 4.700,
+a gente teria aqui, por exemplo, aqui,
+por que tirar um, então, a gente deixe aqui,
+menor, porque a gente vai pegar todo mundo,
+e vai pegar basicamente, aí, eu tenho
+4.300. Então, aqui a gente está pegando
+está fazendo isso, e fazendo desenho aqui,
+está com o vô normal, a gente está
+querendo ver basicamente o ponto daqui, né?
+Que é especial, considera a COVID-19.
+Se a média vai ser 4.500, a gente está
+querendo ver qual a probabilidade de
+buscar a semana, que é 4.700. Então, aqui vai ser
+4.500, aqui vai ser 4.700.
+A gente está perguntando qual a probabilidade do
+cara está nesse grupo em aqui. Vocês concordam
+que olhando a COVID-19, ela é muito menor,
+aqui do que, no resto da COVID-19,
+que é tudo isso. Então, aqui vai ser
+8.34%. Aqui, né?
+8.34%. E aqui, em vez de vai ser,
+os 16%. Que tem mais do que 4.700.
+E agora, mais um exemplo, agora,
+a gente que é pegar o, vamos selecionar
+ela é atualmente uma pédia no dado
+estáis do daímos, e qual que a probabilidade
+escolhou um pedro com o conchideal? Se a gente
+repite 3 vezes essa seleção, não sei,
+como é posição botão do de novo, qual que a
+probabilidade escolhida é a um nas três
+tentativas, eu queria dar, né? Qual a
+probabilidade de gerar o dado e ter um
+sexto, né? Então, o que que a gente faz? A
+gente calcula a probabilidade do distrelacional
+a pédia com conchideal, que é basicamente
+o quanto que eu tenho de ideal dentro do meu
+teu junho de dados, talvez de ouvió, a
+proporção de ideal é 40%. Você pegar
+ali qualquer pédia que eu tiver no meu
+conchideado, é 40% chance de ser
+dela o corte, né? E, ficou o fazer,
+eu vou explicar 3 vezes isso. Então, vamos
+por causa de 0.4, que é a chana primeira
+chance, 0.4 da segunda, 0.4, no
+terceira, são 3 vezes independentes, 3
+seleções independentes, mas eu estou
+mandando a mesma probabilidade, que é
+a ideia ideal. E aí essa probabilidade,
+por eu jogo 3 vezes, ela cai de 0.4
+para 6, de scopo de 40% para 6%
+porque eu toque 1, 3 vezes seguidas,
+por mais seja algo para o
+40% acaba com um ano, a gente
+muxplicar elas e elas reduzi, se reduzem
+bastante, né, para 6%. E para
+fechar, a gente tem aqui a probabilidade
+de avançar independentes usando
+data setes penguins, lembro
+a exemplo das cartas de pouca,
+aqui a mesma coisa só que pro
+pingui. Então, suponha que a
+gente só não ping, ali atualmente,
+qualquer pingui indo da data sete,
+dos 3 vezes, então, as light pegaram.
+Qualquer probabilidade, desculpa 1, não,
+2, qualquer probabilidade que
+ambos, os dois pingens que a gente
+pegasse da espécie adela. Então,
+o que eu preciso saber, o que
+o primeiro calcular probabilidade
+eu pegar uma dele, em um
+cogem de dados internas, você
+sabe que quando a deles tem
+um olhar que tem, a probabilidade
+de pegar uma dele primeiro,
+é 44% velhas. Então, eu tenho
+isso aqui, 44% eu preciso saber
+quantas adelas eu tenho meu cogem de dados.
+Então, vamos lá, são...
+Não, aqui embaixo.
+São 1502 pinguias da espécie adela.
+Então, aqui...
+Eu vou fazer o que eu vou pegar.
+Dado que eu já peguei um primeiro,
+você 1501, certo?
+E se é no 350, pinguias,
+três, três, se é no engaro, agora
+são três, se você quiser, então,
+o que eu vou fazer, vou complar
+probabilidade do primeiro,
+vezes a probabilidade de segundo,
+só que eu tenho que tirar
+do primeiro.
+Bruno, você vai no laixem material para a gente.
+Vou postionar uma glano no discorge.
+Pode deixar.
+Vou mandar depois o leve.
+Depois eu posso mandar a pasta que tem todos os leis,
+acho que eu acho que eu tenho mais fácil.
+Mas, vai ser o último quadrojeado,
+com certeza.
+É uma boa sessosada a aquela função da idear.
+Depois de entender, vira muita rezequinha de bolo,
+porque, como é a chat que escrevei toda a função,
+é um ano mais possible,
+mas depois que tem ali,
+é a gente que não é de boa,
+fica bem mais fácil.
+E, para matar, então,
+a gente vai pegar aqui a probabilidade do primeiro pingui,
+e que é fiscalial naturalmente,
+para ele ter 4.1.
+E a gente dado que a gente sento
+esse quadrojeado, esse pingui,
+e o total de pingui,
+é porque, pontos que eram,
+o total de pingui,
+eram 3503.
+344,
+então,
+dos 3, 441,
+eu fico 3, 443,
+eu vou fazer 1502,
+sob 3, 444,
+que é a probabilidade pegar o primeiro pingui,
+em 2,5,
+vezes 1501,
+sob 3,4, 3.
+Eu já tirei o primeiro pingui em que a selecionei.
+Sete?
+Então, com isso, a probabilidade de selecionar 2 pingui,
+da espaisadelli conceptivamente,
+ela cai para 20% apenas,
+mesmo acendo 44% do total.
+Beleza, pessoal.
+Por hoje é só,
+passamos bastante coisa,
+não acaba bem,
+menos a linha, mas,
+isso a gente passou bastante,
+fez uma ideia bem detalhada,
+assim, conseguimos ver que,
+cara, o grosso não é código,
+não é código,
+é muito mais depredação
+e entender,
+conectar com os conceitos de vida,
+que a gente tem,
+de experiência que a gente tem,
+é uma boa na sua vida,
+e daqui o que a gente está trabalhando,
+mas de córdia em sida,
+pois a gente pega basicamente
+de os principais,
+a gente faz um describe,
+de tirar um ótimo like,
+é, se, de fazer uma com relação,
+se torna bem mais fácil.
+Então, se você não vê que é muito
+o pegar o jeito com o funcionar,
+e o que vocês vão,
+tem que sempre estar inovados,
+sempre entender,
+sempre superando,
+é muito mais no que o desafio
+do negócio do que vocês estão lidando,
+mas se estão lidando com pingui,
+o que eu acunde a mente.
+Então, por essa forma,
+da nitras e dois,
+nas nossas diferentes,
+de bem diferentes,
+para a gente conseguir trabalhar bem,
+aqui, fazer a deás,
+a mesma técnica.
+Então, por hoje é só pessoal,
+vamos fechar aqui,
+bom final de semana,
+a gente em semana para vocês,
+aqui em poder avaliar a aula,
+ou a barriaide,
+pois,
+e é isso,
+bono,
+hoje,
+valeu pessoal,
+tchau, tchau, tchau.

@@ -1,0 +1,3063 @@
+Então, vamos começar aqui.
+Então, essa é a nossa primeira aula, pessoal.
+As primeira uma abinar, que eu já treijo o turro.
+2 de outro turro na verdade, na treijo programa, hein?
+A gente vai falar o trocosivo 6 no botiquem,
+e a gente vai estar na essa jornada de juntos.
+Eu acho que vocês vão ter certeza no final de um jornada que vai ver a pena.
+Eu já tive na situação também, já fiz um botiquem em 16 de dados,
+em 2020, em 2021, já fiz outro botiquem em inglês também em 2023.
+Então, ação é uma experiência imestiva, assim,
+vocês vão ver que realmente vai impactar na rotina de vocês.
+Não é algo que dá para deixar assim,
+vai em paralelo, é algo que vai ter impacto direto na rotina de vocês
+por um período ali.
+Então, esses 7, 9 meses dependendo de um data science ou data analytics,
+mas, no final, vai valer a pena, e vocês vão ver hoje aqui um pouquinho do por-de.
+Então, primeiro passo, pessoal, vou me apresentar.
+Eu sou Bruno, eu sou de Brasilia, moro em Brasilia.
+Eu tenho 8 anos, os peninsifundados,
+eu trabalho com dados diferente de muita gente,
+que é a extremo minoria da área que não fez transição de carreira.
+Eu sempre trabalho com dados.
+Então, eu fiz em gery de produção, então, a universidade de Brasilia
+e, desde o começo, com o Brasilia,
+acho que, praticamente, não tem fábrico a cabeça,
+entrando por ser todos serviços.
+E, tive muito contato com dados desde o meu primeiro momento,
+então, como eu sei como está já, o analista de dados junho,
+foi a narragidade plano, foi na cidade senha,
+depois, coordenador de um equip de engenharia de dados
+e a narragidade, e também depois,
+eu fumo bem a área de sensitados na empresa que eu trabalhei
+por mais tempo, trabalhei na o escor,
+então, ao escor, foi a minha empresa que está ali no base doido,
+do sistema financeiro nacional,
+então, quando entrei, era uma parceira que vendiu os seguros,
+começaram a deslávar os seguros da caixa de seguradora,
+então, acho que colocou federal,
+trabalhei projetos com banco em interbéng,
+em berbeca, oura, promotiva, que é a rede de crédito,
+uma rede de crédito indireta do banco no Brasil,
+e o poli-shop, homenim, e o grupa-ribui,
+então, trabalhei bem somente no seu tofu financeiro,
+na minha carreira, então, desde agora, tem dois meses,
+eu estou numa aventura, comecei no vocalo,
+de engenheiro de Machinilano, no grupa-ribu,
+então, estou envolvido com sensitados diretamente pelo menos
+eleia três anos, com a gente com a narragidade aos quase oito anos,
+hoje em dia também, então, projetos, por fora,
+com com colegas que eu tive na época da Ui,
+principalmente, então, então, em São a coisa muito oral,
+que vocês vão ver pela carreira de vocês,
+que até que dentro do bootcamp mesmo,
+então, o que a gente sentiu bastante vocês,
+que já deu uma passeiria mesmo,
+então, vocês todos aqui estão no mesmo banco,
+enfim, data science, data analytics,
+mas, em geral, estão todos com os o mesmo do objetivo,
+tentando fazer a se transição e lá na frente,
+vocês vão ver que fazer esses láços vale a pena,
+e, para mim, tem uma vida, consigo, enfim,
+hoje em dia, graças a Deus do nível de conseguir
+rejeitar o ponto e da rádio porque não tem mais tempo,
+e consegue vocês vão ver que a rejeitidade do Brasil
+não é tão grande quando parece,
+então, a gente vê que tem muita gente ingressando
+mais o volume de posições também acompanham,
+então, quando vocês conseguem entregar,
+fazer uma coisa bem acaba criando,
+é uma rejeitidade, muito interessante que vocês vão usar
+por toda sua carreira.
+De Robes, já eu sou o Xbox, já fiz quase tudo nessa vida,
+já sou faixa preta e ajudou,
+já eu vou ver muito basket,
+agora eu gosto de velejar,
+o velejio aqui em Brasil e no lado para a mãe,
+então, é um Robe que meu pai tinha, e me passou,
+e gosto muito de história também,
+sou o corpo por história que é uma forma
+da esse contato com dados e a história tem como
+uma que a gente consegue aprender muito com o passado,
+então, uma China, a navegidade,
+sempre olha muito com o passado,
+para sair desistóricas e entender o que está conversando
+para prever o futuro ou fazer inferências aí sobre o presente,
+e acho que a história é um jeito muito legal também,
+da gente ver isso, só que em outro verente.
+E vamos falar um pouco então dos objetivos,
+vamos falar sobre as interessões que a gente vai ter,
+o longo aqui do Bustic Games,
+a gente vai passar sobre como tiradou e desigui as boas praias,
+então, pessoal que já estava perguntando
+como que a gente faz para tirar do ou desigui na aula,
+se é, enfim, pelo chai, então, a gente vai passar para tudo isso,
+vamos falar um pouco sobre o porquê o mercado de trabalhos
+crescitando e como está o cenário atual,
+só mensagem aqui para gravar, já estão gravando,
+e, entender também a diferença de habilidades
+que terá menos necessárias entre dados saem,
+se vê para a lística, então,
+então, entendo que para alguns esportos está muito claro,
+mas é importante a gente nivelado do mundo, deixar bem claro para que
+lá do lugar da taçã, e para a clave da ta' a liga,
+de descommoda-se complemento.
+E, por fim, vamos passar um pouco sobre as ferraments de aprendizado
+para que aqui a partir dessa primeira semana se eles consigam
+otimizar o tempo de estudo de vocês, então, vamos lá.
+É, é, a corno cronograma, que tem a gente falou o tipo de junho online,
+definição de expectativas, pros ou avenários,
+as boas praias que nos nos coste,
+a gente vai explicar como chegamos aqui,
+porque aqui, na estedidados e senticilação,
+estão valorizados hoje, e depois,
+a gente vai explicar um detalhe à diferença de ferramentas,
+de competências, de rotina, de uns senticidades,
+para não ajudar, vamos falar sobre a experiência aprendizado
+aqui na tripletem, como que vocês podam utilizar,
+e vamos entrar num top com que esse é um ponto novo,
+a primeira turma que a gente vai falar sobre isso,
+mas como usar aí, nos estudos,
+a gente sabe que já te apetem uma realidade,
+e é importante vocês saiba um comosá-lo,
+então, é um ferramentro incrível, você sabe,
+os amens ela, então, a gente vai falar um pouco disso aqui,
+e, por fim, vamos passar um pouco nas ferramentas do bootcamp,
+como que quais ferramentos vocês vão usar também
+para utilizar esse tempo de tudo de vocês,
+então, vamos passar em vídeo Hürby,
+que que eu jupter no tipo o que quais são as tarefas lá no o D&H,
+dentro da plataforma da tripletem.
+Então, vamos lá pessoal,
+o Partium tipo de reunião online.
+Hoje a gente está no aminário,
+os aminários aqui na turma de vocês vão acontecer toda a quarta-feira,
+aszenove horas, então,
+hoje, este problema é o link, mas esse poder,
+que está tranquilo, vamos começar azenove,
+aqui a gente vai trazer casos reais com a aplicação de conteúdo,
+então, a gente vai, a partir do conteúdo que vocês estão vendo,
+se é uma análise nos printes na plataforma da tripletem,
+a gente vai trazer aqui aplicação reais,
+então, mais legal,
+a gente vai se preparar para projetos,
+a gente vai falar claro sobre a impregabilidade,
+de mercados de trabalho,
+trocar a cidade também em momentos pontuais,
+vamos avançar em todos os detalhes,
+então, de repente, se a domota alguma dúvida popular,
+se a gente tem algo que a gente tem que aprofundar,
+a gente está sentindo algum defis que vocês têm,
+temos de conteúdo, e a gente vai fazer isso.
+E, por fim, também, se necessário,
+se a gente vê que está,
+esses precisos de um de um refus,
+a gente vai fazer uma prática adicional,
+então, que se for necessariamente,
+vai marcar mais de um webinar,
+por semana também.
+Esse são as um, o Ariel,
+já mandou o link para vocês no grupo,
+eu vou mandar que depois de novo um chat,
+mas se já podem mandar,
+marcando comigo, alguns já marcaram,
+antes já fiz alguns reuniões,
+e vamos, se vai ser um momento que nesse primeiro,
+não é que a gente vai se conhecer,
+eu vou ver um pouco mais sobre a carreira de vocês,
+em orar fixos que seves,
+eu hoje no dia não tenho alguns projetos,
+trabalho também, no carinho for,
+mas meu orar é bem flexível,
+eu tenho algumas ruas ao longo de dia,
+mas em geral,
+pode ficar no orar,
+mas flexível, lá para vocês,
+então, acho que dentro aqui dos tutores da tipotem,
+eu sou um dos que vocês contaguem o orar mais flexível,
+ali para vocês, então,
+fica em amontat,
+vamos falar sobre, posso falar bastante sobre carreira,
+entregar a vida às coisas,
+então, eu tenho bastante experiência,
+e, em tempos carreira,
+mas principalmente,
+acho que diferentes,
+muitos pessoas que sempre ficaram focadas
+e sem os sonalhos,
+eu te, por todo lado,
+então, com isso bem as competências de um profissional,
+e o aparte se pegue em vários bolsos aceletivos,
+contratando, e sempre contratado,
+também, então, vamos trocar esse daiva,
+é ser muito legal,
+e, também,
+tirado,
+esses de conteúdo e do projeto,
+porque, mais pra frente,
+a gente vai ter esse momento,
+também,
+sem te quiser entrar no detalhe,
+em alguns pós-pecísicos,
+como um ouro,
+e,
+pessoal, outra coisa que você,
+em sentido muito,
+vocês aproveitaram,
+são as salas de estudo,
+com colando, né,
+então, lá no discóxito,
+existem a sala de colando,
+que é um canal de áudio,
+então, não se preocupam,
+não, não precisa nos tracarinhas,
+o canal de áudio,
+é fundamental para o trapaçado o queis,
+então, às vezes,
+você está estudando,
+que nenhum pessoal
+fez já falou,
+hoje, que ficou travado,
+o último atenativo,
+é você entrar lá no canal de colando,
+geralmente,
+vai ter alguém,
+algo,
+profissional,
+muito capastáveis,
+todos aqui,
+o que eu te potei também,
+é um lugar incrível,
+que vão estar para um froteir ajudar.
+E, quando você está lá,
+também,
+você abre espaço,
+para alguma outra pessoa entrar,
+tirar uma dúvida,
+você pode entender,
+quando o dúvida dela,
+então,
+fica algo muito interessante,
+também,
+pessoal,
+de ter alguém,
+você vai acabar aproveitando muito o colo.
+Então,
+quando você decide,
+vai ver no qual ele vai estar acontecendo.
+E, ali fica mais fácil,
+até essa troca.
+Parte dois,
+vamos lá,
+definição das expectativas do
+dúvida é binários,
+como que está acontecendo,
+É o ano, pessoal.
+Oi, eu ia no deslubei.
+Não, eu ia justamente jogar até o pra cá quando eu tô conseguindo eu chat.
+E a perguntação é colonica, é colonita lá no Discord.
+E aí, o grupo.
+Vamos mostrar aqui para vocês agora.
+Deixa eu abrir que não é Discord.
+Ah, aqui pessoal.
+Aqui no Discord, então aqui aparece muita coisa.
+Não, eu não vou falar isso em um fotele pra nós.
+Não, vou paticar o baixo que eu tô assistindo aqui, obrigado.
+Então, agora vai.
+Exatamente, mandaram aqui em chance.
+Estou vendo agora?
+Sim.
+Vou. Vou mostrar.
+Então aqui, pessoal, eu recomendo aqui tem muita informação até as vezes pra chaves, o alto,
+porque ele fica lá embaixo que eu colorne em data.
+Mas o que eu recomendo para vocês?
+É só bem aqui, eu conferir que canais.
+Então já tem esse buscador aqui, fica muito mais fácil.
+Se eu sou de procurar data, já provavelmente vai aparecer para vocês.
+Aqui tem mais coisa para mim.
+Mas ele tá aqui.
+Se pesquisar colorne, então, mais fácil ainda.
+Então, a sovinha aqui, conferir que canais no Discord e procurar colorne,
+então quando vocês entraram lá aqui, então agora tem um pedro,
+tem a Stefan de deftalatia numa dúvida, se você pode ver, tá rouando lá.
+Então, é o canal de áudio.
+Uma teus outros que você contala também.
+Então, se tem a vontade pra entrar lá, como quiser tirar dúvida,
+vocês podem ver os horários de estrutores também,
+que vocês conseguem pegar um tempinho de retirar a dúvida,
+tem uma teus mais muitas vezes até um aluno, não é personalizado.
+Então, é uma boa, aproveita esse recurso também.
+E voltando aqui para a apresentação,
+falar que agora o dos ordinários,
+dos ordinários, a gente vai durar aqui 45, 90 minutos,
+pode ser que a gente passa também, não tem problema.
+Vamos ser dois vinares por esse print, então,
+nessa primeira esprente que a gente vai dar essa introdução,
+e na semana que vem a gente vai passar mais no conteúdo,
+vou metrar realmente botar a mão na massa, vou estar no pai,
+e o acesso vai ser link do Google Misch,
+enviado pelo Code, pode ficar para com os que eu acaso do site,
+uma gravação e materiais também,
+vou compartilhar tudo lá,
+por uma atalviva, 4 tereas,
+às 8, 30,
+aqui, está 8, 30, vamos definir,
+seja 8, 3 é 9, mas se inscreve tranquilos,
+que também vai lá no invio do ariel,
+semana que vem, e vamos passar por isso,
+contém o do extra, live code,
+de exemplos e dúvidas sobre o tema da esprente também,
+quem falo, tudo será grava.
+E, participação pessoal,
+fica em avontais para levantar a mão,
+então acho que chegou esse momento,
+não existe em levantar a mão,
+eu vou estar que focado na tela da pentação,
+e quando eu virar a cabeça,
+é que eu estou olhando aqui para o chat,
+então, fica em avontais,
+só levantar a mão,
+porque quiser mandar,
+mensagem no chat também,
+agora eu já estou coilhando a beta aqui do ar,
+e se você também não puder entrar na seção,
+em algum avionário futuro,
+mas quiser,
+e já tem alguma dúvida estrutural,
+é sobre o tema,
+hoje vêm para mim,
+no privado,
+ou bem-fim,
+lá no mesmo grupo,
+do datumas de você,
+é isso que eu consigo pegar e trazer aqui,
+tranquilamente para nossa aula.
+E não existe pergunta ruim,
+por favor, não perguntar.
+Então, não existe pergunta boa,
+igual pessoal falava,
+não existe, tem perguntar,
+pode ficar tranquilos,
+não existe, não existe,
+o básico,
+é importante que a gente construa
+nosso básico conhecimento bem,
+e lá embaixo,
+para que quando a gente for crescer,
+chegarmos,
+mas com o blacks,
+a gente tem já tudo estruturado.
+Então, fica a avontais,
+bem-vindo,
+se não for aqui,
+se não está a vontade no meio do outro pessoal,
+entra no canal de áudio,
+manda mensagem para mim,
+na mensagem para o alieo,
+a gente marcou,
+então, aproveitem os recursos,
+e isso consegue ter algo que é diferente
+em algum de game de uma base à doação,
+a adulta e com essa proximidade,
+que vocês conseguem ter,
+com quem está junto ali,
+vai se quando processe do caçou no ar,
+vocês.
+É próximo ponto,
+vamos lá falar de discóloga.
+Um discólogo pessoal,
+não discólogo,
+sempre vocês foram levando a dúvida
+por discóloga,
+seja lá no chat do vídeo,
+ou no próprio color,
+é importante vocês terem algumas coisas
+claras que é qual esse print você estão,
+no caso agora,
+que está aqui na primeira print,
+para ir tombássico,
+e de qual capítulo eles são é a dúvida de vocês,
+então é o capítulo aqui,
+esse ponto,
+1, 2, 3, 4 e a lisa,
+é uma homie,
+então é a seleção de modificação de listas,
+eu for um da print,
+vocês podem usar para as dúvidas a 5 anos,
+e o color não crenhe de falou para as dúvidas ao vivo,
+então aproveitar de um momento,
+com estrutores,
+às vezes, vocês conseguem entender no tema,
+e nas dúvidas a 5 anos,
+vocês também as estão com uma dúvida,
+ponto lá,
+ou não é na do gente,
+nada que vai te bloquear,
+então você manda ali que a gente responde depois,
+boas práticas do discog,
+aqui,
+a gente é exatamente que a gente falou,
+aqui é o print,
+aqui é o plataforma de conteúdo,
+e cada esse print,
+a gente consegue enviar as dúvidas lá,
+então os 21, os 22,
+e aqui a gente vai,
+e em cada uma modelas,
+a gente vai construir uma nova postagem,
+aqui também o areal,
+o joga,
+no chat,
+tem uma bem claro,
+como tirar dúvidas,
+e vocês nem aqui,
+mas o nova postagem,
+e aí é aquilo que a gente falou,
+aqui no último slide,
+só lá,
+com a gente de vocês,
+que, naturalmente, a gente vai ser aqui,
+onde vocês, em qual foram vocês no botar,
+e aí,
+o capítulo e a lição,
+para que fique claro,
+ou se vão em casa de um notebook,
+só botar o código,
+o que teve de errado,
+e boas de ter sido o caso de resiste,
+e a gente vai ver o botão,
+ao arrelele,
+o caminho e o link dos exercícios,
+e,
+outro ponto também bem legal,
+marketing dúvidados,
+esse nomezinho muito bom,
+que a gente consegue,
+todo mundo,
+todos os estrutores e tutores vão conseguir,
+vai aparecer no ficaçãozinho,
+então, as vezes,
+a gente está lá,
+e consegue responder ele na hora,
+então,
+esse algo bem prático também,
+vai que está se ele estar vira de vocês,
+parte 4,
+vai metrar um pouco aqui,
+na tempestade perfeita de dados,
+e vamos entender como eu vim para aqui,
+como vocês vieram para aqui,
+por que a gente vai entrar
+avar com essa loucura que é dados?
+Então, pessoal,
+muita coisa que a gente vai usar
+o longo do esse bootcamp,
+e não é novidade,
+as ferramentas,
+para a sensibilidade de dados,
+praticamente todos,
+tirando algo que é mais ali,
+topo da arte,
+existem a mais de 50, 70.
+Então,
+tiver a estatística do século XVII,
+primeiro a regressão linear,
+foi do começo do século XVII,
+foi o 185,
+a teoria das redes-neurais,
+desde a digno guerra mundial,
+o meu nome é X43,
+então,
+redes-neurais,
+tudo que alimenta as LNMs,
+a IAR,
+a gente chama de origenquiação
+redes-neurais no fundo,
+na base,
+então,
+essa tecnologia existe,
+ele é praticamente o 80 anos,
+a árvore de decisão,
+de 1953,
+e a arvore de decisão também,
+todos os algoritmos,
+de previsão hoje,
+está-lo da arte,
+são basegados na árvore de decisão,
+e também existe a mais de 70 anos,
+então,
+de poder ver como
+essa tecnologia existe
+muito tempo, e isso tem um tombro,
+porque que não existe
+sensibilidade,
+é analidade,
+não é uma profissão do que o momento
+desde a década de ser sempre,
+e a verdade é que não havia
+um dado para isso,
+então,
+a gente tem essa tecnologia
+mais a gente não tinha dado,
+a computação
+em servidor físico,
+a restriamento cara e complexa
+no século XX,
+e neste século XX,
+então,
+eu tive uma espelha de
+portundar de trabalhos,
+sindas,
+mequinhos e do linkatose,
+e eu lembro que,
+isso dá exergando da trás,
+ainda tinha o senhor verores físicos,
+então, e sem eu existi muito lugar,
+então,
+sei lá no escritoro,
+ou de ser trabalhável,
+tinha uma sada que era o seu
+do físico,
+para armazenar todo o dado,
+não é empresa,
+e sendo físico,
+obviamente,
+muito caro,
+para manter algo muito complexo,
+e as companhias não
+colocavam tão sada,
+que armazenar era caro e complexo,
+então,
+se queria aumentar a servidor,
+que custos gigantesca,
+como se fosse investir uma obra,
+então,
+era algo muito complexo,
+e as empresas não tinham também
+pontos de contato,
+então,
+não era tudo digitalizado,
+igual a eu,
+hoje em dia,
+você consegue ter esses vários momentos
+para cartausos pontos de contato.
+Mas, mesmo a partir do momento,
+a gente conseguiu ter esse ponto de contato,
+como se a gente for pegar nenhuma referência,
+para quando Facebook,
+ou que começou a galera do o Rucult,
+por exemplo,
+pegou essa época,
+o Rucult não armazenava,
+tudo o que você fazia,
+então,
+quando você jogava,
+clicava naquela comunidade,
+ele não armazenava simplesmente,
+porque sempre fosse fazer isso
+naquela época,
+o custo seria,
+imagina,
+o Facebook começou a fazer isso,
+não tem ideia ali,
+exatamente no tempo,
+mas ele começou a fazer isso,
+a partir ali,
+eu diria pelo menos de 2010,
+pode ser que,
+antes,
+então hoje em dia,
+todas as movimentações que você faz
+não fez se book,
+ele dá armazenava
+e guardam em bancos de dados,
+para utilizar algo no fogo.
+Então,
+digamos, isso não existe,
+porque era caro e complexo,
+as empresas não faziam.
+O que aconteceu de lá para cá,
+a computação em movem,
+foi ganhando potencial,
+e expandindo,
+porque obviamente não faz sentido,
+a gente tem servo físico,
+esse trampor aqui dentro,
+se alguém pode ter esse em lugar
+para a gente e eu posso,
+pagar só pelo que eu uso,
+então,
+é isso que aconteceu,
+essa movimentação,
+concentra o servidor,
+tirar,
+ser do físico e jogar para tal da movement,
+a gente vai entender também
+que aqui é a movement,
+mas essa foi a ideia da das componícias,
+a fazer isso e alguns componícias
+a nós um Google e uma Christophia
+investindo pesado nisso,
+e isso fez com que o nosso potencial
+de processados escalasse,
+então,
+essa é a tempestade perfecto
+para a gente chegar como a gente chegou aqui,
+a outro volão de dados,
+hoje tudo é rastrado,
+porque a gente consegue amazer
+na tudo em mando de dados,
+como a computação muito performática,
+e barato,
+pente um core 3,
+então era com que os processadores
+com um 2 cores,
+quando saiu o processador do core,
+foi uma novidade hoje,
+com o core processador 10, 6, 8 cores,
+então,
+e inclusive,
+quando vocês vão,
+vocês vão conhecer esses podem trabalhar hoje,
+hoje eu já usei,
+é 128 gigas de memória,
+ao podão um porjo,
+então quando você vai trabalhar no vinguece
+consegue escolher,
+de acordo com o que você precisa,
+o computador que você causar,
+então, isso é incrível,
+a movementa parece a responsabilidade,
+então ela traz essa computação econômica e barato,
+e as ferramentas que a gente trouxe no ano comércio,
+que já existem,
+a mais de 50, 60,
+ou menos,
+praticamente,
+as rede neurais,
+ou a bori time já existia,
+mas como fazer um algoritmo de rede neurual,
+por exemplo,
+sem minha base de dados,
+é um conjunto de maros tritos físicos,
+o planilha,
+planilhas dos últimos 20 anos,
+então,
+então,
+precisava a mais é na cidade digitalmente,
+para ter a capacidade de fazer
+esse processamento,
+e necessidade,
+e foi isso que aconteceu,
+então aqui,
+muito interessante,
+se eu quer basicamente a revolução
+vai ter net para mim,
+a maior revolução da internet
+já compreceu na última década,
+a mais uma conversão,
+investindo a AWS,
+que a Amazon WebSives,
+para quem não conhece a uma movement,
+é uma das três movements,
+tem o Microsoft Azure,
+Google Cloud Platform,
+de CP,
+e a AWS,
+Amazon WebSives,
+a Amazon Amazon começou a investir nisso,
+2006,
+então,
+eles eram gigantes,
+no estado de nele,
+no Valejo,
+e começaram a investir em movement,
+no mesmo em seis,
+esse carão,
+onde,
+de assim,
+ele é o GIC,
+ou da Amazon,
+no lugar do diafveses,
+então esse caro aqui,
+ele é fundador da AWS,
+e pelo visto,
+acho que ele foi,
+ele conseguiu,
+tem mais ou menos bem aqui,
+no plano da AWS,
+eles saiam de zero,
+em 2006,
+para setem-te milhões,
+de faturamento,
+que se não era de 2012,
+não sei exatamente hoje,
+mas imagina que só tem um crescido,
+e esse crescimento,
+não é,
+se por isso,
+por isso,
+todo mundo,
+a AWS,
+pelo básico,
+a minha estrutura,
+um oço da coluna,
+a vertebral,
+de todo sistema bancário,
+financeiro mundial,
+hoje,
+assim,
+tem contrato com AWS,
+ou a minha europeia,
+tem contrato com AWS,
+as maiores industrires do mundo,
+tem contrato com AWS,
+então eles conseguem,
+centralizar em muita coisa,
+e hoje,
+50% deles,
+e, basicamente,
+a macroso software,
+um pouquinho maior,
+tal,
+às vezes,
+ele tem sempre de 30,
+de tempo,
+e o GCP,
+cresceu um pouco dos meus anos,
+tem 20% e o interessante,
+a gente vê isso na pressicação,
+ou a GCP,
+que tem menos usuários,
+é mais barata,
+e a AWS,
+que tem mais usuários,
+é mais robusta,
+é mais cara também.
+E aqui,
+para vocês,
+tem verestina,
+como funciona,
+e porque,
+que ele domina o mundo,
+a AWS tem 34,
+e os mais grandes,
+então,
+datacentes,
+espalhados ao ador do mundo,
+a gente tem um servidor aqui no Brasil,
+em São Paulo,
+é um que servido da América Latina,
+por enquanto,
+eles estão fazendo servidor no México,
+também,
+mas isso faz com que as empresas
+conseguem usar a tecnologia da Múve,
+e aí você vai perguntar,
+a grona,
+e,
+e se um dia o Brasil,
+vamos para o que vai ver entreguer,
+com a Argentina,
+a Argentina,
+aos aplicações,
+todos os aplicações da Argentina,
+são as empresas no datacentes de São Paulo,
+porque tem a questão de proximidade,
+por ser mais próximo,
+acaba sendo mais barato.
+Não tem problema,
+mas o,
+é tudo redundante,
+eles só tinham seus dados de São Paulo e
+jogam para outra empresa,
+para outros sendidores,
+todos os datacentes,
+então,
+hoje em dia,
+eles já têm tudo isso pensado,
+mas não tem que entrar nesse nível,
+de pensar o que acontece,
+no caso de um conflito global,
+porque eles domine o tanto a informação,
+e a gente vê aqui,
+e tem dois milhões de cidades
+sem três exécutas no Brasil,
+e aqui,
+muito interessante,
+eu fui pesquisar para a vongera,
+é a nebeto de,
+de os ásco,
+o número ele,
+a gente não falou no rodonel,
+e a gente vê aqui,
+esse é o datacentes de escala,
+então,
+o interessante é sempre hoje tem o tubarão,
+tem alguém por trás,
+a escala,
+eles formais,
+e os datacentes para a azul,
+a AWS,
+e GCP,
+junto ao da infraestrutura,
+por aí,
+das estalações,
+e meio que a lúgone,
+para as três,
+e aqui,
+muito interessante,
+vocês veem,
+tem um prédio,
+dois prédios,
+e tem mais quatro prédios contra o uso,
+então,
+isso aqui dá para ter uma ideia,
+às vezes,
+a gente me ensurar em um entamã,
+mas tudo isso são servidores,
+extremamente performais,
+e que,
+armazeno,
+basicamente,
+todo o conteúdo,
+e dados do seto público e privado,
+e que é uma equilatina,
+esse é um nível que consegue ser
+armazenado dentro desses dois
+datacentes,
+e até se vocês ganem,
+é por isso que tem essa segurança toda,
+algo muito,
+muito sensível,
+e eles estão construindo mais três
+ou quatro prédios desses,
+estão investindo pesado,
+o volume de dados cresces,
+principalmente,
+isso aqui é de junho,
+então,
+ainda é a gente está construindo agora,
+mais o Brasil é um,
+é bastante interessante de dados na América Latina,
+e essas empresas estão investindo
+pesado para aumentar infraestrutura,
+e que vai acontecer com um
+com dados nos próximos anos,
+que é continuar escredimentos
+por nesses se alves,
+então, aqui vão falar um pouco de posição,
+mercados de trabalho,
+como isso se convertiu,
+e antes de 2010,
+era algo muito abstrato,
+então, existe ali o estatístico,
+mas esse pouco a gente trabalha
+com dados mesmo,
+a partir de 2010,
+ele começou a se falar muito em análise dados,
+então, business,
+e daqui a data,
+a gente começou a ir,
+desde 2012,
+2014,
+eu entrei mais uns uns por aqui,
+é um nestava um bom muito grande,
+e a partir ali de 2015,
+e de seis começam muito grande,
+e se a gente está em ser de dados,
+aqui a gente vê como que praticamente,
+só cresceu,
+essa é a queda aqui de 2020,
+a importância mencionar aqui,
+provavelmente foi por causa da pandemia,
+porque a gente não tem como inferir,
+né,
+a gente não tem por causa de dados,
+mas muito normalmente foi por causa da pandemia,
+mas a gente vê que mesmo para na vista de dados,
+mas a gente não crescendo para,
+mesmo a energia de dados,
+a gente de um acaligno,
+mas a gente,
+desde considera o tamanho do bolutório,
+como que de 2014,
+saiu daqui,
+para cá,
+então,
+uns seis anos,
+praticamente triplicou o número de vagas,
+a gente vê também a data engineer,
+crescendo muito a posição que,
+especialmente depois de 2020,
+que estão no muito valorizada,
+e a gente vai entrar um pouco no detalhe aqui,
+exatamente disso agora,
+e quais são as esquios que diferenciam
+o cientista de dados de um analisto de dados?
+A pessoa,
+competência de dados,
+que a gente precisa para trabalhar com dados,
+é,
+e aqui,
+se está voltando,
+se encaram com alguma dúvida,
+tranquilo,
+se quiserem perguntar alguma coisa também,
+sobre escrecimento,
+exponencial que teve de dados,
+alguma coisa que eu falei sobre a nuva,
+também,
+se se alimentar não,
+por aí,
+já está planeando um amigo aqui,
+e,
+e,
+em seguindo, então,
+pessoal,
+vamos lá,
+de intermungir habilidades,
+para você trabalhar com dados,
+ou ver,
+estão três freens,
+então,
+a gente tem a frente,
+a habilidade de técnica,
+só as esquios técnicos que a gente tem,
+e vai ser o,
+a grande parte de escursa,
+vão ser as habilidades técnicos,
+que vocês vão evoluir,
+então,
+a gente está falando de diferentes,
+salon,
+casi normalidade do homem VIP,
+a blog,
+e aqui vivo, então,
+o feramento de visualização,
+feramento das dimonci Ming Pensado de dados,
+são coisas que não extinct,
+você aguantam com os recursos,
+tem que dúmminar os claramente,
+elestatístico,
+elestatística que ajuda muito,
+para você não,
+você pegatários,
+quando vocês sabem elestatística,
+então você consegue fazer
+infraestras,
+às vezes,
+só de observar o data savage.
+Você sabe a coisa,
+quais utilizem uma forma gezacohz rectilidade,
+então,
+que você sabe o estatístico, porque não é exatamente o bloquear,
+mas você consegue cortar caminhos e falar com mais segurança do que você está analisando,
+do que você está tentando prever.
+E por fim, mais importante para mim,
+e mais suguar lorizado, porque é o que hoje a maioria dos cientistas
+das não conhece tanto em formação.
+O que diferenciar a gente ir em uma interagência oficial,
+isso aqui, tá pessoal.
+O interagência artificial tem formação, mas ele não consegue conectar
+a informação, como é emoção.
+E a gente consegue, como ser humano,
+a gente consegue entender o que é o negócio,
+a gente consegue entender, basicamente, as novas vezes,
+né, gosto, quais fatores podem influenciar como que,
+e conectar, o melhor de fatores externos que o interagência artificial
+não vai conseguir, se a gente não passar.
+Então, a gente tem conhecimento de economia externa,
+do que acontece no preço das nossas vidas, da inflação,
+às vezes, de um modelo de negócio,
+então, pode estar fazendo um projeto de posicionário,
+é muito importante, você conhece a esse tablo no mercado de veículos.
+Então, saber, onde você está precisando é fundamental
+ao trabalhar com dados, porque ninguém quer virar,
+é tirar luz pastel e capazendo a painel, fazer um modelo,
+sem entender de fato que está acontecendo, né?
+Então, é muito fácil fazer um painel,
+vocês vão conseguir tranquilamente,
+é depois de rapidamente aqui,
+na伸ha semana, vocês vão conseguir fazer um painel de visualização,
+de dar-los tranquilamente, mas o que vai faltar é vocês em formação,
+experiência.
+É saber como analista é isso,
+a gente se identitidade,
+vocês vão conseguir entregar a louco, né, gosto?
+E é isso, muitas vezes, você só consegue
+experiência de você que quando chegar no oposição,
+às vezes não conhece do segmento, mas chegar ali, estudar,
+tentar fazer uma imensão para de fato entender onde você está
+precisando é fundamental,
+ao tentar prever e analisar dados.
+Então, vamos falar agora de competências técnicas,
+então, a gente tem muito medo ali do Python,
+mas eu já entrou aqui, eu acho um Python,
+não foi há muito incrível,
+ela é utilizada, por basicamente, nas três grandes espérias de quem trabalha com dados hoje,
+seja analista de dados, cientistas de dados, em dinheiro de dados,
+então, tem um trabalho muito grande de Python,
+uma população data-visc, que é a visualização de dados,
+e trabalho com a nuva também,
+aqui nós preocupamos, mas,
+hoje, a realidade é essa,
+e principalmente com a estápôndia cientista,
+e analista de dados, a entesismo,
+no basic estatístico, maior,
+a gente está meio chequilo que a gente falou,
+quando a gente está querendo fazer uma análise,
+ou prever alguma coisa,
+a gente tem uma controle, uma consciência,
+do que está acontecendo naquele dados, é fundamental,
+e é isso que a estatística traz,
+a gente consegue prever ali,
+ou te lá,
+é isso que são aqueles pontos fora da cúva,
+a gente consegue entender uma distribuição,
+ou se ela se aproxima em distribuição normal,
+a distribuição exponencial,
+a gente consegue ter toda essa visão com a estatística.
+Em conto isso, um aralista de dados,
+ele vai ser uma pessoa muito mais focada,
+ajudar a a outra gestão,
+com ferramentas já puha tomar a decisão,
+ou seja, a gente,
+através do que a gente tem hoje de dados,
+forcer para os tomadores de decisão,
+é ferramentas para aqueles sigam o caminho certo.
+Então, é isso que a diferença hoje,
+um profissional de gestão eficiente,
+de profissional não-ocente,
+isso é uma das maiores coisas,
+alguém que é capaz de analisar os dados
+e dos dados como insum para tomar a edição,
+e é isso que vocês vão fazer.
+Além de gerar a insights,
+então a gente vai ver como fazer isso,
+o panel é um das formas,
+mas não é estar a gente panel,
+se pode fazer um modelo que gera uma saída,
+que gera uma previsão mesmo com mais estes dados,
+pode gera um relatório que facilite a vida,
+que, enfim, com a gente argumentar da arma no al,
+você pode fazer, enfim,
+modelos de checks para verificar leicondições
+e chegar numa resposta final para algum tema,
+e o grande ponto é geração de sites.
+Então, independência que você vai fazer isso
+com o panel de parbear,
+com o código Python,
+e uma consulta SQL,
+o que você tem que fazer para a sua empresa
+vai ser gerais sites,
+que vão justamente fonecer esse apoio para tomar a edição.
+Então, aqui existe um conhecimento muito, muito, muito profundo, no negócio.
+Em possível a seleção de dar os dados,
+de algum tempo, se você não conhecei muito a fulgo,
+esse não é, obviamente, vai acabar falando deste tempo.
+Como sentiste de dados,
+o trabalho e a rotinão pouco diferente.
+O trabalho de vocês vai evoluir muito mais e olhar para a frente,
+então, construir modelos,
+botar esses modelos da prática,
+e ao depoio,
+e hoje em dia, de um ano para cá,
+trabalhar com modelos de linguagem.
+Então, eu utilizar as carramentas,
+eu preia ainda,
+eu não acompanho os os os os os ferramentas disponíveis e integrar isso,
+onde fulcigo dentro das organizações.
+Mas principalmente, então, aqui é o ferrimótiperem-se
+para mim, que o aeste de dados,
+é quando aeste de dados ele vai principalmente olhar
+para o passado e para o presente,
+onde cadores, números, painéis, códigos,
+para fornecer essa apoia à uma direcção,
+enquanto sentiste de dados,
+ele vai te dizer o que vai acontecer para a frente.
+Não é fazer modelos de previsão.
+Então, enquanto eu estou olhando por presente
+e para trás, outro,
+estou olhando para a frente,
+e é importante dizer que,
+o analista de dados consegue existir,
+se não sentiste de dados,
+então, hoje muitas organizações,
+só tem a identidade,
+mas não sentiste de dados,
+não consegue existir,
+se você é um trabalho de uma analista de dados,
+que acontece na prática,
+muitas vezes o analista é oralista, e sentiste também.
+E o sentista é muitas vezes também,
+tem que ser um pouco de analista.
+O mundo real não tem essas caixinhas,
+não tem essas caixinhas para dividir
+ele é posição de cada um.
+As sistemas analistas de dados que vai trabalhar
+mais como manipulação de dados,
+tem uma analidade com a trabalhar mais acompanhê-lo,
+tem uma analidade de dados que vai trabalhar mais com a automação,
+é por isso que é importante,
+tem esse generalismo saber quais são os seus habilidades
+que você pode ter no seu arsenal para trabalhar com dados.
+E por fim, tem um engenheiro de dados.
+Um engenheiro de dados é a pessoa que vai fazer os tartalais dados,
+enfim, pegar o tartalais na fonte,
+seja um aqui vexé, um e-mail,
+um servidor, um banco de dados,
+essa pessoa vai fazer essa fonte,
+e vai disponibilizar com a analista de que eu sentissei dados.
+Então, assim, já uma dica para vocês analiscentes de dados.
+Esse aqui é a verdade, viu?
+Fiquei a amiga do engenheiro de dados.
+Fiquei a amiga do engenheiro, porque ele vai estar aquela pessoa
+que vai salvar a vida de vocês, quando vocês precisaram,
+ou se vocês não precisaram ficar amigos,
+aprendam muito sobre uma população de dados.
+Porque esse é o trabalho deles,
+nem entregar o dado mais chegado para vocês,
+entregar ali para que você consiga como analista,
+confirmir gerar inteligência e como sentista,
+fazemos previsões a partir deles.
+Então, aqui, muito legal também,
+essa integração, o engenheiro de dados,
+ele não vive sem o analista de sentista,
+porque, basicamente, ele estaria entregando o dado para ninguém, né?
+Seria de eu lugar só o que o dia está o último ásio.
+O sentista e o analista são com som meu trabalho dele,
+e também precisam dele.
+Então, esse que é legal aqui em dados,
+é meio que o sistema,
+o engenheiro ajuda o analista de sentista,
+e pro gerar inteligente que o o analista entiz tem os dados mais chegados
+para fazer um bom trabalho,
+porque o engenheiro de�as vezes se queriam baixidômas,
+quando, da certo, ele acaba sendo recompensado também.
+E, por o sentista, ele é o cara que vai precisar do analista,
+e do engenheiro para que eu trabalho dele mais fácil.
+Então, ser ativeus dados todos preparados,
+encaminhados, e uma análise estatística avançada,
+já feita por um analista de dados,
+tudo que ele precisa fazer é sentar e fazer o modelo.
+Então, facilita muito o trabalho dos sentistas de dados,
+quando ele está em um ambiente e passeiria como analista e com engenheiro de dados.
+O que acontece no mundo real, é nem todos são fors.
+Então,
+com a extelidade que vai precisar fazer pagoagens,
+com engenheiro às vezes vai estar em outra demanda mais um engenheiro.
+Você vai fazer toda parte de análise de dados,
+e você é como analistidades também,
+às vezes não vermo no real, vai ser a aguarda,
+chegar a ser a falar o fulano.
+Bruno, preciso de ir,
+e você com uma lendidade,
+você vai ter que dar um jeito de saber conversar com aquilo,
+porque você às vezes é o ponto focal de dados na empresa.
+Então, é importante saber conversar,
+saber caminhar para os emails,
+saber o que cada um faz,
+e,
+essa onde cada um se encaixa nesse sistema de dados.
+Competências técnicos,
+então, vamos lá, pessoal, o Pai,
+o Pai,
+você que é para muita gente,
+para alguns não,
+mas para muita gente,
+a gente vai ajudar o ponto mais na computador,
+não inicio dessa jornada,
+que no bootcamp,
+eu já estiver aqui também,
+eu comecei a programar um conceito
+em 2013,
+e,
+você falou,
+não foi uma experiência legal,
+não foi uma coisa assim,
+que eu falei,
+nossa,
+sentei,
+estou apaixonado com programação,
+não foi.
+Eu me apaixonei para programação,
+assim, vamos dizer,
+quando você tem mais contato com o Pai,
+estão em 2019,
+e eu me apaixonei,
+não pela ferramenta,
+mas para o que ela oferece.
+Então, pela facilidade,
+conseguir manipular um conjunto de dados,
+poder consultar,
+bibliotecas de fontes externas,
+fazer um bântico de leitura,
+de PDF,
+transformar a aula de um fim.
+O Pai está muito flexível,
+e eu fiquei apaixonado,
+quando disse que eu apaixonado,
+pelo que a entrega não pela ferramenta.
+E aqui,
+a gente pode ver exatamente isso,
+pessoal que já está,
+já foi enjava,
+já me escripte,
+galera do C,
+se achar,
+se é mais mais,
+gente,
+vocês estão começando hoje no Pai,
+mas,
+que vocês começaram a dirigir no
+na época que já tem
+todo o carro de segurança,
+essa galera aqui começou na época,
+que era carroso.
+Então,
+essa galera pegou uma época que o fóxico
+arraído,
+pode se precisar não entender
+muito mais programação,
+hoje a gente está caminhando
+com o nível,
+que cada vez menos você vai precisar,
+entender dos detalhes,
+técnicos da noância,
+e fazer,
+e você vai precisar cada vez mais,
+tem a capacidade de ter que
+que ele entrega com a gente,
+tá pegindo,
+que é basicamente
+organizar suas ideias.
+E a gente ainda mais
+condimento na
+bêteria de gente artificial,
+virou cada vez menos
+importante,
+como você vai fazer,
+e cada vez mais
+importante o que você vai fazer.
+Então,
+por exemplo,
+tem o caminho certo,
+porque como você vai chegar
+lá,
+provavelmente,
+hoje no dia não é o ponto
+principal.
+E é isso aqui,
+o pai estão amalingagem
+extremamente simples,
+ela meio que,
+para bem entendendo inglês,
+então,
+mais fácil ainda,
+porque ela tem
+os objetos fixos dela
+inglês,
+então,
+eu for o alho,
+o enf,
+é você,
+então,
+fazendo essas conversas,
+esse tratudo
+muito mais fácil,
+às vezes,
+você parece que está conversando
+com o bójono,
+diferente desses
+lugares aqui,
+que a linguagem
+justamente em coisas
+pontos aqui,
+assustador,
+você não pode
+de jágonha,
+é igual a cara
+desse lugar não aqui,
+você viveira assustado.
+E passando um pouco
+aqui,
+e o bójono de jágonha,
+falando aqui,
+primeiro sobre o
+arregidados,
+aqui,
+eu só vou ter em uma,
+mas,
+na verdade,
+eu vou falar aqui no
+primeiro sobre as 3C entrar,
+pão das mate colachilíb
+e num pai.
+Essas são as 3C
+pais de jágonha de jágonha
+para ficar um chefe
+o direto,
+praticamente,
+toda a habilidade,
+o pai, o pão das
+é um
+biblioteca para manipulação de
+dados,
+então,
+é o Excel do pai,
+então,
+onde você consegue
+encargar os dados,
+fiar por umas,
+selecionar as como as
+vocês querem,
+fio para valores,
+enfim,
+para encher valores nulos,
+vocês não sabem fazer
+tudo no pão das
+é uma pena de ter a
+universidade,
+no começo,
+pode ser um pouquinho acestador,
+mas o pão das
+ele é muito intuitivo
+e simples,
+depois que você pega o
+gente um deiro e bia,
+ele vai começar
+e,
+também na,
+na próxima aula,
+meu feramento incrível,
+é meio que pode
+livre,
+e para a visualização,
+então,
+o mais que pode ser
+ele não é nenhum,
+pode beirreir,
+o tempo de
+qualidade de visualização,
+mas ele é
+extremamente flexível,
+então,
+você consegue fazer
+a visualização
+do jeito que você quiser,
+em companhia de detalhes,
+tem muitos parâmetros,
+então,
+você consegue integrar
+ele com a matemia,
+é,
+tem várias sonalidades,
+como a gente pode
+devender uma pena
+um extremamente versátilha,
+e recomendo ser de
+para vocês,
+é de,
+a primeira opção,
+tem um de visualização de dados,
+um Python,
+é,
+num Python,
+num Python,
+é,
+há somente um
+looteiro,
+aqui eu pedação de matemática,
+então,
+ali se você quer fazer
+uma raiz quadrada,
+uma exponencial,
+se quer fazer
+uma função beta,
+enfim,
+uma coisa de tipo,
+você não vai lá,
+e vai definir a função,
+como um Python já tem esses,
+esses,
+esses,
+esses funções dentro dele,
+né,
+então ele tem a biblioteca,
+tem as funções,
+tem os métodos e classes,
+então você era
+dentro de,
+do meu Python,
+consegue usar os métodos
+para fazer o operativo
+em matemática,
+e ganhar tempo.
+Seborn,
+é uma fechamento,
+mais estatística,
+por isso,
+vou bloquear que
+entre analistos
+indiscitidades,
+o seborn
+é construído
+em cima do mais
+ponto de libero,
+fazer muito legal para visualização
+enganalistatística,
+então na parte de pet potas,
+sendo me dando,
+é na explenci 2,
+a gente vai começar os aos seborn,
+ele é uma feira
+amistatística,
+mais voltada para analista
+e sentisse de dados,
+na visão de pacificidade,
+todos os as biblioteques
+são bibliotecas
+específicas de machine learning
+e LLMS,
+então o que a gente tem um site
+que te learning,
+que a principal biblioteca
+de machine learning
+então lá você se tem um usadoritimo
+de principais algoritmos,
+a originalização,
+a Rainbow Forest,
+a Negração Uninear,
+a Negração Logista,
+então todos esses principais algoritmos
+estão lá,
+a Amazonas do site de learn,
+então é muito prática,
+você não precisa
+criar o algoritmo,
+então isso é muito legal com
+2,3 dias de código,
+você consegue usar
+tudo que o site tem
+para o Thereseno um nível
+muito complexo,
+então ele amistraima
+também, ele pega ele um algoritmo gigante
+e complexo com um algoritmo
+com o Rainbow Forest,
+ele concentra de 2 de nisso de código
+e ele está mistrado em muito prosoal,
+facilita a vida,
+porque ele é uma construção
+para a extrair rede neurais,
+então ele está em seu flow
+que é a base de
+que são tempestores,
+é a base das redes neurais do
+de energia
+e construir ele
+basicamente em interface
+que você consegue
+poder estar mais quase construído
+a rede neurais,
+tradicionales,
+nós adicionar conexões
+mais básico que elas,
+o LinkedIn é um feramento
+sim instado da arte
+de 2 anos para a cada um dos
+que espalhe com o meu atécoles,
+temos de integração
+de modelas de linguagem
+gigantes,
+com fútres
+informações,
+de populistas,
+então o lentilhão ferramenta
+que serve para integrar,
+por exemplo,
+aí a o chat IPT
+com o seu banco de dados entérios,
+então esse é um projeto que eu já
+passe a IPT também,
+é para o jeito de chat bot,
+então a gente botou o GPT,
+a GPT4,
+como um chat bot de uma Copaníria,
+e o contexto que for nesse
+o praeve foi o Lamed Chenhante,
+fez do Lamed Chenhante,
+então a gente fez uma consulta
+no banco de dados da empresa,
+jogou esse contexto de
+quenharo clientes de cada
+conversa,
+para o Apeido GPT,
+então ele chegava a
+antes de conversar com o Bruno,
+já sabia que o Bruno
+tem 30 anos que o Bruno
+é de Brasil, que o Bruno fez
+em jéria de produção no NB,
+que o Bruno trabalha agora no Bruno
+para refugar,
+então ele sabia tudo isso
+antes de conversar com um
+um cliente,
+e o Apebústio também,
+porque hoje em termos de
+classificação a regressão
+dos modelos mais,
+mais tem forma mágicos que existe,
+mas também é uma
+construção em cima do marro de decisão,
+então sem de forder,
+coisa de mais de 70 anos atrás.
+Os jéus dados aqui,
+é muito interessante a mineração de dados,
+e que a gente não vai entrar no detalhe,
+mas em geração de dados
+não tem muito legal,
+principalmente para um analisto
+e cientista que está querendo
+confrir o boste folho,
+e existem escodades,
+e que conseguiram dataça
+sobre um termo específico
+que interesse,
+então às vezes vocês vão
+ter que votar nozinho aqui,
+é muito difícil sobre seu lênio,
+e para sentir se ditados,
+como é se trabalhar,
+em conjuntos de dados no Apeores,
+a encher entre no Bíguida,
+então aqui a gente,
+o pôr das eleastralmente
+perform mais,
+quando está falando de,
+é usar CPU,
+que é isso que a maioria dos computadores
+tem é o 7 e 5 e se é o CPU,
+então o pôr nos elebe muito bem feito,
+muito bem organizado
+para fazer as operações ali,
+no CPU,
+mas quando a gente passa
+para com rio de dados de piquetata,
+então ali mais de 3, 4 milhões de dados,
+fomos muitas columnas,
+o pôr nos elecado não tem performance,
+por sificiente,
+então vai demorar
+meses para você fazer
+operação que quiser,
+e por isso,
+o pais parte,
+o pais parte,
+o diferente do pôr nos elem,
+não usa CPU,
+e usa GPU,
+então ali usar um idade de processamento
+o gráfico do seu computador,
+se focazo,
+ou da lube,
+também,
+não já existe,
+mas ele usa a unidade de processamento gráfico,
+porque o diferente
+da CPU,
+ela não processa das tarefas em série,
+a CPU,
+ela vai dizer que o tomomo
+tem o inôr com a mais saluta,
+a GPU,
+ela consegue
+executar para ela as tarefas,
+então, por isso,
+para a conjuntidade
+muito grande,
+é necessário
+para a gente usar a GPU,
+e o pais parte
+é uma construção,
+mas o que eu cheio
+é o pais parte,
+é o pão das
+tonadas,
+porque ele é um
+muito similar ao pão,
+vocês vão ver,
+mas ele
+é muito mais rápido,
+justamente para ele fazer
+uso da unidade de processamento gráfico,
+mas também,
+muitas vezes,
+é muito custoso,
+é difícil,
+você está lá mais
+para o localmente
+nossa máquina,
+porque tem que acensar
+a liga de população GPU e tal,
+então,
+hoje em dia principal,
+hoje dia utilizado,
+é em ferramentas
+como da tabricas,
+como o colábica,
+oferece em ele,
+também lá,
+nativamente,
+e o flask,
+o flask é uma,
+a pressão,
+a pessoa já trabalhou
+com o fronchei,
+e bem quem
+é programar o web,
+o flask,
+ele é uma
+biblioteca para servir
+o nosso modelo,
+o impacto,
+então,
+que vão ser a digital,
+você vai criar o seu modelo,
+e você vai querer
+que ela não confuma ele,
+pode ser um lado da forma,
+pode ser um aplicativo,
+ou pode ser direta,
+que eu vou usar,
+então,
+a gente faz um em de ponto,
+que como se fosse,
+um perrindo do modelo,
+e alguma região,
+um site,
+e o flask é que a gente proporciona
+isso,
+então, deixa aquela,
+é portinha bem,
+para receber uma chamada
+e fornecer a resposta,
+dando um supril Google
+e você tem uma lá para frente.
+Vamos lá,
+tipo de análise de dados,
+quais são hoje os principais
+tipos de análise de dados?
+E aqui,
+a gente vai entrar com a gente
+de diferenciar um análista
+de uns cientificidades.
+Um análista pessoal,
+vai estar focado
+muito nesses dois primeiros pontos,
+o que aconteceu
+e por que aconteceu?
+E sendo bem sincero,
+hoje,
+quase todo empreendedor,
+praticamente todo empreendedor,
+ele consegue chegar a esses dois níveis.
+Não,
+e o que vocês vão chegar
+é que podem terminar em que
+você tem.
+Mas hoje,
+e todo mundo tem uma noção,
+do que aconteceu
+com o negócio dele,
+é semana,
+vem demais,
+vem de menos,
+é chuveu,
+e por que aconteceu?
+Vende mais que
+chuveu muito,
+então pessoal,
+pediu pela fúdia,
+é vende de menos,
+porque está afinal de
+mês,
+e pessoal não crescui o dinheiro,
+então o empresário tem essa noção.
+Bom, sem ter esse nome
+no nível de administração,
+mas ele tem essa noção.
+E o próximo passo aqui,
+que quase ninguém tem,
+prevê o que vai acontecer,
+porque geralmente é isso.
+É muito pequeno,
+ele está entendendo o que está
+acontecendo, mas muitas vezes
+ele está correndo atrás do próprio
+rabo.
+E não consegue prever quando
+quando o rabo tem
+seja novo,
+não sabe quais são os
+fatores que causaram aqui,
+às vezes ele sabe o que aconteceu,
+ele sabe o poupê aconteceu,
+mas ele não sabe.
+Quando quer provável de acontecer de novo.
+Então aqui, quem começa a entrar
+a análise de essência de dados,
+principalmente a essência de dados aqui,
+como um análise de dados
+dando esse instrumento,
+o que aconteceu,
+porque aconteceu
+e quais são a principais
+fatores que levaram aqui?
+Então,
+a gente sabe que na testa
+é verdade,
+é verdade,
+é verdade,
+porque, final de mês,
+porque é chuveu,
+e porque,
+se é uma na passada,
+a gente teve 5 avaliações
+ruins,
+e isso está gerando um
+bèfio de pra gente na plataforma.
+O que é provável de acontecer?
+A gente seguir esse fluxo,
+você é uma hora que vem,
+a gente está prevendo
+uma redução no número de pedido,
+aqui, 10%
+pouca uso de decidez e desse patou.
+Então, esse é um exemplo
+de uma integração ali,
+não trabalho
+do sentilidade com a na lista de dados.
+E, por fim,
+é, qual decidão tomar,
+então,
+ele
+o trabalho do analista de dados,
+com centilitividade,
+contando toda esse história,
+do que aconteceu?
+Porque aconteceu?
+Onde é provável de acontecer?
+O gestor,
+a pessoa ali,
+que vai estar na posição de tomar decidão,
+vai ter todos os ensinos
+para saber que ele está tomando
+a decição certa.
+E novamente,
+pessoal,
+a principal habilidade
+de progestor,
+e qualquer posição,
+não sei que o mentir humém,
+saber que tomar decidão
+baseada em dados.
+Acabou que ele é negócio de
+film, de mercado,
+experiência.
+Não, hoje eu estou aqui,
+não estou uma decição basear em dados,
+ele tem um de chino certo,
+que é o disempreio.
+Vamos lá.
+É metodologia,
+Cristin,
+é isso que é principal metodologia,
+que a gente usa
+para trabalhar com dados,
+aí, então,
+para narres e quanto para a
+cência de dados.
+Então,
+a modelinha,
+meio confuso,
+mas vamos começar
+por aqui,
+é o entendimento do negócio.
+Então,
+que na gente já falou
+que está trabalhando com dados,
+é importante,
+por sentista,
+por jornalista,
+e às vezes,
+até por um dinheiro,
+mesmo que menos,
+entendeu,
+do negócio que ele está trabalhando,
+você vai cortar caminhos,
+e você vai ter
+insais,
+você vai ter
+ideias que você não teria,
+se você interesse com a negócio a fome,
+então, esse é o primeiro base,
+qualquer projeto,
+qualquer vai,
+o queuriesse interessar para
+essa esse sentido,
+tem entender esse
+o que é bom por aí,
+é isso que o negócio
+tem onde você poderia ajudar,
+e,
+segundo passo,
+tem entender com que são os dados
+dessa empresa,
+né?
+É como que é o
+o vem de dados hoje?
+Eu tenho um data warehouse
+que é um
+estados organizados na
+Nouve,
+eu tenho um banco de dados
+bocar a ONU,
+eu tenho o palírias de Excel,
+eu tenho pessoal receber
+dados por e-mail,
+eu tenho esse FTP que
+ao servidor
+a STR,
+enfim,
+dentro de tudo isso,
+onde que estão os dados,
+como são os dados?
+São variáveis no méricas,
+o que são as colunas?
+O que é cada valor?
+Então, é um trabalho
+chistato,
+sinceramente,
+muitas vezes,
+porque os seus
+vezes já cai em promodeu,
+já tem que construir o painel
+para ter os sites não,
+às vezes,
+se vai perder uma parte do seu trabalho,
+às vezes, dois,
+três dias,
+tem também tendo o dado,
+tem certeza daquilo,
+tem como são
+distribuições das suas
+variáveis no méricas,
+tem entender o que
+pode ser feito para o que ele dá,
+o que ele gera,
+se hoje em dia,
+é o pessoal monitor,
+é o que são os principais indicadores,
+então,
+é um trabalho muito bem-isso,
+de entender tudo aquele
+elemento de dados,
+e do negócio,
+para que é isso,
+a gente conseguir botar
+no ar,
+que é preparar os dados,
+os dados no mundo real não,
+que só não chega
+o britinho,
+pessoal,
+vai vir muito dado
+quebrado,
+muito ele ainda faltando
+colônia,
+com o nome errado,
+o que a gente vai ter que
+de estar,
+então,
+estúvia,
+que a gente vai ver o almo do custo,
+também,
+por isso que é
+importante,
+você saiba um mâneico
+los dados,
+porque o mundo real não
+é,
+como na maioria dos cursos,
+se você vai pegar de
+o pojo de dados do itinho,
+e conseguir construir,
+se vai ter que juntar
+coisas de muito lado,
+você vai ter que
+trabalhar para igarantir,
+se que o final
+é o dificil bonito,
+então,
+é um trabalho de benghe,
+botar monamassa,
+mesmo,
+limpar,
+tirar a poeira
+dos dados,
+garantir o que ele fique
+inteiro,
+modelar,
+e assim,
+tanto para a na escola de
+placenta idade,
+para a na realidade relacionar
+diferentes tabelas,
+diferentes cosos de dados,
+os já usam a chave iprimária,
+para criar o seu modelo de dados,
+que você vai levar em fim,
+para o par de aéprote,
+para fazer as suas análises,
+ou também pode modelar em pai,
+então a gente pode juntar
+vários conjuntos de dados
+e o que só nos pando,
+então a límica vem a critério
+do oral de cidados,
+como o modelo dados,
+mas para o sentido de dados a
+modelagem,
+é basicamente escolher,
+que o algoritmo ele vai usar,
+qual previsão ele vai tentar fazer,
+qual conjunto garantir o pojuto de treino,
+não está vazando o pojuto de teste,
+então todos esses detalhes,
+ele é um sentido de dados,
+ele vai ter que tomar na modelagem,
+também vai entrar a forma longo do curso,
+e depois, no que a gente faz
+conosco modelo,
+vamos ter que avaliar,
+trô uma analisidade de forma
+muito listo sobre o leaco,
+o panel,
+garantir que ele está com os indicadores,
+é muito o vêm vai com a alta gestão,
+que ele vai estar consumindo,
+aquele panel,
+propriamente,
+ou com a operação,
+então,
+é você levar por cliente,
+garantir que ele está entregando o valor
+por cliente,
+porque,
+que nem a gente sempre fala o panel,
+o panel não entrega nada,
+o que entrega o valor,
+que você agrega um que está construindo
+ali,
+pois vão as suas torre,
+então,
+é um trabalho também muito de tal,
+com com um cliente,
+com o empasseiro com o cliente
+do projeto,
+garantir que ele
+esteja sendo ouvido,
+porque se gostei,
+se ficaria no seu mundo,
+posto-e no panel,
+chegue no fiburgênio,
+entrega nada de valor,
+pode ser o panel mais bonito,
+do mundo,
+se o cara não veio valor
+naquilo,
+não tem nenhum ponto,
+né, pessoal?
+E por fim,
+botar para produção,
+que é,
+justamente isso que eu falei,
+muitos projetos de senhora
+se já lives dados a cabo aqui,
+pessoal consegue rodar tudo,
+avali, beleza?
+Tem um ok,
+chega na hora de botar em produção,
+ou ninguém ver,
+ou ninguém usa.
+Então esse é o ponto,
+ao longo de cada detalhe,
+vocês têm que ir a perfilção
+a abrir a primorano
+para garantir que quando chegar
+aqui vai ter valor,
+e a isso que a gente vai tentar
+transmitir,
+também é que ao longo do
+Budcamp,
+como sair do nível de
+só escrever,
+e entregar no panel,
+escritem de código,
+para chegar no nível de
+entregar valor
+com um entrega de um modelo de dados,
+na ibota em produção,
+então você tem o modelo
+que gera previdores por retas,
+é empresa consegue
+retabilizar em cima,
+ou você tem um rotina de análises
+de dados que consegue
+gerar valor,
+para a autojetão e apoiar na
+tomarei desses partes seis,
+pessoal,
+a experiência aprendizado
+aqui na tripletem,
+vamos lá.
+Então,
+para estar fundamental,
+não tem outro jeito de aprender
+pai,
+porque não
+é rodando,
+como vocês têm que botar
+uma namassa,
+as resistivas,
+lá no chat PT,
+os camas bolas,
+mas não em comendo,
+não lá na plataforma,
+façam a estar eifas,
+então, a gente tem
+duas grandes formas de praticar,
+na tripletem que são os
+blocos de cores,
+que isso que quizes,
+que são incorporados nas
+distões,
+e também,
+hoje o jogo tem o
+tipo de múxico que você
+desenvolveu aqui,
+pessoal que já está chegando,
+é, no final desse que
+vamos ver,
+como que é o jogo tem
+o tipo de múxico de projeto,
+e aí,
+sim,
+você desenvolvei essa
+noção de
+como que é um
+a vida de um sento
+invedidas na prática,
+é isso,
+pessoal,
+não sai muito daqui,
+é,
+veja agora aqui no português,
+tem até o mundo real,
+é isso aqui que a gente
+utiliza,
+tem a gente tudo visual estúdio,
+eu acho que realmente prefiro,
+mas não vai estar muito disto,
+se vai ser o ambiente
+que vocês vão ter
+trabalhando com dados,
+pode ser,
+como usar
+ali anos,
+tudo pessoal,
+você aqui em ponto
+muito interessante,
+quem já teve mais
+contato com programação,
+ali é mais tempo,
+já parecem bem de dar
+mais tempo,
+vai lembrar,
+do stack overflow,
+o stack overflow foi o meu melhor amigo,
+assim,
+por anos,
+e ele era uma ferramenta de
+pegou tenhas postas,
+então ele um paralelo,
+acho que dá pra fazer
+o Yahoo Repostas,
+era muito famoso,
+primeiro Brasil,
+então ele era o Yahoo Repostas,
+pra programação,
+então ali o pessoal de
+front-end,
+de bequeende,
+de engenhariedar
+no sense de dados,
+exceu,
+da Axe,
+então ele é
+mais do Parbeiro,
+então ele sempre foi
+a referência,
+é,
+papo que de
+20 milhões,
+aqui no seu
+o volô,
+mineixo por dia,
+então aqui 20 milhões de
+vizalidades do
+explodidas,
+não está com o EFflow,
+eles se eram mais ou menos o volô
+me mede deles,
+aqui o Shadipet foi lançado,
+e,
+basicamente,
+a lógica,
+Gustavo Vemflow era,
+se eu estou tendo esse problema,
+alguém já passou pelo
+mesmo problema,
+então eu ia rodar um cojo
+ali no par,
+então se eu tinha aquele problema,
+eu ia querer,
+eu ia lá no Stacober Floco,
+piorava,
+o Lava no Google,
+e a primeira opção
+era estar com o EFflow
+e lá,
+e vieram esse cara
+que passou pelo problema,
+se me lá,
+então,
+beleza,
+aí alguém respondia,
+não é o X-Pencha
+respondia embaixo,
+e,
+e,
+geralmente,
+a solução mais votada
+era solução resolvido,
+então você conseguia pelo
+e arrogar expostas,
+e vê alguém que passou
+pelo problema,
+se me laram seu
+e respondei,
+então diferente do
+que muita gente acha,
+pessoal,
+não existe
+programador,
+não existe,
+quer dizer,
+pode existir,
+eu não conheço,
+que centa,
+começa a programar,
+igual no filme,
+se fica lá,
+três horas programando,
+sem irrá um movegula,
+não existe, pessoal.
+Arrotina de um
+de alguém trabalha com um
+qualquer tipo de
+programação,
+é muito iterativo.
+Vocês vão errar,
+vocês vão esquecer o
+bálico,
+e vocês vão
+simplesmente
+incrementar nesse conhecimento,
+quanto mais
+vocês vão usando,
+mas não existe ninguém
+que centa,
+desde como um mundo é mundo,
+escreve um código inteiro,
+de ponta ponta,
+sem parar
+e comer de primeira,
+ser a.
+Quando ele rodar aquele código
+de gigante,
+vai dar um errinho,
+vai ter o bambigo,
+vai ter alguma coisa
+algum lugar que ele cresceu,
+e é mais ou menos isso.
+O está com o reflou,
+ele servir para dar
+suporte nesse
+perguntas e respostas.
+A partir do lançamento
+de o chat,
+é PD,
+ele começa em 22,
+a queda foi exponencial,
+porque,
+para que eu vou perguntar,
+vou estar com o reflou,
+se o chat é PD,
+com o som,
+tudo o que tem no
+está com o reflou,
+e mais.
+Então,
+é isso,
+é o está aqui,
+o gente PT
+e consegue centralizar
+informações
+da internet,
+especialmente nesse caso
+onde ele foi a
+ações de texto,
+porque as
+programas eram feitas
+por texto,
+como muito fácil.
+Então,
+ali, no primeiro momento,
+já,
+que está aqui de,
+é,
+menos de um ano,
+o está com o reflou,
+foi engulido.
+E essa foi uma realidade
+que eu guina minha prática.
+Hoje em dia,
+eu,
+desde o 14,
+eu acho que eu não
+entrei no está com o reflou.
+E,
+e,
+em dia,
+é,
+realmente,
+no chat PT,
+pra resolver
+os meus problemas no trabalho.
+Então, assim,
+não adianta,
+a gente negar a existência
+afirmamente existe,
+e ela está aí.
+Ela vai existir
+daqui pra frente.
+Só vai evoluir.
+E a gente tem que tratar,
+ele vai
+aí,
+como um piluto,
+não como passager.
+Então, você tem muito legal
+a tá na foto do
+vai então,
+cena,
+para a gente ter essa noção.
+A gente tem que ser o piloto,
+a gente tem um,
+uma Ferrari aqui no
+caso do motor,
+então,
+cê era uma clara,
+mas,
+se a gente,
+o que tá aqui,
+eu to tem um carro tão bom,
+se a gente notiveu
+um item,
+sem me trotando,
+a gente não vai ser campeão.
+Então,
+a gente tem que saber
+como usar entre a gente
+é artificial,
+como fazer
+o melhor uso dela,
+pra conseguir
+realmente aprender,
+e não restombe.
+Então,
+é isso,
+a gente não pode usar
+ela como ferramenta de
+cola.
+Então,
+se eu quiser,
+a fazer um projeto
+muito legal,
+aqui naquele ponto,
+aí,
+conseguiu um projeto em piva.
+Você pode lá no GPT
+e fazer me deu um projeto,
+o feito por um gênero ganarza
+para um,
+um sprint de paitombásico
+e um botiquei,
+e de sense de dados.
+Ele vai ajudar a solução incrível,
+mas você vai aprender disso,
+né?
+Então,
+muitas vezes,
+ele na vida,
+a gente já presta
+bem que o legal não,
+não é?
+Onde a gente chega,
+mas como a gente chega,
+o legal muitas vezes
+não é o destino,
+mas do caminho,
+e na educação exatamente
+estes vão ver que o
+processo aí de aprendizado,
+muitas vezes,
+vale muito mais do que,
+tem um projeto lá que vai receber
+um 10 aqui da tripotenta,
+e aí,
+eu pelo menos vejo dessa forma,
+então,
+e aqui eu já vou entrar
+em outro ponto,
+e eu vou compartilhar esse link depois
+lá no discólogo,
+que é como usar a IAR.
+Então, esse aqui é um,
+é uma
+publicação,
+na documentação do próprio GPT,
+que ensina algumas gicas
+para vocês usarem aí a melhor.
+Então,
+aqui ele fala
+da texto de referência,
+quebrar tarefas complexas,
+em tarefas menores,
+isso aqui eu uso em bastante,
+essa semana,
+eu estou trabalhando um código
+lá no carrer fúdio,
+mas eu está com ninguém que
+é tudo linhas agora.
+Então,
+toda vez que eu jogava lá no GPT,
+o mil queitas dinhas,
+e aí eu cheguei no ponto de
+tava em,
+eu mesmo tava em perdendo,
+nas as postas do GPT,
+e e falem,
+não, vamos resolver aqui parte
+a parte,
+então,
+o motorularizar ali,
+por maior que ser de motoré
+foi motorularizar.
+Dá tempo para o modelo pensar,
+então,
+às vezes eu já tava instalando
+esse é um ponto muito legal,
+você tem uma tarefa muito complexa,
+você pode chegar para ele falar,
+e o que esteue o work
+e dá outro com o Instagram,
+então,
+se não precisa ir com pressa,
+não estou com pressa,
+pode demorar um pouquinho,
+então,
+o seu tempo,
+ele tem também,
+ferramentas externas,
+justamente aqui o que a gente falou,
+link flow,
+um pai que eu nesse caso,
+foi esse,
+e foi uma ações ali,
+sobre o conjunto de dados
+próbamos,
+mas aqui,
+a gente já tá entrando
+em coisas mais complexos,
+mas aqui tem alguns exemplos,
+não é?
+Então,
+essa mistratagem muito legal,
+tá pessoal.
+Deze pro GPT
+adotar uma persona,
+então,
+aqui, por exemplo,
+se eu quero fazer um projeto
+sem cidades,
+posso falar,
+e eu quero,
+às vezes,
+tomar referência do que
+seria um projeto de dados,
+você fala a faça,
+essa é esse projeto aqui,
+da atrapotem,
+no nível de um sentícilidade do junho,
+e no nível de um sentícilidade do senha.
+Então, ele vai assumir essas duas pressas
+nas ali,
+e vai fazer duas caminhos diferentes,
+com base em que tipo de pressa
+ou não você video para lear assumir,
+outro ponto também,
+quando você fazer algo uma referência,
+é um texto,
+enfim,
+no meu caso,
+por exemplo,
+quando eu digito o código,
+o boto código,
+entre as pastas,
+para ficar bem claro,
+para aí o que eu cojo,
+você pode botar também
+em deixar-vos aqui no lugar de até mesmo,
+você pode botar,
+eu vou fazer aqui,
+e eu vou se ir lá no pronto,
+te falar,
+eu vou falar aqui sobre esse artigo,
+eu vou em boto sobre chaves artigo,
+como é esse artigo,
+tem minatigo,
+e eu colo tudo que tá no artigo aqui,
+então,
+é gostar de dizer,
+de para o GPT,
+o que é cada coisa,
+acho que tá ali,
+é a informação que você tá passando
+para ele,
+e tem várias outras
+outras dicas que ele vai dando aqui,
+passar, passar passo,
+fornecer exemplos,
+então às vezes você quer,
+quer mais e-bund,
+de alguma coisa,
+você tem que dizer para eles,
+onde você quer,
+ah, quero um fórmido de,
+então já é que o dia é um sentido de idade,
+começa dessa forma,
+e você já colo lá na lhesidade,
+então já vai saber
+que tem que começar na,
+naquele tipo de generalidade,
+então você passar exemplos para ele,
+tá muito também,
+então eu não tenho tudo isso,
+eu quero resposta em 50 palavras,
+em dois parágros,
+eu fiz em cima,
+é que era o código completo,
+que era o código resumido,
+e tudo isso,
+depois eu vou passar aqui para vocês,
+mas aqui também,
+é um bom exemplo de,
+de como quebrar,
+que tá lá,
+é fazer menores.
+E em geral,
+é isso, pessoal,
+vocês vão ver,
+como que essas ferramentas,
+como que ela ajuda,
+mas no fim do dia,
+o que mais importa é você saber usar,
+e tem que entender as limitações da auto-taminha,
+hoje a grande limitação de,
+é ele,
+principalmente já de repente,
+que é a melhor disparado hoje em dia,
+é a questão de memória,
+então se você tem uma conversa muito longo,
+com ele,
+ele vai se perder,
+que é,
+não sei o humano,
+ele não consegue voltar
+em mais de 5, 6, 7,
+e completar a informação,
+e muitas vezes ele não consegue realizar as tarefas,
+mas populaics, assim,
+eu te li aqui,
+num momento que hoje a 2 de
+auturo,
+que a gente tá gravando esse toz,
+que acha a IA ainda,
+tá muito mais no muito longe de
+robar em pregunte alguém.
+Isso fala nem parte técnica,
+porque se você ele joga,
+uma tarefa específica para ele,
+ele consegue entegar,
+tranquilo,
+ele vai fazer para o volado do item,
+do item,
+vai ser bem,
+mais por a gente pegue para ele fazer um projeto de ponta conta por essa questão da memória
+ele vai acabar e do contexto ele vai acabar a ser nendo pouco e mais importante na
+pesaço sempre lembrata meio que no fim do dia nós somos humanos nós e nós como
+humanos não somos só o que a gente estuda né então nós somos só nossa habilidade
+de tempo que você é a minha opinião pessoal a gente também leva o junto de
+experiências as emoções as relações que a gente tem na vida a tudo isso é um
+conjunto que que forma em nós somos como seres humanos e isso é inteligência a
+especial nunca vai ter e não vai conseguir ter uma experiência de saber como
+conversar com o cliente para o maior momento qual caminho seguindo um projeto qual
+a melhor um site para fornesse ser como analista como se existir dados é enfim
+essas coisas ainda a entregisar especial está muito mais muito distante do mundo real
+e para a minha essa é a maior limitação da ferramenta hoje
+parte hoje pessoal já estão finalizando aqui e agora vamos realmente entender no
+detalhe quais que são as ferramentas já aprendizado aqui do bootcamp primeiro
+a gente tem as tarefas então aqui nas tarefas dentro de cada tarefa a gente
+tem que né a gente falou o sprint o capítulo e as leções dentro de cada
+a lição tem um bloquinho de código específico então deprenela no bloco vai ter
+só uma pergunta teórica ou vai ter um bloquinho de código mesmo para
+para vocês fazer então é um aprendizado gratinho você não tá ali ao longo das
+falas esconderas perguntas fazendo código e usando também os blocos de
+de paito que a gente tem aqui então aqui eu vou pegar um exemplo esse aqui que a
+gente consegue ter uma mini mini paitos e aqui não mini no tipo quezinho aqui é uma
+idézinha pequena aqui ele consegue dar uma dica sobre que a gente tem que fazer a
+gente pega a nossa nossa o nosso objeto aqui aqui dá falando para usar o
+método sorte analis de móvios tiver aqui vamos aplicar e depois para a
+primeira lista vamos ver se a gente tá fazendo sé então aqui a gente ordenou
+aqui a gente vai primeiro e pra conferir pessoal é só vem aqui e apertar o
+plei aqui vai lidar a resultado tudo certo então aqui eu ordenou um é um
+de alfaretica os nossos fios e aqui eu vou validar para a gente ver se tá
+saco que exatamente é isso infelizmente ele se apode eu vou denar em orden léxico
+gráfico não sabia que não saber as estendes das palavras para ver que eu
+prender mas é o aze léxico gráfica e ele não tem mais para ela
+bem consideração quanto você gosta então aqui show mostra solução
+vocês validos e você ele então aqui são bocos emos de código então
+pirolas emas de conhecimento e também lá para frente vocês vão chegar na parte do
+projeto na pessoal então aqui no final da experiência a gente tem o projeto e aí
+sim vocês vão conhecer o juteiro atibugio o juteiro ele é uma forma de se pegar um
+módulo de um calco um código de Python o módulo a risa ele impequer os bocos exatamente
+aqui eles bocinhos que a gente viu ali então cada boco de código a gente chama de
+célula e dentro das celas elas vão seguir em uma hora bem natural né então
+se você se eu vou estar aqui e ele vai executar célula célula de cima para baixo
+é esses objetos aqui comentado também são celas então aqui eu posso criar um
+subtítulo eu posso criar um subtítulo e eu posso criar um subestúdito então
+aqui eu posso ordenar então criar estrutura de índices o notivo que a gente
+oferece toda essa facilidade ele você pode fazer as credentes funções aqui
+também você pode levar tabelas então esse é o fomatinho de levando a tabela
+e você coloca o que os e-fans e essas bars para consolidar a tabela então você
+consegue levar tudo no tibu que é onde vocês vão apresentar para a gente você
+onde vocês vão ser apalhados pelos monitores de projeto para os avaliadores de
+projeto e aqui onde vocês também vão basicamente criar o código de vocês no
+fim do dia se vai ser um arquivo no tibu que se vai ser um arquivo.py então
+vocês não vai ser mais ponta.py botanche aqui você consiga de ponta ponta garante
+que eu pode gorrojo e essa é a estrutura que deu no tibu que então aqui a
+gente pode criar um novo tibu que brincar no gêner de quiseana então aqui
+interessante é que o no tibu que já vem com tudo estalado então a gente não
+precisa estalar no biblioteco ele já vem com tudo estalado para descerar o
+tibu e ele já vem com as principais notas estaladas então aqui sem
+gente tem o pandoas é eu vou criar um gêner que é isso a frente
+o pão pelo web e aqui já está tudo estalado então o legal é isso então
+está a frente para tá em bravo.pente me vou poner um dado mas aqui a gente
+já consegue fazer tudo dentro dessa própria estrutura né então aqui é
+caminhando andassella sela aqui se consegue o que é o que é o basicamente o
+python que está rodando por trás então aqui você pode só ter opção do
+python 3 mas aqui você pode iniciar e salva e todos os arquivos que
+vão dar suporte eles também vão tá aqui então se você quiser adicionar por
+fazer um arquivo ccv você vai ter que voltar aqui e adicionar na
+sua estrutura então você vai decontar aqui no open e aqui vai ser esse
+estrutura de pastas essa é a mistura de pastas então esse aqui são os
+notibubes que eu cria e todos os embrando funcionaram e se eu quiser subir
+alguma imagem minha pessoal eu veia aqui eu soubeia aqui minha fortinha e vou
+fazer o outro pronto tá no youtube tem no tipo no meu ambiente do jogo
+desse eu quiser fazer importar a imagem para algum no tipo que pai
+então por exemplo aqui não eu consigo simplesmente porque ela já tá na
+mesma pasta né então é com os photos que são ambientes que vocês conseguem
+para fazer o projeto vocês então vocês vão poder adicionar ali o
+júctido a dos imagens que vocês realizar em gráficos salvar então um
+pouco é o vídeo é funcionário se quiser salvar a repente você vai
+fazer tudo aqui na pasta é voltando Google Colab
+então Google Colab ele é anferramento incrível que o Google entregou para a gente
+é principalmente cientistas de dados mas como analis também vocês vão usar
+bastante o Google Colab o o colab eu recomendo muito para fazer os
+projetos aqui do curso
+realmente incrível que é que além de CPU vocês conseguem também usar GPU
+e o GPU é justamente a unidade do pessoal meto grafica a gente falou a
+Google oferece um GPU gratuito eu vou para o ali são terminando o
+estou aqui na chat pessoal esse júcte rub e usamos no dia de no trabalho sim
+a maioria da pessoa trabalha com cincidados para é feriosar o júcte
+rub o júcte no tipo o que tem o que terão o que terão a baseca
+o que é basicamente ele é central do do nosso ebook mas muita gente para
+feriosar o nosso ebook mesmo eu basicamente prefiro usar o ves com o
+que é esse bichinho aqui é esse que é um código meu mesmo do meu trabalho
+eu prefiro o ves com o de bichinho que estão em andes mas
+de tempo de funcionalidade eles são bem parecidos aí em fim trazemos uma coisa
+não de boque o júcte rub pra mim é um pouquinho mais visual mais antigo ali
+mas temos performance não impacta nada então voltando aqui para o
+o Google Colab e o Google Colab também é mais um desses então se tem um
+o colab tem o júcte no júcte no júcte a grande vantagem do
+Google Colab é aquele online então aqui qualquer uma conta Google
+chega entre aqui você vai fazer sua conta e consegue inclusive usar uma
+GPU então pra você que não tem uma placa de vídeo
+então se o computador não tem uma placa de vídeo você consegue usar
+a placa de vídeo da Google ou porém e aqui também eles tem TPU
+TPU é tensor processing unit
+a galera usa TPU porque ele é uma umidade de
+possamento especializada para atensores que são a base do
+do de redes ter o raiz então modelos de linguagem grandes
+ele é a M, a toda base deles é comprodedem ter pêlust também então
+o que a diferença não ter pêl com o júcte P, o TPU é que o TPU
+é utilizado ali pra fazer esses grandes volôms de calco específico de
+redes não erais enquanto o j pêl por exemplo é muito muito bom
+para redes não erais com o volosso é mais por exemplo então processamento de
+magia e tudo o j pêl e aqui como funciona ele é muito similar
+ao um último aqui de o peterrabe de o peterrabe no
+o que normal ao que a gente tem lá no escoge aqui a diferença aqui
+tem algumas ferramentas até mais fáceis do Google então que se consegue
+botar o ímice se consegue botar em migrito e tá
+ali com a gente consegue botar algum código a gente consegue botar
+uma imagem se eu quiser subir aqui qualquer imagem eu consigo
+ele já faz todo caminho né
+ele tá aqui ele fez um bichinho meu grande
+mais deu certo então eu vou tirar aqui
+não estou atrás três três Madison e então
+Kera através o algum bogue pessoal à minha cara lá
+botar
+então
+esse é o um o bolário
+que você não usar um colário de forma do
+assim, claro que vocês usam um jogo que tem no último oque ou no próprio VSC Coach,
+mas a grande vantagem do colabo, então é que a gente consegue usar uma maior
+de pressamento gráfico, então vem pra gente trabalhando com projetos de dados,
+mas a maior é uma boa solução parte aqui pro colabo e a maior no segundo,
+você consegue integrar também aqui diferente do no último do jogo PT.
+E do próprio VSC Coach, você tem tudo no Drive, então se você quiser dar um suporte,
+subir um aqui, subir algum imagem, você vem aqui e bota o seu Google Drive,
+então você com o Nike tá aqui, o seu Google Drive, você vai conseguir puxar diretamente
+da sua pasta pessoal, da sua pasta trabalho, então não precisa se preocupar,
+aqui você vem aqui, a monta a Drive vai lá, só ver tudo que você precisou.
+E o de aula vai ficar gravada, ela tá sendo gravada, pode ficar tranquilo.
+Pode terminar depois.
+E aqui é isso pessoal, então que é essa lógica mais do Google Colabo consegue usar então como
+o jogo que tem no Tribunque consegue subir qualquer aqui o Tribunque que você precisar,
+aqui a gente consegue rodar o código, ele já vem com as bibliotecas importadas também,
+então aqui a gente consegue ler um data frame de exemplo,
+que ele tem aqui, ou para não ser a gente não importar o Pandas antes,
+e ele também é muito rápido de processamento, então que a gente já consegue
+não dar, então aqui eu não tenho esse arquivo, não dá para o que você é se ver,
+se não mostraria para vocês, mas aqui dá para ter um gostinho, né?
+Funciona a gente vai se se dar de sair se ver, a gente só subir aqui,
+e naturalmente já consegue consumir de inocolable.
+Não fique a estados aí de marcar,
+isso aqui se você for olhar um planexão, né?
+É um excelo mais bonitinho, mas está tudo aqui,
+a partir da semana que vem, a gente vai entrar no detalhe, mas se vocês quiserem
+já dando uma conhecida no Polabe, é uma ferramenta muito bacana,
+também tem essa capacidade de poder compartilhar um código com colega,
+simplesmente aparentando parte de ela, é muito legal,
+porque esse é um problema, né, quando a gente está trabalhando com dados,
+às vezes eu tenho a bibliotepe no versão tal, você está na versão diferente,
+então se eu te mandar, você é cansado, abre de algum conflito,
+e aqui não, tá, tá todo mundo na mesma página,
+o insta-me é muito legal, eu recomendo, viu,
+que vocês usem no projeto o Google Colab, então,
+o controle aqui no colabe, é o Bineum Brunho, tá?
+Eu acho uma coisa bacana que vocês usem o colab,
+chega aqui, quando fosse o Bí lá para o projeto,
+aí, mesmo usar o notivo que você consegue subir,
+o próprio arquivo, né?
+Então, aí, estudo de fazer lá,
+você, o próprio peixe de daqui,
+vamos botar aqui, ó, em vez de botar aqui,
+e via para revisão, você consegue botar
+o arquivo que você fez lá no Google Colab, né?
+Você vem aqui, projetad final,
+se você não disse que isso é um projeto,
+e tem opção de subir o notivo, né?
+Então aqui, vamos lá,
+ou faço o projeto, o projeto em seu computador,
+que faço o oplôs quando finalizar.
+Então, tem gente que preferem vescog,
+tem gente que preferem o Júcteno Tibuque,
+tem gente que preferem colab, então, fica a vontade, pessoal.
+Comem eles são as ferramentas,
+vejam, em vocês, sessentes mais avontagem,
+onde vocês, aqui, avisou, o mais agradável para você,
+tem gente que acha o Júcteno Tibuque mais limpo,
+eu gosto do vescog de pilião um pouquinho,
+ele deixa que as coisas brilhantes,
+e para isso que a gente mais inteligente, né?
+Não, obrigadeiro.
+Eu gosto porque é bastante visual,
+tem várias opções de distanções também,
+então é bem interessante também,
+se vocês precisarem é uma, é bem interessante.
+E agora, vamos voltar para o nosso último ponto,
+se é o Github,
+então, para quem não tem Github, eu recomendo,
+talvez vocês não vão usar logo de cara ainda,
+mas o Github, ele funciona,
+vamos dizer assim como um Google Drive,
+no seus poesios,
+é onde você vai compartilhar os seus notibus,
+que os seus códigos ali, ponto pai,
+e mandar pessoas bolegas,
+não dá para mim, para tirar dúvida,
+repente, para um estrutur,
+é onde quando vocês vão estar trabalhando,
+no mundo real,
+vocês vão tocar os projetos,
+então, no projeto no real,
+ele tem ali uma pasta no Github,
+onde cada um das pessoas que estão trabalhando,
+ele vai todo dia atualizando essa pasta
+com que for relativo seu trabalho.
+Então, é algo que garante a Lixha,
+a gente conseguir tocar os projetos em paralelo.
+Ele é algo que também eu consigo pegar aqui,
+esse notebook,
+eu decupense esse Github, esse repositorio,
+com esse link aqui,
+eu vou lá no meu computador com dois comandos,
+eu consigo opiato do isso, essa pasta joga para o meu computador.
+Claro, poderia vir aqui, baixar o Zip,
+mas também tem outros canos para a gente fazer isso,
+que te reberia,
+permite a gente conseguir tocar os projetos em paralelo,
+compartilhar com o teu,
+o do hospedar,
+pode-nos como a facilidade maior,
+esse é o Github do Anilton,
+ele é um estrutur aqui,
+nada de repos tempo,
+ele é o que está mais tempo,
+então ele foi virando,
+vem que a memória é viva,
+o Github,
+e aqui a gente tem vários laboratores que a gente vai passar,
+é um longo do das aulas,
+então que você vai começar a notorar,
+dá uma olhada laboratores de pai,
+então depois para que para o tratamento,
+analis dados,
+analisizportórios,
+desculpas, distribuições,
+até a gente chegar na frente,
+tanto em machine learning,
+seja dados,
+contém analisidades.
+Então, Github no geral,
+esse não precisa se preocupar,
+mas nesse primeiro momento,
+é mais temorução do que a ferramenta,
+que ele vai ser mais ou menos nosso Google Drive,
+dos corgos ali,
+onde a gente vai as verdade,
+então que tranquilo,
+você subir um notebook aqui,
+a gente consegue inclusive dentro do Github,
+abrir um código do Polave,
+eles têm essa parceria,
+então o Github,
+como o medar de do mundo live,
+Google também,
+então eles com peste,
+e a gente tem gração,
+aqui a gente consegue fazer tudo
+dentro do colave,
+então esse é o legal,
+a parxida semana que vem,
+esse vai ser o nosso ponto de parxida,
+vai ser o nosso laboratório,
+parxida semana que vem,
+e vai começar a botar em mão na massa.
+E pessoal,
+chegamos ao fim,
+acho que conseguimos
+ter uma boa introdução,
+e terão botando a mão na massa,
+vamos com calma,
+pega em o final de semana,
+para olhar com calma,
+o boterudo,
+nesse primeiro momento,
+a importante não se tem,
+uma boa noção do Python,
+ali,
+não precisa ser meio-mestre,
+mas é legal,
+semana que vem,
+a gente tem uma noção
+em mais profundo,
+que a gente vai começar a olhar,
+e vamos agora responder os dúvidos,
+vamos dar pra aprender isso tudo zero,
+sim,
+eu acredito que sim,
+cara,
+eu acredito muito no conteúdo
+de que,
+numa linha de pensamento,
+que a gente consegue aprender qualquer coisa,
+no nome de que a gente dedicada.
+Então,
+eu acredito que uma pessoa de satenta anos,
+consegue aprender a sufalar,
+se ela quiser se dedicar.
+E eu acredito que você é um dreto,
+também consegue
+ter total capacidade de aprender
+na lista de dados,
+principalmente no ambiente,
+como você já está aqui no botercamp,
+com os trutores,
+com os tutores,
+numa comunidade,
+e com o curso,
+esse é a gente como a espelha frente,
+não tem um puker,
+você não aprender, claro.
+A gente não está falando com você vai sair daqui,
+um mestre,
+um espelho sentido de dados cêniro,
+um étio da adcênia,
+a vida que traz esse pra gente,
+não é ninguém vai virar cêniro em 16 meses,
+7 meses,
+é isso que é a experiência,
+mas aqui vocês não têm toda,
+toda material e toda o suporte,
+para chegar lá.
+E o legal é que aqui vocês não criam a comunidade,
+que vocês não levaram por resto da vida.
+Então,
+é contente também da isso.
+O primeiro passo é o que mais fície,
+e o primeiro passo já deram, galera.
+Vocês estão aqui, primeiro passo já deram,
+e não tem por quem voltar atrás.
+Agora vamos ver a próxima dúvida,
+da mistelha,
+que estão aqui até o novo escoujo,
+e percebe de uma tela preta,
+já no colabe,
+e jupiter telas claras.
+Pra visão, acho a tela preta melhor.
+Por legal, meu chele,
+eu também acho isso.
+Eu sempre que a minha vista fica menos cansada,
+pessoal, eu acho que não é o dia.
+Tem possibilidade de configurar isso nos outros laboratórios.
+Vou perguntar.
+E no colabe, eu sei que tem.
+Então aqui no colabe,
+a gente tem aqui,
+se eu amiganei aqui,
+ele de torna o necessário,
+tem uma adapta de darts.
+Então aqui,
+você tem aqui,
+na engrenagem,
+e senti muda que eu tenho a pra dar.
+E eu já vou deixar aqui, né?
+Pronto, nossa,
+muito melhor, por exemplo.
+E no colabe,
+que aqui eu confesso que eu acho que não tenho.
+Eu nunca vi,
+pelo menos,
+um dupteno colabe,
+não como lembro.
+Mas,
+eu vou ter de descobrir também
+seu descobriu alguma coisa sobre o notivo feedback.
+A gente passa para vocês.
+É o sede falou que ele usa tudo da,
+que eu também uso no YouTube da que tem uma extensão do pronto.
+Só para isso, né?
+Mas, eu não tenho de ter de descobrir
+que o teu vendo realmente não tem a questão de opção no juo,
+por ter lá,
+mas eu vou tentar descobrir
+sobre alguma forma,
+eu passo para vocês lá no chat,
+mas aqui no labo,
+que é onde, enfim,
+como acaba sendo opção
+na seu usario ou juo,
+tem no Timugue,
+ou o bit labo,
+então eu recomendo ter pra
+fazer o da ar que,
+ficar aqui no,
+no colabe mesmo.
+É,
+só voltar daqui,
+então, pessoal,
+a gente falou sobre as interessões,
+a gente sabe agora como tiradou,
+e da,
+o que dá da tempestade perfeita,
+e como que a gente veio para aqui,
+então,
+pense lá,
+a mulher diferente,
+no data science,
+pro data na lítica,
+que sabe o idade,
+experimentas,
+e entraram aqui nas ferramentas,
+de apensado,
+então,
+a gente entrou no botão de burro,
+que são de vescou,
+de goro colabe,
+apresentava o GitHub,
+então,
+a gente passou por todos esses pontos.
+E,
+por hoje,
+só, pessoal,
+acho que já foi muita coisa
+para vocês,
+né,
+ontem hoje,
+começando os eventos
+da Iessa Semana,
+pessoal também,
+a lova ficar gravada,
+então,
+se alguma coisa não ficou claro,
+só voltar atrás,
+olhá com calma,
+e,
+se tiver alguma dúvida também,
+pessoal,
+esse é um momento,
+estou aqui,
+aproveitar esse finalzinho de aula.
+Alguma dúvida,
+você não é pessoal,
+beleza,
+é,
+estamos juntos na esta jornada,
+vai ser muito legal aprender
+com vocês,
+ou pra,
+se aí está,
+é vendo aqui,
+não vê,
+aproveitar a vergonha,
+eu sabe,
+trabalha agora,
+por conta do reskriado,
+e não terá qual,
+que horas será disponibilizado.
+Eu acho que demora,
+uma melhorinha,
+né,
+só por Google,
+subiu link,
+assim que,
+e eu geralinho,
+que aqui é o mando,
+no,
+é o mando,
+aqui,
+com a Claudia falou,
+Bruno,
+não estava conseguindo,
+ver o coge no,
+naquela branca,
+ó, legal,
+realmente,
+agora que estou olhando aqui
+para o outro tela,
+mas fica tranquila,
+está com a ógina,
+a gente não fez nenhum coge
+no portante,
+não,
+a gente só estava dando uma
+uma pizza lá,
+e bom que você falou isso,
+que a partir da próxima
+aumenta,
+então a gente só vai levar,
+no,
+no darte,
+eu prefiro,
+acho que fica melhor para todo mundo,
+então combinada
+que a gente vai levar no,
+no darte,
+para o se mostrar a aula de tema,
+me lembra,
+brilhou,
+eu falo com a coisa,
+ah não,
+não deixou,
+só vai ouvir o banco,
+e não calma,
+não,
+não,
+naquela da bano,
+não,
+aí é isso,
+então pessoal,
+a história deixa dar no ero,
+a gente acabou aqui,
+boa noite,
+semana que vem,
+a gente volta aqui,
+quatro aferes,
+e dezenove horas,
+vai ficar aqui gravado,
+podem marcar
+um álbum comigo,
+fica em avantagens
+do dourar as estão lá disponíveis
+no calenho de
+o bom mandalho de novo,
+no Discord,
+fixo para vocês,
+quero ter o prazer de conhecer
+um álbum,
+e boa sorte na
+sessão de honravas,
+aproveitem o bootcamp,
+vai ser incrível para vocês,
+valeu, pessoal, bono,
+bono,
+e tinto.
+bono,
+bono,

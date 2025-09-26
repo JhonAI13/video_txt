@@ -1,0 +1,2098 @@
+E hoje, pessoal, dia 19 de desembro, menos de semana que estava na tal, está chegando.
+A gente estava lançando bem aqui no botiquem, porque já estamos pedindo de terminar as
+23, a gente passou muito o paito, o até agora, o paito começou a pegar a parte de uma
+situação de dados, o dos últimos últimos últimos últimos aos práticas que tenham estes teve.
+A gente fez um pouco mais voltado para dados do que, propriamente, só batendo na técnica do
+paito, do paito, do paito, o que a gente sempre fala, o paito é a ferramenta, mas o que
+o botiquem é a dia análise e esse estidado. Então, esse é a nossa objetivo, a gente tem que aprender
+sobre as ferramentas, mas o foco é a gente tendeu que a gente está fazendo.
+Então, hoje vamos começar a pegar uma parte de um pouquinho mais avançada de manipulação de
+dados. São manipulações de dados um pouco mais complexas que a gente vai ver hoje. Então,
+a gente vai precisar disso para trabalhar com os conjuntos de dados, para fazer os
+nossos análises, para fazer as nossas previsões. Então, dependente do que a gente
+foi fazendo, dependente por onde a gente foi passar trabalhando com dados, isso aqui é fundamental,
+que a gente vai ver hoje. Então, vamos lá, primeiro a gente vai começar revisando ali os
+principais conceitos da última aula teórica, então a gente vai passar ali principalmente na parte
+dos mesos, dos joens, que isso acaba sendo conceitou fundamental para quem trabalha com dados,
+ela é uma coisa que a gente faz muito no dia de dia. A gente vai conhecer a utilização
+de funções para manipulações de dados. Então, a gente vai conhecer a utilidade, as funções
+para que elas facilitaram nossas vidas e como a gente pode usar, principalmente no dia de
+dia de dia, para ganhar tempo. A gente conheceu o indoofanxão e também vamos revisar as
+lá em um da fantasia, a gente já falou, né, elas brevemente, na em algum momento aqui do
+do bochiquei, pelo lembrazar também de onde, mas a gente vai revisar também. A gente vai falar sobre
+da ter o englind, que é basicamente organizar com juntos de dados, as comunas de data
+e hora. Então, esse é um trabalho em um pouco chato, principalmente com a gente pega as
+conjuntos de dados, porque cada país, cada região tem um trabalho com formatos de data diferente,
+cada conjuntos de dados, às vezes, vai ter o conjuntos de dados que chega no nível de segundo,
+às vezes, um que chega no nível de minuto, só. Então, é importante entender como que a gente
+trabalha com esses diferentes formatações de data. Temos a aprender, a reorganizar os
+data frames em questão de formato, os recheips, não a gente vai aprender o pivot, o leute, o
+steck, então como organizar é um data frame de acordo com quem a gente precisa de, na,
+ver a informação, então isso aqui é bem legal também, acaba aqui, é uma ferramenta útil para
+a gente ganhar tempo ali nas análises, expressões reculares, então isso aqui é muito legal,
+isso é muito trabalhando com esses termos, expressões reculares são, enfim, todo uma área de pesquisa,
+de conhecimento para identificar padrões em estrenos, então a gente vai passar um pouco em
+por elas também, da uma introdução, e no fim a gente vai ver como que a gente consegue
+utilizar a performance em operações complexas, né? Porque muito do que a gente vem fazendo aqui,
+são em cogentos de dados, até que em cogentos de dados grandes, mas não são em cogentos de dados
+gigantes e quando a gente faz esses operações e cogentos de dados muito grandes, ou muitas
+operações, a gente acaba entrando uma limitação de tempo, então a gente vai entender como a gente
+ganha tempo, quando a gente faz as operações, o que realmente importa quando a gente está fazendo ali,
+as manipulações, então eu queria começar aqui com a pergunta para vocês, vamos pensar que a gente
+vai aplicar a mesma manipulação, a mesma transformação, então vamos porque a gente quer
+acessorar uma coluna, é para muito de posto da tafrente, então eu suponei que a gente tem uma coluna
+coluna de faturamento para cada mês do ano, então a gente tem de arduza da tafrente, e a gente
+quer fazer a mesma transformação para os dos, são iguais, né? Só que nunca a diferença são os
+meses, então a gente quer fazer isso para a dose da tafrente, o que a gente pode fazer para
+fazer de tal nossa vida que me escasa, a gente vai lá nos dos e da tafrente, e vai fazer uma
+manipulação passa passo, o que a gente tem uma sugestão melhor?
+Aí eu pensar, não fazer um l, fazer um tratamento, não tem l, que não é conformo, olha, eu
+teri bem da quantidade, né? Então, bom começo, que contratamento, você começa, é golúpe,
+você começa a ir terato pelos da tafrente, certo? Então, se a pensiona a primeira hoje,
+mas aí pensar na manipulação, então vamos pouco você tem que adicionar duas colunas,
+remove uma, multiplicar uma ou pela outra, então, se vai fazer ele em fim, quatro ou cinco
+manipulações básicas, mas como que você pode fazer isso, no menor, no, no, no,
+no, no, a maneira mais fácil, é organizada e com menor número de cois do possível.
+O l, já o o que a início, o mal função, exato, então, é mais ou menos essa lógica que a gente vai
+evoluir em uma função, ela é perfeita para esse exemplo de padrões, algo que a gente tem que fazer
+várias vezes. Então, aqui a gente tem uma manipulação que a gente tem que fazer cinco, seis vezes,
+não, desculpa 12 vezes, uma manipulação que a gente faz é de cinco, seis operações.
+Então, imagina a gente, para a gente faz o l, mas aí a gente ainda tem que escrever as cinco,
+seis operações dentro do l, se a gente faz a função, a gente define a função uma vez e
+aplica ela dos vezes. Então, e uma linha gente consegue matar tudo. Então, essa ideia da
+começar a pensar uma estratégia pouco mais avançada para a manipulação, e que está uma
+estratégia de organização de cois, não? Fica mais fácil, fica menos estêncio, quando a gente
+tem ele, tudo, separa a gente. Aí, começando aqui uma revisão da alapassada, a gente tem
+o grupa e baia, o grupa e baia vai ser um das funções provavelmente que a gente mais
+arusar, na nossa experiência trabalha com dados em pai, então assim, meu, falamos, meu dia a dia,
+o grupa e a raro de acocábulosando. E o grupa e baia ele pode ser escrito de duas formas.
+Então, aqui a gente chama geralmente um data frame, um data frame, então, que a gente tem um data
+frame, por exemplo, o zooma e a gente agrupa ele, então a gente chama o grupa e baia depois
+de um data frame. O parametro baia, ele é opcional. Então, eu posso passar o parametro baia e passar
+uma lista de colunas dentro do baia. Correcto? Então, quando eu quero agrupa por mais de uma
+coluna, eu posso passar uma lista aqui no baia. Mas, se eu quero agrupa só por uma, eu não preciso
+do baia. Eu posso simplesmente botar um nome da coluna aqui. Então, na maioria das vezes,
+eu vai acabar que você só quer agrupa por uma coluna. Então, aqui, no caso, é por exemplo,
+a gente tem uma base dados de consumo de água, por animais de uso hoje. Então, a gente quer
+agrupa por animal para ver o consumo de água. Simples. Então, eu não quero agrupa com mais de uma
+coluna. Eu só posso passar o parametro animal, direto no grupa e baia sem o baia. Mas,
+quando eu quero passar uma lista, eu posso passar também a lista, diretamente aqui. Eu
+quero agrupa por mais de uma coluna. Eu posso, então, simplesmente passar a lista, eu quero
+agrupa por animal, enfim, tartagurinha, enfim. E das, então, eu posso passar também a lista dentro do
+grupa e baia. Então, eu posso passar a grupa e baia. Assim, essa é outra possibilidade,
+também, por exemplo, a gente quer passar por mais de um parametro. Mas, o padrão é assim,
+em seguida, quando a gente quer agrupa a mente, a gente ainda não tem o que a gente precisa.
+A gente tem que dizer, qual medida a gente quer partir daquele agrupa a mente. E aí,
+você vai funcionar agregador. Então, a gente pode passar a função agregadora de duas formas.
+A gente pode passar ela simplesmente chamando o ponto e aí, dizendo a função agregadora,
+agora a gente faz aqui, então aqui no caso, eu quero a mente, quero pegar a média do consumo
+de água, aqui eu nem vou ter o consumo de água. Então, a gente pode reparar, e se eu nomear
+a ace aqui depois do grupa e baia o ateníde, botar aqui, aí eu teria que chamar o ponto
+minho depois. Aí eu que ia acontecer. Eu sempre as mães, não ia ter a coluna e unica de aqui,
+certo? Eu teria só a coluna que eu vou ter aqui, que é o ateníde. Então, vou limpar aqui.
+Então, só para deixar certinho, eu poderia fazer o ponto grupa e baia. Animal,
+do grupa e branimal, se eu quero pegar só o que eu que com qual o da coluna de água não faz muito sentido,
+eu sempre que eu falo, quando a gente vai fazer um grupamento, eu não quero fazer muito sentido,
+porque lembrando de sempre a água e de não faz sentido, porque é com o seu sucesso do CPF, e não faz sentido
+até a média do CPF, não é não tem valor para a gente. Então, aqui eu só quero a única coluna
+que porta o ateníde. Então, posso fazer o ateníde. E em seguida, a gente já selecionou o som ateníde,
+a gente já quero pegar a média, aí sim, eu aplicamente. E outra possibilidade é eu chamar o
+âmbio agregador e passar a média. Então, eu chamo o ponto a GG e passar a média. Essa é outra possibilidade,
+também. Uma terceira possibilidade é, eu posso passar um exigcionário dentro do agregador,
+então, eu abre e faz funcionar, e eu falo, ah, eu quero para o ateníde, essa vai ser achável,
+eu quero a média. Então, aqui é uma forma, enfim, no caso aqui só tem uma ateníde,
+mas quando tem mais de uma coluna, você consegue atribuir o que você quer para cada uma. E além disso,
+eu não preciso ser necessariamente uma média aqui. Eu posso passar por exemplo, só a média,
+posso passar por exemplo a max e o minuto. Então, ele vai pegar essa outras métricas aqui,
+também. Então, ele vai pegar por exemplo lá qual o consumo máximo de água do elefante de cada
+elefante, qual o consumo mínimo de água de cada elefante. Então, é de cada que agurou, de cada
+água de não. Então, ele vai pegar dentro dos agropamentos um mínimo de cada categoria. Outra possibilidade,
+também, que seria, no caso aqui, a gente não precisa do ateníde, eu poderia simplesmente deixar assim.
+Então, aqui, além da média, aqui no caso a gente só tem a média, de quanto cada elefante,
+cada que agurou, cada leão, cada tigre, cada zebra, consumo. Se eu botasse dessa forma aqui, eu
+pegaria o tamanho máximo o mínimo que cada elefante, cada que agurou, cada leão, cada tigre, cada zebra,
+consumiriam também. Aí eles viriam para cá. Então, o grupo vai ele para assim, dá um pouquinho
+de medo, mas ele não tem muito segredo não, pessoal. Essa é só você entender, no primeiro, no grupo
+bairro, o qual o colôno você vai querer agrupar, qual o colôno você vai querer levar na visão aqui,
+detalhado, em seguida, escolher, se for o caso, quais colônas você precisa, aqui no caso, por exemplo,
+o ateníde, a gente não precisa ir a do ateníde, e em seguida qual função agregador, então, no caso
+que a gente quer média, isso vai ser levado em os valores.
+Perfeito, a mão do desobragultamento, pessoal. Então, agora, outra coisa que é, sempre
+monte, revisar, a gente acaba usando muito também é quando usar o merge e o concate apende e
+joga. O concate acaba sendo usado quando a gente quer unir da ateníde, seja pro lado,
+ou seja, para baixo. Então, a gente tem dois conjuntidades, que as joga eles juntos,
+seja um em cima do outro, seja um lado, ou seja, espanho de unir, seja nas linhas ou nas
+colunas. Perfeito, então quando a gente bota a exescer, a gente está falando que a gente quer unir nas
+linhas, a gente quer jogar o data frame 2, e embaixo o data frame 1, quando a gente bota a
+exescer um em que a joga unir nas colunas, e aí percebe o que tem a diferença entre unir e
+cruzar, certo? Então, quando a gente quer cruzar, a gente precisa de uma chave para ver o que
+de um, tem outro, quando a gente quer unir não, a gente bota pegas colunas de um em jogo,
+bolado aqui na direita, mas colunas de outro. Então, concate, permite isso, para a gente,
+permite essa flexibilidade de open, de unir com base no eixo, todos os linhas ou todos as comunas.
+O appende, ele não vale muito a gente conhecer no detalhe, porque ele é um caso específico de um
+concate. Então, ele é um concate com um padrão, a que se zero, ou seja, ele é para as linhas,
+e o join é alto. Então, é importante dizer que tem um outro tipo de parametro no concate,
+porque é o tipo de join, como o padrão, ou seja, se você não botar nada, ele vai ser o alto.
+Mas você pode escolher também o iner, que o inerão de join que ele faz basicamente um confere
+para ver o que já existe, ou seja, ele pega a voidronas em as embaixas, mas antes ele vê se
+já tem alguma linha do aplicada. Então, essa é o que é diferença, os dois, o outro ele
+coloca tudo, então, com a outra hipódenia, a condensilinhas do aplicados, com o inerão, ele
+vê ele fica o que já tem, e ele cola embaixo só o que não tem, ou na direita.
+Então, ele está sendo depreciada, justamente porque o concate, ele oferece exatamente
+isso através desse parametro. Então, quando a gente usa um concate com o parametro a
+que se zero, isso é que serve para as linhas, e o alto é esse caso que a gente falou,
+que ele junta tudo. Ele faz literalmente uma união sem olhar nada diferente do iner,
+porque a gente poderia botar a iner e olhar se já existe ou não aquela linha ocoluna. E aqui,
+o potante não confundir com o método a pende do pando também, né? Porque a gente está falando
+ou, desculpe a gente não confundiu a pende do pando, mas que é o que a gente está
+bem agora, o método apenas que a gente usa para listas, que a gente viu bastante lá no
+modo 2 que é quando a gente quer jogar alguma coisa dentro de uma lista. Então, na
+quilo a gente tem uma lista, pode ser me branco, pode ser uma lista que já existe. E quando a gente
+quer jogar algum objeto, a gente chamou nome daquela lista, ponto a pende e o objeto,
+a gente está jogando o objeto em delista. Nesse caso aqui é diferente, nesse caso é o
+apende do pando, então, é uma confusão que às vezes acontece. Esse são dois maiores salvo
+em escondor iguais, vamos desiguais, mas ele está em funcionar em dados diferentes, né? Porque
+eu apende do paitonativo, ele serve das listas, é do paitonativo, ele serve para as listas,
+e o apende do pando, ele serve para trabalhar com data frames. O joie, ele é exatamente diferente
+do que a gente falou aqui, não é o nenhum, o joie ele é para cruzamento, só com joie ele é
+cruzamento baseado no índice. Então, se vocês perceberam em mim, todo está abelando
+pando, as todas data frames no pando, eles têm um índice, que ele fica fora, da
+lhão na região onde está a tabela, ele tem um índice que fica ali na esquerda, e aqui
+não é uma chave para identificar cada linha, inclusive, não pode ter um índice do aplicado,
+tal, eu tenho que acropeitar, é para ser a chave, é para ser um identificador único de cada
+linha. Então, a gente pode definir qualquer condona como um índice, inclusive, se você
+tentar botar uma corona, que tem valores do aplicados para a ciência, ela não vai dar,
+vai dar aí. Então, tem que ser o pelo que não tem valores do aplicado, e a gente pode
+definir qualquer condona usando o Parámetro 7 índice, e ele pode ser feitiando
+a curta com as variáveis. Então, quando a gente está falando de cruzamento, esse cruzamento
+é baseado nas variáveis. Então, a gente pode fazer o cruzamento, lembra que a gente
+viu os tipos de cruzamentos, pode fazer aquele cruzamento da esquerda, para a direita,
+a gente pode pegar exatamente o que tem os dois e o que tem tudo o que tem os dois. Então,
+a gente vai ver essa revisão aqui, mas é o tipo de cruzamento. E o merge também é o cruzamento
+assim como John, porém, diferente do John, que é só para índices, o merge é para qualquer
+columno. Então, ele é uma versão, vamos dizer assim, evoluída do merge on John, porque a gente
+não precisa daquela columna através do índice, né? Você está adorquido. Então, o merge
+vai ser para qualquer columno dos dois da tafrems, ele é muito versátil, ele vai acabar sendo
+que a gente vai mais usar. E ele serve a gente pode definir, a gente pode definir o índice,
+de transformo, de duas formas, quando as comunas são iguais no dois da tafrems, quando a esquerda
+dá direita, vamos supor que a gente tem uma columno índima na esquerda e na direita. A gente
+pode usar só um para dizer que só aquela columna, é mais seu nosso, nosso columno cruzamento,
+etc. Mas se a gente tem, por exemplo, na esquerda, a índice, a índice, uma índice, v, a gente tem que fazer
+uma tribuição. Então, quando a gente usa a ON, elas não vai identificar por porça da vontade dele,
+que o merge tem que ser feito naquelas columnos, aí disso. Então, você tem que atribuir,
+não, na esquerda, lefte-on, dentro do merge, não, para a um entre a gente vai passar lefte-on,
+e da, righte-on, e de bebe. Então, é isso é uma juxtapente tem que fazer quando os nomes das colvonas
+não são iguais nos dois da tafrems. Então, você tem outra solução também, que é aí lá no
+da tafrems, mas que é não mudar o nome pra id, e lá no da tafrems, da direita, o nome da
+columno pra id, e aí, se não precisas ao lefte, ON, righte-on, porque aí já vai ter o mesmo nome,
+você consegue usar simplesmente o 1. Então, agora que, a mais uns exemplos, a gente tem um merge,
+lembra o que a gente falou do merge, aqui a gente passou os dois parâmetros, lefte-rite,
+então a gente tem que dar tafrema da esquerda, e o da tafrema da direita, a gente vai unir,
+eles na que, ou, está vendo que esse é o nosso índice, dos nossos da tafrems,
+e o que ele é simplesmente uma columno, então a gente escolheu a columna aqui,
+aqui, usando o 1, porque o nome é aqui, tanto na esquerda pode dar direita, então,
+aí, a gente consegue, e no nosso caso a gente vai fazer um minhas idiões, o minédio,
+ele é esse caso aqui, que a gente vai pegar o que tem nos dois da tafrems,
+e, então, nesse caso, com ele são identificos, vai dar tudo certo, então, completou aqui,
+a gente tem ascolonas a e b, que vieram, do lefte e ascolonas cd que vieram do righte,
+unidos aqui pela esta chave, casérica, 1,2,3. Então, só vou revisando também aqui os tipos de join,
+o tipo, aqui, pode ser pra join, mas vale pra mergita também, a gente tem o lefte,
+quando a gente quer pegar tudo que tá na esquerda, a gente quer manter todas ascolonas da esquerda,
+e fazer o cruzamento, quase da direita, trazendo só o que faz o cruzamento,
+quando a esquerda, da esquerda, a gente traz tudo, da direita, a gente traz só o que foi encontrado.
+No righte, é o contrário, a gente traz tudo da direita, e do da esquerda, a gente traz só o que foi encontrado.
+No ino, a gente traz só o que foi encontrado, o que não tiver nos dois não é levado,
+e no alto, terão contrário, a gente traz tudo dos dois, o que não tiver em um e outra, a gente volta
+ali, o nano, o valor do, então, vamos ver mais alguns exemplos aqui, onde a gente vai fazer
+esses meus amens, aqui a gente tem o exemplo do concate que a gente falou pra fazer o nião.
+Então, aqui, a gente tem 3 data frames, data frame 1, data frame 2, e data frame 3,
+então aqui, a linha vai do zero a outra, e a linha vai do 4,7, aqui vai do 8,8, o concate,
+como a gente falou, quando a gente usa o Axis zero, ele serve pra um nha, ali, o gilinho,
+e aqui, no nosso caso, a gente vai usar o alto, e nem precisava, porque eu padrão de jaya,
+e a gente quer um nima, os objetos, aqui, os objetos, no caso, pode ser uma lista, onde a gente vai passar,
+da f1, nós está muito rondescriver, o botáquimas,
+a gente passa em principalmente uma lista da f1, da f2, da f3, então,
+a gente poderia criar os objetos e a triboir isso, a gente pode passar uma lista aqui direto mesmo.
+Então, o isso, a gente consegue fazer o concate, e a gente consegue ter um data frame só,
+a linha dos 3, se a gente quiser atribuir, e são o novo data frame, a gente simplesmente faz
+df igual e aí, a operação, então, isso aqui, se você não efetivar através do f igual,
+ele vai ser só temporário, certo? Você pode fazer isso aqui, se você não efetivar, ele não vai ser,
+a más enar num garinho, então, quando quiser más enar tem que usar um da f igual, a aplicação desse meta.
+Beleza, o join aqui, a gente tem um exemplo de Inerjoy, vai dar para entender melhor.
+Aqui, alguém que falou, a gente tem os íntices, e agora, a gente vai usar os íntices para fazer esse ognão.
+Tem o caseroca 1, 2, 1, a lhe o caseroca 2, 3.
+Então, perceba o que o caú, ele não tem aqui, e o c₂, ele não tem aqui.
+Então, o que vai acontecer? Quando a gente está falando de Iner, a gente vai levar aqui,
+e quando não, ou ver, o valor nulo, não vai no valor da ta frame da direita, por exemplo, a gente leva como valores nulos.
+Então, aqui, no exemplo, na coluna, com o join de c₂, a gente não tem nada do raiz, certo? Então,
+a gente traz aqui, valores nulos. Na coluna, no que no c₂, nas coluna vai ver, a gente não tem o join de c₂,
+então, a gente leva, o back, como a gente não tem os valores nulos para cá.
+Se a gente fizer assim, lefte, em que que ia acontecer, e eu ficar sós da esquerda, então,
+eu ficar só esses íntices. E o c₂ e a 6 cuida, se a gente fizer assim, righte, quem é 6 cuida,
+e a c₂, o caú, se a gente fizer isso um fú ao trade-on, também, e a das c₂.
+Então, esses são os casos que a revisão. E agora, finalmente, a gente vai começar a falar de manipulações
+mais avançados. Então, toda vez que a gente vai fazer uma manipulação mais de uma vez, a gente está evitando
+trabalho repetindo, aquilo que a gente falou de não ter que passar ali em 12 data frames, por exemplo,
+para fazer algo que é exatamente igual para os dois. Então, esse é o trabalho, evitado,
+trabalho repetivo, e além disso, a gente optimismo coche. Algunas principais coisas que a gente pode
+fazer em funções, filtragem, ordenação, agrupamento, em pesa dos dados, em remoção de valores
+e no Routes, transformação de valores errados, e também, entre as solas sombras.
+A gente pode criar novas colunas, a gente pode multiplicar colunas, a gente pode fazer medidas.
+Então, tudo isso pode ser feita através de funções, principalmente para se tossonos,
+onde a gente precisa repetir para vários datacetes. Então, essa é a ideia.
+Eu vou fom com uma mesma função, pode aplicar para diferentes datacetes.
+Desde aqui, eles mantêm um estrutura que é respeitada aqui na função.
+Então, é bom, também, a gente relebra a sintaxis da função.
+Sempre que a gente foi, escreveu a função, a gente vai voltar para a lavinha de defe.
+Então, quando a gente usa o defe, a gente está.
+É uma palavra reservada para a gente escrever a função.
+Então, o pai está já na identifica, ele bota ele até muda a cor.
+Em seguida, depois da defe, a gente dá um espaço e escreve o nome da função.
+Esse nome aqui, ele é flexible, a sua escolha, e geralmente, a gente já comeira alguma coisa para se sentindo.
+E ela ativa a operação, o que a função vai fazer.
+Em seguida, a gente vai passar os parâmetros.
+Os parâmetros da função, eles podem ser, eles são uma túpula.
+E o interessante é que essa túpula, ela pode ter uma lista, pode ter edicionar,
+e pode ter um data frame, pode ter...
+Ele é flexible, você já está aí, com o quete-te de entrada.
+Inclusive, ela pode ter nada.
+A gente fala o público no nome, então, é como a função que não tem parâmetro.
+Uma função que vocês usam toda a hora, o descraime.
+O descraime tem parâmetros, mas quando a gente usa o descraime,
+a gente nunca bota nada, a gente bota um descraime, abre fecha e a gente haver análise.
+Porque a gente não está chamando nenhum parâmetro dele.
+Então, o que ele faz é organizar todos os dados,
+ele faz manipulações, pega a média, faz os equipamentos corredes,
+ele leva toda aquela análise para a gente.
+E ele retorna o data frame manipulado para fazer casanais.
+Então, é isso que um descraime faz.
+Aqui, por exemplo, a gente tem dois parâmetros,
+os parâmetros deles são como se fosse os ingredientes.
+E aqui, o bloco da função, a gente tem o que a gente faz com esses ingredientes.
+Então, aqui, por exemplo, a gente vai sair doito para a doze u e 2.
+A gente está multiplicando um pelo outro.
+E armarzenando, uma variável total.
+Eu poderia muito bem preentar esse total também, depois calcular ele, concordo.
+Então, se eu quiser estar vendo a tela, ele vai dar um print.
+Depois do total, ele vai aparecer na tela.
+Se eu quiser armarzenar em outra variável,
+eu preciso criar essa dedicação de retorno aqui.
+Por quê?
+Quando eu quiser fazer uma operação, por exemplo,
+para chamar essa função aqui, que faz a multiplicação,
+eu vou comparar a minha total outra.
+Se eu chamar a ela,
+como se são 3, 5,
+então, vamos explicar aqui 3 por 5.
+Ele vai me retorner o total.
+Então, eu vou ter 15, mas eu vou ter 15,
+sem nada.
+Então, que eu tenho que fazer,
+se eu quiser armarzenar em algum lugar,
+eu tenho que fazer, resultado igual a função 3, 5.
+Porque aqui ela tem o retorno.
+Então, ela retora e ao retorno dela, aqui vai pro resultado.
+Se eu não botar um retorno, a próxima vez que o executar a função,
+ela vai, se você vai continuar a luz, ela vai retornar outra coisa.
+Então, ela vai fazer só o que ela está opinando.
+Mas, seu boto, para armarzenar aqui no lugar,
+eu preciso também do retorno.
+O retorno que vai atribuir,
+lá do outro lado,
+eu avoreava que a gente está definido.
+Então, aqui um exemplo, mas, prático,
+criar uma colona de risco de crédito,
+a aplicando a função,
+classificos os clientes, como o baixo risco,
+o médio risco, o alto risco,
+com base variáveis como renda,
+histórico de pagamentos.
+Então, que a gente tem duas variáveis, renda,
+histórico de pagamentos.
+E a gente quer definir esse cliente,
+é de alto baixo risco.
+Então, o primeiro passo é o cliente,
+o que é o cliente aqui?
+A gente tem um palpete, pode mandar no chá,
+também, é isso.
+Olha, lembro que a gente falou que dentro da tupa,
+aqui a gente só tem uma lamentação tupa,
+sabe?
+E é lista?
+Então, não é uma lista.
+Olha que a gente está fazendo com cliente.
+Olha isso, tratamento que a gente está fazendo aqui.
+E parece o que para vocês?
+Que a gente renda maior do que o mil.
+A gente é um data de frame.
+É.
+É isso, é um data frame.
+Então, simplesmente, eu posso criar a função.
+O boto aqui, cliente, mas ele poderia ser,
+geralmente, eu quando vou definir uma função,
+que em volta um data frame,
+eu sempre volto a dash para ficar bem claro.
+O boto é o boto,
+bf, classificar risco.
+Bf, por quê?
+Porque depois, todos as manipulações que você fizeram em baixo,
+vão ser em cima de bf, né?
+vão ser como se a tivesse manipulando ele lá mesmo, né?
+Então, você vai botar e f, bf, renda, e assim, vai.
+Então, acaba ficando mais fácil,
+que é um da gel da tta frame.
+Mas, cliente, falou um nome não importante, né?
+O que bota o formato.
+Então, essa é a mobsão,
+mas aqui a gente vai estar com o nome cliente.
+Então, a gente vai pegar a coluna renda,
+e o que for maior do que 10 mil.
+E com o histórico de pagamento,
+sempre o estringo de bom,
+então, quando é comparação em tilos a dois iguais, né?
+Ele vai retornar abaixo.
+Sim, ele, enfim, né?
+O histórico, o arrêndo foi entre 5 mil.
+Aqui, ó, a gente passa 5 mil, menor,
+do que a renda,
+menor igual a 10 mil.
+Ou seja, a gente crome o grupo intermediário, né?
+E se o histórico de pagamento estiver em bom ou regular,
+percebeu que aqui é ou não, é mais uma estringa única,
+aqui é uma lista estringes, né?
+Um dois.
+Então, aqui a gente vai retornar a meso.
+Sim, não, ele vai ser alto, né?
+Porque esse aqui, se não, ele vai ter...
+É...
+Uma renda menor, né?
+Uma renda...
+Pensar aqui, ó, enfim, cliente, não.
+É, que era para ser a outra para ser aqui, né?
+Agora, eu tô vendo para só fazer errado.
+Eu bacharia para ser no final,
+porque esse o cara tem mais 10 mil históricos pagamentos bom,
+e bem alto.
+O retorno tem que ser alto.
+Então, vamos agentar aqui.
+Vai ser alto.
+Agora, foi difícil.
+Por último, mas aí, nesse caso, eu risco...
+O risco é baixo.
+O risco tá entendido.
+É referência, né?
+Verdad.
+Então, o risco é baixo.
+Agora, ele tem que estar certo.
+Vai dar um jogo obrigado, né, razão?
+Então, o risco é baixo, tá certo.
+Então, aqui o risco é baixo, o cara tem...
+O ganha mais 10 mil históricos pagamentos, é bom.
+Se ele ganha...
+E tem 5 mil históricos pagamentos, se vai ir bom, regular,
+aí, o risco vai ser mais 10 mil.
+Se não, né?
+Se ele ganha menos de 5 mil.
+Ou, independente de ganha menos de 5 mil,
+o seu histórico dele for ruim, provavelmente, né?
+Que deve ser outra opção ruim, ou muito ruim.
+Ele vai cair no risco alto.
+Então, essa é que a nossa função é um perfeto.
+E quando a gente vai atribuir a uma nova coluna,
+basta a gente criar essa nova coluna.
+Então, a gente tá criando uma nova coluna que a risco de cresce.
+E a gente usa o método a plai.
+Então, essa é uma ótima combinação.
+Você se define ir uma função,
+se você se define no retorno que você se quer.
+E no a plai,
+você simplesmente bota essa função aqui,
+para explicar isso, usando o data frame.
+Então, aqui, o data frame no PDF,
+mas aí, ele que vai no lugar do cliente.
+Então, tudo que a gente faz aqui no cliente é o PDF,
+renda maior do que 10 mil.
+E aqui a gente tá falando de axis,
+porque a gente tá falando de coluna, né?
+A gente tá aplicando a manipulação em uma coluna.
+Então, a gente vai criar uma coluna,
+a que se zoon,
+usando a manipulação.
+A aplicação da função,
+clasificar risco,
+no data frame,
+vai tirar o chamado do apply do panas,
+para jogar a função clasificar risco,
+numa coluna.
+E com isso a gente consegue, por exemplo, imagina.
+Vai ter o data frame de todo mês,
+recebeu o data frame com a lista de clientes.
+A gente define a função aqui em uma vez.
+E agora, toda vez que a gente fizemos,
+já que ele não coge ozinho,
+só tem que mandar isso aqui,
+e ele já vai aplicar.
+A manipulação.
+Então, beleza.
+Agora, passando para a lâmbua da fã que já aconçou,
+as sonções lâmbadas são muito práticas,
+porque elas permitem definir uma função em uma linha de código.
+Então, geralmente também, né?
+A gente não vai querer fazer uma função muito complexa.
+Mas elas são muito boas para quando a gente quer fazer uma operação muito simples.
+Então aqui, crenche falou em uma linha de código.
+Sem necessidade de definir isso,
+principalmente o déficit, também.
+Então, quando a gente tem o zão lámido da fã,
+que a gente não precisa do déficit.
+Geralmente a gente se usa o zão lámido da fã,
+que o crenche quer trebuir uma variável.
+Então aqui, no caso, por exemplo, x,
+eu vou pegar o zão lámido,
+então, percebe o clandão,
+a palavra descarga de 100,000 da tecouro,
+quando se inscreverem.
+E aqui, eu tenho duas entradas.
+A imbe.
+Então, eu quero fazer...
+A imbe é só as entradas, né, como se fossem uns parâmetros.
+E eu dou dois pontos e seguido,
+e eu passo por car fazer isso.
+Aqui, como se fosse o bloco da função,
+isso aqui é com as suas parâmetros.
+E eu atribu a amazena, como se fosse a amazena,
+essa função ima variável.
+Então, depois, quando eu dou aqui,
+a um x, 3,4, ele faz a soma.
+Ele vai pegar e vai somar 3,4.
+E aí, eu vou prender ele não vai dar o prende do x,
+e vai dar o prende, 3,4,
+e vai dar a preta de 7.
+E o mesmo vai para outras operações, né,
+aqui, diferente, e fez uma multiplicação.
+Então, aqui, considera se o bloco da função,
+os parâmetros se mantem o mesmo.
+A gente ainda armasa nx,
+e aqui, a gente goto 3,4 para fazer a multiplicação,
+no parâmetro, pelo parâmetro b.
+Então, aqui, acaba sendo a, aqui, acaba sendo b.
+Então, aqui, eu exemplo de uma fissãozinho,
+que a gente consegue fazer muito fácil, né, então, por exemplo,
+mas a gente tem que fazer uma função para somar duas comuns.
+Ou, para a multiplicação duas comuns.
+Então, aqui, com o logo, a gente consegue muito mais fácil.
+E aqui, eu escorre falar de consegue aplicar também muito facilmente
+em data frames.
+Aqui, um exemplo, padrões álmã com o nome de cliente
+se atirando os passos em branco e deixando no formato correto, né,
+formato correto é com o maiúsculo,
+na primeira letra do nome sobre o nome, né, então aqui, João Silva.
+Então, isso é um trabalho muito, muito normal.
+Então, imagine a gente que você tem que querer criar um gráfico
+dos clientes que mais compro.
+E, às vezes, o nome do cliente está despado noizado,
+igual ao vendedores cremeu.
+Aí, um vendedores creve, João Silva,
+todo o mundo do meu uso.
+O outro escreve, João Silva, todo junto.
+O outro escreve, todo o minúsculo, o outro escreve certinho,
+o outro escreve com o uncle, o outro escreve sempre.
+Então, geralmente, a gente tem que fazer a espada,
+para usar a espada da organização para garantir que os nomes
+vão ficar, por exemplo, aqui, tudo certo.
+É, então, aqui, olha, o que a gente está fazendo a mesma coisa,
+a gente está querendo macar uma norma padrões,
+só que agora a gente vai aplicar diretamente,
+a gente vai já aplicar na data frame todo,
+a gente vai aplicar na coluna.
+Por quê?
+A gente vai usar o x, a coluna, como se fosse um parâmetro pro x, certo?
+Então, o que a gente vai fazer a coluna,
+o nome é com os fússos, um parâmetro pro x.
+E a gente vai aplicar o strip,
+que é justamente para dividir,
+então, ele vai atinar os pasímbram,
+perda um, ou foi de fússos, perdi um strip,
+o strip é atirado os pasímbram.
+E, quando a gente a seorece segundo metro, não é?
+Lembra que a gente pode ser pressionais no Zincadei,
+a gente é seu no time,
+que é ele já bota nesse pomato,
+e eu ouço o meu maio os columinusco,
+então, se o que a gente sai,
+então, esse pessoal vai enxerar muito bom para a mão,
+a gente perigar o ganhiza,
+ele identifica que cada palavra é para ter a maior uso
+na primeira letra.
+Então, aqui, uma boa aplicação do Lambi,
+então, aqui a gente simplesmente uma coluna,
+que a gente nem precisa chamar o def,
+porque em uma linha, a gente consegue fazer essa manipulação.
+A gente chamou o nome da coluna,
+e joga ela para o paramento do Lambi,
+e aqui dentro do bloco,
+a gente faz as manipulações que a gente quer.
+Então, agora, a próxima passa, as Minda o Fanchos,
+a gente já conhece bastante, as Minda o Fanchos,
+mas acaba que o Teino o Minda o Fanchos não é muito conhecido,
+com elas a gente já prica cá o Clos Agregados,
+então, a gente consegue organizar a rankings,
+ou até comparações com notilhas relacionadas a uma inspecífica.
+Então, o que a gente consegue é manter cada linha,
+individualmente do restado.
+Então, o que a gente faz?
+A gente pode criar, por exemplo, funções de agregação.
+A gente pode tirar medias,
+a gente pode pegar o máximo,
+o mínimo, fazer soma ou contagens.
+Então, essa aqui, são as que a gente mais conhece,
+principalmente pelo amor no describe,
+a gente usa no grupo depois do grupo B.
+A gente tem também o hand,
+então o hand que a gente tem roumba,
+a gente tem hand, bem se hand que peça a gente hand que é no time,
+a gente já vai ver os exépes,
+mas pode ser que, por exemplo, para dizer o número
+qual o linhas é aquela dentro da fatra-freem,
+então, isso acaba sendo útil para mostrarções,
+rã que a gente pode dizer,
+dentro de todos as vendas,
+é uma muda da fatra-freem de vendas,
+nós vamos poder ser linha 120 aqui,
+ela é convendo, então,
+que mais é deu, até 3,
+é que mais é deu, ela é que menos vendeu,
+então, ela começa a honrar aqui,
+é 1, 2, 3, de valores.
+Aqui a gente consegue ver leg e liche,
+também são funções para ver,
+por exemplo, valor de cima ou de baixo.
+Isso é o último em uma mostuações,
+ou seja, a gente consegue pegar e ver a liche cima,
+ou a liche baixo.
+Tinha que ver a primeira linha,
+a última linha, ou alguma liche específica.
+Então, agora eu vejo os exemplos das Windows Fonts.
+Então, em um contexto de barrigo,
+a gente vai criar,
+para cada dia de vendas, então, a gente tem uma base de vendas,
+a gente quer criar uma poluna com a média a movo de vendas,
+para 3 dias, tanto tipo,
+Windows Fonts, agreguei-te,
+a gente quer criar um rânguete de vendas,
+é um rânguete,
+e as vendas do dia anterior,
+a gente quer pegar um barrio.
+Então, por exemplo, aqui,
+para pegar a média a movo de 3 dias,
+a gente vai acionar o método Rooley,
+que é uma função de agregação, também.
+Então, a gente vai pegar as vendas,
+a comandivendas, vai aplicar Rooley,
+e vai usar Windows,
+para metir o Windows 3.
+O Windows está relativo a calunaidade de tempo.
+Então, o sigo sua base tiver um idade de tempo,
+se cada linha foi um dia,
+ele vai pegar 3 dias,
+se cada linha foi um mês,
+ele vai pegar 3 meses,
+cada linha foi um ano, ele vai pegar 3 anos.
+E, seguindo, a gente vai aprequer que a agregação
+vai enxerir o minho.
+Então, aqui, a gente consegue pegar Rooley,
+para pegar as 3 últimas,
+as 3 últimas, apareções dele,
+e seguir em a gente pega a média.
+O rângu, então, aqui, por exemplo, a gente quer pegar,
+quando a gente usa o minho, ele vai pegar o primeiro do rângu.
+Ou seja, aqui, aparece meio confuso,
+mas no rângu, o minho é o primeiro.
+Então, aqui, vai fredendo,
+quando eu boto ponto rângu, igual a minho,
+ele vai criar uma coluna,
+exatamente, criando o rângu do menor para o maior,
+e aqui, tinha que tiver a maior venda,
+vai ser, vai ter um aninha que tiver a menor venda,
+vai ter o maior número,
+ou seja, de deperego no vredirinhas do data frame.
+Seu quiser pegar as vendas do dia anterior,
+ou seja, supondo que cada linha do nosso
+pojudidad é um dia,
+seu que quiser pegar adicionar uma coluna,
+quase vendas do dia anterior,
+basta pegar a defenda e desistifte.
+Então, bem bem para criar um compadinho, ao do tipo,
+a gente pode precisar adicionar uma coluna,
+quase vez anterior,
+simplesmente dando defenda e desistifte,
+um tono vai identificar
+que eu estou querendo pegar um dia para cima.
+Beleza, alguma dúvida pessoal,
+aqui, eu vou pegar a parte das minho fântimas,
+próximo atividade prática,
+a gente vai fazer uma,
+uma, uma, um ainda o fântimas bem legal,
+a gente vai utilizar muito elas,
+é uma base que tem,
+todo o dejilo no planeta terra,
+então ela tem a quantidade de gel,
+no planeta terra, por dia.
+Então, ela não tem muita informação,
+ela só tem o dia,
+e a quantidade de gel,
+sobre os coluna só,
+mas ela tem seu nome ganho de 80,
+80,
+e 85.
+Então, ela tem de por cento,
+e quase 150 anos do histórico de gel no atén.
+Então, a mocola não é quando a gente vê
+só o valor, ela não precisa muita coisa,
+mas ela logo de 150 anos,
+ela fala muito muita coisa,
+então a gente vai ver isso no,
+na próxima atividade prática, vai ser bem legal.
+Agora, seguindo aqui,
+funcionões para organizar data.
+Então aqui, data ring,
+é o nome disso,
+são funcionões de data e hora para manipular
+extra informações de coluna,
+os que são de data,
+então, como as somes para analhes,
+se sazonais,
+eu tenho poréis,
+então, a gente tem, por exemplo,
+a possibilidade a gente já deve ter feito isso,
+que vocês já deve ter feito ao longo dos campos.
+Um extração, você é coluna da data,
+ela vai formar de data,
+e pode trair o nome do dia,
+então, a gente pode criar um novo coluna de da semana,
+pegando data,
+eu pego para o momento deles,
+e eu pego dentro de desde o day name,
+que é o dia da semana,
+então só atriba o que iria isso em uma coluna.
+E aqui,
+uma outra coisa, eu quero pegar um mês,
+então, posso pegar,
+simplesmente, a inveja de day name,
+eu noto,
+bom freio.
+Então isso aqui traz um mês,
+o nome do mês,
+e a gente salva também,
+em uma nova coluna.
+Isso acaba sendo muito útil.
+Quando a gente quer pensar, por exemplo,
+eu quero agrupar,
+eu tenho uma base de venda,
+e ele completa,
+eu tenho menos nos últimos 3 anos.
+Então eu quero agrupar para ver se,
+segundo, eu tenho essa feira,
+é um dia melhor de venda.
+Eu posso fazer,
+eu queria uma coluna com o dia da semana,
+e a gente faça um grupo e bairro,
+pelo valor de venda,
+usando dia da semana.
+Se eu quero ver se o final do ano,
+por exemplo, as menos descrentam.
+Então agrupo,
+o dia de agrupo,
+e agrupo,
+por ela depois.
+Mas aí, daí,
+a gente é adicionando as colunas de data,
+talvez,
+do data ongreio.
+A gente consegue criar
+uma base para fazer os agrupamentos
+e ver essas noitades depois.
+Então, a gente pode pensar,
+beleza,
+de uma semana em mês é muito batido,
+mas a gente pode pensar,
+estação a gente pode pensar,
+em outros fatores,
+por exemplo,
+de repente,
+eu posso criar uma base copo do mundo.
+Ali, venda,
+eu quero poder criar uma flega e copo do mundo.
+Então,
+tem uma base de bem,
+e eu vou identificar
+quando eu vou copo do mundo,
+ou não.
+Eu posso criar, enfim,
+já conto com alguns eventos específicos.
+Eu posso criar,
+já conto com qualquer coisa,
+que seja útil para a minha solididade.
+E para as minhas análises,
+então, por exemplo,
+uma coisa muito interessante.
+Se você tem uma pizza aí,
+uma coisa que muito importante é de
+a semana,
+é domingo com certeza,
+você vai ter mais pigi.
+O mês eu não sei,
+tipo, não sei,
+se tem essa análise de pizza aí,
+talvez, que não é não devendo
+a mais também,
+porque o pessoal está com a dinheiro,
+mas uma coisa que eu sei
+que,
+em facto,
+é muito empitaria,
+é o tempo.
+Se chove mais as pessoas
+perem mais pizza.
+Então, esse é um comportamento natural,
+principalmente,
+finance semana.
+Por quê?
+É pessoal,
+muitas vezes,
+faz planos de sair.
+Chuveu?
+Ah, não, vamos ficar em casa,
+pedi uma pizza.
+Então, esse é um fator,
+eu sei disso,
+porque eu estava andando esse
+diazomartigo
+do manstar tapilados
+em eles,
+que eles fazem pizza,
+eles saem com vãs,
+nos principais
+regiões são franceses,
+eles saem com a pizza
+pra é pronta.
+E de acordo com uma xilânea,
+com o estudo da demanda de cada região,
+eles levam a não
+pra essa região,
+vão levar 8 pizzas de margarita,
+10 pizzas de 4 kgs,
+8 pizzas de calabreso.
+Então, ele já tem a previsão
+do que vai ser naquele jeito.
+Então, com isso, eles conseguem reduzir
+o tempo de entrega,
+eles conseguem entregar o cliente
+em tipo,
+e o fôrno,
+é no aproprevão.
+Então, ele pega pizza,
+esquenta ela,
+e ele entrega o cliente,
+porque já está numa vampéreto,
+em tipo 10 minutos,
+que eles não usam para estar com a pizza
+quente na porta da casa dele.
+E eu vi que os fatores
+mais influenciam,
+não se eles vão levar
+mais pizzas ou menos pizza,
+é a previsão do tempo,
+porque os caras às vezes faziam isso,
+não, do mínimo é a sábola,
+pode ser um dia bom,
+onde eu vou ir,
+sexta-feiras,
+de sábola principalmente,
+quente a sexta-sábola,
+a depender do tempo,
+se quente a sexta-sábola,
+tem dias bons,
+e solarados,
+ou notes limpas,
+as pessoas já me saem,
+vou pra barra,
+restaurante,
+é, se nem,
+se está chovendo,
+as pessoas ficam em casa,
+então, a demanda da pizza,
+acabava que cada,
+praticamente, vou bravar.
+Então, esse impactava
+muito nos custos de supermèndese,
+e conhecer se seguir a organizade
+botar a demanda,
+ele faziam pra eles onde demanda,
+com uma chilãe, com cemestratos,
+então, uma das variáveis mais
+importantes pra eles,
+eram a previsão do tempo,
+de seguir e achou veio no dia seguinte,
+que se eixo ver,
+essa previsão é uma alta
+probabilidade de chuva,
+exigir a tudo,
+evava mais pizza,
+então,
+acaba que,
+da Taro Reinhue,
+em geral,
+pode ser dia da semana,
+pode ser dia do mês,
+mas pode ser também
+tudo isso que está relacionado
+a essas naidade,
+então,
+não deixa de ser data Reinhue,
+a gente pensar em essas naidade,
+você a gente adicionar no nosso data frame,
+uma coluna de dias,
+de previsões,
+você a gente adicionar,
+uma coluna de probabilidade de chuva,
+ou,
+quando a gente vai ter um data frame de venders,
+a gente pode adicionar,
+enfim, se chuver ou não, naquele dia,
+ok, a gente consegue
+correlar seu análise,
+por isso,
+deus dias que chuveram,
+e vêm esteve algum impacto
+nas nossas venders,
+por exemplo.
+Então,
+mas para trabalhar com datas,
+especificamente,
+a gente,
+muitas vezes,
+vai receber as colunhas de data
+como stringa,
+isso é um problema muito,
+muito normal assim,
+isso é um das mãos de colas,
+não é se vocês,
+vai eu ter que fazer,
+principalmente com datas,
+e é joga as colunhas de datas,
+e,
+que me trouxe bem como texto,
+para data através do PD do DEST time,
+conhecem,
+pode passar o paramilho de forma,
+para formar a data de acordo
+com a coluna da Taro Reinhue,
+vocês têm que ver como está um data set,
+e ajustar.
+É igual a falei aqui no Brasil,
+a gente usa o formado DEST,
+barra,
+M&M,
+barra,
+e absoluta,
+é,
+aqui o EPSLOM é maior,
+porque a gente está falando de
+anulomônia,
+então,
+o isso a gente possa identificar
+em Zenoove,
+12,
+2018.
+Dupa,
+2014,
+2018.
+Mas essa é a data
+exatamente que está aparecendo aqui na direita do meu
+monitor,
+por um pessoal,
+se tiver alguém no estasa no nids,
+vai estar assim,
+12,
+barra,
+19,
+barra,
+12, 24.
+E aí,
+olha a diferença do formato,
+primeira coisa a barra,
+aqui é barra no EF,
+e segunda coisa a ordem,
+na primeira,
+no primeiro mês, depois,
+o dia,
+então, que a gente tem que mudar,
+o anão igual,
+mas a gente tem que botar d,
+barra,
+M&M,
+barra,
+EPSLOM EPSLOM.
+É interessante também,
+aqui tem o mês maiúsculo,
+é sentido,
+se o mês tivesse escrito,
+aqui você tem que botar,
+dá,
+aqui, o mês pode estar escrito,
+aqui,
+também,
+e aqui agora também,
+formato de horas,
+as horas podem estar completas,
+podem estar no formato de IMPM,
+então,
+sempre que quiser ainda
+dar uma constada depois,
+denoreada na tabeli.
+Mas não tem segreda,
+é só buscar o formato
+e ver a lidatação
+para botar o formato,
+enfim,
+que o pando os intende,
+é que é que vai uma condidada,
+né?
+Então agora,
+rechepe de dados,
+eu rechei para esse funciono
+para transformar estruturas de dados,
+basicamente para facilitar
+a análise,
+e eles permitem que a gente
+não voreisios dados
+móngulos, né?
+É,
+para largos,
+então,
+a gente pega dados noms,
+que estão muito na vez de cara
+o jogo para horizontal,
+ou das que estão muito na vez de
+cara o jogo para horizontal.
+Como que a gente faz isso?
+Que brando,
+comuns?
+E é exatamente isso que a gente faz
+através do meu,
+por exemplo.
+Então, aqui,
+a gente tem,
+a uma ideia,
+nossa exemplar concentrada,
+todos os dados de uma base de
+menos em um coluno,
+e depois voltar.
+Então aqui,
+olha, no nosso exemplo.
+A gente tem uma coluna
+que tem três categorias,
+a biceira,
+a coluna de categorias,
+e a gente tem aqui,
+ó, vêm as gerenermos coluna,
+vêm as fevereiras e o outro
+comum.
+E se é raro,
+mas a arar mais da acontece
+com frequência.
+Então,
+tem uma coluna que
+de categorias biceiras,
+vêm das aqui,
+com qual o que elas deveriam.
+É, se repetir,
+deveriam ter uma coluna de
+vendas,
+e eu deveria ter
+os valores se repetindo
+dos eves, 150, 220,
+e tem uma nova coluna de
+atribuição pro mês.
+Então, como que a gente consegue
+fazer isso?
+A gente vai derreter
+aqui, a gente vai chamar
+de f1, a gente vai derreter
+aqui a variavo de d,
+a variavo que a gente quer manter
+é a categoria.
+Então, a gente vai manter
+o nome da variavo que a gente
+quer criar é mês
+e o nome da variavo
+que a gente vai
+meio que quebrar,
+é a venda.
+Então, o que acontece?
+O mês vai pra cá,
+então a gente pega,
+eu queria
+os nome de colunas,
+eles vão
+viram valores na coluna
+mês.
+E os valores,
+eles são distribuídos
+dentro da coluna, venda.
+Então, aqui,
+o varia neme,
+faz com que
+as colunas viram valores.
+E o varia neme,
+faz com que os valores
+saem aqui
+daqui
+e vão pra baixo, certo?
+Então, aqui a gente
+ou pra
+só ligar a tomar daqui, pessoal.
+Bateria.
+Esse não vão se casem,
+sem a ou.
+Vem a gente,
+agora assim.
+Então,
+com isso a gente consegue pegar um
+data frame que é comprido,
+porque a gente tem uma coluna,
+duas colunas necessárias,
+e a gente joga elas
+pra valores.
+A gente deixou o nosso data frame,
+mas com prido,
+e aqui a gente pegou essa coisa
+que é bem errado.
+A gente botar
+valores
+através de colunas,
+da ter uma certa
+agundida,
+a gente vê isso aqui.
+O correto sempre a gente
+tem os valores cada valor
+em
+uma própria linha,
+na
+vertical, certo?
+Em seguirem de poder
+voltar na gente,
+pode voltar a fazer isso
+usando pivot.
+A gente pode pegar um
+data frame que é comprido,
+e eu quero pegar uma coluna de valor,
+e jogar ela,
+voltar as categorias desse valor
+para a coluna.
+Então, posso fazer isso
+pegando aqui,
+tem duas categorias,
+com corro,
+que é bem na janela e bem desse ferverer.
+Então,
+essas categorias
+cada uma delas vai ter
+uma coluna,
+e os valores
+atribuidam
+a elas vão se encaixar.
+Então, aqui eu faço um contrário.
+Eu boto que columns
+é mês
+e vários é verdes.
+E com isso,
+ele acaba voltando
+e ele pega
+que os nomes de valores viram colunas
+e os valores são
+enhalocados da gente cada um.
+Então, em sontiacabas,
+fazendo justamente com a gente quer
+abrias vezes
+uma coluna de valores categoricos
+para a bestribuição aqui,
+mais claro,
+não,
+horizontal.
+Ou quando a gente tem
+uma coisa errada
+nos humanos,
+quando a gente tem
+esse formato
+ação errada
+os dados aqui,
+que a gente não consegue
+fazer os equipamentos,
+acaba ficando bem
+pior de ver.
+E aqui,
+inclusive,
+por exemplo,
+quando a gente tem
+alguma fervera
+de visualização
+tipo Power BI,
+esse é o formato
+que elas aceitam,
+sabe?
+Porque a coluna de valores
+aqui vai ser bem,
+então,
+sempre que a gente vai trabalhar
+com o computamento
+e a coluna de visualização
+e vai precisar de uma coluna de valores.
+Aqui,
+a gente tem duas colunas
+valor.
+Então, fica muito estranho.
+A coluna de valores
+só para janer,
+que é uma coluna de valores
+só para ferverer.
+Então, coluna,
+por mês,
+e uma coluna
+para
+para os valores.
+Então, beleza?
+Agora, passando
+para as pressões regulares,
+pessoal.
+As pressões regulares
+elas são um fim.
+Dá para explicar.
+Fazer um bootcamp
+só de pressões regulares.
+Mas,
+nos últimos anos,
+elas vão
+perdida
+assim um pouco
+da necessidade
+de a gente conhecer
+ela fundo, sabe?
+Nos anos 90,
+nos dois.
+Meu senão era muito,
+muito úteis.
+Principalmente,
+para que trabalhar com essas linguagens
+aqui, Java,
+P, Lumbi, P,
+P,
+tão linguagens,
+mais de um ebre mesmo, né?
+E ele era um
+muito,
+muito útil,
+porque ele permite buscar
+extrair
+manipular padrões específicos
+de texto
+no colunas
+para a gente,
+que trabalha com dados.
+Mas ele facilita
+muito
+a impese
+padrões ação
+os dados.
+Então,
+a gente tem alguns asêplos
+de expressões regulares,
+né?
+A gente pode usar a fan de algo
+para procurar alguma coisa,
+a estar,
+a grup,
+a metade.
+Então, dentro do Python,
+o Python,
+e se ele usa
+muitas expressões regulares,
+nativamente dele.
+Então,
+não é que a gente tem que
+se preocupar com
+baixar alguma coisa de expressões regulares?
+É uma outra coisa.
+Mas muitas coisas,
+das expressões regulares,
+o Python tem
+nativamente dentro dele.
+Mas é para o fan de
+ona.
+Tem que que é procurar,
+por exemplo,
+uma lista,
+é...
+esses valores aqui específicos.
+Então, a gente passa aqui,
+por exemplo,
+é...
+sol.
+A gente passa uma lista,
+ele vai me achar
+todos lugares
+com estei sol,
+naquela lista.
+Meta,
+quando é...
+uma...
+uma...
+busca perfeita,
+né?
+Quando ele contrressatamente,
+que você está passando.
+Então, cada caso,
+ele acaba sendo adaptado.
+Então,
+estigamente,
+tênívio,
+né,
+para expressões regulares.
+Mas,
+o que eu falo hoje,
+cara?
+O melhor livro
+de expressões regulares
+no J.
+A T.P.
+Então,
+vocês vão chegar
+com um caso,
+são perguntas,
+já de P.T.
+me deu uma expressão regular,
+que eu preciso usar nesse caso.
+E ele é torna.
+Então,
+é uma melhor cenário.
+Não precisa decorar
+expressões regulares.
+Mas,
+não sei algumas coisas de cabeça,
+mas é só pelas vezes que eu usei.
+Não propriamente,
+porque eu decorei.
+E aqui tem um exemplo.
+Aqui, a gente quer limpar um coluno,
+com informações de o cliente,
+para capturar somente o V.D.
+Então, olha como é que está a coluna de dedo.
+Esse é o formato,
+bél,
+ela tem o V.D.
+um, dois, três, com a cinco,
+barra cliente.
+E daí,
+essa é tipo...
+Isso acontece muito.
+Então, eu vou colar um despatronizado.
+O mais que ela tem o I.D.
+que certinho,
+ela está no meio de string,
+então ela está bem
+baseulada.
+E o que a gente vai fazer?
+A gente vai buscar,
+ela vai pegar,
+ela vai acionar a string,
+e aqui,
+vamos usar o extracte.
+Percebam,
+que é um método do bupándose,
+que nos expressões regulares.
+O agagente boto ézinho,
+aqui é o percebo,
+esse é a exingência.
+Esse ézinho,
+é o que está identificando
+que a expressão regular.
+E aqui,
+a gente vai botar o I.D.
+Olha, quando a gente passa,
+as ásposses,
+é onde a gente começa a navegar
+no que a expressão regular.
+Então, aqui,
+a gente boto o I.D.
+E, seguida, a gente passa a notação
+da expressão regulada.
+Quando a gente passa o bar,
+B,
+a gente está dizendo que tem um número inteiro,
+dentro dele.
+Então, o B
+é
+B mais específicamente,
+a um número inteiro positivo.
+Então, percebo o que esse D aqui,
+sempre é um número inteiro positivo,
+neste três casos aqui,
+pelo menos.
+Então, o que ele vai fazer?
+Ele vai pegar qualquer número
+inteiro positivo,
+que tiver, depois de D
+e um espaço,
+e então, tem muito cuidado.
+Mas,
+o que ele faz,
+e destra,
+é perfectamente.
+Então, a ideia é ser de um
+peso aqui,
+tem imagina,
+como complexo seria
+dar um replay,
+se trecradou esse place,
+um primeiro no ID,
+dois pontos igual a um espaço,
+e o segundo no ID,
+igual a isso aqui,
+e de repente poderia mudar,
+poderia ter outro caso,
+que você não ia pegar,
+mas,
+com os ambas pressões
+regulares acaba sendo mais
+fácil.
+Então, sempre que pensar,
+você se separar,
+como o problema,
+você tem que identificar um padrão,
+nos dados,
+há tempo que remover,
+eu tenho uma lista de
+nome de pessoas
+que está lá do turmarco,
+sagento, Paulo,
+então, o que era remover,
+o primeiro,
+primeiro a palavra,
+um título antes de um nome
+da pessoa,
+vai lá no chat,
+e peitar e volta.
+Quero remover,
+a primeira palavra,
+do uma coguna,
+com nomes,
+então, que era remover de
+oscidos.
+Então, ele vai lá,
+ele vai te dar uma solução
+para você tirar a primeira palavra.
+Então,
+é para isso que serve as pressões regulares,
+é impossível decorar
+toda a notação de pressões regulares,
+com tantos coisas que a gente tem
+para ver aqui nesse post-camp,
+mas o importante é entender isso,
+que ela serve para a gente
+identificar padrões
+em texto.
+E, pessoal, para fechar a aula
+que, e nosso último ponto,
+a gente vai falar sobre
+otimização de performance
+e operações complexas,
+então,
+o Pandas era muito,
+muito eficiente,
+ele costuma resolver
+grande parte dos nossos problemas,
+como o eficiente,
+e ele é, é, é, é, é
+sim,
+muito eficiente para trabalhar
+como data sites grandes e complexos.
+Por quê?
+O Pandas,
+ele é construída em cima
+do num pai.
+Sete?
+Tudo que é operação
+matemática ali no Pandas,
+então, quando você vai adicionar
+uma coluna no Pandas,
+ele transforma que ele inventou
+os boomers das comunas ibetores,
+somos vetores
+e atribui ele de novo.
+Então, ele se fez para estar fazendo
+operações vetorias,
+porque as operações vetorias
+em processamento
+do jeito que as nossas máquinas são,
+o meio que o processamento
+em série,
+elas são extremamente eficientes.
+Quatro diferenças do Pandas
+para o num pai,
+o Pandas
+você tem muito e fácil,
+seja elagráfica,
+seja ela de Deus,
+se tem construída de o data frame,
+então, geralmente,
+um Pandas,
+você vai ter um muito e fácil visual.
+Então, um num pai,
+muitas vezes,
+você vai estar só processando,
+então, você não vai estar,
+ele tem um
+um
+e ter fácil visual extremamente
+limitada,
+até para você ver o tipo de operações,
+que você está fazendo nos arrays,
+os oréis são
+basicamente as matrisas,
+que a gente usa no num pai,
+mas,
+é até ruim de ver
+o que você está fazendo.
+Mas,
+o Pandas não,
+quando você consegue
+necessitir,
+você está fazendo as operações,
+mas o problema é isso,
+né?
+Isso é o que eu amassem um grande
+e,
+é uma grande treidófrica,
+a gente chama,
+uma troca na tecnologia,
+tudo o que você vai ter
+mais interface visual,
+se acaba tendo menos
+poder de processamento.
+E tudo o que você tem
+menos interface visual,
+se acaba tendo mais poder de processamento,
+porque essa ainda é
+uma das grandes barreiras
+do processamento,
+né?
+No da computação mundial,
+é a visualização,
+para
+o Google chegar
+que botar todos nós
+da minha cara,
+que,
+para vocês,
+ele gasta muito interés.
+Então,
+até inclusive,
+quando eu,
+eu faço um teste de aplicação,
+às vezes com os clientes,
+e,
+cara,
+às vezes,
+eu testo perfeito,
+funciona tudo rápido.
+Aí eu vou lá na apresentação,
+tem muito pessoas,
+como um pouco abravete,
+eu vou fazer a apresentação
+e ficar lá travando.
+Então,
+é,
+seu limitação,
+é realmente,
+da computação,
+porque,
+fez isso de muito processamento
+das máquinas, né?
+Então, essa diferença,
+né?
+O pãs,
+ele está no meia de origem,
+de pode falar,
+aqui no loo,
+eu botaria,
+por exemplo,
+um excel da vida,
+você está fazendo operação
+célula por célula,
+então,
+é,
+quando ele,
+por exemplo,
+um excel,
+tem um ali uma coluna,
+um valor,
+ah,
+e a coluna com um valor,
+claro,
+tem um terceiro coluna
+e eu quero somar
+em todas,
+né?
+Todas nisso,
+vai querer ir a rasta
+para baixo.
+Eles ecuta célula célula o operação.
+Então,
+isso é,
+muito custoso,
+tem um tipo de computação
+naés,
+demora mais.
+No pã das naúer,
+de transforma,
+toda a colonar,
+no vetor,
+toda a coluna,
+bem o vetor,
+somas duas,
+pega o resultado,
+pronto,
+você teria ele,
+ou cola,
+três com o resultado.
+Isso é o,
+o pã das e o no pãe,
+na descrição mais
+sem isso.
+O pã das ainda tem o custo
+computação alge
+adequado a esse
+retura do data frame,
+tal,
+fazemos a realização
+muitas vezes,
+e o no pãe não.
+No extreme,
+em que acha uma coisa que a gente
+chama
+esparque,
+o pãe esparque,
+principalmente,
+para fazer manipulações
+de dados,
+ele é o mais rápido que
+existe.
+Hoje,
+é o estado da arte,
+é porque
+ele trabalha com o
+processamento paralelo.
+Então, o pãe esparque
+se se vai precisar
+numa infraestrutura
+muito mais robusta,
+precisa de uma placa de vídeo
+no computador,
+precisa configurar os ambientes.
+Então,
+ele é um pouquinho mais complexo,
+ou você pode
+gelar no logo o colabio,
+usar um GPU que
+ele disponibiliza.
+Também,
+lá,
+você consegue usar o pãe esparque,
+para quem também quiser
+conhecer o pãe esparque,
+eu recomendo de mais
+o data bricks.
+Então,
+o pãe esparque,
+tem uma senta que
+é um pouquinho diferente
+do pãe esparque,
+é bem parecido.
+Se você não me enupando,
+você vai chegar no pãe esparque,
+você vai estar um pouco
+mais
+se vai conseguir entender.
+Eu sempre para falar o que é
+com o seu
+português,
+fosse o pãe esparque,
+o pãe esparque,
+ou fosse o pãe esparque.
+Você chega
+e ele senta em alguma coisa,
+mas
+tem que
+saber qual ainda.
+E a diferença
+é que
+não faz parque,
+você consegue
+que usar
+poder computacional
+o gráfico.
+Então,
+para quem quiser conhecer
+o recomendo
+de mais
+o Microsoft Data bricks.
+É um das ferramentas
+que eu mais lento a minha vida.
+Agora, eu não usando
+a total de saudade,
+de somando
+faz uma viúva do bricks.
+E lá, tem um
+comiritivetion.
+O bixet-prago,
+então,
+a lógica dele,
+a mesma do colávio,
+você consegue usar
+máquinas,
+diferentes máquinas,
+fazerem diferentes
+paixais,
+conectar com a peguís,
+disponibilizar a peguís.
+Muito fácil.
+Mas
+tem um custo,
+de processamento,
+por hora que eu contato
+zinho,
+a que eu posso ter que
+ligado.
+Mas tem uma versão de comunidades,
+que eles disponibilizam
+em seu
+o Minional Macre de 8,
+11, 6,
+6,
+e jigas,
+que você
+a diferença do bricks,
+eu não sei
+se no colávio,
+você consegue
+rodar
+já a paix-parque.
+Eu nunca ter esse tempo.
+Mas no bricks,
+você já vem
+com o paix-parque instalada.
+Então, você consegue
+fazer uma limpação de dados.
+Em paix-parque,
+vai lear pena com esse,
+para quem
+tem ter esse
+amento e em autongivore.
+Eu gostaria de
+muito alto.
+E não,
+paix-parque é incrível,
+assim.
+Eu já peguei alguns processos
+que empandas
+demoravam
+dez horas.
+Era uma limpação de dados
+gigantes,
+em um junho de dados
+e mais de três
+milhões de linhas.
+E quando a gente
+jogou para paix-parque
+caíra para tipo 30
+20 minutos.
+Então,
+é realmente
+absurdo
+se o ganho que vocês
+tem,
+quando vocês estão trabalhando
+com o processo
+meio paralelo.
+Mas assim,
+muitas vezes também
+a gente tem aquela,
+a gente não precisa
+montar toda essa estrutura
+do pais-parque,
+sem esquecer a fazer uma
+operação simples.
+Uma coisa que a gente fala
+muito na programação,
+na tende geral,
+é você não precisa matar
+uma fúlmiga com o canão.
+Então,
+quando você tem um problema
+simples,
+se resolver,
+se não precisa usar
+algo muito complexo
+para se resolver.
+Agora,
+aqui um exemplo,
+na prática,
+a gente vai mostrar
+que um lupinativo
+do Python
+e uma função
+do um Python.
+Então,
+a função do um Python
+vai usar o S
+que é a
+em T,
+que é uma
+briviação
+para a Espoir Routes,
+que é
+ao quadrado,
+em dois,
+na Espoir Drada,
+e aqui a gente vai
+fazer a mesma coisa,
+né?
+A gente vai
+ele vai ao quadrado,
+o
+os valores
+usando
+o lupinativo do Python.
+Então, aqui eu vou usar
+também outro
+brilotecador
+do Python,
+que é arrandom.
+A gente consegue
+criar valores
+ali atores,
+então,
+aqui eu vou usar
+o método
+do randim,
+já é uma classe,
+né?
+Random,
+eu vou usar
+o método
+randim,
+que é
+ele já
+é um lupinove
+ao elatório
+inteiro,
+por isso o randim.
+E aqui eu vou
+botar
+o lupinove
+ao elatório
+inteiro,
+entre o
+muistem,
+e o
+saze,
+primeiro,
+né?
+O
+o dia de comesta?
+O dia de termina,
+né?
+Os valores
+alatores,
+eu quero que
+tem
+pode ser enzer
+em um,
+mas aqui eu vou
+celerar um
+e sem,
+e o tamanho.
+Então,
+aqui o saze
+eu vou criar
+um ilhão de valores alatores.
+E seguir
+só o jogo ali
+isso aqui
+para um gata freio.
+Então,
+que eu tenho data freio
+como a colombia de valores
+e,
+ou melhor,
+o melhor
+de valores alatores
+entre o e cê.
+Aqui eu vou
+marcar
+o time,
+né?
+Outro biblioteca?
+Eu vou marcar
+o tempo de início.
+Eu vou fazer
+operação,
+certo?
+Então,
+usando um pai,
+então eu vou chamar um
+pai square,
+aqui eu botei
+a esquerda
+o square,
+tá,
+o boterra.
+É,
+a esquerda
+é escudrar
+a escudrar
+a escudrar
+a escudrar.
+Aqui o square
+então eu vou pegar
+ele,
+e vai alpatrar
+todos os valores
+da colombia de valores.
+Seis cegredo
+a perseguida
+o marco de novo
+tempo usando o time, né?
+Se aquele
+pega
+que cria uma
+uma time
+sempre que a gente chama
+tá
+estempa
+com o seu
+mano
+um
+cil
+uma
+a hora completa
+aqui.
+Então, aquele
+pego
+a hora
+vai pegar ali
+a exatamente
+dezenove
+com a 86
+só que ele
+pega até
+os nanos segundos.
+Então,
+ele vai pegar
+a 99
+com a 86
+que segundo os
+os 8.000 segundos
+para 6 lá
+o tempo esato
+da próxima
+do procedimento
+no seu computador.
+E aqui
+ele vai pegar de novo.
+Só que ele vai fazer
+o tempo
+daquele momento
+menos o tempo inicial,
+né?
+Aí,
+com o código
+que a gente vai
+que seguir
+meio com o tempo
+durou
+para fazer
+essa operação.
+Em seguida,
+a gente vai
+fazer a mesma coisa
+só usando
+que o liste
+com o pre-rente
+então a gente
+vai criar
+uma nova colombia
+valores
+quadrado
+do loop, né?
+A gente
+atribuiu
+como
+não pai
+a gente vai
+criar
+agora uma
+valores quadrado
+do loop
+onde a gente
+vai levar o quadrado
+cada x
+então
+para cada valor
+a gente vai levar
+de bf valores, né?
+A mesma coluna
+a gente vai levar
+aquele valor ao quadrado.
+A mesma coisa que a gente fez aqui
+sim, né?
+Só de outra forma
+aqui usando
+o loop na ativa do pai
+para através do
+o liste com o pre-rente.
+E aqui a gente
+faz a mesma coisa, né?
+De pergo
+tá em um time
+sempre no final
+e isso
+de trás
+pra o time
+sempre no começo.
+Olha aqui
+os resultados, pessoal.
+O time
+tem
+o tempo
+com o no pai
+né,
+que a gente chama
+de vetorizada.
+Ele durou
+0.009 segundos.
+Então se consegue
+entender
+do que a 0.009 segundos
+não dá pra ter
+ideia.
+A gente
+bumano
+não consegue
+processar
+isso.
+É muito rápido.
+Agora 0.7
+já dá
+né?
+0.7
+por exemplo
+numa corrida
+de 100 metros
+é um
+e uma diferença
+agritante.
+E é
+isso que o loop
+demora.
+Então
+o loop demora 0.7
+por exemplo
+que é uma sobre a outra
+isso dá
+70
+e 1
+vezes mais rápido
+com um pai.
+Então
+esse é o poder
+né?
+Então
+aqui
+por exemplo
+tá fazendo exatamente
+o que eu falei
+que o o exéu faz.
+Cêu laceu.
+Então ele faz
+operação
+operação.
+Nunca não.
+Ele transforma
+que um
+e uma matriz
+ao Rio Grande e a Arne
+ele transforma
+uma
+3
+muito pica
+aquela matriz
+e já transforma
+os resultados.
+Então
+7
+é 1
+vezes mais rápido.
+Então
+nós procurem
+a precisar aprender o ouro o pai.
+Não, o
+o Panda
+e quer que antes ng steam
+do o mundo
+no pai
+e
+se não quer fazer
+oio
+paia
+quando
+ele é
+então
+eficais
+computacionalmente.
+Então
+o Pantly
+para trabalhar com
+junto de dados
+2
+3
+quatro nos dados
+o problema
+da ele face no
+interesse
+e muitas operações.
+Então
+inc stating
+está em parte que é o processamento paralelo.
+Mas o plano de você que fala, pessoal, ele vai resolver 90% do que os seus problemas.
+Eu já trabalhei com engeros de dados que que ele pegava para a frente de 1000 minhas e fazemos a
+manipulação e para a esparra.
+E aí, se você chega a falar, cara, se não precisa.
+Você está tipo matando a fundo, e eu canhão milíris, quando daqui resolvem
+dar pontos 0,00, 0,00 segundos.
+Então, essa ideia é porque ele rolna esteima do não par.
+Acho que deu para ter uma ideia, pessoal, do hoje aqui, mais geral, das manipulações
+amançadas, conseguimos matar tudo.
+Ficou alguma dúvida, pessoal?
+Obrigado por ter vindo aqui hoje, nessa quinta fecha, estiver alguma dúvida só chamar.
+Também quiser impender um tal.
+E aí, esse então, boa noite, boa quinta fecha, a gente que está feira para todos.
+Boa sexta também, boa semana que a gente não se vê e até semana que vem.
+Então, eu não sei direito quando vai ser com o programa de Natal, tal vou pedir para
+a priori que eu começo a vocês, então, não conversa com ela, mas assim que a gente
+estiver definida em te mando lá no Discord.
+Então, é isso, pessoal, valeu, boa noite.
+Pus puderém avaliá-lo aqui depois, quando a gente iserrar.
+Agradeço muito, ajuda muito a gente e é isso, obrigado, boa noite.
+Valeu, Bruno, boa noite.

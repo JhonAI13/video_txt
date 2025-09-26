@@ -1,0 +1,2871 @@
+start	end	text
+330000	342040	e o álido אחד realizou甚麼?
+346820	349000	EntãoHello, mesmo?
+540000	543040	e
+543040	544060	eu
+544060	545340	acho que
+545340	546720	vamos
+546720	549200	nada
+549200	550780	eu
+550780	553260	e
+553260	556740	eu
+556740	558320	e
+558320	560360	tudo
+560360	562600	para
+562600	566980	mais
+566980	567740	hoje
+567740	571280	2, 2, 2, e, né, pessoal?
+571280	572400	É, é, é, sim.
+572400	575340	2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4,
+575340	577220	dá tão especial, né?
+577220	579720	No, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1.
+579720	584540	Então hoje, não tem a primeira aula, até hora que que
+584540	587980	que eu vou começar a falar sobre a avançar um pouco mais nas ferrametas do
+587980	588980	Python.
+588980	592680	Vamos começar ali dar uma pincelada sobre a utilização de dados também,
+592680	593680	e é, é, é, é, é, é, é, é, é, é,
+593680	596420	podemos dizer assim mais tudo, uma ferramenta.
+596420	599960	Portanto, isso, no pra gente que trabalha com dados, e é, é, independente de
+599960	607220	engerir de dados, é, na legidade de dados, tem a, a, a, a, a abriedade de transportar o que
+607220	609280	você criou pra visualização de dados.
+609280	612320	É, uma das coisas ferramentas, mais poutais que a gente tem.
+612320	615060	É, é uma coisa que passa se é um pouco subjetiva, né?
+615060	618980	É, é, depende muito do pulo que você tá comunicando, depende de, com quem você
+618980	626420	vai falar, mas a vez a doença de dados, ela,
+626420	627980	justamente porque tem tudo isso,
+627980	629180	a gente tem que levar em conto gráfico,
+629180	630380	que a gente vai usar o púrico,
+630380	631660	a gente vai comunicar.
+631660	633620	E hoje a gente vai começar a trocar o meandés sobre isso.
+633620	635980	E vai ser o que vai vir naturalmente também,
+635980	637420	é o longo dos projetos,
+637420	638420	a longa das principios,
+638420	640100	é o longo da também da carreira de vocês.
+640100	644020	Mas é bom a gente deixar uma base fundamental aqui,
+644020	646660	e eu trazer um pouco da experiência que eu tenho,
+646660	649220	trabalhando com os aliás são idados.
+649220	652140	E também, vamos passar um pouco ali sobre as principais
+652140	654100	claramente as dimensos de manipulação de idados,
+654100	657740	que vocês estão já pegando agora na Espanha de Cresse,
+657740	659020	já começou.
+659020	662180	Então por hoje é isso.
+662180	663860	Essa é a nossa ideia.
+663860	667980	Vamos passar aqui primeiro nos objetivos da aula,
+667980	670540	nosso primeiro objetivo é conhecer
+670540	673180	os principais tipos de visualização de dados
+673180	674980	e quando usar cada um deles.
+674980	678020	E nem dificamos de usar a liação de dados distorcida,
+678020	681220	isso é muito, muito interessante.
+681220	683020	A gente vai discutir que um pouco sobre,
+683020	687260	como a visão de dados é algo que você pode usar a favor ou qualquer.
+687260	689100	É um arro muito poderoso,
+689100	691660	então vocês podem manipular de certa forma o público,
+691660	693180	vocês estão se comunicando.
+693180	695340	Isso acontece de mais em nosso cotiniano.
+695340	698020	A gente vai ver que várias exemplos,
+698020	702580	e que vocês não identificaram também com relação a com de dia.
+702580	704580	Tivem também falar sobre FITIONE NIRIN,
+704580	706980	que é uma parte muito importante da manipulação de dados,
+706980	709700	que a gente vai usar para todo o processo de análise de dados,
+709700	712980	para a creação de modelos, de licencividados.
+712980	716660	Então, a parte potantíssima também do processo de dimos de exploração de dados,
+716660	720540	a gente estrair mais valor e das nossas variáveis que a gente tem,
+720540	722340	ou se ele dá, das nossas colunas,
+722340	724340	que eu vejo alguns exemplos também.
+724340	727100	No final, a gente vai falar um pouco mais técnico,
+727100	729060	como conseguimos diferenciar a Croix Tab,
+729060	731020	estabelegina, que os eagofamentos,
+731020	732700	que são o que a gente vai falar muito, muito,
+732700	734340	muito ao longo do bootcamp todo,
+734340	736780	em testes de podes de falar bastante sobre grupos,
+736780	739020	então a gente vai começar a construir essa vália,
+739100	741300	sobre o que são os equipamentos.
+741300	743140	E a gente vai também,
+743140	745580	um ponto que sempre dá muita dúvida,
+745580	747620	é quando que os números de quantos pontos,
+747620	751660	quantos apentes são métodos que a gente usa para data frames,
+751660	753300	cada um tem a sua utilidade,
+753300	756980	a gente são métodos no geral para um e-data frames,
+756980	758380	de diferentes volas,
+758380	761580	e a gente vai falar um pouco sobre eles, também é um longo da aula.
+761580	763740	Mas então, primeira coisa,
+763740	767380	eu quero perguntar para vocês a gente levantou essa bola,
+767380	770020	e eu quero perguntar se vocês já viram algum gráfico
+770020	772980	que foi feito para manipular quem está vendo.
+772980	775660	E se vocês conseguem trazer algum exemplo aqui,
+775660	777420	lembrada a vida de vocês,
+777420	780060	mesmo a uma vez que vocês olharam um gráfico e falou,
+780060	781580	será que é isso mesmo?
+781580	783100	E depois que vocês foram entendendo,
+783100	784540	realmente tinha um contexto ali,
+784540	788100	como o gráfico foi criado feito para manipular quem está vendo.
+789100	795060	Em uma dica, em um idica,
+795060	799260	a gente acabou de passar por um momento que isso acontece demais,
+799260	800860	que é perigual eitoral.
+802860	805420	Conseguem lembrar de alguma coisa?
+807780	812980	Agora, nas eleições de, agora me me espais, né?
+812980	815980	Eu lembro que eu vi uma um posto no Instagram,
+816340	818500	dois candidatos estavam no segundo tudo,
+818500	822620	e aí estavam botando o post de uns candidatos falando,
+822620	823340	ah,
+823340	823620	eh,
+823620	825620	fulando disparou.
+825620	827500	Então, nas pesquisas, né?
+827500	829020	Disparou nas pesquisas.
+829020	831500	Aí, botava o gráfico de delo em cima,
+831500	833300	ao bem alto, sim,
+833300	835820	e o douto candidato lá embaixo.
+835820	838220	Então, eu caraca ele disparou mesmo,
+838220	839820	a isso vai olhar a diferença.
+839820	840380	Tava,
+840380	841500	50 e 2,
+841500	842660	a 48.
+843620	845900	Então, os caras deram uns um, né?
+845900	847420	Tipo, como se der, tivesse em dar uns um,
+847420	848300	eles voltaram o eixo e o eixo,
+848300	849780	e o eixo, e o número em um miscala,
+849780	851940	que fica muito distorcida de forma,
+851940	853780	a pareciação a diferença muito grande.
+853780	854980	E assim,
+854980	855780	é aquela, né?
+855780	857220	Mentira, não é?
+857220	858780	Mas é uma manipulação,
+858780	859780	feita para...
+859780	860780	É...
+860780	862500	Nem que não ganar quem está vendo, né?
+862500	863260	Porque,
+863260	866940	tudo isso, da liera já já entra na parte do marketing,
+866940	868460	do efeito de monada,
+868460	869300	que a pessoa vê,
+869300	870300	não, se ele disparou.
+870300	871020	Então,
+871020	873100	a pessoa já já creia a sua opção de afuão,
+873100	874300	tá na frente,
+874300	875740	o avonei mesmo.
+875740	878380	Então, é tudo isso affeito com propósito, né?
+878380	879460	Então, esse pessoal que,
+879460	879980	principalmente,
+879980	880980	que é um panelitoral, né?
+880980	882340	É um muito dinheiro investido
+882340	882740	o marketing,
+882740	884500	então, eles nem vão fazer nada por a casa.
+884500	885900	O isso é pensado.
+885900	886460	E a gente vai ver,
+886460	887620	mas uns exemplos aqui hoje,
+887620	889060	ao longo da aula.
+889060	890180	Mas, primeiro,
+890180	894780	vai falar aqui sobre os principais tipos de visualizações de dados.
+894780	896380	E vamos começar a construir nossa base.
+896380	897900	Acho que o mais claro, né,
+897900	898620	que a gente conhece,
+898620	900540	que todo mundo
+900540	902780	já teve experiência.
+902780	903820	E, pelo menos,
+903820	905820	algumas vezes na vida já viu,
+905820	908300	é o gráfico de
+908300	910300	barras que é isso aqui.
+910300	911180	É basicamente,
+911180	912540	para comparar a categoria, né?
+912540	913300	Então, a gente,
+913300	915060	aqui, um exemplo número de vendas
+915060	916820	em uma loja de departamento,
+916820	920460	é o gráfico mais batido.
+920460	922220	E aqui a gente tem as categoria,
+922220	922860	o procedurismo,
+922860	923620	o procedurismo,
+923620	924860	o procedurismo,
+924860	924900	o procedurismo,
+924900	926780	o mesmo banho e a quantidade de vendas
+926780	928580	para cada um.
+928580	930180	Então, esse é o gráfico mais...
+930180	931420	ele pode ser também,
+931420	933620	na horizontal,
+933620	937020	mas ele não deixa de ser um gráfico de barras, né?
+937020	939020	E,
+939020	940460	outro gráfico também,
+940460	942260	muito utilizado que a grande maioria
+942260	944100	já deve ter visto a o gráfico de linha.
+944100	945660	Ele serve para mostrar
+945660	947060	tendência em movimentações,
+947060	950020	assim, de uma valor ao longo do tempo.
+950020	950980	Então, aqui,
+950980	952460	a gente tem, por exemplo,
+952460	954060	onde ele é muito utilizado
+954060	955580	em ações,
+955580	956860	a gente tem o gráfico de ações
+956860	957940	da Petrobras,
+957940	960700	a gente vê que é um período de 15 anos,
+960700	962700	e o gráfico de linha...
+962700	964500	Eu achei muito interessante
+964500	966140	porque a gente tem que lidar
+966140	967700	com todo uma nova dimensão,
+967700	969340	a gente não precisa
+969340	970260	com o gráfico de linha.
+970260	971780	Tem muita informação.
+971780	972940	Por que eu falo isso?
+972940	974820	Aqui é uma informação que a gente tem, é...
+974820	977380	o preço da ação da Petrobras.
+977380	978140	Por favor, não.
+978140	979060	Que tem mais nada que...
+979060	980620	Preci da ação da Petrobras.
+980620	982300	Então, ela começou aqui no vinte,
+982300	985300	ela foi para chegar batecincüenta,
+985300	986580	depois ela desceu,
+986580	991460	ela foi pegou quase de graça
+991460	992900	aqui em 2006 por...
+992900	994500	Só cinco reais.
+994500	996740	Aí ela voltou a crescer e caiu.
+996740	998740	Ela voltou a crescer de novo.
+998740	999700	Ela caiu de novo.
+999700	1001340	Ela voltou a crescer de novo.
+1001340	1002540	E...
+1002540	1003740	Assim,
+1003740	1004940	políticas a parte,
+1004940	1007380	o que a gente consegue estraider isso?
+1007380	1009020	Muito informação relacionado
+1009020	1011860	ao histórico do nosso país do Brasil.
+1011860	1013580	Porque todos esses movimentos aqui
+1013580	1015220	foram relacionadas ao governo político.
+1015220	1016700	Não vou lembrar de cabeça.
+1016700	1019020	Não sou muito bom de memória,
+1019020	1022980	mas com certeza está relacionado à eventos.
+1022980	1024220	Então, por exemplo,
+1024220	1026460	acho que é o que fica bem claro que a pandemia,
+1026460	1029660	como esse indêche dos mil e vinte
+1029660	1030220	está bem...
+1030220	1032460	Acho que parece que ser pandemia.
+1032460	1034300	Aqui, não lembro que foi,
+1034300	1036180	e 2018, ninguém não me ensalou.
+1036180	1037940	Ou alguma coisa nesse sentido.
+1037940	1039940	Mas todo...
+1039940	1042180	Independente, eu não quero entrar em política.
+1042180	1043060	E falar alguma pessoa.
+1043060	1044900	Mas que eu estou falando, é...
+1044900	1046500	Esse gráfico consegue trazer informação
+1046500	1048100	para a gente ao longo do tempo.
+1048100	1049340	De todo o histórico,
+1049340	1051460	que aconteceu com as ações da Petrobras.
+1051460	1054100	E, com uma simples informação,
+1054100	1056180	que é o valor dação.
+1056180	1058460	Então, eu gosto muito disso,
+1058460	1061780	porque a gente começa a entrar em várias outras líveis.
+1061780	1064340	A gente consegue estrair muita informação
+1064340	1066700	a partir de uma única variável
+1066700	1067780	porém, o que...
+1067780	1069900	Gero valor para ela, que é o...
+1069900	1071700	A extensão de tempo que a gente tem dela.
+1071700	1073500	Então, olhando 15 anos para trás.
+1073500	1075300	O tanto de informação que a gente consegue estrair
+1075300	1077460	é o correla acionar outras informações.
+1077460	1079300	Tem muitas vezes são subjetivas.
+1079300	1082260	Então, imagine que para várias pessoas,
+1082260	1084220	não fique claro que aqui, por exemplo,
+1084220	1085500	seria pandemia.
+1085500	1087220	Mas quando a gente tem informação consegue
+1087220	1088380	ir correla acionar,
+1088380	1090100	lembrar de que aconteceu aqui no Brasil,
+1090100	1091380	na época da pandemia,
+1091380	1093100	tudo fechou, né?
+1093100	1095340	Então, para o país inteiro fechou,
+1095340	1096460	os preços da gasolina,
+1096460	1097500	não sei se vocês lembram,
+1097500	1099420	mas no primeiro saber se os meus 20s,
+1099420	1101820	os preços da pandemia baixaram muito.
+1101820	1103260	Porque não tinha demanda.
+1103260	1104100	Por gasolina.
+1104100	1106340	Então, a minha renta você é a gente caso,
+1106340	1107340	tudo o dia lá que dá,
+1107340	1108860	então, com isso,
+1108860	1111260	os stockes dos posgasolina ficaram muito alto,
+1111260	1113100	e o preço da gasolina baixou no país.
+1113100	1115900	E, no molentê no aniversário de aconteceu isso, né?
+1115900	1117340	Então, provavelmente está...
+1117340	1120460	Isso aqui, também relacionado com que aconteceu aqui,
+1120460	1123500	em 2020 no preços da Petrodais, né?
+1123500	1124940	Então, caiu bastante.
+1124940	1129180	Então, esse é o gráfico de bar de linhas,
+1129180	1130100	e o gráfico de barza,
+1130100	1131340	acho que esses dois são...
+1131340	1133060	os que a gente mais tem,
+1133060	1134780	é contato ao longo da nossa vida,
+1134780	1135260	de...
+1135260	1137340	Pode ser apresentados de diferentes formas,
+1137340	1140380	mas no fim, eles são o gráfico de barza de linhas.
+1140380	1141420	Agora,
+1141420	1143900	eu tô aparenta que eles são em vocês,
+1143900	1145900	eu vou no botar aqui para cima,
+1147100	1148860	e aqui,
+1148860	1150700	a gente tem...
+1150700	1153180	dois tipos de visualização adicionais.
+1153180	1155820	A gente tem o gráfico de dispersão,
+1155820	1157580	e o gráfico de área.
+1157580	1159900	Então, o gráfico de dispersão
+1159900	1163020	é muito bom para corra relacionar duas variáveis.
+1163020	1164700	Então, nesse caso aqui, por exemplo,
+1164700	1166460	a gente tem uma variável altura,
+1166460	1168860	e uma variável peso.
+1168860	1171180	O que é muito interessante a gente vem aqui?
+1171180	1173340	A corração entre a altura e peso.
+1173340	1175180	É bem natural, a gente sabe que,
+1175180	1176060	é, ao uma loja que eu digo,
+1176060	1177100	quanto mais alto a pessoa,
+1177100	1178380	mais pesada ela é.
+1178380	1181260	E por isso que esse gráfico tem uma tendência
+1181260	1182220	para cá, né?
+1182220	1184300	Que aqui quanto maior a altura?
+1184300	1187340	Não é, ó, o peso.
+1187340	1188300	Isso é lógico, né?
+1188300	1189420	Então, nós conhecem a devida,
+1189420	1190380	a gente sabe que vai sentir,
+1190380	1192860	quanto mais baixas as pessoas,
+1192860	1194540	menor eu peço de elas também.
+1194540	1195900	Então, esse faz todo sentido,
+1195900	1197180	mas o legal desse gráfico,
+1197180	1198300	olha que o que a gente consegue fazer,
+1198300	1200620	a gente consegue dentro do próprio gráfico,
+1200620	1201420	do escado de plot,
+1201420	1202540	grafos de dispersão,
+1202540	1204540	a gente consegue adicionar uma quembra,
+1204540	1206860	por tipo de esponte,
+1206860	1210140	e ver como que isso fica claro,
+1210140	1211580	que, por exemplo,
+1211580	1213180	nesse caso aqui, a gente vai claramente
+1213180	1215580	que há uma diferença de corpos,
+1215580	1218140	né, de físicos, entre os esportos.
+1218140	1220140	Então aqui, por exemplo,
+1220140	1223260	vamos empaque, abalmente.
+1223260	1226620	A gente vê que nessa área, que tem muito pessoal,
+1226620	1228060	é verde, né?
+1228060	1229660	E é o pessoal do triato,
+1229660	1231100	então, o pessoal ou no triato,
+1231100	1232620	não há atletas muito altos,
+1232620	1234140	e nem muito pesados,
+1234140	1235420	que eu senti for ver,
+1235420	1236620	é basicamente até,
+1236620	1237500	essa é 35.
+1237500	1239820	E eu usaria um pouquinho mais pesado,
+1239820	1240940	e se faz todo sentido,
+1240940	1242300	não é considerando o gasto calor,
+1242300	1243340	porque eu trataria um tempo,
+1243340	1246140	que, enfim, o esforço que exige,
+1246140	1247420	então, não fa...
+1247420	1248460	Se você pensar não,
+1248460	1250700	tenha atletas no triato muito pesados,
+1250700	1252060	justamente porque,
+1252060	1255500	é o esforço que exige muita movimentação, né?
+1255500	1257340	É o vole,
+1257340	1259980	a gente vê que é um esporte,
+1259980	1263020	que tem muitos todos tipos de corpos, né?
+1263020	1264460	Então aqui, a gente foi pensar,
+1264460	1265100	o vole,
+1265100	1266620	ele tem pessoal mais baixo,
+1266620	1269020	o pessoal mais pesado,
+1269020	1270460	e...
+1270460	1272060	ele começa aqui, por exemplo,
+1272060	1274300	tem pessoal de um e 60 no vole,
+1274300	1275260	é uma minoria,
+1275260	1276940	claro, né?
+1276940	1278220	Ele é calma mais concentrado aqui,
+1278220	1279820	entre um e o item de um e o 90,
+1279820	1283100	mas ele também tem vários jogadores altos,
+1283100	1285260	então aqui, considerando o vole,
+1285260	1286460	onde vê que, por exemplo,
+1286460	1288140	ele tem uma tendência,
+1288140	1289900	aficar,
+1289900	1291900	na parte superior aqui do nosso gráfico,
+1291900	1293100	certo?
+1293100	1294460	Superior direita,
+1294460	1295580	mas, ao mesmo tempo,
+1295580	1297900	existem também outros corpos,
+1297900	1298700	que,
+1298700	1300060	não tão,
+1300060	1302460	não nesse grupo principal, né?
+1302460	1304060	Mas, concentração principal,
+1304060	1305100	e o que são, por exemplo,
+1305100	1306620	o vole já fazendo a socialção,
+1306620	1308380	são os libros, provavelmente,
+1308380	1309340	que são pessoal,
+1309340	1310140	o que só defende,
+1310140	1311100	não precisa ser alto,
+1311100	1312220	geralmente alguém mais móvel,
+1312220	1313180	o baixinho,
+1313180	1314060	então,
+1314060	1314620	é, de provavelmente,
+1314620	1316060	esses aqui são os libros do vole,
+1316060	1317260	e a gente vê como, por exemplo,
+1317260	1320300	estão distanciados aqui do grupo principal.
+1322620	1323980	Outro coisa legal,
+1323980	1325020	é o basquete, né?
+1325020	1326380	Acho que o basquete é o mais claro,
+1326380	1327180	para a gente,
+1327180	1327580	olha como,
+1327580	1329020	o basquete acaba concentrado
+1329020	1331020	na parte direita superior.
+1331020	1331740	Então,
+1331740	1332780	se a gente pegar aqui,
+1332780	1333580	acho que,
+1333580	1335260	nessa segunda aqui,
+1335260	1335980	olha,
+1335980	1337420	basquamente quase todo mundo
+1337420	1339980	do basquete está concentrada aqui, certo?
+1339980	1340460	E,
+1340460	1341660	exatamente isso,
+1341660	1343260	que a gente tem a noção de basquete,
+1343260	1344620	é um pessoal bem mais alto,
+1344620	1345660	bem mais,
+1345660	1346860	naturalmente pesado,
+1346860	1347660	também.
+1347660	1348700	É,
+1348700	1349100	e,
+1349100	1349660	com isso,
+1349660	1350300	faz que o pessoal
+1350300	1351740	basquete ter de praticado,
+1351740	1353180	mas a gente vê também
+1353180	1354860	os azuis aqui,
+1354860	1357500	pessoal mais baixo do basquete,
+1357500	1358340	e,
+1358340	1359260	é natural também,
+1359260	1360140	esses alguns,
+1360140	1361740	no basquete tem uma armadura ali,
+1361740	1361900	que,
+1361900	1362460	generalmente,
+1362460	1363500	não é tão alto,
+1363500	1365260	mas a grande concentração,
+1365260	1365900	é,
+1365900	1367500	na parte do pessoal de pelo menos,
+1367500	1369340	com mais de um e novento, né?
+1369340	1370140	E,
+1370140	1371660	a gente sente o observar aqui,
+1371660	1372540	os que são
+1372540	1373340	altilais,
+1373340	1373500	né?
+1373500	1374140	Estou tais,
+1374140	1375980	os que estão bem fora da cúver.
+1377260	1377740	Então,
+1377740	1379420	tanto para baixo aqui,
+1379420	1380060	a gente vê que,
+1380060	1380700	por o triato,
+1380700	1381900	então, pessoal,
+1381900	1383500	entre 150,
+1383500	1385500	e 160,
+1385500	1386700	e,
+1386700	1387420	assim,
+1387420	1388540	menos de 50,
+1388540	1389180	que uns,
+1389180	1390380	todos com menos de 50,
+1390380	1391580	são os dois de parário,
+1391580	1393420	são a pletta de triato,
+1393420	1395580	e todos com mais de,
+1395580	1396780	todos com exceção de um,
+1396780	1398780	dois com mais de dois e dez,
+1398780	1401020	são a pletta de basquete.
+1401020	1401900	Então, a gente percebe
+1401900	1403260	essa extremidade de corcos,
+1403260	1404300	tanto no basquete,
+1404300	1405180	contra o motoriato,
+1405180	1405420	não é?
+1405420	1406060	O triato mundialmente,
+1406060	1407260	o pessoal bem,
+1407260	1407820	é,
+1407820	1409820	baixinho e mais bem leve,
+1409820	1410540	quanto no basquete,
+1410540	1411980	o pessoal bem alto,
+1411980	1413340	que naturalmente é mais pesadente.
+1413340	1415340	Viam, os atletes aqui do basquete,
+1415340	1416780	ou com,
+1416780	1418300	como eu estou aqui,
+1418300	1420060	mas a gente viu alguns atletas do basquete,
+1420060	1422460	com mais de dois mais de 20,
+1423420	1425660	então, tem dois atletas aqui do basquete,
+1425660	1427260	com mais de dois mais de 20,
+1427260	1427820	então,
+1427820	1429420	realmente, impressionante,
+1429420	1430060	então,
+1430060	1431260	o tanto de formação que a gente consegue
+1431260	1431660	estar aí,
+1431660	1432940	do gráfico de pressão,
+1432940	1434860	ou relacionando dos variables,
+1434860	1436940	considerando três categorias aqui,
+1436940	1438380	e esse é um gráfico real,
+1438380	1438620	né?
+1438620	1440060	Do as atletas olímpicos
+1440060	1442060	da Zermingando a Unipiada Gito,
+1442060	1443020	Tokyo.
+1443020	1446780	Outro gráfico, acho interessante,
+1446780	1448300	é o gráfico de área,
+1448300	1449580	o gráfico de área,
+1449580	1451660	ele também fala de evolução
+1451660	1452220	longo do tempo,
+1452220	1453820	assim como o gráfico de linha,
+1453820	1455420	mas ele é mais interessante,
+1455420	1457100	principalmente para a gente
+1457100	1459660	considerar uma acumulação,
+1459660	1460940	então considera uma acumulação
+1460940	1463660	no sentido de um oixo e oixo e oixo.
+1463660	1464540	Eles,
+1464540	1466300	eles sempre mais são total,
+1466300	1467100	certo?
+1467100	1467900	Então aqui,
+1467900	1468620	não oixo e oixo,
+1468620	1469340	não.
+1469340	1471020	A gente tem um total,
+1471020	1472460	que será distribuído,
+1472460	1475020	entre diferentes grupos ao longo do tempo.
+1475020	1475580	Então aqui,
+1475580	1476460	a gente tem uma série histórica,
+1476460	1477740	igual ao gráfico de linha,
+1477740	1479340	mas diferente do gráfico de linha,
+1479340	1481500	e a gente poderia fazer do gráfico de linha,
+1481500	1483500	sendo cada um desses grupos uma linha,
+1484860	1486300	aqui a gente tem um total,
+1486300	1488460	então, consolidado de vendas,
+1488460	1490380	e por que esse gráfico é muito interessante?
+1490380	1491900	Ele traz,
+1491900	1493100	justamente,
+1493100	1495260	a magnitud de das mudanças
+1495260	1497340	em um determinado grupo ao longo do tempo,
+1497340	1498140	ainda é,
+1498140	1500380	junto a vários grupos ao longo do tempo.
+1500380	1501500	Então, um exemplo muito,
+1501500	1502700	que eu acho sempre muito interessante,
+1502700	1503260	esse gráfico,
+1503260	1504220	como os gráficos mais legais,
+1504220	1505820	que eu acho que existem,
+1505820	1507500	porque a gente pode conseguir relacionar
+1507500	1508460	com o nosso vida,
+1508460	1509260	assim mesmo,
+1510940	1511660	então,
+1512860	1513820	vamos lá,
+1513820	1514780	a gente tem aqui,
+1515100	1517900	o mercado de músicas no Estados Unidos,
+1517900	1519500	por formato,
+1519500	1521020	ajustado pela inflação,
+1521020	1521900	porque, claro,
+1521900	1522540	é,
+1522540	1523340	antigamente,
+1523340	1523980	vale a menos,
+1523980	1526140	então a gente tem que ajustar pela inflação.
+1527020	1527980	Então,
+1528220	1528780	vamos lá,
+1528780	1529500	a gente começa aqui,
+1529500	1530620	como a gente track,
+1530620	1532220	a gente tem o vimil,
+1533420	1534940	provavelmente está na geração
+1534940	1536940	da grande maioria dos nossos pais,
+1537340	1537820	e aí,
+1538780	1539660	o casete,
+1539660	1540460	já entra aqui,
+1541340	1543100	a partir de 1980,
+1543100	1543660	então,
+1543660	1545020	o que é o período aqui?
+1545900	1546380	Vamos lá,
+1546380	1546940	me ajudam,
+1546940	1547500	vocês?
+1547500	1548780	O que é o período entre
+1549580	1551420	mil novecentos e o tempo
+1551420	1551580	é,
+1551580	1552220	sim,
+1552220	1554220	e o ano de 1980,
+1554220	1555180	o período aqui,
+1555180	1556540	entre as duas faixas vozes,
+1556540	1557420	indica pra gente.
+1559500	1561740	Vamos lá,
+1561740	1562540	vamos lá,
+1562540	1565660	o lançamento do
+1565660	1566780	vídeo de cassette
+1566780	1568860	e o Decline do Vinho.
+1568860	1570060	A sua instituição,
+1570780	1571980	exatamente.
+1572940	1573740	Então,
+1574300	1575900	foi exatamente isso que aconteceu,
+1575900	1577580	o vinho foi morrendo
+1577580	1578940	na longo desse 5 anos,
+1578940	1580220	enquanto o cassete foi lançado,
+1580220	1581100	que ele foi dominando,
+1581100	1581820	mercado.
+1581820	1582780	E de certa forma,
+1582780	1583820	mercado cresceu,
+1583820	1584220	certo?
+1584220	1584620	Porque aqui,
+1584620	1585340	se a gente foi considerando,
+1585340	1586540	a mercado estava no ponto de
+1586540	1588940	5 bilhões de dólares a um ano,
+1589500	1591180	quando ele chegou no áudio do cassette,
+1591180	1592300	ele batiu
+1592300	1594140	aqui um set de bilhões a um ano.
+1594140	1595820	Então, teve um pequeno crescimento.
+1596620	1597340	E,
+1597340	1597900	ali,
+1597900	1599180	para o ano de vinho,
+1599180	1600140	91,
+1600140	1600940	por ali,
+1600940	1601900	começou,
+1601900	1602780	chegou com tudo,
+1602780	1603580	o CD.
+1603580	1604220	E o CD,
+1604220	1605100	diferente do cassette,
+1605100	1606780	ele já teve um crescimento,
+1607660	1609820	tem exponencial aqui no caso,
+1609820	1610780	diferente do cassette,
+1610780	1611740	que teve um crescimento,
+1611740	1613580	muito mais brinac,
+1613580	1614940	aqui a gente tem um crescimento,
+1614940	1615820	exponencial.
+1617020	1617580	E,
+1617580	1618780	a gente batou um pico
+1618780	1620140	da indústria da música,
+1620140	1621980	aqui no ano de...
+1621980	1622540	ou pra...
+1623980	1624700	um...
+1624700	1625340	Bruno.
+1626460	1626940	Aqui.
+1627900	1628860	No ano de...
+1631260	1632060	dois...
+1632060	1632860	Ó, de batê,
+1632860	1634060	20 bilhões de dólares,
+1634060	1636540	lá pro ano de 99, 2000.
+1638140	1639020	E aí,
+1639020	1640380	eu já lembro dessa época,
+1640380	1641340	mas era...
+1641340	1642700	realmente as febras do CD,
+1642700	1642860	né?
+1642860	1643660	Todo mundo me chamava
+1643660	1644060	de CD,
+1644060	1644860	em casa,
+1644860	1646140	os novoes aqui no Brasil
+1646140	1647020	eram feitos
+1647020	1647860	para...
+1647860	1649260	para o pessoal guardar CD.
+1650060	1650540	Então,
+1650540	1651580	tinha lá até verde,
+1651580	1652300	casa,
+1652300	1653500	as entradinhas do disco,
+1653500	1654380	vocês lembram
+1654380	1655660	e para vários CDs,
+1655660	1655980	assim,
+1655980	1656940	o pessoal guardava do CD,
+1656940	1657740	tudo que é tipo...
+1658940	1659740	Então era...
+1659740	1660700	era uma coisa muito legal,
+1660700	1660860	né?
+1660860	1661740	Tinha os...
+1661740	1662460	aquelas...
+1662940	1663900	caixas gigantes,
+1663900	1664860	né, que ficar um passando
+1664860	1665260	assim,
+1665260	1666700	com o f sumar o bucan de passado
+1666700	1667340	do CDs,
+1667580	1667980	pessoal,
+1667980	1668780	mas não vai lembrar,
+1668780	1670460	mas era um febre CD,
+1670860	1672620	e realmente era a tchau loja de CD,
+1672620	1672780	né?
+1672780	1673660	Então, várias lojas,
+1673660	1674780	eu lembro em Brasília,
+1674780	1675740	tinha um ano...
+1675900	1677500	era uma rede de lojas,
+1677820	1679820	era tinha um dos 20 rede de lojas,
+1680460	1682380	era essa loja de CD,
+1682380	1683580	então era algo muito,
+1683580	1684060	muito grande.
+1684860	1686620	E a partir de...
+1686620	1688060	ele bateu o áudio ali no
+1688060	1689580	venta e vai dois milhão,
+1689580	1690620	dois milhão,
+1691020	1692860	e a partir de daqui ele começou a cair,
+1694860	1696140	ele começou a cair,
+1696140	1697900	significativamente.
+1699980	1701820	E por que vocês acham que ele começou a cair?
+1702860	1703500	Agora,
+1706700	1708140	vamos ter que acessar com a nossa vida,
+1708140	1710700	por que vocês já estavam vivos, né?
+1710700	1712700	O que aconteceu com o mercado da música,
+1713740	1714860	depois de 2000,
+1715980	1716780	até 2000,
+1716780	1718380	e os pessoas pararam de ouvir música?
+1719260	1719980	Piracaria?
+1721820	1722780	Tem feito,
+1722780	1723580	defeitos,
+1723580	1724780	era pirataria.
+1725100	1725740	E no...
+1725740	1727340	A pirataria foi lembra
+1727340	1728860	um torrente
+1728860	1729820	com casar...
+1729820	1730300	Ah,
+1730300	1731500	um CD,
+1731500	1732220	você era feira,
+1732220	1733980	comprava o CD do disco,
+1734060	1735100	que o pessoal baixava,
+1735100	1737020	e esse botava um MP3.
+1737020	1738620	Então, todo mundo dá um jeito
+1738620	1739100	ali,
+1739100	1740700	então teve um período ali do limbo,
+1740700	1742060	né, que todo mundo dá um jeito
+1742060	1742940	em dia baixar a música,
+1742940	1745580	botanha, um lugar no MP3.
+1745580	1747740	E o que aconteceu com o mercado da música?
+1747740	1749100	Ele foi morrendo,
+1749100	1750780	o mercado de música,
+1750780	1751580	vendo de música,
+1751580	1752700	começou a morrer.
+1752700	1753340	E a gente vê,
+1753340	1754300	isso justamente aqui,
+1754300	1755580	ele bateu a o áudio de 2020,
+1755580	1756060	bilhões,
+1756060	1757340	ainda em 2000,
+1757340	1757740	nenhum.
+1757740	1759020	Ele começou a morrer,
+1759020	1760940	considerando que em 2000
+1760940	1762220	e dez aqui,
+1762220	1763260	ele estava menor do que
+1763260	1763900	o que nunca,
+1763900	1764620	menor do que ele,
+1764620	1765820	lá na década de 70,
+1765820	1767020	por vinho.
+1767020	1767900	Então,
+1767900	1768940	aqui a gente vê também
+1768940	1770300	que tem o modelo de download,
+1770300	1771340	né, que,
+1771340	1772140	bem curto aqui,
+1772140	1774140	que veio com a eta,
+1774140	1775900	né, no iTunes,
+1775900	1777500	que se comprava o CD,
+1777500	1778700	digital,
+1778700	1779900	mas foi muito pequeno,
+1779900	1780700	que as pessoas manderia
+1780700	1781020	no carro,
+1781020	1781740	não fazia sentido,
+1781740	1782140	não producto.
+1782140	1784380	Que...
+1784380	1786140	A piata aí passou de certa forma,
+1786140	1787180	você...
+1787180	1788300	aceita na vida das pessoas,
+1788300	1789820	que era muito mais fácil.
+1789820	1790140	Você...
+1790140	1791020	Não fazia muito sentido
+1791020	1792220	de você pagar,
+1792220	1792780	de enreio,
+1792780	1793420	pagar 20,
+1793420	1793980	30 reais,
+1793980	1794380	no CD,
+1794380	1795740	que vai ficar digital,
+1795740	1796380	sendo que você pode
+1796380	1797660	ter aquele arquivo,
+1797660	1798140	e,
+1798140	1798700	no épico,
+1798700	1799100	por exemplo,
+1799100	1799500	a iTunes,
+1799500	1799820	nem,
+1799820	1800460	só permitir,
+1800460	1800780	por exemplo,
+1800780	1802380	você cargar as músicas no seu
+1802380	1803500	o iPod,
+1803500	1803580	né?
+1803580	1803980	Então,
+1803980	1804220	enfim,
+1804220	1805580	já tinha um tchau mais absurdo
+1805580	1806940	em termos de...
+1806940	1808140	é de...
+1808140	1809020	a seisperidades,
+1809020	1809260	né,
+1809260	1810140	realmente.
+1810140	1811580	E as pessoas...
+1811580	1812940	seguiram pelo...
+1812940	1814060	Porque ela sempre fazem,
+1814060	1814940	né, na internet.
+1814940	1815740	Pelo caminho,
+1815740	1816860	mais fácil,
+1816860	1817820	para o...
+1817820	1818940	vida das pessoas mesmo,
+1818940	1819100	né,
+1819100	1819660	então,
+1819660	1821580	o que vai ser mais fácil para a minha vida?
+1821580	1822780	Consegui baixar uma música aqui,
+1822780	1824380	que eu consigo botar em todos os lugares,
+1824380	1825220	ou ter que pagar
+1825220	1826820	para uma plataforma específica
+1826820	1828780	para ter um CD virtual.
+1828780	1829980	Então, por isso que eu cedeis
+1829980	1830340	virtual,
+1830340	1830780	não...
+1830780	1832540	não pegaram.
+1832540	1834460	Mas...
+1834460	1836460	o mercado é...
+1836460	1837500	muito exigente, né,
+1837500	1839260	em sabe disso.
+1839260	1839980	E...
+1839980	1842380	A partir de 2015,
+1842380	1844860	começou a ter uma viradinha.
+1844860	1846300	E essa virada aqui,
+1846300	1847500	se eu falar para vocês,
+1847500	1848220	que esse gráfico também
+1848220	1849020	é atualizado, né?
+1849020	1849820	Tá indo em 2018,
+1849820	1850380	você quer que não é
+1850380	1851220	se eu crescer também
+1851220	1853180	continuou crescer exponencialmente,
+1853180	1854140	crescer a gente ver aqui,
+1854140	1854620	ó...
+1854620	1855820	Só teve duas coisas
+1855820	1857100	exponenciales
+1857100	1858220	nesse gráfico inteiro.
+1858220	1859580	Aqui, deixou...
+1862540	1864220	Talvez, afirm o comeceiro do vinil,
+1864220	1864940	vai,
+1864940	1865740	mas, com certeza,
+1865740	1867260	aqui no comeceiro do CD.
+1868460	1870700	E no comeceiro do streaming.
+1871820	1872380	No da noite,
+1872380	1872860	gente vê,
+1872860	1874060	foi bem...
+1874060	1874780	não convivem,
+1874780	1875020	bem,
+1875020	1876460	pouco em que nada.
+1876460	1877180	E...
+1877180	1878380	O que vocês acham?
+1879340	1880780	Que a gente começou a voltar...
+1882140	1882620	Ai...
+1882620	1883420	Mecava da música,
+1883420	1884460	começou a voltar crescer,
+1884460	1884620	né?
+1884620	1885260	Em 2018,
+1885260	1886300	ele já tinha batido aqui,
+1886940	1889420	quase 6, 7 milhões de dólares de novo.
+1889420	1890620	Depois de quase morrer, né?
+1895420	1896300	Então, o qual vocês acham que
+1896300	1897260	foi estratégia deles?
+1897260	1898860	Vamos por relação a nossa vida.
+1902620	1903660	No caso, ele fingera
+1903660	1905660	você em vez de pagar por uma música,
+1906380	1907740	pagar por...
+1907740	1909020	por toda aquele de oferece,
+1909020	1909260	né?
+1909260	1910940	No como só uma mensalidade,
+1910940	1911820	em vez de uma coisa...
+1912540	1913580	uma fidelidade,
+1913580	1915340	ele preferiu cobrar por uma mensalidade.
+1916140	1918060	Leito feito, foi isso que eles fizeram.
+1918060	1918860	Eles pensaram...
+1918860	1921100	Ah, já que as pessoas vão ouvir música,
+1921100	1922460	que elas querem de qualquer forma,
+1923340	1924620	qual qual o problema da usagora?
+1924620	1925580	Por um ano, de elas,
+1925580	1927820	elas tem que baixar a música de cada um de um lugar.
+1928460	1929980	Ellas não tem,
+1929980	1931260	muitas vezes, com fibrilidade,
+1932140	1933820	esses temos também muitas vezes
+1933820	1935900	eram propícios de transmissão de vírus,
+1935900	1938540	então, o liu cara botava no casado a vida,
+1938540	1939740	botava um vírus junto
+1939740	1942380	da música, então, isso aconteceu muito.
+1942380	1943820	E é justamente isso, pessoal.
+1943820	1944860	Plata forma de música,
+1944860	1947340	Spotify, Giza, YouTube, Music,
+1947340	1949500	então esse pessoal conseguiu retomar,
+1949500	1951660	eles pegaram os problemas que aconteceu.
+1951660	1952700	Então, a gente tem que baixar
+1952700	1953820	uns cada um em um lugar,
+1953820	1955180	não era tão seguro,
+1955180	1956380	muitas vezes,
+1956380	1957900	e dáva trabalho,
+1957900	1959020	também de organizar a passar
+1959020	1959980	para o MP3,
+1959980	1962380	passar para o IPOD, enfim.
+1962380	1964300	E eles começaram a botar
+1964300	1965340	dentro dos aplicativos,
+1965340	1966300	todos os músicos,
+1966300	1967740	e eles conseguiram retomar.
+1967740	1968780	Então, hoje eu não sei,
+1968780	1969740	acho que até interessante,
+1969740	1970620	alguém quiser pesquisar,
+1970620	1973500	depois passar na grupo da comunidade,
+1973500	1975180	mas muito legal esse gráfico de área,
+1975180	1976780	porque ele mostra justamente isso.
+1977420	1979260	Como que o mercado de música
+1979260	1980460	foi dividido ao longo do tempo,
+1980460	1981580	então, a gente consegue relacionar
+1981580	1982460	com eventos históricos,
+1982460	1984300	que estão na nossa vida,
+1984300	1986460	mas o mais interessante é a gente consegue
+1986460	1988620	ver o efeito do mercado
+1988620	1989180	todo,
+1989180	1991340	e como ele foi distribuído ao longo do tempo,
+1991340	1993660	nessas transições de tecnologia.
+1995340	1997500	Então, o gráfico de área é outra ferramenta
+1997500	2000460	muito legal para a gente usar,
+2000460	2002700	quando a gente quer pegar essa visualização
+2002700	2004300	dos grupos ao longo do tempo.
+2006860	2008780	Outro gráfico,
+2008780	2009820	muito legal,
+2009820	2011980	é o gráfico de 3 maps,
+2011980	2014860	que é o gráfico de Jaavuri,
+2014860	2015340	são no Minghane,
+2015340	2015900	português,
+2015900	2017020	eu não lembro do meu minghane,
+2017740	2020380	são no Minghane a gráfico de Jaavuri,
+2020380	2021900	não, não é o gráfico de Jaavuri.
+2021900	2022940	Mas,
+2023020	2023900	é o primeiro maps,
+2023900	2026460	mas, principais ferramenta de diversas são mesmo.
+2026460	2028780	Ele traz a proporção entre categoria,
+2029580	2032540	então esse aqui é um gráfico da proporção global,
+2033660	2035580	então a gente vê a caixa grandeona,
+2035580	2037660	né, o retango grande,
+2037660	2038860	ele é a população global,
+2038860	2040620	então a população do planeta Terra,
+2040620	2042060	e a gente consegue ver,
+2042060	2044620	ele é muito bom para trazer proporções.
+2044620	2047180	Então a gente vê que toda essa faixa amarela
+2047980	2048700	é a aze,
+2049740	2051740	e dentro da aze,
+2051900	2053500	só isso aqui é a China,
+2053500	2056300	então a gente consegue ter uma noção,
+2056300	2058060	de uma manhã da população da China,
+2058060	2059500	ação a população global,
+2059500	2062780	não, tudo isso aqui é China,
+2065420	2066460	e o resto,
+2066460	2067740	é o resto do mundo,
+2067740	2069500	quando a gente volta a China,
+2069500	2069980	em um dia,
+2069980	2071340	olha que está a mãe das duas,
+2071340	2073580	em relação ao planeta Terra,
+2075980	2077420	dá mais de um quarto certo,
+2077420	2078380	pessoal, com cola,
+2078380	2080060	a gente pegar a China,
+2080060	2082620	e não de a gente consegue ver mais um quarto do planeta Terra.
+2082620	2085500	No caso esse 3 maps,
+2085500	2086460	ele faz um,
+2086460	2089020	ele fez um de visão por,
+2089020	2090300	por continente,
+2090300	2091340	e tudo,
+2091340	2094140	dentro com o que ele queria entender.
+2094140	2095100	Ele não quer a beco,
+2095100	2095900	e menusem um ali,
+2095900	2096700	ele não colocou nome,
+2096700	2098700	mas seria um lugar que vários países,
+2098700	2099420	né?
+2099420	2099820	Isso dá,
+2099820	2101100	realmente vários países,
+2101100	2103020	que ele não consegue botar um nome todos,
+2103340	2106140	mas cada um desses caixinhas é um país,
+2106140	2107740	então a gente consegue ver aqui,
+2108140	2109500	a gente, a gente traque,
+2110940	2113500	esse é o Brasil em relação a esse do mundo,
+2115340	2116380	a gente tá aqui,
+2116380	2118780	porque a gente tá aqui na caixinha das américas,
+2119500	2121020	então a gente tá aqui no veio,
+2121020	2121820	o estado do Unido,
+2121820	2123180	é uma população das américas,
+2123180	2124460	com 300 milhões,
+2124460	2125980	esse aqui é Estados Unidos.
+2126300	2128620	E o Brasil, a segunda uma população das américas,
+2128620	2131180	com 200 milhões de pessoas,
+2131660	2132780	então a gente tem aqui,
+2132780	2135180	basicamente é 2º do estado do Unido,
+2135180	2137900	e a gente tem outras populações
+2137900	2139020	muito grandes da Ásia,
+2139020	2139420	da Oneas,
+2139420	2139980	E,
+2139980	2140220	E,
+2140220	2140780	E a Espaquestão,
+2140780	2141580	O Japão,
+2141980	2142540	Mas,
+2142540	2143580	Legal Antebre também,
+2144060	2145580	Qualquer a proporção do Brasil,
+2145580	2146700	e relação a esse do mundo,
+2147260	2147660	a gente vem,
+2147660	2148380	por exemplo,
+2148380	2149420	o Rente Medio,
+2149420	2149980	ao Seneio,
+2149980	2151260	Olha o tamanhozinho do Seneio,
+2151260	2152940	em população em resto do mundo,
+2152940	2153980	em relação a esse do mundo.
+2155740	2156140	Então,
+2156140	2156940	a gente consegue ver,
+2156940	2158700	tanto o Efeito de Continentes,
+2158700	2160220	quanto o Efeito de país,
+2160220	2160380	né?
+2160380	2161500	Esse é o principal,
+2162700	2164620	principal característica do Triunipsy,
+2164620	2165020	e o Triunipsy traz,
+2165020	2166780	ele é muito bom para mostrar para o porcentes.
+2172620	2173500	Falando agora,
+2173500	2175420	de gráficos de cascat,
+2175420	2176380	o gráfico de cascat,
+2176380	2177260	ele é muito legal.
+2178060	2178220	É,
+2178220	2179500	a pressão a gente pessoal que já trabalhou,
+2179500	2180460	em área financeira,
+2181180	2183020	já já viu muito gráficos de cascat,
+2183020	2183580	é,
+2183580	2184700	ele é muito usado para fazer
+2184700	2185740	balance de empresa,
+2186300	2187420	fluxo de caixa,
+2187420	2189260	previsão de investimento,
+2189980	2190700	então,
+2190700	2191740	a pressão a gente pessoal
+2191740	2192460	da área financeira,
+2192460	2193340	que já se aventurou,
+2193340	2194140	já deve ter visto,
+2194780	2196220	e ele serve para fazer
+2196220	2199740	a variação de dos números ao longo do tempo,
+2199740	2199980	né?
+2199980	2201020	Ou por eventos?
+2201020	2201820	Então aqui,
+2201820	2203420	o exemplo do fluxo de caixa,
+2203420	2203500	né?
+2203500	2206300	Então a primeira gráfico de primeira barra,
+2206300	2207740	que é o sal inicial,
+2207740	2207980	então,
+2207980	2209420	ele é acrescido,
+2209420	2210780	aqui por serviços,
+2210780	2211580	por produtos,
+2211580	2211900	então,
+2211900	2213580	ele passou aqui para 200,
+2214300	2217580	para 260,
+2217580	2218380	mas aqui,
+2218380	2219660	quando ele começou a ficar vermelho,
+2219660	2221580	ele começou a ser decrescido.
+2221580	2222380	Então, ele veio aqui,
+2222380	2223820	perdeu 200 em despesa,
+2223820	2226220	perdeu 380 em custo-fixo,
+2226220	2227180	e ele chegou no final,
+2227180	2228300	porque é o sal do final.
+2228300	2229340	Então, ele é muito usado ali
+2229340	2231100	para a balance de empresas,
+2231900	2232540	fluxo de caixa,
+2232540	2233420	que nem eu falei,
+2233420	2235020	tudo isso para a gente ver a relação,
+2235020	2236140	que fez subir,
+2236140	2236940	e o que fez decê,
+2236940	2237420	também,
+2237420	2238220	muito,
+2238220	2239020	muito prático.
+2240780	2242220	Agora, o tema polêmico,
+2243580	2244540	gráfico de pizza,
+2245500	2247100	o gráfico de pizza,
+2247100	2247660	ele,
+2249580	2251100	é usado muito,
+2251100	2254140	mas eu não recomendo de forma alguma usar,
+2254140	2255740	e eu porquê está aqui nesse vídeo,
+2255740	2257820	não nesse vídeo, nesse imagem,
+2257820	2260380	porque você deve usar um gráfico de pizza,
+2260380	2260700	então,
+2260700	2261900	essa é a pergota,
+2261900	2264220	e por incrível que pareça,
+2264220	2265260	a acredita eu não,
+2265260	2266780	esses dois gráficos trázem,
+2266780	2268940	exatamente, a mesma informação.
+2271180	2272300	A acredita eu não.
+2273500	2275500	A única coisa que eu acho aqui
+2275500	2276300	foi,
+2276300	2277660	aqui a gente botou um escala,
+2277660	2278460	se vocês perceberam,
+2278460	2279500	escala não comecei em zero,
+2279500	2281020	escala começa em,
+2281180	2281580	dez,
+2281580	2282940	então, de baixa dez a de oito,
+2283740	2285820	e aqui a gente consegue ver claramente
+2285820	2286940	a diferença entre as classes.
+2288220	2289740	Enquanto no gráfico de pizza,
+2290780	2291980	por essa diferença exutil,
+2291980	2292940	não, negativa aqui,
+2293740	2294300	que, no caso,
+2295100	2296620	é esse no gráfico de pizza,
+2297740	2299740	ele tem muito pouco de diferença
+2299740	2300700	para o novo,
+2300700	2302700	que é o azul grande do lado,
+2303420	2305900	e principalmente tem outra coisa,
+2305900	2307260	e é a mais interessante,
+2307260	2308300	eu li um artigo esse dia,
+2308300	2309420	as palavras justamente,
+2309740	2311660	que no gráfico de pizza,
+2311660	2312860	a gente, como,
+2313260	2314220	como ser humano mesmo,
+2314220	2315740	o nosso cérebro não processa bem,
+2316620	2317740	as cores,
+2317740	2318860	principalmente os azul,
+2319980	2321260	quando eles estão no gráfico de pizza,
+2321260	2323180	porque a gente perde um pouco noção de proporção.
+2323660	2324700	E não sei vocês,
+2325340	2326540	que ele até o vídeo vocês,
+2326540	2327660	é o que vocês acham?
+2327980	2329100	Estes dois azules aqui,
+2329100	2331660	eles parecem muito parecidos
+2331660	2332220	para mim,
+2332220	2333420	mas quando a gente olha a diferença,
+2333420	2334780	é um ano de 8%
+2335020	2335580	e outro,
+2335580	2336460	é menos de,
+2336540	2338620	ali, 11, 10, 10, 10%
+2338860	2339580	vocês,
+2339580	2340860	o que vocês sentem?
+2340860	2341740	Vocês também
+2341740	2343180	vem a diferença tão grande?
+2346460	2347820	Ah, algo tão perceptível,
+2349740	2350860	ois é o azul,
+2350860	2352220	ele é quase limitado,
+2352220	2353900	e ela vai ser bastante divertida.
+2354380	2356060	Ele vai também, ele é quase metade,
+2356060	2357100	um pouquinho mais da metade,
+2357100	2357900	não parece,
+2357900	2358380	tipo,
+2358380	2359660	dá para ver se eu leassem bem,
+2359660	2360460	parece que é menor,
+2360700	2362460	mas principalmente no gráfico de pizza,
+2362460	2363340	quando se olha esse indicar,
+2363340	2364460	não parece que é metade.
+2365420	2367100	Então, a ideia é essa,
+2367100	2368220	nossa cérebro,
+2368220	2369820	o ano ele não processa muito bem,
+2370940	2371580	cores,
+2371580	2373180	muitas cores de juntas,
+2373180	2375180	principalmente no formado de pizza,
+2375180	2376940	e o gráfico de pizza
+2376940	2378380	ele acaba de tão trazendo um pouco das
+2378380	2380780	vezes ilusões visuales,
+2381180	2382300	então claro,
+2382300	2383260	temos que usar alguns sensos,
+2383260	2384540	quando você tem ele duas categorias,
+2384540	2386940	só mostrar ali a gente base 140,
+2386940	2387900	às vezes faz sentido,
+2387900	2389180	às vezes é interessante,
+2389180	2391340	mas aqui como muitas categorias,
+2391340	2393580	não fica muito perceptível
+2393660	2394780	a diferença.
+2394780	2395500	Então,
+2395500	2397980	usam com muito cuidado o gráfico de pizza,
+2397980	2399340	e não recomende falar
+2399340	2400140	no alguns apps,
+2400140	2401260	principalmente quando tiver
+2401260	2403180	muitas categorias igual
+2403180	2405420	nesse gráfico aqui.
+2409340	2410140	Passando agora,
+2410140	2411740	começando a parte look legal,
+2411740	2413020	o livro corresponde demais
+2413020	2416060	para vocês um livro bem curtinho,
+2416060	2417260	eu li ele,
+2417260	2418860	numa viagem avião,
+2418860	2419500	então,
+2419500	2420140	tudo três horas,
+2420140	2421020	acho que eu estava indo de Brasil
+2421020	2422060	para a frontalesa,
+2422140	2423020	eu li ele,
+2423020	2424220	ele é muito interessante,
+2424220	2425100	é,
+2425100	2425660	tão big,
+2425660	2427500	falou bem dentro do livro,
+2427500	2429500	estou trazendo o big aqui toda a obra,
+2429500	2430540	não?
+2430540	2432700	Mas o livro é Houghtylye,
+2432700	2433820	o ifestatístics,
+2433820	2436700	como mentir com estatísticas do Dary Huff,
+2436700	2438220	e tem várias construções
+2438220	2439660	ao longo do livro do livro,
+2439660	2441420	ele foi um da excelha real estázunírus,
+2441420	2442540	então, conseguiu forabolher
+2442540	2444780	sendo do pessoal de dados,
+2444780	2445740	ele é muito legal,
+2445740	2446460	porque ele traz sobre
+2446460	2447500	justamente isso que a gente falou
+2447500	2449580	de minutiras ao longo do tempo,
+2449580	2450700	e quem costuma no que
+2450700	2452060	de muito condados,
+2452060	2454460	em geral, são políticos,
+2454460	2455260	em loto fones,
+2455260	2456460	que ele direita são políticos,
+2456460	2458700	e a área é muito bom em manipulados,
+2458700	2460060	e eles fazem isso quando eles estão,
+2460060	2461100	também, no poder,
+2461100	2461740	então,
+2461740	2463340	esse aqui é um gráfico do
+2463340	2464780	que o governo,
+2464780	2465980	sendo me gano de algum estado
+2465980	2466700	lá no estado de Unidos,
+2466700	2467420	o Zô,
+2467420	2469260	então, o gráfico que eles usaram
+2469260	2471020	foi para falar que a folha de pagamentos,
+2471020	2473020	peiu ou os é folhas de pagamento,
+2473020	2475660	então esse foi o gráfico que eles divulgaram,
+2476380	2477580	eles divulgaram,
+2477580	2480620	que os pacusos salários estavam explodindo,
+2480620	2482860	aqui, eu saindo aqui de Agosto,
+2482860	2483580	de anelho, fevereiro,
+2483580	2484380	massa abril,
+2484380	2485980	então de abril pra mais,
+2485980	2488380	os salários explodiram,
+2488380	2488620	então,
+2488620	2491580	isso é um 19e para 20.
+2491580	2493340	Só que por que eles explodiram,
+2493340	2496060	era novamente a questão da proporção
+2496060	2497420	no eixo eixo.
+2497420	2500540	Esse gráfico que começa no 19e
+2500540	2501660	e vai até o 20,
+2501660	2502860	então ele faz parecer que
+2502860	2504940	teve um crescimento muito grande.
+2504940	2505980	Esse aqui,
+2505980	2507340	ele vai do 30,
+2507340	2508540	do 0, 30.
+2508540	2509660	E quando a gente vê aqui,
+2509660	2511100	é o mesmo crescimento.
+2511100	2512780	Então, isso aqui,
+2512780	2515260	é a mesma coisa que isso aqui.
+2516380	2517180	Opa.
+2518780	2520060	Deixa eu botar caro,
+2520060	2520540	eu te sou...
+2520540	2521260	Isso aqui,
+2521260	2522620	é a mesma coisa que isso.
+2526460	2528700	E a única diferença é a escalana,
+2528700	2529660	porque se a gente foi reparar,
+2529660	2530220	nossa escalá,
+2530220	2530620	provavelmente,
+2530620	2531420	está daqui,
+2532460	2533100	até,
+2534140	2534540	aqui.
+2535420	2537260	Então, faz parecer que o crescimento
+2537260	2538140	foi muito maior,
+2538140	2539500	porque ele realmente foi.
+2539820	2540780	E agora,
+2540780	2543340	trazendo um bem fresquinho
+2543900	2544780	que, imagine, vai estar
+2544780	2545740	na cabeça de vocês.
+2546700	2547580	Mas,
+2547580	2548700	esse é muito interessante.
+2548700	2550300	Isso foi agora dela em São Estados Unidos.
+2550300	2551660	Eu vi, eu acho que
+2551660	2552780	a gente de vê atrás é que,
+2553660	2554780	esse foi a votação
+2555500	2556700	da...
+2556700	2557580	dela em São presidente,
+2557580	2558700	se ela está em Unidos.
+2558700	2559660	Então,
+2559660	2560940	os...
+2560940	2561980	quem era de direita?
+2562860	2563340	Os dois,
+2563340	2563980	é o gráfico aqui.
+2565500	2566620	Quem era de esquerda?
+2566620	2567580	Os dois, esse gráfico aqui.
+2569500	2570700	E o que que isso,
+2570700	2572060	na visão de vocês,
+2572060	2572460	traz?
+2572460	2573340	É muito tempo ao piqui.
+2575660	2577500	E não é entrar na política,
+2577500	2578700	entrar em dados mesmo.
+2579500	2579820	O...
+2579820	2581180	Esse são os mesmos dados.
+2581660	2583500	Mas o que que na visão de vocês
+2583740	2584700	isso aqui,
+2584700	2585660	está dizendo pra gente?
+2587180	2588540	Que a grande maioria
+2588540	2590540	do da população
+2590540	2592220	seria republicana
+2593180	2594060	que ele se
+2594060	2595020	dá impressão que
+2595020	2596620	todo território, né?
+2596860	2598140	Onde é vermelho?
+2598140	2600140	É o pessoal do republicano.
+2600940	2601660	E aqui embaixo,
+2601660	2602860	a gente foi parar tem grandes
+2602860	2603660	pontes useis.
+2605740	2607100	Essas são as grandes
+2607100	2608300	cidades do Estados Unidos.
+2609580	2610940	Então aqui, por exemplo,
+2610940	2612380	é Luzangeres,
+2612380	2614140	aqui é São Francisco,
+2614140	2615660	aqui é Chicago,
+2615660	2617180	aqui é Nova York.
+2617180	2618060	Então aqui tem um bâmbro,
+2618060	2618620	é Nova York,
+2618620	2620620	bom, então aqui é Miami.
+2621180	2622540	Então, você a gente reparar
+2622540	2625020	os democratas,
+2625020	2626860	eles ganharam nas grandes cidades.
+2627980	2629100	Mas o que aconteceu?
+2629100	2630140	Os republicanos,
+2630140	2631020	eles ganharam
+2632300	2633900	nas piquenas cidades,
+2633900	2634540	são aqueles garram
+2634540	2636140	e praticamente todos esse piquenas cidades
+2636140	2637340	do interior do Estados Unidos.
+2637740	2638940	Isso aí foi reparar aqui,
+2638940	2640140	tem grandes cinturão,
+2640140	2640940	republicano,
+2641340	2642860	bem aqui no meio do Estados Unidos.
+2643740	2645420	E o que que isso quer dizer?
+2645420	2646220	Essas são
+2646220	2647900	as cidades em que os republicanos
+2647900	2648460	ganharam.
+2649420	2650220	E aqui,
+2650220	2651660	são as populações
+2651820	2653660	dessas cidades em que os democratas
+2653660	2654300	ganharam.
+2654300	2655980	Então, se você foi republicano,
+2655980	2657580	esse gráfico aqui é muito melhor para você,
+2657580	2658380	com o bolo.
+2658780	2660620	É um gráfico muito mais impactante.
+2660620	2661740	E eu vi muita gente,
+2661740	2662780	posto nesse gráfico.
+2662780	2664460	Agora, se você é democrata,
+2665660	2666060	e agora,
+2666060	2666700	estou falando esse
+2666700	2667580	que eu sempre oricanos que vieram,
+2667580	2668140	agora, certo?
+2668140	2668940	Então, ele sempre vai falar
+2668940	2670460	o país em publicano,
+2670460	2672060	mas a leição não foi
+2673100	2673900	uma lavada,
+2673900	2674700	o trato que eu como,
+2674700	2675180	com a mágica,
+2675180	2675900	o fotado,
+2675900	2676380	sim,
+2676380	2678300	mas se a gente fosse democrata,
+2678300	2679340	seria muito mais dirigente
+2679340	2679660	e os aís,
+2679660	2680780	esse gráfico aqui, certo?
+2681100	2682060	Porque o que a gente vê,
+2682060	2683340	é vários pontos
+2683340	2684540	as duas grandes,
+2684860	2685820	em que o
+2685820	2687740	a camála real,
+2687740	2688380	esse ganhão.
+2688860	2689580	Então,
+2689580	2690620	isso é muito interessante.
+2690620	2691340	É que a gente mostra
+2691340	2692300	mesmo dado,
+2692300	2693260	o mesmo dado.
+2693980	2695020	De duas perspectivas,
+2695020	2696060	totalmente diferentes.
+2696060	2697180	Aqui a gente traz
+2698060	2698620	por
+2699420	2700060	no mapa,
+2700060	2701660	aprendendo as áreas
+2701660	2702620	das cidades,
+2702620	2703820	e aqui a gente traz
+2703820	2705500	como impacto de cada cidade
+2705500	2706700	e tem de população.
+2706940	2707820	Vamos ver o lado das contas,
+2707820	2708540	quem ganhou
+2708540	2709500	foram democratas,
+2709500	2710620	porque acabou que essas
+2710620	2711500	várias cidades
+2712460	2714060	pequenas imedas,
+2714060	2715100	enfim, acabaram pensando
+2715100	2716140	mais, e algumas cidades
+2716140	2717100	grandes também, claro.
+2718620	2720300	Mas, no geral,
+2720300	2720940	a gente vê também,
+2720940	2721820	que tem uma forte
+2722380	2723180	presença de duas
+2723180	2724380	democratas, principalmente
+2724380	2725180	na cidade
+2725180	2725980	grandes, lá, vai estar
+2725980	2726380	dos unidos.
+2729580	2730700	Agora falando de
+2730700	2731420	Feito Indine,
+2733660	2734540	botar com a baixa de
+2734540	2734780	não.
+2737100	2737820	Feito Indine,
+2737820	2738540	em pessoal,
+2738860	2740380	processo que a gente faz
+2740380	2741660	quando a gente trabalha com dados,
+2743500	2744140	basicamente,
+2744140	2745900	para esquecer os dados que a gente tem.
+2746380	2747980	Então, a gente sempre vai ter
+2747980	2749100	o conjunto de dados,
+2749100	2749420	certo?
+2751340	2752460	Que a gente vai ter as frisos.
+2752460	2753260	Pizar os frisos,
+2753260	2755180	são as nossas colunas
+2755820	2756860	e, enfim, das contas,
+2756860	2758060	a gente vai usar aquilo
+2758060	2759500	para criar o modelo,
+2759500	2760380	seja modelo
+2760540	2761500	modelo pode ser
+2761500	2762300	isso aqui acaba sendo
+2762300	2763260	muito subjetivo.
+2763260	2764540	No caso da sensidade
+2764540	2765420	modelo sim, mas ser
+2765420	2766140	muito prohibitivo,
+2766140	2767260	não dá de transgação,
+2767260	2768380	mas no caso da cidade
+2768380	2770060	model pode ser humanálise,
+2770060	2771180	pode ser um teste de
+2771180	2772060	posses ser
+2772060	2773580	realmente um modelo
+2773580	2774220	que a gente cai do
+2774220	2775260	apoio de uma manipulação de
+2775260	2775580	dados.
+2776940	2778940	E depois a gente gera
+2778940	2780060	insites a partidos.
+2781100	2781740	Quando a gente gera
+2781740	2782380	insites,
+2783500	2784860	a gente acaba voltando
+2784860	2785820	e corre o relacionado
+2785820	2786380	isso.
+2786380	2787900	Mas o que que são os insites no
+2787900	2788540	fim do dia?
+2789660	2790220	É
+2790220	2791260	Correlacionalar nossas
+2791260	2791660	periões,
+2791660	2793340	se conhecendo o conjunto de dados
+2793340	2794460	que a gente tem
+2794460	2795580	como que a gente vê
+2795580	2796860	de fato nos dados.
+2797580	2799180	Então, no mundo real
+2799180	2799820	vocês vão ver,
+2801500	2802620	quantos as pegarem
+2802620	2803740	para trabalhar com qualquer
+2803740	2804860	congendida dos.
+2804860	2806140	Não tem muitas fiturs,
+2806140	2807340	muitas colônas que são
+2807340	2808140	irrelevantes,
+2808700	2810220	algumas colônas
+2810860	2811660	irrelevantes
+2811660	2812940	e poucas colônas que são
+2812940	2814140	extremamente irrelevantes
+2814140	2815500	para o que a gente está querendo fazer.
+2815740	2817100	Então, esse geralmente é um papel de
+2817100	2817580	vocês,
+2817580	2818540	toda vez se despegar
+2818540	2819420	e um conjunto de dados
+2819420	2820140	tem que tentar identificar
+2820140	2820780	ali,
+2820780	2821820	onde que está a loro
+2821820	2823020	que temos da análise.
+2823020	2824860	E aí vai muito
+2824860	2826380	também dar experiência
+2826380	2827580	no tipo de dados que você
+2827580	2828380	está trabalhando,
+2828380	2830140	enfim, no projeto que a gente
+2830140	2831180	está trabalhando.
+2831180	2832060	E aqui entre os alguns
+2832060	2833020	as épos de FITIOS no
+2833020	2833420	de Niga.
+2833420	2835420	É...
+2837020	2838060	Eu não sei se está piquendo
+2838060	2838780	na tela,
+2838780	2839660	estão conseguindo ver
+2839660	2840220	pessoal.
+2840220	2840780	O código.
+2843100	2843980	Então,
+2844620	2845820	então, beleza,
+2846220	2847580	aqui a gente tem
+2847580	2848860	um dados tabulados,
+2848860	2850060	aqui a gente tem um exemplo,
+2850060	2851180	nas tabuladas no geral
+2851180	2852140	são a nossa polaríria,
+2852140	2852460	certo?
+2853500	2854860	A gente tem alguns dados
+2854860	2855500	a gente tem aqui,
+2855500	2856860	ó.
+2857900	2859260	O ID
+2859500	2860540	de um cliente
+2860540	2860780	então,
+2860780	2861420	ali,
+2861420	2862060	o CPF
+2862060	2862540	da vida,
+2862540	2863260	o código,
+2864140	2865100	em como,
+2865100	2865420	em como,
+2865420	2866140	é renda,
+2866140	2866860	então,
+2866860	2868060	a renda daquela pessoa,
+2869180	2870460	e a data que ela entrou,
+2870460	2871100	John,
+2871100	2871340	então,
+2871340	2872940	que a gente tem a data que ela entrou.
+2872940	2874220	O que a gente consegue
+2874220	2875500	extrair de informação disso?
+2875500	2876460	A gente consegue
+2876460	2877500	extrair muita coisa,
+2877500	2878300	primeira coisa.
+2878300	2879820	E isso é o processo de FITIOS Niga,
+2879820	2880300	que ia,
+2880300	2880940	vai se formar as
+2880940	2881100	ções,
+2881100	2882220	a partir das famas que a gente já
+2882220	2883580	tem com os nossos dados.
+2883580	2884060	Então,
+2884060	2885020	é o que, que primeira coisa,
+2885020	2886220	mas que é pessoa entrou,
+2886220	2886860	simples,
+2886860	2887020	né?
+2887020	2887980	O que é uma boa medida,
+2887980	2888780	a teu paga aqui
+2888780	2889740	tem uma
+2889740	2891500	e por que que o mês é interessante?
+2893340	2894300	E mês e ano,
+2894300	2894620	também,
+2894620	2896140	eu faço a mesma coisa pro ano,
+2896140	2897340	alguém tem um palpite,
+2898300	2899180	por que que seria,
+2899180	2899740	por exemplo,
+2899740	2900380	o trumanálise,
+2900380	2901020	interessante,
+2901020	2901180	é,
+2901180	2901660	sempre,
+2901660	2902220	no caso,
+2902220	2902380	assim,
+2902380	2902620	que eu tenho,
+2902620	2903180	por exemplo,
+2903180	2904140	a data de cada ásthro,
+2904140	2904780	está aí,
+2904780	2905820	o mês e o ano
+2905820	2906620	da data de cada ásthro.
+2911180	2911980	Eu acho que o mês,
+2911980	2913980	eu tenho para comparar cada ano
+2913980	2915900	se há uma sazonalidade,
+2916300	2918140	e o ano para ver a evolução
+2918140	2919420	no do tempo, né?
+2919420	2920700	É, exatamente,
+2920700	2921260	este,
+2921260	2922220	a ideia é essa,
+2922220	2922940	tipo,
+2922940	2923820	a gente consegue criar mais
+2923820	2924540	uma variável,
+2924540	2925740	eu não preciso ter
+2925740	2926300	a data,
+2926300	2926860	por que, por exemplo,
+2926860	2928380	quando eu quiser agrupar ali,
+2928380	2929740	eu quero agrupar,
+2929740	2930700	pegar a renda média
+2930700	2931580	das pessoas que entraram
+2931580	2932860	a cada mês.
+2932860	2933580	E aí,
+2933580	2934300	eu consigo conversar
+2934300	2935340	na poussera que
+2935340	2937340	em desembrou o dia de 2022,
+2937340	2938700	o pessoal que entrou,
+2938700	2938940	é,
+2938940	2940060	tinha uma renda de mais alto.
+2940060	2940780	O que a gente fez?
+2940780	2941900	Será que foi uma campanha
+2941900	2943900	que a gente fez relacionada
+2943900	2945260	num e at club,
+2945260	2946540	que trouxe clientes
+2946540	2947980	que tem uma renda maior?
+2947980	2948620	Então,
+2948620	2950620	mas é implica que eu poderia trazer.
+2950620	2952140	E com isso,
+2952140	2952940	a gente consegue criar um
+2952940	2953660	variável,
+2953660	2954700	principalmente,
+2954700	2956140	a ideia de medicar a unidade,
+2956140	2956940	e com relação a
+2956940	2957900	também com
+2957900	2958780	outros eventos,
+2958780	2959100	aí,
+2959100	2959980	subjetivos,
+2959980	2960860	de acordo com
+2960860	2961980	com os gentilidades que você
+2961980	2962620	está analisando.
+2964380	2965740	Uma coisa muito legal,
+2965740	2967180	é pegar, por exemplo,
+2967180	2969180	aqui a média,
+2969180	2970860	eu vou ter aqui a média,
+2970860	2972060	criar a média,
+2972060	2973420	de,
+2973420	2975420	vamos supor aqui,
+2975420	2977180	do cadácio de desclintes.
+2977500	2978700	Então,
+2978700	2980220	aqui,
+2980220	2981420	o que eu ganho criando
+2981420	2982380	a média,
+2982380	2983980	do cadácio de desclintes?
+2983980	2984940	Vamos supor
+2984940	2985900	aqui no casamento,
+2985900	2986780	já está pegando a média geral,
+2986780	2987580	mas vamos supor que eu
+2987580	2988780	teria a média
+2988780	2991420	de desembre de 2022.
+2991420	2991660	Então,
+2991660	2992700	pegar a média
+2992700	2994060	do primeiro que do mês do
+2994060	2994700	cliente.
+2994700	2995580	Eu consigo ver,
+2995580	2996140	por exemplo,
+2996140	2997420	se esse cliente aqui,
+2997420	2998620	se o cliente zero,
+2998620	2999660	ele é um cara
+2999660	3000620	que está sim ou abaixo
+3000620	3002060	da média do mês dele.
+3003100	3003260	E aí,
+3003260	3003660	entendeu,
+3003660	3004220	eu vou aportamento.
+3004220	3005580	As vezes dentro do pessoal
+3005580	3006220	do e-atplub,
+3006220	3007100	que eu fiz a campanha,
+3007100	3008060	tem um cara que está
+3008060	3009020	muito alto.
+3009020	3009420	Então,
+3009420	3010060	ou o cara,
+3010060	3010380	por exemplo,
+3010380	3011180	que está muito baixo,
+3011180	3011900	dentro do campanha,
+3011900	3012460	do e-atplub.
+3012460	3013100	Então, esse é um cara,
+3013100	3013580	quando eu vou dar
+3013580	3014140	tanto foco.
+3015260	3015500	Então,
+3015500	3016220	a gente consegue,
+3017740	3018140	também,
+3018940	3020300	quando criando uma comunidade
+3020940	3022220	gerada do isso de infelomção.
+3022220	3022780	A gente consegue
+3022780	3023500	conrelacionar.
+3024060	3024940	Vamos supor aqui,
+3024940	3025740	que isso aqui,
+3025740	3026620	todos os clientes
+3026620	3027980	sejam relacionados
+3027980	3029260	a um tipo de campanha.
+3029660	3031180	Então, a média dessa campanha
+3031180	3033340	foi 65.700 de 18.
+3033580	3035020	Se a gente fizer uma outra campanha
+3035020	3036860	que é média seja 90 mil.
+3036860	3038060	Então, a gente consegue entender,
+3038060	3038620	por exemplo,
+3038620	3039740	a gente queria uma nova
+3039740	3041660	dimensão no nosso análise,
+3041660	3042860	de como que, por exemplo,
+3042860	3043740	o nosso cliente
+3043740	3044540	tem a renda dele
+3044540	3045180	que está relacionado
+3045180	3046300	com a renda mensal.
+3046300	3048140	O renda daquela campanha,
+3048140	3049020	igual a gente falou,
+3049020	3050540	para que ela
+3050540	3051980	se determina a situação.
+3054140	3054860	Agora,
+3054860	3055100	ou,
+3055100	3055820	outro exemplo aqui,
+3055820	3057340	em NLP,
+3057340	3058380	em NLP,
+3058380	3059820	já já entrando um pouquinho,
+3059820	3060300	é neto,
+3060300	3060540	ou lém,
+3060540	3060700	hoje,
+3060700	3061420	processina.
+3061420	3062140	Então, a processamento
+3062140	3064300	natural de linguagem
+3064300	3065260	é um área também
+3065260	3066380	do conhecimento gigante
+3066380	3067740	para quem trabalha com dados.
+3067740	3067820	E,
+3067820	3067980	e,
+3067980	3068700	basicamente,
+3068700	3069740	trabalhar com
+3069740	3070620	conjunto de dados
+3070620	3071420	em fomos de texto.
+3072380	3073100	Então,
+3073100	3075260	um processo do NLP,
+3075260	3075820	muito legal,
+3075820	3076860	é o POS,
+3076860	3079740	que é o Part of Speed Tegnes,
+3079740	3080700	postegnes,
+3080700	3082300	e o que é o postegnes
+3082300	3082860	em NLP.
+3082860	3083100	Então,
+3083100	3084700	aqui já vem mais amosados,
+3084700	3085580	mas é um processo
+3085580	3086540	que a gente faz
+3086540	3087260	para tentar
+3087260	3087900	prever,
+3088220	3089500	é um processo de classificação
+3089500	3090380	que a gente tem para prever.
+3090380	3090780	O que é,
+3091820	3092540	bem,
+3092540	3093660	o que é cada coisa
+3093660	3095260	dentro da uma estrutura de uma frase.
+3095260	3096460	Então, o que é um adjetivo,
+3096460	3097100	o que é um verbo,
+3097100	3098140	o que é um pronome,
+3098140	3099100	o que é um número
+3099100	3100700	o que é um sujeito,
+3100700	3100940	então,
+3100940	3102620	essa ideia do POSTAGnes,
+3102620	3104380	ele nem fica dentro de uma frase,
+3104380	3105340	o que é cada coisa.
+3106300	3107580	E o que a gente pega?
+3107580	3108300	Você a gente pensar?
+3109660	3110940	Vamos pensar assim um comentário
+3110940	3112620	que vocês fizeram de algum produto
+3112620	3113340	da Amazon,
+3113340	3114460	mercado livre.
+3114460	3115500	O que é aquilo?
+3115500	3116220	Nada mais é,
+3116220	3117420	do que é um conjunto de dados,
+3117420	3117980	preves.
+3117980	3119020	Então, eles vão pegar aquilo
+3119020	3120460	como forma de texto,
+3120460	3121420	e eles vão fazer o que?
+3121420	3122460	Não fazer um processo de
+3122460	3123500	filtro indivíria e ali,
+3123500	3125020	para criar várias variáveis,
+3125020	3126700	então aqui, por exemplo, o POSTAGnes,
+3126700	3129420	é um processo de filtro indivíria.
+3129740	3131260	E vão criar várias variáveis
+3131260	3132380	para fazer as análises
+3132380	3132940	da gente depois.
+3132940	3133340	Entendeu?
+3133340	3134300	Será que eu comentário?
+3134300	3135260	O Bruno fez aqui?
+3135260	3136220	É um comentário positivo,
+3136220	3137340	negativo.
+3137340	3138140	Esse produto,
+3138140	3139500	muita gente está recomando
+3139500	3141740	do fecho de abertura dele.
+3141740	3142380	Então,
+3142380	3144380	isso aqui pode ser um ponto de atenção.
+3144380	3145420	Vou avisar para o
+3145420	3146780	cliente no anunço.
+3146780	3147820	Então, hoje,
+3147820	3148620	essa empresa já faz
+3148620	3149980	isso no nível de analisar,
+3149980	3151980	por exemplo, o texto de comentários,
+3151980	3154060	e que conseguir fazer
+3154060	3155180	a processo de filtro indivíria
+3155180	3157260	para esquecer toda essa parte
+3157260	3159260	desse conjunto de dados.
+3159260	3160140	E o mais legal também,
+3160140	3161900	é que isso vai muito além.
+3161900	3162860	Então, você não se foupem
+3162860	3164220	está tudo,
+3164220	3166700	hoje, isso não convirtir dados.
+3166700	3168300	Esse algoritmo de exemplo,
+3168300	3170300	duas exemplos do Espacial.
+3170300	3171180	Cara, eu não lembro.
+3171180	3172220	Esse aqui foi só um exemplo que eu
+3172220	3174220	não peguei mesmo,
+3174220	3175340	mas provavelmente,
+3175340	3176060	os Espacial,
+3176060	3176860	porque não espês,
+3176860	3178380	o Espacial é um biotech
+3178380	3179580	de NLP.
+3179580	3180380	Então, lá para frente,
+3180380	3181580	vamos ver o Espacial.
+3181580	3182220	Mas a gente consegue
+3182220	3184220	carregar, por exemplo,
+3184220	3184860	alinguei.
+3184860	3185360	Então, a gente consegue
+3185360	3186380	carregar o português,
+3186380	3187660	Brasil, no Espacial.
+3187660	3190220	E fazer esse processo de postagens
+3190220	3191660	no para um
+3191660	3193580	computador que use
+3193580	3194300	português.
+3194300	3195100	Então, por exemplo,
+3195100	3195580	tudo que a gente
+3195580	3196540	comentaria em social,
+3196540	3197180	o intuito.
+3197180	3197900	Essa é a saída
+3197900	3199180	o VNLP.
+3199180	3200140	Já foi gratuita
+3200140	3201740	essa peí, bons tempos,
+3201740	3202780	eu aproveitei
+3202780	3204220	porque foi gratuita,
+3204220	3206220	mas
+3206220	3207580	ela não é gratuita no gandês
+3207580	3209260	do foi, não é lomas que já,
+3209260	3210140	quando ela lomas pegou
+3210140	3211420	desbotaram,
+3211420	3212780	começaram a metabolizar,
+3212780	3213500	mas do IITAN,
+3213500	3214540	então eles começaram a
+3214540	3215500	cobrar pela peí,
+3215500	3217180	eu nunca mais, nunca mais na
+3217180	3217820	VGLAT.
+3217820	3219020	É, mas, por exemplo,
+3219020	3219260	a gente conseguir
+3219260	3219900	extrair com o gente
+3219900	3220460	estudar,
+3220460	3221660	sobre o intuito,
+3221660	3222940	sobre ele
+3222940	3223500	recheteguei,
+3223500	3225100	se de determinada marca.
+3225100	3225740	Então, na época,
+3225740	3227100	fiz um projeto de indisto,
+3227100	3228300	para avaliar,
+3228300	3229020	sobre ele,
+3229020	3230140	são de 2022,
+3230140	3231020	fiz um projeto
+3231020	3232380	para um político
+3232380	3233660	para analisar,
+3233660	3234860	sobre
+3234860	3236140	a
+3236140	3237900	o intuito, sobre ele,
+3237900	3238460	como frio,
+3238460	3240060	zinho, confiso na época.
+3240060	3240860	E a gente todo dia,
+3240860	3241660	tinha um relatório,
+3241660	3242620	automatizado,
+3242620	3244700	que gerava o,
+3244700	3244940	mas,
+3244940	3245900	finalmente, um relatório
+3245900	3246860	do das redes sociais,
+3246860	3248860	do impacto das redes sociais.
+3248860	3249900	Tinha alguns problemas,
+3249900	3250140	também,
+3250140	3250860	tinha um muito perfil
+3250860	3251340	esse veio,
+3251340	3252300	que a oposição
+3252300	3253340	também fazia perfil feio,
+3253340	3254700	e que, então,
+3254700	3255740	temos alguns problemas,
+3255740	3256540	mas,
+3256540	3257340	era uma ferramenta
+3257340	3258140	muito muito legal.
+3259020	3263100	E, no fim,
+3263100	3264220	toda testa, né?
+3264220	3265740	Ainda é muita coisa,
+3265740	3266220	é testa.
+3266220	3269020	Agora, passando
+3269020	3270540	para estrutura
+3270540	3271340	de agrupamentos,
+3271340	3272620	é,
+3272620	3274380	primeiro esse projeto de agrupamento,
+3274380	3275580	da actually legal de
+3275580	3276060	transeste,
+3276060	3277260	que vem de muito,
+3277260	3277900	muito tempo.
+3277900	3278460	Se é,
+3278460	3279260	são uns estabaginando,
+3279260	3279900	que é a questão.
+3279900	3280700	Então, acho que é
+3280700	3281580	essa primeira pessoa
+3281580	3282300	que já mexeu,
+3282300	3282700	naquela,
+3282700	3283580	e queria uma tabela de
+3283580	3284220	ramquessável,
+3284220	3285100	que fome o Tio,
+3285100	3285500	é.
+3285500	3286940	Então, essa é uma ferramenta
+3286940	3287340	muito,
+3287340	3287660	muito,
+3287660	3288540	muito de agrupamento,
+3289100	3289740	até hoje,
+3289740	3289980	assim,
+3289980	3291100	para ela resolver
+3291100	3292860	a grande maioria dos problemas,
+3292860	3293980	pensando
+3293980	3294940	em testes potas,
+3294940	3295820	em arregunha,
+3295820	3297180	gosto,
+3297180	3297500	a gente consegue
+3297500	3298140	estar em muito forna,
+3298140	3298940	são com ela,
+3298940	3299740	porque ela é muito
+3299740	3300780	versátil.
+3301020	3302780	A gente consegue botar
+3302780	3303420	o coquete
+3303420	3304540	e pro de coluna,
+3304540	3305980	aqui nas linhas,
+3305980	3307260	qualquer tipo de
+3307260	3308060	dado,
+3308060	3309020	nas colunas,
+3309020	3310060	a gente consegue filtrar
+3310060	3311100	os valores,
+3311100	3312860	a gente consegue escolher,
+3312860	3314140	o que a gente vai botar no valor,
+3314140	3314780	a gente consegue botar
+3314780	3315900	a ser uma soma,
+3315900	3317100	ser uma contagia,
+3317100	3317980	a média,
+3317980	3319100	uma simulminima,
+3319100	3320540	então a gente consegue fazer,
+3320540	3321340	ela é um ferramenta
+3321340	3322060	muito emversato
+3322060	3322780	para a gente pegar
+3322780	3323580	essas informações
+3323580	3324220	sobre os condensão de
+3324220	3324780	os estudos que a gente
+3324780	3325420	está trabalhando.
+3327900	3328380	E,
+3329820	3330220	claro,
+3330220	3331420	o que o pai tem um paralelo,
+3331420	3332060	é pessoal.
+3333420	3334620	Ele é a cross-tab.
+3335260	3336220	No cross-tab,
+3336220	3337260	a gente consegue fazer
+3337260	3338300	exatamente o que a gente consegue
+3338300	3339340	fazer no atavella de nome
+3339340	3339900	que no pai.
+3340540	3341420	Então, a gente consegue
+3341420	3342620	chamar ela no pãs,
+3342620	3343420	no PDP,
+3343420	3344140	cross-tab,
+3344140	3345020	e ela é muito legal
+3345020	3345580	para a gente fazer
+3345580	3346540	são primeira análise
+3346540	3347500	do nosso convididade.
+3347980	3349340	Então, o que seria
+3349340	3349980	a linha?
+3349980	3351420	A gente volta aqui no começo
+3351420	3352460	no íncina,
+3352460	3353660	é o parametro íncina.
+3353660	3356220	O que seria a coluna
+3356220	3357020	na tabla dinâmica?
+3357020	3358060	A gente volta aqui depois,
+3358060	3359260	é o segundo parametro.
+3359260	3360220	O valor
+3360220	3360940	que a justamente
+3360940	3362380	que seria o valor da tabla dinâmica,
+3362380	3362940	a gente volta aqui,
+3362940	3363660	velhos.
+3363980	3364540	E,
+3364540	3365260	por fim,
+3365260	3366220	a gente pode passar
+3366220	3367580	com a função de agregação,
+3367580	3368380	a gente quer.
+3368380	3368860	Então, a gente passa
+3368860	3369820	aqui no funcionário,
+3369820	3370140	certo?
+3371100	3372380	Com os principais
+3372380	3373180	parametro que a gente quer,
+3373180	3373660	no nosso caso,
+3373660	3375100	a gente vai querer a média,
+3375100	3375820	é a minha,
+3375820	3376540	a média,
+3376540	3377420	e o máximo.
+3377740	3378700	Para cada um,
+3379660	3380780	desses conjuntidades,
+3380780	3381100	então,
+3381100	3382540	vai quererbrar por sexo,
+3382540	3383500	por cor,
+3383500	3384380	por cor aqui,
+3384380	3385260	no estuxtista,
+3385260	3386540	nas linhas,
+3386540	3388300	por sexo, no estuíptico,
+3388300	3388860	perfeito.
+3389900	3391340	E os valores são a renda.
+3391340	3391900	Então, a gente consegue
+3391900	3393100	ver aqui no caso a renda,
+3394140	3395020	máxima,
+3395020	3395740	a média,
+3395740	3396540	e a meijana,
+3397500	3399100	por mulheres,
+3399100	3399900	feminino,
+3399900	3400860	e por homens,
+3400860	3401580	no masculino.
+3402300	3403020	Então,
+3403660	3405500	aqui no caso de visão.
+3405500	3406300	Perfeito?
+3406300	3406620	Então,
+3406620	3407820	aqui a gente consegue ver que
+3407820	3408860	uma,
+3408860	3409500	a média,
+3409500	3411260	a renda média,
+3411260	3413580	do homenim branco,
+3413580	3414860	máximo a esse aqui,
+3414860	3416220	200 mil,
+3416220	3417980	a média é 2,925,
+3417980	3419260	é mais alta,
+3419260	3422060	enquanto do mamulher preta,
+3422060	3423660	aqui é 1,34,
+3423660	3423900	não.
+3423900	3424700	Então,
+3424700	3426060	tudo o que a gente
+3426060	3428060	vê no cotinho de ano está aqui.
+3428060	3428620	É,
+3428620	3430140	e com o costéber,
+3430140	3431900	a gente consegue analisar
+3431900	3432540	muita,
+3432540	3433900	muito tranquilamente.
+3433900	3434620	Então, aqui, por exemplo,
+3434620	3435580	a renda média dos,
+3435580	3437180	a maelos que é pessoal,
+3437180	3437740	àse por,
+3437740	3438700	então,
+3438700	3439740	aí, no sensíveis,
+3439740	3441180	o sistema amarelo,
+3441180	3441740	enfim,
+3442940	3444380	se não usado de scuba,
+3444380	3445180	mas,
+3445180	3445900	aqui,
+3445900	3446860	4,748,
+3446860	3448380	uma renda muito mais alta,
+3448380	3449580	do que eu resdapoculação.
+3450780	3451180	Então,
+3451180	3452300	a meijerao é isso,
+3452300	3452860	a meijana,
+3452860	3453660	também.
+3453660	3454140	E aqui,
+3454140	3454780	o que a gente faz
+3454780	3457260	como o costéber é conseguir gerar
+3457260	3458780	tudo isso de formação,
+3458780	3460060	uma forma muito simples,
+3460060	3460460	então,
+3460460	3461820	quem é acostumado com a Excel,
+3461820	3463020	e quem é manter uma estrutura,
+3463020	3463820	e te consegue fazer isso
+3463820	3464540	muito simplesmente,
+3465260	3467020	aqui a gente só deu um rename,
+3467020	3468780	para botar o índice como o corpo,
+3468780	3470060	e as colunas como sexa,
+3470060	3470460	então,
+3470460	3472140	só garantir que bonitinha aqui,
+3472140	3472780	por sexo.
+3473900	3474380	E no final,
+3474380	3475580	a gente imprimiu.
+3476540	3476860	Então,
+3476860	3477820	o costéber é uma ferramenta
+3477820	3478460	muito versátil,
+3478460	3479820	ela lembra muito a estabelegina,
+3479820	3480380	em queus,
+3480380	3481820	do Excel,
+3482460	3483100	mas,
+3483100	3483900	no pai,
+3483900	3484140	também,
+3484140	3484780	a gente acaba usando
+3484780	3485900	muito mais agrotamente,
+3485900	3486060	né,
+3486060	3486540	porque eles são mais
+3486540	3487260	girecionados.
+3487660	3487900	Então,
+3487900	3488140	aqui,
+3488140	3488940	a gente passa,
+3488940	3489420	um,
+3489420	3489580	vai,
+3489580	3489660	um,
+3489660	3491020	quando a speed de agropear,
+3491020	3491820	dentro do pai,
+3492780	3493900	não usar
+3493980	3494860	um atupo,
+3494860	3495660	muito cuidado.
+3495660	3497180	Então, se for mais de uma lima,
+3497180	3499020	mais de uma coluna pra agrupar,
+3499020	3501100	usem uma lista,
+3501100	3502140	uma,
+3502140	3503820	desculpa chave das listas,
+3503820	3504460	e dentro,
+3504460	3505660	vocês não passaram os parâmetros,
+3505660	3506380	correto.
+3506380	3507740	Mas se for só uma,
+3507740	3509340	o correto é usado,
+3509340	3510540	igual a gente fez aqui.
+3510540	3511500	Só,
+3511500	3512940	vocês ainda precisam passar o pai,
+3512940	3515420	porque o pai é o parâmetro padrão,
+3515420	3517020	e só passar uma extra em gladenta,
+3517020	3517100	então,
+3517100	3518700	o jeito que eu recomendo mais,
+3518700	3519580	faça,
+3519580	3520780	é, com menos coge,
+3520780	3521180	então,
+3521180	3522780	é só dar um grupo pai,
+3522780	3524620	não nem precisa escrever o pai,
+3524620	3525580	é o que eu recomendo,
+3525580	3527100	você quer mais explicar
+3527100	3528140	como é que fica sentados,
+3528140	3529900	então quando o fogo não para o problema coisa,
+3529900	3531020	só o bota ela,
+3531020	3531900	e não lembrando,
+3531900	3533340	sempre que o mais de uma coisa,
+3533340	3535020	quer algo para o mais de uma coluna,
+3535020	3535740	o bota,
+3537340	3537900	é,
+3537900	3539340	o,
+3539340	3540140	em forma de lista,
+3540140	3540700	correto,
+3540700	3541900	igual a gente viu,
+3541900	3542860	essa estrutura do pai,
+3542860	3544620	e quando a gente vai fazer mais de uma coisa.
+3544620	3545820	E depois que você agrupar,
+3545820	3546780	você tem que ver
+3546780	3548300	o que você vai querer extrair,
+3548300	3549260	de agregador,
+3549260	3550300	naquele agrupamento.
+3550300	3551260	Perfecto.
+3551260	3551980	Nossa, caso aqui,
+3551980	3553580	a gente agrupou o prônimo álfo,
+3553580	3556220	e a gente quer pegar a média.
+3556220	3556860	Então aqui,
+3556860	3559020	a gente tem os animais,
+3559020	3559740	e o que ele faz?
+3559740	3560780	Quando a gente bota aqui,
+3560780	3561900	nesse caso, a gente não se alessando,
+3561900	3562700	nem uma coluna,
+3562700	3564060	depois da agrupamento.
+3564060	3565100	Então o que ele vai trazer?
+3565100	3566780	As duas colunas.
+3566780	3567660	A gente poderia,
+3567660	3568780	e se alessando ao modelas,
+3568780	3569580	como que a gente faz isso,
+3569580	3570540	a gente bota,
+3570540	3572540	depois do animal,
+3572540	3573100	a gente vai pegar,
+3573100	3573660	e gotar,
+3573660	3574540	o Nick,
+3576940	3577420	ponto,
+3577420	3578540	aí de,
+3578540	3579580	e o que ele vai fazer?
+3579580	3581020	Ele vai selecionar a sua ela,
+3581020	3581660	e depois,
+3581660	3583020	eu vou botar o ponto 1.
+3586460	3587580	Aí eu conseguir esse alessão
+3587580	3587900	nação,
+3587900	3588700	vou das duas colunas.
+3588700	3589020	Então,
+3589020	3590140	a gente às vezes usa isso,
+3590140	3591020	quando a gente quer fazer
+3591020	3591660	agrupamento,
+3591660	3592380	e pegar,
+3592380	3593740	fazer essa uma contagem rápida.
+3593740	3593980	Então,
+3593980	3595500	a gente pode botar o I.
+3595500	3596620	Perfecto.
+3596620	3597660	Então, no nosso caso aqui,
+3597660	3598300	o Nick,
+3598300	3599900	ele traz a contagem,
+3599900	3600540	propriamente,
+3600540	3601900	isso aqui,
+3601900	3602300	a média,
+3602300	3603260	no caso,
+3603260	3604700	dá pra pedir a média,
+3604700	3605740	e a modelia,
+3605740	3606460	outro coluna,
+3606460	3606940	dá.
+3606940	3607100	Então,
+3607100	3608540	você pode passar também,
+3608540	3609100	é,
+3609100	3610060	no funcionário.
+3610060	3610140	E,
+3610140	3611100	é,
+3611100	3612540	pode passar no funcionário.
+3612540	3613820	Então,
+3613820	3615340	quando você quiser pegar,
+3615340	3616620	que nem o jolo tá se perguntando,
+3616620	3617820	dá pra pedir a média,
+3617820	3619500	de uma coluna em a moda da outra.
+3619500	3620860	A moda,
+3620860	3621660	se eu não me engano,
+3621660	3622060	os jolo,
+3622060	3622620	no caso,
+3622620	3624140	ela não é uma das funções
+3624140	3625900	padrão do,
+3625900	3626860	do pândor,
+3626860	3629020	então, tem construído a forma diferente,
+3629020	3629660	mas,
+3629660	3630700	por exemplo,
+3630700	3630860	a,
+3630860	3632780	carpegar a média a média,
+3632780	3632940	então,
+3632940	3633820	você teria construído,
+3633820	3634940	prevamente,
+3634940	3636140	mas aqui no caso,
+3636140	3637580	a gente que apegar a média a média,
+3637580	3638380	a gente pode
+3638380	3639580	fazer isso,
+3639580	3640780	deixa eu ver se consigo escrever aqui,
+3642780	3644140	a gente pode botar o ponto,
+3645020	3646620	a g, a g,
+3646620	3647100	né,
+3647100	3648140	efeito,
+3648140	3649900	e aqui a gente consegue botar,
+3649900	3651340	a eu quero pegar prão,
+3651340	3652940	a g,
+3652940	3653660	como é a liga,
+3653660	3653900	prão,
+3653900	3654620	a g,
+3654620	3654940	vai pegar,
+3654940	3655420	provavelmente,
+3655420	3655980	não acontece,
+3655980	3656300	não certo?
+3656300	3657660	Eu pegar um caunti,
+3657980	3659420	eu vou passar assim,
+3659420	3660460	noito para o water,
+3660460	3661100	a enige,
+3661100	3661980	que é, no caso,
+3661980	3663100	necessidade de água,
+3663100	3664540	né, por animal,
+3664540	3665340	então,
+3665340	3666140	no caso aqui,
+3666140	3667500	ele está pegando a média do idê,
+3667500	3668300	se a gente foi pensar,
+3668300	3670060	a média do ideal que não faz sentido,
+3670060	3670940	né, novamente,
+3670940	3672380	tipo pegar a média de um
+3672380	3673340	um CPF,
+3673340	3674380	não faz sentido nenhum,
+3674380	3675580	é uma chave,
+3675580	3676380	então,
+3676380	3677980	como unicadif faz sentido a
+3677980	3679180	enxusar o caunti,
+3679180	3680220	com o maternídio,
+3680220	3681340	que é esse é uma variável
+3681340	3681980	no mérica,
+3681980	3683020	que é necessidade de água,
+3683020	3683420	provavelmente,
+3683420	3685020	necessidade de água do animal,
+3685020	3685740	e faz sentido,
+3685740	3685900	né,
+3685900	3686860	se a gente foi ver aqui,
+3686860	3688860	a necessidade de água do
+3688860	3689180	ele foi,
+3689180	3690620	tinha muito maior do que,
+3690620	3691580	de uma zebra,
+3693340	3694300	a gente,
+3694300	3695340	não vai ter que pegar,
+3696300	3697340	ou não conseguir estar
+3697340	3699340	onde estiver,
+3704300	3704860	deixa ver,
+3704860	3705260	ah,
+3706780	3707340	não,
+3707340	3708300	não conseguir estar,
+3710780	3711180	tá bom,
+3711180	3712060	pode ser a junta,
+3712060	3713340	então, a gente teria que fazer,
+3714380	3715180	imager de aí,
+3717340	3717820	e aí,
+3717820	3720620	passar o unicadif,
+3721580	3723100	e colocar onde,
+3723100	3724780	e pro o atenígico,
+3724780	3725820	a gente já queria pegar,
+3725820	3726780	por exemplo, a média,
+3727340	3729340	e aí,
+3730140	3731340	eu posso pegar a média,
+3731340	3732700	mas se quiser pegar,
+3732700	3733980	além do pro atenígico,
+3733980	3734300	a média,
+3734300	3735100	e a média,
+3735100	3736780	é só jogar uma lista aqui dentro,
+3736780	3737900	porque eu peguei a
+3737900	3739340	média,
+3740940	3741900	e,
+3741900	3742300	aí,
+3742300	3743180	aqui eu posso fechar,
+3743180	3743420	então,
+3743420	3744380	aqui dentro do,
+3744380	3745820	quando eu uso o AGG,
+3745820	3746620	ao invés do que,
+3746620	3747580	a necessidade de ir a
+3747580	3749260	é tudo a função,
+3749260	3750460	a grega dura do pai,
+3750460	3750620	então,
+3750620	3751260	aqui eu tocessão,
+3751260	3751660	não,
+3752220	3753900	aqui eu posso usar o AGG,
+3753900	3755020	e dentro do AGG,
+3755020	3755660	então,
+3755660	3756060	é,
+3756060	3756860	fazer,
+3758220	3759340	já conto com que eu quero
+3759340	3760220	para cada condo,
+3764700	3766460	as novas dedicionarem a função,
+3768620	3770220	tem muito com que eu poder usar a função,
+3770220	3770940	que eu construir,
+3770940	3772140	como a da Moga, que se torna,
+3772140	3772460	sim,
+3775340	3775980	então,
+3776780	3778140	eu não sei se entendi a pergunta,
+3778140	3778460	mesmo,
+3778460	3778780	mas,
+3780700	3782380	seria usar o AGGGG,
+3782380	3783740	você consegue usar o AGGG,
+3783740	3784860	não o AGG,
+3784860	3786460	não falou do dicionário,
+3787020	3788220	o Aplai,
+3788220	3790220	então, ao invés de usar,
+3790220	3791820	o A função,
+3791820	3793100	nativa do,
+3793100	3794380	aqui que a gente botou a
+3794380	3795420	a média,
+3795420	3797020	a média,
+3797020	3798380	a média,
+3798380	3799820	você pode usar um agregador,
+3799820	3800780	com a função que você
+3800780	3801180	construiu,
+3803020	3803900	também,
+3803900	3804700	usando o AGG,
+3804700	3805180	perfeito?
+3809580	3810220	É, é,
+3810220	3811740	por isso que eu botei as duas,
+3811740	3812940	agora eu estou lembrando,
+3812940	3814140	porque a gente pode fazer disso,
+3814140	3814540	então,
+3814540	3815100	a gente pode fazer
+3815100	3816140	dessa forma do píreo,
+3816540	3818540	chamando o mindiretamente,
+3819740	3821180	que é o nativo na do píreo,
+3821180	3822620	ou a gente pode fazer um AGG,
+3822620	3824060	que, igual a gente fez aqui,
+3824060	3825020	e construí,
+3825020	3826060	dentro da AGG,
+3826060	3827100	então, o que eu posso fazer,
+3827100	3828220	igual a gente é uma transformada,
+3828220	3829100	e a gente tem falada,
+3829100	3829500	é o pós,
+3830780	3832140	supondo que a gente construiu
+3832140	3833900	a função para a modo,
+3833900	3834940	eu posso fazer,
+3834940	3836140	com o AGG,
+3837340	3837740	modo,
+3839260	3839980	simples assim,
+3841900	3843020	desde que eu tenho uma função
+3843020	3844780	definida para pegar a modo,
+3844780	3845420	perfeito?
+3846460	3849020	Então,
+3849020	3851020	agora vamos passar,
+3853500	3855820	para a próxima parte,
+3856860	3858460	que é entender diferença
+3858460	3859820	do merge de pro-concate
+3859820	3861100	para o Appende Pro-Joy.
+3861100	3863100	Então, são muitas possibilidades,
+3863100	3864380	vão tentar entender um ao longo,
+3864380	3865340	vamos ver uns exemplos.
+3866300	3866940	O Concate,
+3868940	3871340	é muito flexível para o Mi,
+3871340	3872060	então, com o Cate,
+3872060	3872860	é a palavra chave,
+3872860	3874220	porque a gente tem que pensar no Concate,
+3874220	3874780	é o Nião,
+3875740	3876700	e o Concate,
+3876700	3877500	é muito pra o Nião,
+3877500	3879100	tanto para o Ojo X,
+3879100	3880180	para a direita quanto
+3880180	3880860	para o Ojo X,
+3880860	3882380	não quanto para a abaixo,
+3882380	3883180	não dá pra frente.
+3883820	3884940	Então, que a gente tem que pensar
+3884940	3885500	em um Nião,
+3885500	3886780	linhas ou colunas
+3886780	3887660	de dois da tafreia
+3887660	3888220	em diferentes.
+3888860	3889660	O Appende,
+3889660	3890460	ele é um tipo
+3890460	3892060	específico de Concate.
+3892460	3894060	Quando a gente usa
+3894060	3894860	a acesero,
+3895980	3896700	que é
+3896700	3897420	para botar,
+3897420	3897900	para baixo,
+3897900	3898220	e não então,
+3898220	3899500	os que são jogados
+3899500	3900380	linhas para baixo,
+3900380	3901180	e o alto.
+3901420	3903340	Então, a gente tem dois tipos de concate,
+3903340	3904300	tem um comcalte,
+3904300	3905100	e, né,
+3905100	3906700	que ele verifica,
+3906700	3907980	é se tem uma coluna
+3907980	3909420	do aplicada entre os dois da tafreia,
+3909420	3910780	e se existe,
+3910780	3911980	ele não traz ela,
+3911980	3912540	e o alto,
+3912540	3913980	que ele traz as colunas,
+3913980	3915820	todos os colunas, dos dois da tafreia.
+3915820	3916780	Então, o Appende,
+3916780	3917340	é isso, né?
+3917340	3919900	Ele é um caso específico de Concate,
+3919900	3921180	um ex-acesero,
+3921180	3922220	que é para a linha,
+3922220	3923420	e com de oianhauta,
+3923420	3924700	então, ele vai estar a Z tudo,
+3924700	3925180	então,
+3925180	3926460	podem haver linhas do aplicado,
+3926460	3928220	as conenxia, um Appende,
+3928220	3928620	e então,
+3928620	3929580	ele está sendo depressiado.
+3929580	3930860	Não está sendo mais utilizado,
+3930860	3931580	na...
+3931580	3932380	enfim,
+3932380	3933420	a ideia é que ele vai sair
+3933420	3935500	das próximas bibliotecas do Pandas,
+3935500	3935740	então,
+3935740	3937260	o Pandas faz assim quando ele
+3937260	3937980	se quer entrar um método,
+3937980	3939500	eles olvezando para você,
+3939500	3940780	por várias reissões,
+3940780	3941980	ele vai avisando,
+3941980	3943740	está sendo depreciado a Pente,
+3943740	3944940	está sendo deprecado a Pente,
+3944940	3946460	está sendo deprecado a Pente,
+3946460	3947340	e daqui ali,
+3947340	3948220	a senhora,
+3948220	3948620	cinco,
+3948620	3949180	seis reissões,
+3949180	3950220	eles vão tirar.
+3950220	3950780	Então,
+3950780	3951420	se você,
+3951420	3952140	isso,
+3952140	3953340	dá muito problema,
+3953340	3954460	que é a taba que,
+3954460	3955100	eu já peguei,
+3955100	3955260	isso,
+3955260	3956220	um coge construído
+3956220	3959260	com um meia de do que foi tirado,
+3959260	3959420	então,
+3959420	3959980	o que aconteceu,
+3959980	3962220	quando o pessoal atualiza o versão do Python,
+3963180	3964900	o que eu já paro de ser na
+3964900	3965340	como é tudo,
+3965340	3966540	não existe mais.
+3966540	3967580	Então, ainda o problema,
+3967580	3968620	até entender,
+3968620	3970540	é a tiveram que fazer a justi,
+3970540	3971340	então,
+3971340	3972860	esse é um bom exemplo aqui,
+3972860	3974940	acho que o Appende nem vale,
+3974940	3975660	focar,
+3975660	3976940	justamente porque o concate,
+3976940	3978060	a gente consegue fazer exatamente
+3978060	3979340	a mesma coisa.
+3979340	3980700	Usando os parâmetros,
+3980700	3982700	Axis de Gossero e Gaut,
+3983740	3984540	o Giong,
+3984540	3984700	então,
+3984700	3986540	não confuja com parâmetro Giong,
+3986540	3987660	como o método Giong,
+3987660	3988300	certo?
+3988300	3990380	O método Giong,
+3990380	3991820	ele é para fazer um cruzamento,
+3991820	3993980	baseado no synthesis.
+3993980	3994940	Então,
+3994940	3996540	lembre-se dos índices do nosso
+3996540	3997740	data frames,
+3997740	3999180	porque o Giong é ele,
+3999180	4000060	então, a gente consegue definir o
+4000060	4001100	índice por exemplo usando
+4001100	4002780	o set index do PANDAS,
+4002780	4003740	e ele pode ser feito de
+4003740	4005580	acordo com as variadas.
+4005580	4007260	Então, a gente pode pensar,
+4007260	4008220	num left join,
+4008220	4009020	num right join,
+4009020	4009420	num inedio,
+4009420	4010140	e num altas join.
+4010140	4010940	Então, a gente já vai ver
+4010940	4012220	que, no detalhe,
+4012220	4013420	é o caso de cada um.
+4014620	4015580	E o que eu acredito,
+4015580	4016860	vocês mais vão utilizar,
+4016860	4018060	os iluminos projetos
+4018060	4019500	é o merge,
+4019500	4021500	o merge diferente do Giong,
+4022140	4023180	ele pode ser feito
+4023180	4024380	para fazer o cruzamento
+4024380	4025580	por qualquer poluna.
+4026380	4028220	Então, a gente depende do índice,
+4028220	4028940	o Giong,
+4028940	4030620	sempre associado ao índice,
+4030620	4031500	e o merge,
+4031500	4033100	é a gente depende de qualquer poluna,
+4033100	4034620	específica de um dos
+4034620	4035740	dois data frames.
+4035740	4037420	Então, a gente consegue usar
+4037420	4039900	3 parametros no mês.
+4039900	4042780	Se o nome da coluna foi igual,
+4042780	4043500	na esquerda,
+4043500	4044700	inedireita,
+4044700	4046460	a gente pode usar só algum.
+4046460	4047420	Então, por exemplo,
+4047420	4049260	eu tenho um adi na esquerda,
+4049260	4050140	uma coluna chamada,
+4050140	4050700	a esquerda,
+4050700	4052300	e uma coluna chamada a idina de lei.
+4052300	4053340	Eu quero cruzar
+4053340	4055100	para quem mexeu Giong,
+4055100	4055820	que você vai eu para o que ver,
+4055820	4057020	e famoso para o que ver.
+4057020	4058780	Eu quero usar essas duas colunas
+4058780	4060300	para fazer essa busca.
+4060300	4061660	Quando o nome da esses colunas
+4061660	4062140	é igual,
+4062140	4062860	eu posso usar um.
+4064060	4065580	Quando o nome dessas colunas
+4065580	4066860	é diferente,
+4066860	4068060	então, o nome surform
+4068940	4070060	a multiplação aqui.
+4070940	4072140	Então, vamos surpor
+4072140	4073100	num...
+4073500	4075260	se no nosso data frame da esquerda,
+4075260	4077340	é a id compra.
+4077580	4079180	E no nosso data frame da direita,
+4079180	4080380	é só id.
+4080380	4081660	Então, eu tenho que botar
+4081660	4083180	lefte-on igual,
+4083180	4085180	id compra
+4086540	4088300	e righte-on igual,
+4088300	4089020	id.
+4089020	4090460	Então, eu tenho que atribuir
+4090460	4091740	para cada um,
+4091740	4092940	se eles não forem iguais,
+4092940	4094060	dizendo qual é qual?
+4094060	4095500	Para fazer esse cruzamento.
+4095500	4097580	Então, o merge acaba sendo mais utilizado
+4097580	4098540	do que eu diões,
+4098540	4099740	o que muitas vezes
+4099740	4100860	a coluna que a gente quer usar
+4100860	4101740	para fazer o cruzamento
+4101740	4102860	não está no índice.
+4102860	4103420	Mas,
+4103420	4104060	eventualmente,
+4104060	4105500	a gente vai acabar utilizando de ointamei.
+4106940	4107420	Então, aqui,
+4107420	4109500	por exemplo, o merge exatamente
+4109500	4110140	que a gente falou,
+4110140	4112700	a gente tem um data frame
+4112700	4114300	aqui da esquerda
+4114300	4115580	e um da direita.
+4115580	4117260	Quando a gente cruz os dois,
+4117580	4119660	aqui, no caso, a gente está fazendo
+4119660	4120140	o índice,
+4120140	4120860	perfeito.
+4120860	4122140	O que ele faz?
+4122140	4124860	Ele pega o casero a zero-b zero,
+4124860	4126140	então, o casero,
+4126140	4127420	se a gente for perceber,
+4128780	4130300	ele é uma chave comum,
+4131900	4133980	a coluna aqui, perfeito.
+4133980	4136300	Ela é comum para os dois data frames.
+4136300	4137260	Então, ela que a gente vai
+4137260	4138580	usar, a gente vai usar o que
+4138580	4140620	só um um o que,
+4140620	4142220	então, a gente vai pegar o left
+4142220	4143820	os data que compre o primeiro paramento
+4143820	4144460	no merge,
+4144460	4145500	o right
+4145500	4147340	usar como segundo paramento,
+4147340	4149100	porque ele é o nosso segundo data frame.
+4149100	4151180	O o vai ser no que,
+4151180	4152380	o rau vai ser o índice.
+4152380	4154060	Então, a gente vai trazer tudo isso,
+4154060	4155900	que está dentro dos dois
+4155900	4157500	e não vamos repetir a coluna
+4157500	4158380	que é como um prozo dois,
+4158380	4159500	que é aqui, perfeito.
+4159500	4160540	Então, a gente vai pegar a oazero
+4160540	4161100	bezero,
+4161100	4162300	e bem do left,
+4162300	4164300	vai ser que a parte que era do left,
+4164300	4165260	e é esse aqui,
+4165260	4166620	é a parte que era do
+4166780	4168380	right.
+4168380	4170140	E aqui, um bom esqueminho,
+4170140	4172140	sempre que vocês tiverem na dúvida,
+4172140	4173980	é veja um esse aqui,
+4173980	4175020	para entender o que é o índice,
+4175020	4176060	o que é um alta,
+4176060	4177020	o que é um right,
+4177020	4178380	o que vai um left.
+4178380	4179980	O left quando a gente faz,
+4179980	4181260	ele pega tudo
+4181260	4182940	que tem no da esquerda,
+4182940	4184380	e mais o que tem nos dois,
+4185500	4186220	o right,
+4186220	4187260	ele pega tudo
+4187260	4188540	que tem no da direita,
+4188540	4189260	inclusive,
+4189260	4190540	os que não tem no cruzamento,
+4190540	4190780	tá?
+4190780	4191740	É isso que a gente está falando.
+4191740	4192460	Então,
+4192460	4194460	é o que vai fazer
+4194460	4195980	aqui
+4195980	4197580	no cruzamento do right,
+4197580	4198300	por exemplo,
+4198300	4199340	com os que não tem left,
+4199340	4200540	ele vai botar no mundo,
+4200540	4201260	nas colomas,
+4201260	4202300	que ele traz do
+4202300	4203340	do right, ele bota no...
+4204860	4205580	a gente vai ver isso aqui,
+4205580	4206460	já já os exemplos.
+4206460	4207180	Então, aqui,
+4208380	4208860	o right,
+4208860	4210220	de trás pulgo no da direita,
+4210220	4210860	e o que foi como um
+4210860	4211500	pros dois,
+4211500	4212380	o iné,
+4212380	4213420	ele traz,
+4213420	4214700	só o que é como um pros dois,
+4214700	4215580	e o for o alta adion,
+4216460	4218220	ele traz exatamente tudo.
+4220860	4221420	Então,
+4222620	4223020	aqui,
+4223020	4223420	um exemplo,
+4223420	4224380	agora do concate,
+4225340	4226940	é igual a gente falou
+4226940	4229500	com o card de serve para a gente jogar.
+4229500	4229900	Então,
+4229900	4231180	seja no oixo x,
+4231180	4231980	ou no oixo y,
+4231980	4233500	ou seja,
+4233500	4234300	para baixo,
+4234300	4235420	ou para a direita,
+4235420	4236700	de um data frame.
+4236700	4237980	Então, aqui no concate,
+4237980	4238620	a gente tem uns
+4238620	4239740	nós três data frames,
+4239740	4240220	set,
+4240220	4241340	da f1,
+4241340	4242380	da f2,
+4242380	4243580	e da f3,
+4243580	4244940	que aqui no nosso caso,
+4244940	4246460	lembre-se sempre que a gente passar
+4246460	4247580	algo que é mais de um
+4247580	4248700	e a gente vai passar na forma de malista.
+4248700	4249420	Então, a gente passaria.
+4252700	4253500	É difícil.
+4253900	4254940	Então, a gente poderia passar,
+4256860	4258540	per ver com o concate,
+4260300	4261260	e aqui,
+4261260	4262700	uma lista, perfeito,
+4262700	4263820	da f1,
+4263820	4264700	da f2,
+4265580	4266300	da f3.
+4267580	4268620	Eu passo a x,
+4268620	4269500	igual a zero,
+4269500	4270380	porque
+4270380	4271900	é um omancara tristico do pai,
+4271900	4273180	então sempre que eu falar de axyz,
+4273180	4274300	igual a zero, axyz,
+4274300	4275420	a tradução,
+4275420	4276300	então aqui,
+4276300	4277580	eu falar de eixo zero,
+4278380	4279100	são as linhas,
+4279100	4280060	eu falar de eixo zero,
+4280060	4281100	só as polunas.
+4281100	4282380	Então, aqui, como a gente quer soar
+4282380	4283020	nas linhas,
+4283580	4284380	é,
+4284380	4285820	a gente vai usar o eixo
+4285820	4286780	axyz, igual a zero,
+4286780	4288460	e o join igual a altem,
+4288460	4290060	porque eu falo altem,
+4290060	4292140	para se eu ver a linha ser pitidas,
+4292140	4293100	elas repetindo,
+4293100	4294060	porque eu quero adicionar
+4294060	4294860	tudo
+4294860	4297100	de todos data frames, perfeito?
+4297340	4298460	Então, a isso é o nosso estade,
+4298460	4299660	que você vai empingar
+4299660	4300940	uma partizinha do 1,
+4300940	4302860	que vai até linha 3,
+4302860	4304300	outra partizinha do 2,
+4304300	4305340	que vai da linha 4,
+4305340	4306140	até linha 7,
+4307100	4308540	outra partizinha do 3,
+4308540	4309740	vai aqui da linha 8,
+4309740	4310700	até a linha 1.
+4312540	4312940	Então,
+4312940	4313580	mundo real,
+4313580	4314060	muitas vezes,
+4314060	4315500	vamos fazer esse join,
+4315500	4316300	e o índice não vai
+4316300	4317020	tabulitinha aqui,
+4317020	4317580	perfeito?
+4318220	4318860	Vai ser raro,
+4318860	4319820	a gente fazão um join,
+4319820	4320060	e está,
+4320060	4320620	por exemplo,
+4320620	4321660	aqui o join
+4321660	4322860	do primeiro data frame,
+4322860	4323820	vai estar até o 3,
+4323820	4324060	o outro,
+4324060	4325660	vai começar a partir do 4.
+4325660	4326300	Mundo real,
+4326300	4326700	muitas vezes,
+4326700	4327580	não vai acontecer.
+4327580	4327740	Então,
+4327740	4328060	as vezes,
+4328060	4329500	a gente vai ter que fazer esse join,
+4329500	4330780	o índice vai ficar
+4330780	4331260	errado,
+4332220	4333420	e o que a gente pode fazer
+4333420	4334220	nessa equência aqui,
+4334220	4334780	para acertar,
+4335500	4337340	a gente bota um ponto 7,
+4337340	4338220	Reset,
+4338220	4338780	Perna,
+4338780	4339500	Index.
+4339500	4342620	E geralmente,
+4342620	4343900	o paramento do golpe 4.
+4343900	4349580	O que isso faz?
+4349580	4350300	Isso reseto,
+4350300	4350700	o índice,
+4350700	4351900	então, ele vai começar a bonitinho,
+4352540	4354220	e se a gente não bota o
+4354220	4355100	golpe 4,
+4355100	4356540	ele vai pegar um índice entinho
+4356540	4357500	e jogar
+4357500	4358940	para,
+4358940	4359500	para a primeira
+4360540	4361420	coluna, certo?
+4361420	4362060	Então,
+4362060	4362540	a gente geralmente
+4362540	4363500	dá o golpe 4,
+4363500	4364540	para pegar esse entice
+4364540	4366380	e o índice que está errado,
+4366380	4367180	e revolvei ele.
+4370460	4372700	Por fim, o join,
+4372700	4373580	o Guajem falou,
+4373580	4374620	é a mesma lógica do
+4374620	4375260	merge,
+4375260	4376860	mais a diferença do join,
+4376860	4377980	é que a gente usa
+4377980	4379180	diferente de qualquer
+4379180	4380700	do merge que a gente usa com a coluna,
+4380700	4383260	no join a gente usa o índice perfeito,
+4383260	4383820	então,
+4383820	4384060	aqui,
+4384060	4384860	nesses dois,
+4384860	4386460	a gente tem a coluna 4,
+4387660	4389660	que está somente no data 6,
+4389660	4391340	dá pra frente da direita,
+4391340	4392060	perfeito,
+4392060	4392940	e então,
+4392940	4393820	o que a gente está fazendo?
+4393820	4394620	A gente está pegando,
+4394620	4396140	a gente está fazendo o left,
+4396140	4396540	então,
+4396540	4397260	a gente chama
+4397260	4398380	direto,
+4398380	4399340	a gente não usa
+4399340	4400700	o PD pra chamar,
+4400700	4401740	e chama direto do primeiro,
+4401740	4402140	da tafreia,
+4402140	4403180	e chama o left,
+4403180	4404540	o método join,
+4404540	4405580	chamando o right,
+4405580	4406780	então a gente começa pelo left,
+4407900	4408620	chamo right,
+4409820	4411180	e a gente vai fazer um índice,
+4411180	4412140	então, a gente quer trazer tudo
+4412140	4413020	que tem os dois,
+4413020	4414380	e vai provinul,
+4414380	4414700	então,
+4414700	4417020	nós justamente para as colunas,
+4418140	4418620	que,
+4419180	4419580	no caso,
+4419580	4420140	aqui é um alto,
+4420140	4420940	a gente tem feito,
+4420940	4421820	porque ele vai trazer
+4421820	4422620	tudo dos dois,
+4422620	4423420	e vai trazer um
+4423420	4423980	o,
+4423980	4424620	então,
+4424620	4424780	aqui,
+4424780	4425420	acho que está errado,
+4425420	4425740	pessoal,
+4425740	4426700	tinha feito errado,
+4426700	4427420	aqui é um alto,
+4429340	4431340	aqui é um alto,
+4432060	4433260	aqui é o que,
+4433980	4435260	nosso está vivo,
+4435260	4435980	acho que pegar outra
+4435980	4437100	fênate,
+4437100	4438380	no caso aqui,
+4438380	4439100	não é índice,
+4439100	4439900	ele é um alto,
+4439900	4440700	porque,
+4442700	4444460	ele vai pegar justamente
+4444460	4445260	tudo,
+4446540	4447340	das,
+4448460	4449580	duas,
+4449580	4451180	nos gás dos nossos dois
+4451180	4451740	da tafreia,
+4451740	4452220	e com condo,
+4452220	4453980	tanto dos as linhas dos dois,
+4453980	4454540	e,
+4454540	4455980	para as que não tem no,
+4455980	4457020	no right,
+4457020	4457340	então,
+4457340	4457980	aqui no caso,
+4457980	4458380	no right,
+4458380	4460380	a gente não tem o achave calo,
+4460380	4461180	como é isso aqui,
+4461180	4462300	na chave casero,
+4462300	4463020	no caso,
+4463020	4463580	é o cado,
+4463580	4464300	esse cado,
+4464300	4465820	então aqui no resultado,
+4465820	4466140	no caso,
+4466140	4467180	não só vou trazer
+4468140	4469500	os dados do calo daqui,
+4473180	4475020	e o mesmo acontece para o cado,
+4475020	4475660	porém,
+4475660	4476380	por 3,
+4476380	4476780	perna,
+4476780	4477020	porém,
+4477020	4477980	isso é para o right,
+4477980	4478620	então,
+4478620	4479500	por 3 aqui,
+4479500	4480620	eu não tenho cado,
+4481500	4482060	eu tenho,
+4482060	4482300	aqui,
+4482300	4483020	no cado,
+4483020	4483500	então,
+4483500	4484300	vou levar aqui as
+4484300	4485020	chaves nulos,
+4486060	4486860	os valores nulos,
+4486860	4488860	pedão para o abe que vem do left,
+4488860	4489500	e por right,
+4489500	4489740	aí sim,
+4489740	4490380	vou preencher.
+4493820	4494780	E pessoal,
+4494780	4495820	por hoje é só,
+4496540	4496860	então,
+4496860	4498860	conseguimos passar bem sobre o que a gente
+4498860	4499900	prometeu para aula,
+4500700	4502780	espero que que tenham gostado um pouquinho
+4502780	4504300	da página de audios,
+4504300	4505100	é muito interessante,
+4505100	4506700	acho que dá uma orang de moçinha,
+4506700	4507740	a gente começa,
+4507740	4508540	agora,
+4508540	4509340	e nos projetos,
+4509340	4510540	envolvam cada vez mais,
+4511580	4511900	então,
+4511900	4512700	vamos conversar com relação
+4512700	4513740	na muito com o condo,
+4513740	4514140	sabido,
+4514140	4515180	com as nossas experiências,
+4515740	4516300	e,
+4516300	4516780	é,
+4516780	4518140	continuando nessa pegada,
+4518140	4518380	agora,
+4518380	4519180	os 23,
+4519180	4520620	a gente vai avançar bem
+4520620	4521420	na parte de pai,
+4521420	4521580	então,
+4521580	4522620	vocês vão ver,
+4522620	4522940	e,
+4522940	4523980	em termos de dificuldade
+4523980	4524460	em guaz,
+4524460	4525660	não fica mais difícil,
+4525660	4526460	daqui para a frente,
+4526460	4527180	a gente vai falar muito,
+4527180	4528460	mas sobre o mundo de dados,
+4528460	4529900	e cada vez menos sobre Python,
+4529900	4531340	acho que é esse é o objetivo,
+4531340	4532220	então,
+4532220	4533260	é legal também,
+4533260	4534380	dizer que eu estou disponível
+4534380	4535740	com o KW sobre Python,
+4535740	4537340	ainda sobre os projetos antigos,
+4537340	4538460	só me procurar,
+4538460	4539180	é,
+4539180	4540140	descorde,
+4540140	4541100	macaram,
+4541660	4542460	e,
+4542940	4543900	acho que é esse pessoal,
+4543900	4545500	continuem em 23,
+4545500	4547420	qualquer dúvida do teu disponível,
+4547420	4548620	e, em conto vocês,
+4548620	4549500	na semana que vem,
+4549500	4550380	me já adiantando,
+4550380	4552300	bom fronho de semana para todos,
+4552300	4553740	e aqui a gente tem uma valiação,
+4553740	4554940	que ele puder responder,
+4554940	4556460	e depois da chamada,
+4556460	4557020	quando a gente se rara,
+4557020	4558380	vai aparecer aí,
+4558380	4559340	bom fronho de semana,
+4559340	4559820	pessoal,
+4559820	4560300	valeu,
+4560300	4561340	eu te achava,
+4561740	4562300	valeu,
+4562300	4563100	não é gomente,
+4563100	4563980	bom fronho de semana,
+4563980	4564940	obrigado,
+4564940	4565580	valeu,

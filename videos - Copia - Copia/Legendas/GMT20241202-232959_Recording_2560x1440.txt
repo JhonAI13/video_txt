@@ -1,0 +1,1986 @@
+E aí, por favor, eles não pôs?
+Que aí, eles terão mais um pouco, que hoje,
+a gente não é doiçado de desneiro, não vou gravar essa aula.
+E aí, segona feira.
+Então, o finalizando as 32, né, hoje,
+aqui na aula, vamos passar mais sobre o que está pela frente,
+como os próximos passos, então,
+imagina o que a maioria da pessoa está focando,
+então, o finalizado é parte do pai,
+porque realmente é uma parte muito densa.
+Então, o pessoal está vendo a gravação depois que vem tranquils.
+Agora, eu vai começar a partir,
+partir realmente legal, eu vou começar a realmente fazer sentido.
+Eu tenho que ter o que o pai tem,
+então, a gente vai ver que o pai tem de passar ser muito mais no ferramento
+do pra construir, o que a gente vai fazer na análise na sensibilidade
+do que, propriamente, ali, o nosso foco, né, o foco desculoso,
+desse vídeo que é o que é o que o pai tem,
+o foco é a análise de sensibilidade.
+Então, mais acaba que o pai tem,
+é a fundação, é a ferramenta mais utilizada hoje,
+por que pra as duas, para as duas profissões.
+Então, a gente depende muito do pai com,
+hoje, é um precedido, principalmente,
+na visão do mercado, e até com profissionais mesmo,
+para o pai não é concrível, mas hoje,
+a gente vai passar também, entender como que a gente vai usar o pai,
+porque a gente vai usar o pai,
+que é realmente a parte interessante,
+porque de vocês estarém aqui no Goethe Campiote.
+Então, nós objetivos, para hoje,
+que vai conhecer o Chris P.D.M.,
+o Chris P.D.M. tem esse nome feio aqui,
+mas ele é muito simples.
+É um metogologia que a gente vai utilizar
+para fazer análise de sensibilidade.
+Então, ele parece muito complexo,
+mas no que eu tenho as contas,
+ele acaba sendo muito intuitivo depois que a gente faz um vez,
+mas ele é um notch para vocês,
+ele quando fazer projetos,
+construire os queis, aqui os próprios projetos,
+dá triplo tendeis no princípio,
+dá para fazer esse seguindo aqui nesse vídeo,
+e acaba sendo muito orientado no próprio NoTibu,
+mas se vocês podem utilizar um Chris P.D.M.,
+porque é o que vocês vão fazer na vida real.
+A gente vai conhecer o conceito de ADR,
+esse vai ser um conceito que vai acompanhar vocês
+por resto da carreira de vocês.
+Então, ADR, nada mais é do que a análise de explorar para os dados,
+é o grande foco da profissão de análise de dados no fim das fontas,
+tudo que vocês vão extrair de informação,
+o gençai, vai ser por meio da ADR,
+e por cento de dados, ele é a base intercindível de tudo
+que vocês vão construir de previsões para o futuro.
+Então, a gente vai ver as técnicas e tipos de associados dela,
+mas principalmente, de uma falada sobre o conceito de ADR,
+e o que é o passa-pass, o infinito, todo o processo.
+Foi falar também sobre o data-vis,
+já está avisando mais é do que a realização de dados,
+e não discutir a fundo, isso não vamos fazer um pouco mais para frente,
+mas a gente vai falar muito sobre o que é o data-vis,
+é importante ser dele, porque a gente tem que saber desse forcer,
+que veja agora, e tudo mais.
+Escutir também sobre os tipos de dados,
+então, o que a gente vai ver no dia de ano,
+você vê que a maioria nos dados que a gente está trabalhando
+por enquanto são dados tabulados,
+mas esse não é um mundo real,
+hoje vai muito além disso,
+mas a gente vai conhecer o outro tipo de dados,
+que a gente vai trabalhar.
+E, por fim, a gente vai ter o primeiro contato,
+também, com o previsamento de dados,
+que nada mais é do que o processo que a gente faz para lidar com as impostas,
+estenses, e as gente tem a trabalhar com dados.
+E aí, não estou falando de consistência de noces,
+em consistência dos dados.
+No mundo real, a gente não recebe os dados mais tigadinhos,
+os britinhos da forma como a gente gostaria,
+no real, os dados são surgidos,
+os dados a gente tem que botar no lixo,
+ele garim parte, garim tigadinhos,
+é consegue estrair melhor deles.
+Então, é o processo de realmente entender
+como tratar as impostas,
+e a gente já não de preprocimento nos dados.
+Agora, vamos passar aqui, começar realmente.
+Então, é o que o que o que o deem?
+Que o que o nome é a sigla é o processo de influir.
+Estando a recebência.
+Processes e aí bem meia o data mining,
+então, como é isso ali?
+Principalmente, para a minha direção de dados,
+mas a analisidade, sem estudados,
+e já iria de dados também adaptar no processo.
+Então, ele acabou que ele me equivirou a referência para lidar com dados.
+Então, é a forma como a gente vai criar o processo mesmo.
+Então, quando a gente pega ali um processo para um
+objetivo, uma tarefa, um projeto com o pé desafio,
+a gente vai começar a lidar com ele com a nossa metobologia.
+Então, ele é a metobologia que a gente vai tratar.
+E começa por aqui, compreendição do negócio.
+Então, independente do que a gente está indo dando,
+primeiro passa a gente tendendo o negócio.
+A gente nunca pode começar um projeto,
+assim, entendeu que a gente está fazendo.
+Então, é muito fácil que ele botar no namassa,
+que ele começa a mexer no pan,
+e você vai fazer as que eu rei criar muito graças com o total legal,
+mas claro, porque ele passa a entender com o negócio,
+e a muitas vezes, em volta o pessoal.
+Então, eu vou ver se reliquas, comendo o negócio,
+que tem uma experiência de anos, às vezes lidando naquele universo,
+então vai conseguir te dar umas gicas muito valiosas.
+Então, esse passo de compreender o negócio é fundamental.
+Compreendendo o negócio, está vendo o que você está lidando,
+você vai em seus dados.
+Uma coisa é um negócio, uma coisa entendeu que você,
+o que que eles dados representam em outra coisa,
+é ver com que esses dados estão na parte.
+Qualquer estrutura de dados vai em prisa?
+Os dados estão na nuvem, o trono servidor, da empresa.
+Como que são os dados? São dados estabilados.
+Está em Excel. Está em CSSV. Está no banco de dados.
+Como que eu faço para se saldar?
+Enfim, toda esse processo vai entender como que vai ser,
+o que vocês vão lidar, onde é fétivamente,
+a gente vai botar a mão na massa?
+E acaba que é um vim, vai.
+Então, muito entre entender os dados.
+E quando você vai entender os dados,
+então, você vai entender o negócio também.
+E quando você vai entender o negócio, você vai criar no novas dúvidas.
+E aí, você vai entender os dados para ver
+a mixture do nosso dúvida.
+Então, acaba que esse vim vai aqui.
+E, beleza, depois que entender os dados,
+entender o negócio, a gente tem essa compreição,
+entender realmente onde a gente vai botar a mão na massa?
+O que a gente vai fazer?
+A gente tem que realmente preparação os dados.
+A gente tem que preps processar os dados,
+garantir que vai estar tudo certo,
+que a gente não tem nenhuma consistência,
+que a gente não tem nenhuma falha nos dados.
+A gente não está criando o egos ali,
+que vão influenciar no restante do processo.
+Então, realmente, aqui é o traço de botar a mão na massa,
+de fazer o trabalho suging.
+Por isso, que é tão importante o pânduo,
+o pânduo, ele serve muito pra manipular os dados,
+e ganhar a gente que está tudo bonitinho,
+falando no mundo do Python.
+O que isso é, por exemplo,
+é uma ferramenta de preparação dos dados.
+É independente,
+da onde você vai fazer,
+o botão tinha que entender que o objetivo,
+da que você está fazendo,
+o objetivo da garantir os dados voltar juntos,
+está bolados organizados por um para seguir no próximo prazo de processo.
+E é a modelagem.
+E aí falando no modelagem,
+ela acaba que tem um verão de pouco diferente
+para a ciência e para a análise de dados.
+Na análise de dados, a modelagem acaba sendo criar as análises.
+E aí, criar as análises, pode ser,
+acaba sendo algo muito longo, pode ser gráfico,
+pode ser um relatório, pode ser um teste de botos.
+Então, você acaba que tem uns finitas possibilidades para análises,
+e quanto para a ciência de dados, está muito setalizado.
+Isso é muito setralizado no modelo,
+de fato, que a gente vai criar um modelo de previsão,
+é modelo de fastocação,
+o modelo de agrupamento,
+então tem vários tipos de modelo para a ciência de dados,
+geralmente relacionados a o que a gente quer prever dos nossos dados.
+E isso acaba em um processo também de vêm vai.
+Então, para a análise de dados,
+se a gente apromar o atório,
+o painel de power BI,
+para algo em baixo de vocês gera,
+para o já falei, ela torna, mas para o teste de botos,
+que a gente vai ver também,
+na semana 4, na estrange 4.
+Então, acaba que é um vêm vai entre modelar,
+que é de fato a sua entrega,
+e a preparação,
+porque a preparação é fundamental,
+mas muitas vezes, você não consegue captar tudo,
+simplesmente na ADA, que a gente vai ver também hoje.
+Então, acaba que fica um vêm vai,
+esse aqui, entre a modelagem,
+e a preparação,
+porque, no fim das coisas,
+a gente quer garantir que isso aqui vai estar certinho
+para seguir no processo.
+E aí sim,
+a gente segue no processo aqui,
+a gente vai para a avaliação.
+É a avaliação, é.
+Quero antique o que a gente está sendo feito,
+vai ter a efetividade.
+Seja no nosso revapório que a gente está criando,
+não seja no nosso par de RBI,
+o Zói está de acordo,
+é,
+os mais metras que a gente está levando,
+os as visualizações,
+elas são realmente efetivas, não tenham erro.
+A gente está levando a melhor informação possível,
+o Zói vai entender,
+então, passa por toda esse processo,
+de avaliaço,
+o que você está fazendo,
+é realmente efetivo,
+e, na sexta de dados,
+a avaliação está muito mais voltada
+para parte matemática também dos modelos,
+onde a gente vai avaliar,
+é, a performance,
+o desempenho realmente nos nossos modelos,
+se eles realmente aprenderam
+com que a gente passou para eles na fase da modelade.
+Então, essa é a parte de nas sensitives,
+a cabo que a avaliação é algo muito mais objetivo
+no que na análise das pessoas,
+porque a gente tem as méticas de avaliação no modelo,
+a gente tem, por exemplo,
+o erro médio,
+o erro médio padrão,
+então, ali,
+ponto que o modelo de previsão está errando
+em relação ao correto.
+Então,
+é algo muito mais objetivo,
+do que na legidade que acaba,
+é, tem muito mais um lado humano de interagir,
+um usuário,
+esse cita-seir,
+é,
+é, em vez de era de negócio,
+está de acordo,
+porque a gente está fazendo
+criando dinsares,
+é um processo muito mais generalista.
+E, para a importação,
+a esse,
+é,
+independente de trabalhar com
+sensibilidades,
+independente de trabalhar
+do planar de dados,
+para encontrar o modelo,
+e contar um relatório,
+e contar um panel de
+corbilar,
+a gente está falando de seres humanos,
+e usuários,
+alguém faz usar que o que você está fazendo,
+dependente de ser um área fim,
+dependente de ser,
+quando você é um sentido de dar
+as algumas áreas de interna,
+compreendem planares de crédito,
+independente de ser uma área financeira,
+pode ser jurídico,
+enfim, alguém,
+pode ser a polícia interna,
+pode ser a polícia interna,
+também, podem ser
+os usuários de uma pedação,
+de alguns sites,
+e, enfim,
+alguém, mais usar aqui, o que você está criando, com corro.
+E o grande ponto é, você tem que garantir que as pessoas vão usar da melhor forma.
+Então, é muito também o processo de entantar.
+D'arantir que você está botando lá na ponto, para o usuário final.
+A melhor experiência é o melhor, o que você realmente queria com todas as processas.
+E muitas vezes, isso aqui é capaz de ser uma parte mais difícil.
+Porque muitas vezes, a gente faz tudo isso,
+passa por todos os outras partes,
+mas quando chega aqui, a gente tem que encontrar algumas barreiras.
+Porque o mundo real é muitas vezes diferente,
+porque quando a gente está no nosso ambiente é o sistema de dados,
+porque muitas vezes, aqui, no minhas útiles,
+a gente está entendo trabalhando no nosso mundo.
+Mas quando a gente vai, aqui é a tabulco de pulmuno,
+mas quando a gente vai,
+aqui, no deixa eu trocar aqui, é caneta.
+Então, quando a gente acaba aqui fica aqui no azul,
+esse é o nosso mundo de entidade, esse foi o porno.
+Quando a gente vai para a importação, que é o seu outro aqui,
+aí sim, a gente está lidando com outras outras clientes.
+Sejam em eles internos ou estentes.
+E aí, para o passo a ter muito mais,
+o lado também de garantir que isso é o modelo tá funcionando,
+o que ele é a eficiência, a gente que as presão estão mostrando,
+o do isso é da nova leação,
+mas no fim do dia,
+é que você tá realmente criando o me entrega de valor,
+que você tá garantindo,
+criando algo que vai ser usado,
+e tá gerando valor para a organização, né?
+Porque no fim de dia, por isso, que as organizações
+em vés têm que ter a tendados,
+que elas querem ter valor a parte de aquilo que tá sendo criado.
+E essa é a importação.
+E essa importação, por exemplo,
+prontagidades, pode ser garantido para a gente,
+para a gente, para a gente,
+para a gente, todos os olhos estão com o sinhe da cessar.
+Eu estou no grupo de assais de segurança,
+está todo mundo de acordo,
+as pessoas bem só que elas precisam ver,
+como que eu faço para compartilhar esse relatório
+e com outras pessoas que não têm pontos do parbear.
+Então, os afios são inúmeros,
+mas vocês vão pôr, não são os afios todos as sociários,
+agora antip, que é entrega, né?
+Tudo isso que a gente fez aqui,
+ele de fato vai ser usado.
+E assim, pessoal, o mundo real é cruel.
+Muitas vezes vocês vão fazer isso aqui, tudo.
+Vou passar por todo processo,
+para chegar na importação.
+E aí vocês não têm alguma barriga.
+Seja ela, a pessoa não teve boa aceitação,
+acabou que a prontagem o 2,
+você já entrou em outra coisa,
+que era mais potante, acabou que o modelo não eraficiente,
+não tem a aplicação no real, enfim.
+As coisas acontecem,
+eu vou apache dos projetos, ele caiu aqui.
+Mas assim, nada é, então,
+muitas vezes vocês vão pegar um projeto depois
+do ponto da modelagem,
+os dados já preparados,
+vocês vão voltar em algo que não tem o errado,
+vocês já vão ter total compreensão
+do negócio dos dados.
+Então, enfim, nada em vão, mas muitas vezes,
+só queria deixar claro que não é de na arma,
+não vai ser entretão final.
+Muitas vezes, vocês vão parar aqui,
+mas o processo é esse, a lógica é esse.
+É brunho.
+Beleza que o primeiro aparinho da narrasporatória, né?
+Gatinho, e aqui eu,
+comentário muito pertinente,
+que já que a gente vem no mundo real, né?
+Deu, eu devo seguir os dados ou os meus instins.
+E esse é um dos grandes motivos,
+que as empresas em vez tem um dados hoje,
+porque quando está investindo, investindo em dados,
+a gente está garantindo que as empresas vão tomar decisões.
+A tomar as decisões,
+ela é fundamental para a empresa no longo prazo,
+e por prazo também, pensando em um look,
+é o fim que é o objetivo de todo em treino.
+É o tirando organizações,
+em longo da mental, é a mesma coisa.
+Em uma hora em dois empresas, está focadruba.
+E pra focadruba, eu tenho que tomar decisões bores.
+Então, é igual ao jogo.
+Se eu tomo decisões bores, não em jogo, eu vou ganhar.
+E as empresas fazem isso.
+E pra tomar as decisões bores,
+eu coleto muitos dados,
+que eu consigo tomar decisões bores baseadas no estundados.
+E antigamente,
+e não de forma alguma crítica da experiência,
+também é uma habilidade,
+uma esquia que eu não estendo da vida,
+que não tem preço, não tem valor,
+e é só o tempo que dá experiência pra gente.
+Isso ao longo do tempo que está trabalhando mais tempo,
+vai realmente pegando os trações atalhos e ser muito perdados.
+Mas o fato é,
+o que vocês acham que no longo prazo é mais do prateiro com empresa.
+Tem o gerente que está tomando decisões baseadas em dados,
+o baseado no chinto dele.
+O chinto na do mais é que é um condensado da sua experiência.
+Então, você vai tomar decisões baseadas na sua experiência,
+mas sempre basicamente.
+E ao vocês, você vai estar errado.
+O seu chinto, as vezes vai estar errado.
+Pode ser chinta a maioria das vezes estar certo.
+Por isso que fala,
+se sempre sigue o seu chinto,
+porque não bora das vezes,
+o seu chinto vai estar certo.
+Isso tem até pesquisas,
+enfim, o dinheiro,
+tipo, não sei qual a gente pense que isso é mais.
+Eu já liam algum relacionado aqui,
+a primeira decisão,
+então quando a gente tem o pau pítido,
+quando a gente tem uma decisão pra tomar.
+O nosso primeiro estinto,
+na maioria das vezes vai ser melhor decisão.
+Isso não é mais hídimo que a nossa experiência,
+a gente não tem informação,
+não transdados por tomar aquela decisão.
+A fã do nesta não estômara de decisão.
+Voltada por dados.
+Então, enxacável aqui,
+a experiência na mais era condensado,
+a gente leva e a gente chama isso de enximpe.
+Mas, muitas vezes, o enximpe, às vezes, vai ser uma coisa sensificação.
+Então, vai ter um sentimento,
+às vezes não gerente, vai ter a anão hoje,
+o acordei,
+que,
+por ver, passei de baixo de mercado,
+que abrem um livro, o Gilgato pretro,
+então não vou tomar essa decisão hoje,
+não, e cara, na vida,
+é um acredito que não deve tomar leções baseadas
+em sentimento, em filho,
+eu sou muito mais um cara voltado
+para a evidência, para de fato que a gente tem apresentado.
+E acho que, para quem trabalha com dados,
+são habilidades fundamental,
+e, por isso, que as empresas estão investindo com dados,
+porque no longo prazo, essa na conta,
+vale a pena, né, investindo,
+é matemásticamente no pratinho, matemásticamente,
+dá dinheiro investindo, no que,
+é basear vendados, não em basear investidos.
+Desde então, na exploratória,
+na exploratória de dados,
+é o termo de um problema da ADR,
+que é a exploratória de ItaNaries,
+é toda essa parjão,
+uma área de pesquisa,
+então, porque eu pujo de diante,
+mas a gente vai levar isso como um processo,
+a gente vai fazer o que trabalhando com dados,
+e ele nada mais é do que esse familiarizar,
+no primeiro passo ali, no primeiro momento,
+com os dados,
+no backside, que está a parte deles,
+estão a explorar os dados,
+e, como tem de fazer isso,
+a gente tem que distribuir
+desfubrir estruturas e padrões,
+dentro dos dados,
+então, a gente tem que estar abrius dados,
+me regulhar nesses,
+está aí, identificar a padrões estruturas,
+que estão ali,
+é,
+que está realmente entendendo,
+para me realizar,
+então, eu tenho outra palavra melhor,
+porque a gente está me estendo,
+então, como os dados
+estão apresentados para mim,
+a gente vai determinar também a correlação das variáveis,
+qual variável influencia na outra,
+dentro dos nossos movilidades,
+então, isso toca a você no fundamental,
+para a gente tender,
+é melhor,
+na prática,
+na ir possível,
+fazer inferências que,
+nada mais é do que a gente sai,
+então, a gente chama a gente,
+a gente sai,
+a gente sai,
+é um nome bacana,
+mas a gente sai,
+nada mais são que a gente tem referências,
+a referências são,
+afirmações que a gente faz baseada
+nas nacionanais,
+e para isso a gente tem toda esse processo,
+a gente vai apontar também as variáveis de maior importância,
+porque sempre,
+que a gente vai pegar uma comunidade,
+as mãos variáveis vão ser lichos no molos,
+nada,
+e algumas variáveis vão ser chave
+para para as nossas diferenças,
+e também,
+algumas,
+muitas coisas que vão influenciar as nossas diferenças,
+na nossa insites,
+são as anomalias,
+estão garantindo que,
+dentro dos nossos dados,
+ele não tem nada errado,
+não tem nada que brano,
+o padrão,
+ou não tem nada,
+influenciando negativamente,
+porque a gente está querendo prever.
+Por fim,
+testase e potos,
+e está de potos,
+é todo o processo estatístico,
+a gente vai ganhar que ele tem
+só um minuto na esprima esquata,
+mas esse relacion é muito com a ideia,
+principalmente por isso,
+o teste de potos nada mais,
+do que uma validação estatística
+pro scieste,
+para referir,
+se a gente está fazendo,
+sobre a nossa análise de dados,
+ele.
+Então,
+isso é a primeira picaelada,
+assim,
+sobre a ideia,
+é o momento em gente vai conhecer os dados,
+a gente vai tentar identificar os pavronos,
+a gente vai ver o que realmente importa,
+a gente vai botar a mão na massa,
+para garantir que está tudo certo,
+e tentar criar o...
+a informação,
+que realmente vai a hora parte de verdade.
+Então, a gente sai no ponto,
+que a gente tem os dados que a do lado,
+beleza, a gente tem uma políria,
+a gente tem uma tibia sensalista,
+que a gente tem,
+é uma base de dados,
+a gente sai desse nível,
+a gente gera valura,
+a gente gera informação,
+e a gente faz isso através de
+a expressão,
+essa aqui.
+Então, Donald,
+a minha fala,
+alguns doestecos,
+tem que muitas pessoas que a gente tem,
+principalmente,
+tem que nas plantativas,
+a gente está falando de estatística
+de descritiva,
+então,
+as estatísticas de descritiva
+lá no lado da mais,
+o nome já fala,
+monso fórmaro,
+de descrever os pelos grupos de dados,
+então,
+ela é focada,
+impegada,
+valores,
+pagados,
+extribuições,
+e da informação extrajou,
+então,
+elas são conjunto de
+métricas estatísticas
+que vão dar informações
+trajei a gente sobre os
+pros resultados.
+E tem que em que as gráficos.
+Então, elas sumarizam
+essa análise estatística,
+é um discretivo de
+homenema mais visual,
+então, muitas vezes,
+acaba sendo mais parou para a gente,
+se é para a gente que
+está trabalhando com dados,
+mais direção de trabalhar
+do homem negar gráfico,
+imagina para alguém que não conhece,
+né?
+Então,
+a técnica gráfica,
+acaba sendo para a estatística,
+tem muita,
+muito, muito valiosa,
+porque se não está atística,
+ela está olhando muito bem,
+isso é muito complexo,
+muito matemático.
+E a gente tem ferramentes,
+por exemplo,
+o C.Bornha,
+faz muito bem isso,
+de se intensizar,
+é,
+ferramentes estatísticas,
+de forma gráfica,
+porque ajuda,
+é um usuário de muitas vezes,
+menos técnico,
+ainda tem deli,
+o que a gente está fazendo
+está atísticamente.
+Então,
+isso é uma coisa muito interessante.
+No tipos,
+são dois tipos,
+as pessoas podem fazer uma na estatística,
+um invariada,
+vamos olhar cada colonel no detalhe,
+então vamos pegar,
+olhar com uma hidata,
+com uma taxidiluída,
+com uma taxidiluída,
+a com uma de constidades
+de filhos,
+como que ela está estililida,
+e a comuna é multivariada.
+E a análise multivariada,
+esse fú�,
+porque a gente vai analisar
+a cor,
+a coninação entre 2 ou mais
+com o mundo.
+Então, a gente vai analisar,
+por exemplo,
+a renda,
+o fonescira na quantidade de filhos,
+sim,
+sim,
+a minha influencia negativamente,
+é um pôsos de valente.
+Porto maior a renda,
+maior a quantidade de filhos,
+ou quanto maior a renda,
+menor a quantidade de filhos.
+Então, essa é uma análise multivariada,
+por exemplo.
+E aqui,
+o tempo de técnicas,
+é,
+a gente tem,
+no tipo da análise universada,
+quando a variada vai ficar
+até górico,
+ou seja,
+uma variada de texto,
+no geral,
+a gente vai trabalhar ali,
+em termos de,
+a gente,
+e frequência de variáveis,
+que nada mais é do que isso aqui,
+em pessoa.
+A gente vai ver,
+tipo,
+não,
+não está aqui.
+Mas a gente vai ver,
+aqui,
+a gente tem um ífoço,
+mas é basicamente a gente
+ver,
+por exemplo,
+claro,
+eu tenho um pôsos de vittados,
+eu quero ver,
+quantas pessoas
+tem carrasul,
+as pessoas tem carrasul,
+ele,
+as pessoas tem carros amarelo.
+Aí eu planalisando a frecuencia,
+de azul,
+remelha amarelo,
+dentro da minha distribuição.
+E,
+na zarava,
+as numerias,
+a gente vai fazer malar esse
+treiniminado as tribuições.
+Então,
+isso a gente consegue,
+o meio do describe,
+describe,
+o nome de treinamento,
+de valiosa,
+e a gente vai ver em solão
+de todo o skate,
+pelo tanto de informação
+que ele traz para a gente,
+no boto e gente pode
+quem te bota aqui.
+Aqui,
+pega todas as variáveis
+no méricas,
+o antifalor,
+então,
+aqui no skate,
+são as variáveis no méricas,
+e,
+ele é,
+é,
+não,
+não é convençado geral.
+Primeiro,
+ele dá uma contagem de
+contas linhas,
+tem pra cada puluna,
+então,
+que a gente tem quatro pulmas,
+cinco pulmas,
+pulva.
+Ele traz a contagem,
+então,
+a gente pode ver aqui,
+que todo a gente tem
+centa e centa e centa.
+Então,
+a gente não enriquei
+e não tem valofaltano.
+O nich,
+então,
+que é,
+a gente vê que para a espécie,
+então,
+porque são três valores de espécie.
+E aqui,
+para as outras,
+não faz sentido,
+porque são
+valores no méricas.
+A gente vê que,
+para as variáveis categoricas,
+no describe,
+ele traz,
+por exemplo,
+a frecuencia,
+a frecuencia,
+mais
+principal aqui no
+que é o freio.
+A frecuencia,
+mais,
+como é o setózone
+e tem centa.
+Então,
+o setózone hominadar
+da nossa variante
+categorica,
+aqui,
+na espécie,
+é o nome despeço,
+e tem centa,
+elementos.
+Agora,
+nas áreas no méricas que que ele faz,
+ele analisam
+realmente monais para eliminar.
+Então,
+que ele passa
+a mepe pela média,
+e aqui para a balada da pegora,
+a gente vai ver com a ficar tudo no mundo.
+Mas ele passa aqui pela média,
+então, a média desse
+sepau em fessa em ponto 84,
+a STD,
+que é o dos aeropadrão,
+o valor mínimo
+o quartil.
+Primeiro quartil,
+o percentil do cito seto,
+que é 25% dos dados,
+tem até 5.1,
+o 50% que nada mais é do que a
+média,
+é o ponto que de vídeos
+dá as em dois ou seja,
+50% tem mais do que esse
+ponto 85%,
+que centa em menos,
+que centa em ponto 85%,
+a 75%.
+Cabe a mesma coisa,
+a nesta 75% dos dados,
+tem até 6.4.
+E aqui o max,
+não é o ponto
+o valor máximo
+dessa distribuição.
+E aqui ele faz o mesmo
+para outras 4.1,
+então,
+olha que o tanto de formação
+que a gente consegue,
+só no bloco que a gente pode.
+Então,
+e já na análise multivariada,
+que é aqui,
+a gente analisa a correlação
+entre duas ou mais variáveis.
+Esse é um tipo muito comum de análise multivariada,
+que é o plot de correlação,
+e aqui a gente tem, por exemplo,
+uma duas, uma duas,
+uma duas,
+três,
+quatro,
+cinco, seis,
+set,
+o ignore,
+dez,
+onze variáveis,
+e a gente vai cruzar
+elas entre sí,
+no eixo x,
+y,
+e o que isso gera?
+Justamente a correlação
+que a gente falou
+entre as variáveis,
+se uma aumenta outra diminui,
+se um momento em outra diminui,
+então,
+se uma aumenta,
+e a outra diminui,
+sempre,
+vai ser menos um,
+elas são inversamente proponcionais.
+Se a correlação entre elas
+foi um,
+e elas aumentam juntos,
+sempre que uma aumenta outra aumenta,
+vai ser exatamente um,
+isso acontece também,
+quando eu comparo a mesma variável,
+então aqui,
+por exemplo,
+está pequenininho,
+mas eu estou comparando dia,
+por dia.
+Então aqui,
+nesse caso, eu estou comparando,
+e ir com o dia,
+e sempre vai ser um,
+então,
+se eu olhar aqui,
+para mudar a cor,
+porque eu ficava muito com o meio aqui.
+Mas,
+da nossa diagonal,
+principal,
+por você,
+justamente,
+que eu estou comparando as variáveis,
+elas são elas mesmo,
+então,
+sempre que eu comparar,
+é uma variável,
+ela mesma vai ser um,
+porque eu acabo de
+tomar uma criação para a caixa,
+né, com o pão.
+E aqui,
+todas as outras coisas,
+as coisas elas são,
+então aqui é um gráfico de calor,
+você que tem ela vai ficar mais
+vermelha,
+é uma correlação menor,
+e sempre,
+ou seja, a correlação
+inversamente proponcionais,
+e sempre que ela vai ficando,
+mais azul,
+por exemplo,
+é uma correlação,
+é,
+diretamente proponcionais,
+então elas caras são juntas.
+Por isso,
+é um coeficiente de correlação
+positivo, então,
+um coeficiente de correlação,
+um coeficiente de correlação,
+um cresce a outra de minuto.
+E é isso que esse é um
+plote,
+que serve para a gente ver muito isso,
+como que,
+quando uma variável,
+é só via a outra vez.
+Isso,
+a gente consegue pegar também
+muita informação
+com a sombra.
+Depois também,
+nós proponemos,
+vamos fazer muitos gráficos
+com relação ao que
+é um línguete quente,
+mas é mais para vocês
+terem um primeiro contacto.
+Então,
+a nossa,
+a gente tem agora técnicas gráficas,
+realmente,
+depois a gente vai
+botar muito a mão na massa,
+mas para variáveis que até
+góricos,
+principalmente o calo de plote,
+que é o gráfico de frequência,
+o gráfico a gente mais conhece.
+Então, aqui no
+lugar da sessagem de tenhique,
+lembra,
+a gente tem aqui,
+primeiro,
+segundo,
+e ter sido a classe,
+a maioria do pessoal,
+ter sido a classe,
+tem aqui um,
+e, mena, segunda classe,
+muito parecidos.
+Pra variáveis num méricas,
+a gente tem principalmente
+duas ferramentas,
+são de uso muito,
+então, eu usar muito,
+muito, muito,
+muito aqui,
+um do Google de Camp,
+que é o Instagram,
+que é esse aqui,
+e o boxpot.
+Então,
+essas duas ferramentas
+elas no fim do dia,
+elas dizem a mesma coisa
+de duas formas diferentes,
+mas o Instagram não mais é
+do que a gente quebrar,
+em castinhas a nossa distribuição,
+então, por exemplo, aqui,
+quebrando ele quebra,
+em várias castinhas,
+e aqui, por exemplo, 25%
+dos nossos dados,
+então, o nosso primeiro partido.
+Então,
+nessas castinhas, 25%.
+Então, nessas castinhas aqui,
+entre o que é o único que dois,
+então,
+tiver muito,
+está muito conversado entre o que
+dois,
+é muito o espaço muito curto,
+entre o que dois de que três,
+temos mais 25%,
+e,
+o fim,
+depois do que três,
+temos os últimos 25%,
+mas percebam como que nesse
+últimos 25%,
+aqui,
+é muito mais disperso,
+temos,
+esse cara aqui,
+esse cara aqui,
+eles estão lá para ponto.
+O que isso diz aqui,
+quando a coleração é com o boxpot,
+o boxpot é uma ferramentetível,
+por causa disso.
+O começo do boxpot aqui,
+é o começo de distribuição,
+e aqui,
+onde tem realmente a caixa,
+é o espaço entre o primeiro partido,
+então, que eu não,
+e o que três,
+o meio dele,
+onde tem,
+não meio,
+os grupos,
+onde tem essa mistra,
+sempre vai ser a mediana,
+que vai ser justamente
+aqui,
+o 50%
+o ponto que quebra
+a nossa, a nossa,
+a nossa,
+os treindos,
+então,
+a gente tem 50% para cá,
+e sempre está desse lado,
+e 50%
+está desse lado,
+ou não?
+E o mesmo,
+vale aqui,
+o boxpot,
+50% vai dar pra cá,
+50%
+50% vai dar pra cá,
+e 50% vai estar pra cá.
+Outro ponto,
+da caixa,
+é,
+ela,
+ela definita entre o que é um
+o que três,
+o risco vai ser no que dois,
+que é a nossa mediana,
+aqui ela puxa no começo,
+mas aqui nesse caso,
+até onde ela,
+o que ela vai até aqui?
+E esse é um,
+é uma conta que a gente chama,
+o fim do,
+o que é,
+o que é,
+o que é,
+o que é,
+o que é,
+o que é,
+o limite superior,
+dá no meu nosso botos botos,
+e é uma conta.
+Tem um parão,
+a gente chama,
+que é,
+que é o interquartil reinge,
+que ele é o espaço que está dentro da caixinha,
+ou seja,
+tudo isso aqui, né?
+Qual está a mãe de sequer?
+O que é,
+três menos o que é um,
+o que é um,
+o que é,
+três,
+o que é,
+três a tudo isso?
+O que é um,
+é daqui a daqui,
+seu tiro,
+o que é um, o que é, três?
+Eu vou ter isso aqui.
+Enroso,
+porque é exatamente o nosso,
+e o tecartil reinge,
+que é isso que a gente quer pegar.
+O que a gente quer pegar é,
+porque por uma forma,
+que é isso aqui,
+opa,
+essa forma aqui,
+quando a gente soma
+um vírgula simples,
+multiplicado,
+por esse interquartil,
+ao nosso que, três,
+ou seja,
+a partir daqui,
+por exemplo,
+um vírgula simples,
+mas o espaço que está aqui dentro,
+ou seja,
+nada mais é o que?
+Isso aqui,
+essa área aqui em loza,
+que é o nosso interquartil reinge,
+vezes um vírgula simples,
+então, tipo,
+se que eu estou pucentando a mais dele,
+somado,
+ao final do que, três.
+Isso que vai gerar,
+o nosso limite superior,
+pro limite inferior,
+é a mesma coisa,
+mas o que te acontece,
+nesse caso,
+não tinha uma distribuição,
+eles não têm nenhum amostro,
+para cá não tem nada,
+para cá.
+Então,
+ele realmente não tem nenhum,
+para fora a gente,
+como é se dá um geralmente,
+como é só,
+mas para cá,
+a gente tem aosuais,
+e aí,
+isso que a gente chama de aosuais,
+é especial,
+está fora do limite superior,
+ou seja,
+que está acima do nosso interquartil reinge,
+mas,
+um vírgula simples,
+de distância do que, três.
+Isso são justamente,
+esses pontos aqui,
+essa galera aqui,
+e eles são os aosuais,
+e no box plot,
+esses aosuais,
+vamos aparecer como esses pontos,
+e os aqui,
+que é justamente,
+para a gente ter essa noção,
+que eles estão fora,
+do limite superior do nosso box plot.
+Então, parece um pouquinho complexo,
+mas eles vão ver ao longo do tempo,
+se torna bem,
+bem intuitivo, bem tranquilo.
+E, para nós,
+muito variada,
+uma técnica gráfica,
+excelente,
+é o escaterpote,
+também conhecido como
+gráfico de dispersão.
+Então, os gaterpots,
+mas é um ponto meio-esgrafe de dispersão,
+igual a a gente falou,
+aqui é uma correlação positivo,
+então, quando
+os tempos variáveis e
+os e-pcs não exista,
+quando o e-pcs não sombe,
+os x-s sombe,
+percebe que essa tendência.
+É aqui no caso,
+eu contrário,
+a gente tem que e-pcs não
+o x-s,
+quando o e-pcs não.
+É grande,
+o nosso x-e-e-bach.
+Quando o x-e-e é grande,
+o e-pcs não é baixo,
+então, uma relação
+inversamente,
+para o funcionão,
+entre as duas variadas.
+E pode haver,
+nem uma convelação,
+então,
+uma profissão fosero,
+não há nenhuma correlação.
+Então, aqui, nesse caso,
+o e-pcs não é isso.
+A gente tem casos que o e-pcs não é baixo,
+o x-e-bach,
+a gente tem casos que o e-pcs não é alto,
+o x-e-e-bach alto,
+e a gente tem casos que o e-pcs não é alto,
+o x-e-bach,
+o x-e-e-a-a-a-o,
+o e-pcs não é baixo,
+então aqui,
+não tem muito uma correlação,
+não é,
+no escaterpot,
+a gente vê isso,
+é nos grafos,
+que estão muito dispersos.
+Então, no bravo que tem o tem
+o que a gente vê,
+essa tem desde aqui, por exemplo, de alto,
+aqui,
+vamos manter desde baixo,
+enquanto nos grafos,
+se a gente vê,
+algo muito mais
+disperso,
+não é, 100 tem desde.
+Então,
+é,
+seguindo agora,
+para trabalhar com dados,
+eu acho muito legal,
+a gente pensar,
+dessa forma aqui,
+é um processo,
+então, então,
+a gente tem a nossa metodologia,
+mas é um processo,
+e toda vez que a gente vai trabalhar
+com uma coisa nova,
+então, a gente pega um projeto,
+como os crises que a gente tem aqui,
+o projeto 2,
+que, mais,
+em um tamanho do pessoal,
+está, está fazendo agora,
+é, acabamos afir,
+que eu entendo assim,
+que a maioria chega,
+é, e olha de cara e fala,
+cara,
+que eu já conto,
+é o que eu vou fazer,
+vamos comer,
+isso,
+qual o primeiro passo,
+é,
+qual, hoje,
+como vai ser digital,
+pois,
+me enfim,
+e acho que na primeira,
+a primeira relação,
+em si,
+é entender que a cara,
+que eu não vou fazer,
+depois,
+é eu não posso fazer,
+depois de partir,
+para eu quero fazer,
+e,
+entender,
+depois que você pode fazer,
+você vai tentar fazer,
+e no fim,
+você vai conseguir.
+É,
+isso é um processo,
+porque acontece muito,
+muito,
+muito, muito,
+muito em dados,
+principalmente,
+se não veja nesse começo,
+pessoal,
+a gente tem essa parte,
+mais nem,
+esse ali,
+Python,
+é,
+acaba sendo um ocentinho,
+vem com algo de outro mundo,
+mas vocês vão ver que,
+o tempo,
+é uma das variáveis,
+eu estou desalhado,
+então,
+que vocês vão praticar,
+e então vocês vão ter contato com aquilo.
+Então,
+não se o time,
+tem difícil no começo,
+vai parecer,
+às vezes que não é para você,
+que você não pode fazer aquilo,
+mas tem que levar
+com um processo de aprendizado,
+também,
+que é,
+justamente,
+e o que,
+que tu pessoal está aqui,
+o leito,
+o que é,
+o noçara,
+vem ver que você,
+só de cruzar,
+de mesmo que passa do
+vocês acham,
+que vocês estão agora,
+num projeto,
+por exemplo,
+quando pegar um projeto,
+agora,
+22,
+não sei se já fizeram,
+como que foi para vocês,
+o que passa o
+vocês acham que vocês estão agora.
+Já tem em minuto aqui, né?
+É,
+vem,
+o anoito e,
+Bruno,
+eu,
+é,
+estou na última
+sessão
+para começar a oito
+22,
+eu deu uma traçada
+essa semana deu uma embolada,
+mas só para ter respondendo,
+aí,
+aí,
+aí,
+aí,
+aí,
+ainda vou iniciar o projeto
+dos dois,
+acredito,
+que hoje,
+noite.
+Hoje,
+ainda,
+foi dar aula,
+eu estou começando ele.
+Não,
+não,
+hoje,
+para ver o meu vi,
+estou ouvindo,
+vai lá,
+acabou.
+Aí,
+eu acaba de finalizar
+um segundo projeto
+e eu estou na parte de,
+eu quero fazer.
+Bom,
+sei,
+sabe,
+não,
+então,
+você já aproveita o projeto
+dois,
+ficar,
+para cada projeto,
+é a mistada dessa,
+né?
+Então,
+vamos.
+Ah,
+eu estou chegando.
+Eu estou meia de
+os 3 para aí,
+começar o terceiro projeto.
+Bom,
+sei,
+para
+a mistada.
+Na verdade,
+e aí,
+sem pensar,
+você já está,
+vai ficar
+mais tarde,
+mas você não fica difícil.
+Não,
+depois,
+vocês vão ver,
+mas,
+vai ficar difícil,
+mas vai ficar
+em cada vez mais interessantes,
+também,
+aí,
+aí vai superar mais leve,
+aí,
+o pai,
+vai realmente
+o mais desse mesmo.
+É,
+Bruno,
+o que?
+Tu recomendaria
+para a gente estar
+exercitando
+a divisão alguns códos.
+E,
+escrevendo mesmo,
+sabe,
+assim,
+ali são,
+para a gente estar
+prevendo.
+Por que,
+assim,
+eu,
+me aprendizado,
+eu faço eu escrevo,
+só ai,
+mas eu viveis ráula,
+eu gosto de escrever
+e,
+não comprimí Right ценado
+o Cruis,
+os exercícios assim.
+Eu consigo pegar
+os exercícios
+unk positivos.
+Aqui eu uma
+coisa de светra um
+weightอง para uma różra
+des envelope inflation karaoke
+no copico minha
+guardia,
+e fora o tempo assim.
+Não é nada assim.
+Estrafam watching
+cognition.
+É tudo
+não gou,
+nem do lying
+não é,
+por exemplo,
+não é,
+mas Probably
+não.
+Para ficar
+No colégio, era boa e matemática, era boa coisa, estava muito.
+A ponto de fazer tanto aquilo que depois ele realmente entra na turónea,
+sua cabeça, é assim, meu modo de aprendizado.
+Eu queria saber como é um deve conseguiria fazer mais exercícios assim,
+sabe o que você não precisa dar uma ordinar, mas o exercício não é me escrever, sabe?
+Então, eu não compara essa outra sempre fácil,
+como foi aprender de você se sair de dirigir?
+Sei.
+Então, como foi o que você ia fazer?
+Bom, então, eu te vou estar na verdade.
+Como que foi para você ir com esse?
+Foi, é que, o que eu tenho até medo quando eu peguei com o meu modo de fazer,
+eu ficar naquele que eu tenho algum irmão aqui, não marca a massa que você está,
+é que eu comeca a você dar a massa que eu vou estar, que eu vou me perder e morrer de medo de
+estancar uma mala dêra, mas foi aquela coisa, foi andando caindo, caiu um pouquinho também,
+eu vou fazer uma mala dêra e a gente diz em rosa.
+E aí você não quer, é um processo também, porque é um processo aí, beleza?
+Como que eu posso praticar?
+Para ficar importante, se você só bom aprender,
+fique saindo realmente assim de limpo, portáveis, praticando, mas como fazer isso?
+Eu recomendo projetos, pessoal, mesmo.
+Então, pois eu vou gerar, vou para você ir inclusive o termo de postfolio para o futuro.
+Então não, não é ensalhamente, pode fazer o projeto no nível de se me regulhar,
+passar um tempo anda de canlo para botar o seu postfolio ainda.
+Mas a pode ser algo que no futuro você pega ali, por não vou usar,
+a esporta de partida aqui que eu já fiz e vou criar um queis que não pode for,
+eu partei daqui.
+Sim, então, o final, onde, acho que é a dúvida que o maior interção da RT é,
+onde eu posso conseguir dar os legais para fazer isso.
+E aí, eu sempre falo do que é, pessoal, eu tenho muito queigo.
+Eu vou até mandar aqui no link no chat, mas depois, se vocês olhem lá,
+é muito legal que é, eu tenho uma parte só de data setes,
+que vocês vão se avim baixar os contes de dados,
+ele é gratuito para fazer com o talar, sempre.
+Se você consegue baixar os conjuntidades e a vida que você pode procurar com o tempo.
+Eu sempre recomendo, então, em fazer algo que você gosta.
+Então, se você gosta de posto, quais a avançana vai se posto de segurança?
+Vai no queigo, por exemplo, por eu porém, não dá essa a curração,
+não é?
+Ao tempo que você gosta, na sua vida pessoal, Filme, Cé, Viagem,
+Sport, Saúde, dação, qualquer coisa, cara, tem ele.
+Então, e eu recomendo mais, porque eles tornam processos muito mais lá.
+Então, às vezes, fazer, eu não gosto de não, não é pelo gosto,
+mas eu sou muito lego assim, mas é claro que não sei.
+Então, uma coisa que eu acabei, pela vida acabou com o nome,
+não consegui descar muito tempo, eu tenho que acabei conservador
+no mesmo instrumento, então, quando eu peguei para não ver isso,
+para fazer um queijo projeto, na minha carreira,
+se não sei, eu achei muito muito, muito bem esse, muito chato,
+e depois, quando fui fazer um queijo de seu no projeto relacionado a
+Sports, que é o que eu gosto muito, foi muito mais fácil para mim.
+Porque no fim das fotos eu queria ver, eu estava curioso para ver o portal fazendo e
+por favor mais lá, então, eu recomendo muito seguir por isso.
+Assim, a actually predicona a retraparar com a cena,
+como em casa vai fazer um queijo de algo que a gente até entende um pouco,
+mas até mais em site, por aí, gente entender o conteúdo, sabe?
+Tem um site, porque você meio que entende sobre aquilo.
+Eu até vou trabalhar com conta plidada, tem várias escritórias lá na clá,
+várias empresas lá na escritórias, inclusive já tem uma
+esse pensamento de temas empreta que são mais próximas, minha de um, de um
+de um dos amigos, sabe? Que é uma venda de um salai, assim, já é algo que eu penso,
+não agora, porque agora a gente está muito no comecinho, sabe?
+Eu quero assim, foi uma mais uma base, antes de começar a
+indifatar pedir esses irados a ele, que eu ganhei mais um amigo meu, então
+certeza que ele vai, ele não vai ser o poa, a dar a olhidade, né?
+E realmente tratar com um queijo, e ver como eu quero consigo trabalhar e
+cima daquilo ali, sabe? Eu já tenho realmente... Então, só esperando mais
+que você vai trabalhar com dados reais, né?
+É muito por aí, mesmo. E é, enfim, eu acho que a maior
+de poder de conseguir o dados, mas no que você consegue dar o seu
+de qualquer coisa, e dados reais também, então, enfim, né?
+Eu vou afôs de muito boa, mas as possibilidades são imensas, né?
+É muito bom.
+Eu vou dar uma minada nesse setem, mas é basicamente isso, sabe? Eu
+deu uma transalagora, mas foi que motivos particulares, não foi nada
+com a exáloga, né? Eu contei o do nada, eu vou notar uma
+fata colada, eu perdi uma semana assim, de aula, e então,
+retorno não da agora, até perdi a última aula, a sua na quinta, eu
+acredito que foi, na quinta perdi, não pode sentir mais depois vou
+dar uma olhada lá. Mas assim, assim, pra mim, um custo tem
+mostrado resultado, assim, eu tô entendendo algo que
+foi porque ele motivada e de repente saí, sabe? Foi porque
+ele não poderia correr aqui ali, final de ano aqui,
+contabilidade às vezes, perdemos um pouquinho, né?
+Eu acabei dando um off, uma, uma, a transalda aqui, mas ainda
+essa semana pra tentar finalizar esse, o exprictidor,
+para estar iniciando terceiro.
+Bom, vamos lá, é isso. E aqui a gente vai falar muito,
+diz que a gente falou agora aqui, conversando mesmo, que o
+processo educacional, não nada, na verdade, não,
+ele é um processo, não, justamente pela colher, o
+processo ele não é um evento. Então, se a gente vai aprender
+a coisa, é o processo, não é a evento. E aqui, um desenho
+zinho que eu vi pela primeira vez, eu salo vei, cara, é
+ser muito legal de viver várias coisas que a gente sabe, né? Então,
+que não é a memonovidade, mas pode ser ver isso tudo organizado,
+esse clara não é muito mais fácil. E a gente vai
+finalizar, deu o modelo de aprendizado, que é o que
+você está aqui na tripotência, que se tem o modelo de aprendizado,
+então, se tem os aprendizas, se tem a oportunidade de aprendizado,
+se tem um ambiente seguro para para achar, então, que
+errando ninguém vai jogar vocês, se tem os
+feedbacks dos projetos, então, se tem um ambiente seguro para
+errar e aprender, se tem a incessão de um homem, então,
+se tem o pouche, isso voltando, virou o termo muito, muito
+surado, né? Então, não não hoje não dira um de um pouche,
+mas não vindas com todos o pouche, não. Se você
+não tiver um direcionamento ali, uma coisa séria mesmo,
+mas é uma extremamente eficiente. E o feedback que você
+tem no projeto é que o sistema também, nasceções de
+color, e também que não deixe de ser um pouche, e um pouco
+menos direcionado. E aqui, coisas que vende vocês,
+que a reflexão é revisão, então, isso é nada mais
+é do que beleza, eu aprendi realmente isso aqui, e isso aqui
+está fazendo isso em indica para mim. Eu consigo
+pegar esse aqui no meu contexto real, eu quero seguir
+para qual o caminho trabalhando para o barro, então,
+tudo isso são reflexões e no review de hoje,
+que a gente vai ter dentro caminho. E é na exómpacto que
+é entender aquilo que eu aprendi, como que eu possa
+aplicar para fazer um pouche foi no meu contexto,
+para ganhar essa área de valor da maior amounta de
+aabilidade, onde eu consigo jogar isso que eu aprendi
+nesse empreendedor, tudo isso é analisado o
+o impacto também. E, seguido o próximo passo. Então,
+depois, quando vocês vão botar aqui, então,
+vocês estão no processo de aprendizado,
+como vocês completarem esse processo de aprendizado,
+vocês vão chegar aqui, e vocês vão
+fazer o próximo passo vocês. Tem pessoal que já vai
+ter empregado, tem pessoal que vai fazer
+a sensação de carreiras, tem muita gente também que
+não quer mudar de carreira, mas quer aplicar
+dados, nós, no nosso indústrio, visual no
+pressionário, então, o fim, as possibilidades são
+infinitas depois que a gente tem, e esse
+muestro que tem.
+Quando eu vou vir, lá, lá, lá, lá, lá, lá.
+A área de aabilidade de B.A está bem
+interligada com a narizidade, que recentemente
+surgiu um oportunidade lá na empresa, e eu sou
+uma pessoa cogitada para essa vaga, né, que eu sou
+o filho de mistrativa, seja que é uma boa, eu me
+grava, cara, por exemplo. Então,
+então, eu acho sim, esportando, é primeiro,
+sim, também relacionado. E,
+a segunda resposta é, tem que olhar muito
+contexto, né, porque, algo que eu já
+vivava, já na lista de B.A.
+Eu vou estar nesse por exemplo só
+para finalmente a gente desagualização de dados.
+Eu falo de Power BI, de um fim
+que viu, o tablo, então, tem a narizidade
+se trabalham na NGBI, desculpa, que trabalham
+garantida a desagualização de dados, o
+que é o que a gente, o Pai Nero,
+que me é dos relatórios, e tem a narizidade de B.A.
+Que é mais voltado para a gente da
+que é aí, é um processo que a gente não
+vai ver aqui no último book, que é, por exemplo, que é
+fazer a estruturação de luz, pati lá,
+em estegar o dado na fome, estratar o dado, isso
+a gente acaba fazendo prónguas, mas não, o processo
+de engenharia, né, que é um processo de
+enfim, que é uma desigurança, que o fotografia
+é algo muito mais complexo. Então, cara,
+esse fogo muito voltado para a visualização,
+sim, se for voltado para engenharia de dados, talvez,
+cara, você vai aprender muito a coisa, como a
+população de dados, mas aí existe também
+o empôiocimento porque ela é, beleza?
+Ah, que em dia, acho que é mais
+pra visualização, beleza. Ah, não, então, uma
+da bala, então, tá tudo aqui, inclusive, e
+a gente vai ver muito o mundo nas próximas
+de semanas, também.
+Da, cara, legal, obrigado.
+E eu acho que eu sou um volta
+que é tão, e o valor,
+e eu sou um volta aqui, porque eu puxei a
+uso.
+E beleza, isso é o passapassa
+do processo educacional, mas agora, um
+tempo muito mais, mas tem que me
+passar a passada ideária.
+Primeiro passapassa, quando a gente
+pega a luz nos dados, eu comecei
+tudo aqui, o que a gente viu, mas na ideia,
+é, ela levanta hipótese, enfim,
+que são perguntas coherentes, porque
+o que a gente quer gerar a informação do dados.
+Depois a gente vai prepsesar, que é uma parte
+do preposciamento, é transformar a variável
+escatemgorcos, invariáveis no méricas,
+um exemplo de preposciamento, ajustar o
+tempo, então a gente vai pegar a colondidata,
+que não vai formar a tritidata,
+polonditês, tu quero para a série
+variável no méricas, polonditês,
+porque eu quero para ser ter que não
+quero para ser testa, mas variável no
+méricas, o dinheiro que era para ser
+float. Então, a gente vai ter que
+ajustar o estal, o estipe de variável,
+também a gente está a azorar a
+vez no méricas pros civiles sociais,
+então, o tipo pode ter que criar
+novas informações, a parte de ter que
+já tem, pera uma proporção, que
+tem que ser as nossas dados, e ter
+ser o passo baseado ali nas perguntas,
+que a gente criou no passo 1,
+a gente vai escolher as visualizações
+apreada a propriedades que a junta
+a gente chegar nas as pós-me. Então,
+a gente vai criar gráficos, criar visualizações,
+fazendo provando os nossos pontos,
+e que respondam as perguntas que a gente criou.
+E a gente acaba aqui no 4, a gente
+fica voltando em 8,1,3.
+Então, a gente gera visualizações,
+a gente queria novas perguntas,
+a gente já uspudado a gente a profunda
+na visualização, então a processa
+é muito iterativo, né?
+A gente vai usar muito essa palavra,
+que é um mundo do desempenho,
+e terá, e a legal fixar,
+que é muito isso.
+É um processo de bem-vain, né?
+Porra, a gente chega a levantar as
+hipóteses, a gente não vai conseguir
+ter todas as informações que a gente precisa
+para entender o que o índida
+desafuçou, olhando a gente cara.
+A gente vai ter que botar a monamás,
+vai ter que mexer,
+vai ter que ajustar, vai ter que dar um gráfico,
+vai mais geral, para depois
+isso é profunda,
+então é um realmente um processo,
+e é o que vocês vão tomar muito
+como um combina natural depois,
+pois isso é difícil escrever isso,
+mas é o processo de cara,
+de saindo sim dos dados,
+e, bem-vulhando,
+e abrindo ali,
+entendendo tudo,
+criando os outros também as ferramentas,
+de data-vis,
+para conseguir chegar nas respostas saídas.
+Também nesse caminho,
+acaba que a gente não indifície
+a variáveis inúteis, né?
+É que são variáveis que não vão influenciar
+para quem a gente quer do modelo,
+para porque a gente quer criar como painel,
+de bair,
+porque a gente falou ali também,
+então, algumas vão influenciar muito,
+e outras vão influenciar nada,
+então a gente pode identificar o que é lixo,
+que é realmente porta,
+e é músico ali na realidade,
+que é quando,
+ela, que nem já falou ali no gráfico da
+numpura relação,
+quando elas tem uma correlação muito maior,
+então elas tem uma músico ali na realidade,
+mas também,
+eles pode acontecer entre duas ou mais,
+que é como várias duas ou mais variáveis
+às crenzerem a mesma coisa.
+As trases em uma mesma coisa,
+mas elas traseam mesmo valor em times de formação,
+então a gente for pensar assim,
+é,
+o limite de crédito,
+e renda,
+são duas variáveis relacionados,
+a maior e das vezes assim,
+porque maior renda de uma pessoa,
+maior o limite de crédito dela,
+então,
+sai sentido no meu modelo,
+levá as duas,
+cara, depende,
+pode ser que você é um contexto,
+as pessoas,
+deixa eu só,
+se ligar aqui, ou,
+ou pode ser que você é um contexto,
+as pessoas têm um dificuldade,
+com limite para ir,
+porque então, com mais grande,
+muita acabo ter um limite baixo,
+então, você tem que entender,
+se você é um contexto,
+elas trasem o mesmo tipo de valor de informação de game,
+porque a gente está tentando falar,
+e, por fim,
+no vale base,
+e as vezes o mesmo que você está a gente de potas,
+então, a gente vai ver isso aqui,
+nas primeiras bata,
+então, é criar ali uma base estatística,
+provando o seu ponto,
+com base nas perguntas que você refinou,
+o que é o longo do caminho.
+Então, aqui parece muito,
+muito complexo,
+olha, naquele que não tem,
+mas a gente vai ver com a processa,
+que acaba sendo muito amplitiva.
+Agora, então, aqui,
+em visualização de dados,
+visualização de dados,
+da televisão,
+assim,
+elas revelam propriedades
+visualmente,
+então,
+então,
+de trás vão visual,
+são os gráficos,
+basicamente,
+e a gente consegue trazer
+grandes cogimentos de dados,
+e em uma sua tela,
+em uma saimagem.
+Então,
+com isso, a gente consegue transmitir o valor,
+realmente,
+no que a gente fez nas nossas anagens,
+então,
+ela é como se fosse,
+eu digo sempre,
+com para sempre o data-vis,
+com a apresentação na cuidulária,
+por isso,
+porque você vai me assistir a facelhamento.
+Então,
+eu vou dar uma boa importância,
+demais,
+e muitas vezes,
+sabamos para eu ver,
+não é possível,
+mas o ponto é o sabor e não a apresentação,
+mas a apresentação,
+olha o extra,
+é onde você ganha,
+é,
+é,
+eu sei realmente,
+que é,
+é um diferencial,
+e mais aqui,
+em um data-vis,
+além disso,
+é onde a gente,
+quer transmitir,
+realmente,
+que a gente fez,
+para pessoas que não são familiarizadas,
+com a responsabilidade técnica.
+Então,
+na dieta,
+é uma nariz,
+em parte,
+eu chegar a voltar ao poge,
+que falar,
+a gente fez isso aqui,
+botar o eio,
+o print da tela,
+não, cara,
+que não é um braço,
+tem que transmitir
+a forma mais visual,
+a pessoa,
+que não tem a minha habilidade técnica,
+você,
+e também,
+é,
+o história,
+é, o valor muito mais evidente,
+então, aqui é uma frase,
+eu estou muito,
+essa é uma imagem,
+várias mais do que meu palavras,
+então,
+uma imagem aqui,
+no,
+uma imagem bem estruturada,
+vale mais do que,
+mil palavras,
+ou,
+parece que eu vou coachir a sua estirada.
+Então,
+uma imagem bem estruturada,
+vale mais do que,
+é,
+o print,
+ou um código,
+que,
+a maioria dos usuários,
+não vou ter capacidades,
+e também,
+às vezes,
+não vou ficar até assustados, né?
+Beleza,
+os tipos de dados,
+a gente vai trabalhar agora.
+A gente está muito concentrado,
+por enquanto,
+nos tipos de dados estruturados,
+e são as tabelas,
+as tabelas,
+a gente vai expressor,
+mas as tabelas podem ser data frames,
+também,
+mas vamos para a frames,
+a gente fala,
+a gente vai chimpar,
+então,
+já,
+também tem data frames,
+mas data frames,
+a no mais autique,
+esses objetos tem a amazena,
+tá, beles.
+Beleza,
+também,
+outros formados de tabelas,
+a dinâmico,
+vai ser o da pressentada,
+então,
+sempre para atricações,
+que tem,
+a gente se não tem para a real,
+mas é basicamente,
+a tabela que vai ser a televisão
+inter-porreal,
+e,
+mas também,
+a gente tem os dados,
+não tabulados,
+que são,
+por exemplo,
+jáizão,
+o que a gente falou,
+jáizão,
+o que a gente falou,
+jáizão,
+a gente tem a televisão,
+aqui,
+a televisão é,
+e pessoal trabalha,
+você não está,
+também vai ser mais,
+a televisão,
+mas, enfim,
+aqui a gente tem,
+os,
+como datos que são tabulados,
+eles não são propriamente Bigla,
+então,
+eles podem gritar a tabela,
+e eles podem pegar
+esses formados aqui,
+ou esses três aqui,
+e jogar,
+para formar de tabela,
+mas eles propriamente não são tabulados.
+ele vem pro nada mais é porque eu me estringo com o amensado que a gente tem que tratar
+uma grande grande estringo, não estringo em gigante, a gente vai ter que tratar então o campo que
+estuda o tipo de dados de texto é ennp, é processamento de linguagem natural
+natural, natural language processos é um área de pesquisito também gigante e alguns
+exemplos aqui em meio os revisões no produto mensagens de WhatsApp também são tipo de dados
+turístos são tipo de dados por ríquilo, são tipo de dados tudo isso são tipo de dados e também
+a gente tem hoje de juste que mais tem evoluído ao divisor em mais tudo isso está relacionado
+a visão computacional então é um que é muito aplicado em nosso cotidiano por exemplo ali
+o sensor de facial quando a gente vai nos portarizamos os portarizos já tem isso
+mas o sensor facial ou o sensor do dedo tudo isso vai em um computacional porque
+eu sei que você não faz algo que ele faz, ele tiram a foto da sua cara ele capta esses pontos
+aqui em gração de sombra cêria entre seu olho e a todos esses pontos aqui não
+se todos esses pontos ele média essas distâncias e ele compara por que ele tem para definido
+de liberação para você e isso na no mais é do que treinar um modelo matemásticamente falando
+é uma matemática, gymidias estâncias e tratar isso enfim, eu já vou entrar não que eu vou
+não querer entrar na parte da sensidade porque a gente vai ver se lá para frente não
+temos clientes e visual computacional mas tudo isso está na mais é porque pegar uma
+imagem joga ela para um formato de número e tratar isso e a gente consegue tratar
+isso formodados e outro exemplo também é por exemplo o aplicativo o GPT
+hoje esse funcionário falar para ele e ele traduz para testa então ele tem uma tecnologia
+que tem chamo texto e o SPIT TPS e o SPIT TPS é o contrário SPIT TPS e o SPIT TPS é quando a gente fala
+e aqui eu ouvir um texto então ali por exemplo a gente fala que no google agulgo a Alexa
+escreve para mim, a prejão tem para o WhatsApp, vai lá e escreve então a gente passou
+os cursos para o texto e o seu contrário também pode passar do texto para o discurso que é mais
+de repente também já faz isso aqui uma voz falando texto que você quiser
+você a gente vê muito aí aqui a gente falou muito da visão computacional
+esse tipo de dados trabalha com imagens textos, audio, vídeos tudo isso também são dados
+siga tudo aqui por um paga e por que a gente deve para processar os dados né
+aqui o menos então deixava em claro né o que a gente tem quando os dados são messa
+né né se é bagunçados e desordenados né então quando estão bagunçados desordenados vai acontecer
+e a gente vai esperar um bordinho desse e vai sair esse franque a gente tá aí aqui
+então é uma lógico quando a gente tem dados organizados e bonitinhos eles vão sair bonitinhos
+também e quando a gente tem dados feios vai nosaz e a gente não vai conseguir fazer uma coisa
+é muito diferente disso e aqui isso justamente isso que a gente falou os dados no mundo são
+os cursos e eles não entraram nem um galô se eles foram não foram para processados e aqui é uma
+máximo que você quer uma das maiores verdades de arba-gim em carba de alche às vezes do problema
+não vai ser propriétios dados mas a forma com eles são coletados então às vezes você tem
+um usuário que preencha um formular e sempre errado cara às vezes o problema ele sempre é
+preencha errado mesmo pra você não dar um treinamento pra ele você não preencha ele não vai
+aprender o que você não falar na configuração dá um jeito tá imputando e definir uma
+regra que ele não pode emputar se não for de tal jeito ele não vai fazer a pessoal de vendas
+então os em muito isso pessoal não preencha os campos então não sei qual é o corpo de filho
+o cliente cara se você não botar com o abriador pra ele preencha ele não vai preencha então
+tudo aqui eu na garba-gim garba de alche se eu tenho com os meus dados com três
+colomas três aliários eu não vou conseguir fazer um motor a balha eu preciso de
+informação então aonde entre eles está visto onde entra coisa boa sai coisa boa então para
+processar a estabula organiza e processas nossos dados e ali que a gente começa a criar
+balú no que a gente tem coletado e alguns as reto aqui de sujeira né então o que a gente
+pode ter dados em complexo então aqui eu salário um valor em branco então que
+valor em branco a gente pode ter dados em consistentes um exemplo de dar
+em constantidade menos dez ninguém tem menos dez anos manda dar com de
+nascimento de 21 do 12 do 1225 então é um alta chebe a nojada que é pouco
+mais uma vez eu tenho laughs que esta uma vez você for
+e vamos puder esse corpo peròического venta de água até Erica
+já que eu sou uma fatracloud já apesar de umapta de a 돼 ia que vita
+a que será tranquilo lá stereo muito do aqui teuédio também não eu poderia
+ficar cooling óleo marinho esse Leon jack Bieber Taylor a pes semana
+os tipos de sistema de oeiro e executou duas vezes, as vezes a pessoa cada
+acentada a aplicar no sistema, enfim, em nome das possibilidades para mais
+um dado aplicado, enfim, isso é negativamente nas nossas anagens.
+E por fim, e é o que a gente vai começar a ver a partir da próxima
+experimenta, os asas asas que a gente faz no pré-proçamento,
+então a gente vai começar a dar uma pincelada na lojinha, então é feira.
+Tratamento de valor de soltantes que eu também tive, verificações
+valores do aplicado, os irmãos som deles, tratamento de ótis, lembre a gente
+não aplicela no solt腸, essa forma do ano de ano.
+É, sobre o Vortos, sobre o estogramo, e explorar os dados em busca de
+impossistências.
+E aí, isso é um processo diferente da idea, né, idea, é onde a gente
+realmente queria usar sites, faz o test atiz, mas no dados podem
+acontecer em consistência, igual a nós falou, é um dado as suas
+nascimentos futuras, uma idade negativa, então essas coisas que a gente
+vai ter, porulhar, verificar e tratar, e ninguém vai avisar a gente,
+a gente vai ter aquilo, olha, muitas vezes.
+Porque, que nem a gente falou, no mundo real, é os dados são
+só bem mais surgidos do que a gente mais luna.
+E pessoal, quase 10 horas aqui, por hoje, é só, acho que deu para
+ter uma boa ideia do que vai ter pela frente, conseguindo
+começar um pouquinho aqui sobre o carrer, também, sobre o
+futuro que vem nesse bot de quente, e encerlamam muito sobre
+pensamento de prepossamundidados, sobre a idea, vamos começar a falar sobre
+data-vista, não é em breve.
+E é isso, finaliza agora os pintos dois, é importante ver a gente
+aqui essa base que a gente criou, está apavimentada e agora vai
+começar a partir de ventilo.
+Então, é isso boa, hoje, pessoal, está aqui ainda e até
+interfeira, veja vocês lá.
+Vamos noito Bruno, a primeira pela aula.
+Vai ver, eu vou lá no mundo, tá ali, eu te achar.
+Boa noite.

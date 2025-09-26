@@ -1,0 +1,1093 @@
+B ocela
+acabou assim
+inho na tal
+Tudo mundo já com a família, reunida para a gente se indiano ou não, ou
+as versasinho também, com o PSA vida.
+Esporta gente a gente passar a fim de ano com o Espírito de Natal, pensando em que a gente gosta.
+E também fazendo com a gente que é para o nosso futuro, porque não, também, falam um pouquinho de dados.
+E hoje, a gente tem o nosso último último book aqui, do último desculpa atividade prática.
+Da Esprint 3, então a gente vai seguir hoje, principalmente na manipulações de dados avançadas.
+Então, a gente vai fazer atividades para as reservas sonadas ao que a gente viu na loteórica de que interfere.
+Então, na que a gente tem a gente viu a gente fez uma loteórica, a gente falou bastante sobre manipulações de dados avançadas.
+E hoje, a gente vai trazer elas na prática.
+Então, a gente vai fazer essas manipulações de dados.
+A gente vai novamente usar aquilo colab, vou até ligar ele aqui, para a gente usar o longo da aula.
+Então, aumentada.
+E aí, daí hoje, eu usalpando os que a nossa principal ferramenta de manipulações de dados ali, adorando um pai,
+que a gente vai fazer algumas operações com ele.
+Mas também, eu vou mostrar para vocês uma forma de indicar a regardados, que a gente vai usar bastante que não go de tempo.
+Com o C-born, então, que é o C-born.
+O C-born é uma biblioteca para análise básicamente estatística de dados.
+Então, ele também tem também gráficos, mas são gráficos mais voltados para análise estatísticas.
+Então, ele é construído em cima da gente pode livre, mas ele traz uma análise estatísticas ali,
+visuais já voltadas para análise de dados.
+Então, essa é uma vantagem do C-born, e ele tem um método dentro deste lado, de data set, que ele já traz da data set carregados.
+Então, isso é muito bom, e são data set bons para a gente mostrar.
+Eles estão a gente as manipulações avançadas, que a gente vai trazer hoje.
+Então, aqui, primeiro passo, vamos rodar isso.
+E a gente basta trazer, longe da data set, a gente passa para a gente stringe com o longo data set, que a gente tem.
+Então, aqui, a gente tem um parâmetro de chips, que é a Prundata set de gorjetas, o parâmetro.
+Se a esse que é a Prundata set de gelo e para o método taxis, que é para um data set de viagens de taxes.
+Então, vamos ver como é que fica cada um desses, que é o três-seguimento que é o meu rapigenco.
+O de gorjetas, que a gente tem total da conta, uma coluna de gorjeta, o sexo masculino feminino,
+o seu pessoal é fumante ou não, o dia da semana, na esçã, deimanda em inglês, o tempo, na era moço, o café da maior gigantar.
+O tamanho, provavelmente, era número de pessoas na mesa, e é isso que tem aqui no gorjetas.
+Vamos morirado no info, não tem nenhum valor faltante, aparentemente, são uns uns uns 44,
+colunas, uns 44 linhas, então, a gente tem aqui, uns 44 linhas de gorjetas.
+E, é isso, né, a gente tem 4 variables categoricas, boas variáveis, por último, uma variável inteira,
+que é aqui, noiro de pessoas a inteiras, por último, são total da conta de gorjetas, e as categoricas são essas quatro aqui.
+Em beleza da molyada, no describe, aqui a gente tem o total da conta, né, a média de 20 dólares, por conta,
+uns iupadrão ali de 8 dólares, o mínimo de 3 dólares, a conta mais barata, então, deu 3 dólares,
+com nossa mediana, foi em 17, então, o próximo da média, e a conta mais favorable, deu 50 dólares.
+Ora, falando de gorjetas, a gorjeta média foi 3 dólares, então, ali, de 15%,
+na United States, em 19,5%, ao padrão, uns iupadrão de 18, 8, o gorjeta mínimo foi 1 dólares,
+hoje, é uma máxima 10 dólares. Então, aqui, o tamanho, né, o saiz, o quantidade de pessoas,
+a média, 2 pontos, com 66 pessoas por mesa, quando os iupadrão de 19,5, ali, o mínimo era 1 pessoa,
+o máximo era 6 pessoas no mês. Então, beleza, agora, vamos ver o taxi, acho que a gente não tem ele aqui,
+vamos mostrar carinha dele. O taxi se é esse aqui, então, a gente tem a data da...
+E a pessoa foi pega a data da entrega, na data que ela foi que chegou, no mês de passageiros,
+a distância, e per... é o custo daquela viagem, tipo, gorjeta, toça, no ingresso,
+onde o tuputarífas adicionais, total, né, o valor total, somando esses 3,5 anos no maery,
+que o secorro do taxi, o tipo de pagamento azul, na então, a região do bairro,
+né, do que foi a coleto, bairro da entrega, na desculpa, a zona da entrega, zona da coleto, da entrega,
+e o bairro da entrega da entrega da coleto, aqui, marata, então, o índice Bronx,
+tiver que fulsar os bordos, os distritos de Nova York.
+Dando um discréi, me, olha aqui que legal, quando a coluna tá com tipo de data,
+a média, ela traz justamente o ponto, ponto média da data, né, então, dos esses 6 do 3 ali,
+então, aqui, para a entrega, esses 6 do 3, 2019.
+Aqui a gente vê, né, é o mínimo, a primeira data foi 28 de 12, e a última data foi,
+tem um do novo, pela data sim, dá pra ver, que foi basicamente as viagens de...
+março, né, provavelmente as viagens de março, de...
+ouzeais que foram encerradas, ouzeais que até as viagens que começaram em março de 2019,
+a gente tem aqui, para entrega isso também, e tinha o último viagem que acabou,
+em abril, mas é isso, é, provavelmente, são as viagens de março de 2019.
+No último passageiro, dá mais de 1,5,5,3, o máximo 6,5,5,5,5,5,
+provavelmente era aqueles escados maiores, né, a distância, a gente teve aqui distância zero,
+ele, provavelmente, tem alguma coisa errada, né, aqui, mais enfim.
+50% a mediana, aqui, então, 1,64 quilômetros, a média 3,12,
+a gente fica que já tem... é uma instrução, provavelmente, da mente,
+deitas as suas longas, né, exatamente, e aqui, a gente veio 37 quilômetros.
+E o custo foi média 13 dólares,
+os 50% aqui, em nove, 50 e o máximo 150, né, a viagem mais cara foi 150 dólares.
+Então, a gorjeta aqui, máximo 33 dólares, a mínima nada,
+e o total, a viagem mais cara, saiu 100,7,4 dólares no total.
+Então, é isso, né, do taxi, e agora vamos ver o siai, esse, né, bom,
+a gente dá uma olhadinha, ele também, que a gente vai trabalhar com ele também.
+E o siai está um data sete bem simples, o boté de gelo, né,
+o gelão dá até 6 bem simples, ele tem somente a data,
+aqui, a data, basicamente, tem uma linha para cada data, desde 1980 até o finalzinho de 2019.
+E é existente, é, a quantidade de gelo, enfim, de gelo,
+nas perfeícias do mar na planta terra.
+Então, a gente vai ver algum grudo tempo como flutou, então, ele tem somente luz,
+duas colunas, esta data, franho, né, a data, e a quantidade de gelo,
+um planta terra. Então, durante o valor dele, é as 13 milinhas que são 13 mil dias ao longo desse
+tempo, e ele tem justamente a quantidade de gelo, para cada um de de esses gelos,
+a gente consegue analisar o comportamento do gelo, na nosso perfil de mar da terra,
+longo desse, enfim, basicamente, 40 anos.
+Primeiro passo, lembra em que a gente viu como a gente pode usar funções
+para manipular com os notos de dados e automates a tarefa,
+que a gente vai fazer várias vezes. Então, vamos se pouca a gente tem esse data saída de
+gorjeta, e todo mês a gente faz uma manipulação ali, para clasificar o nível de
+gorjeta, né, então a gente vai pegar aqui, criar uma funçãozinho, para dizer se a gorjeta
+é alta, baixo, a média. Então, o que é que a gente vai fazer, a gente vai criar
+a função, chamar de clasque, agurgitas, ela vai receber um paramilito total
+bio, que é o valor total da conta, e a gente vai jogar aqui, se esse valor total,
+foi o maior do que 30, a gente vai retornar a auto, se ele foi entre 20 e 30, a gente vai retornar
+mais, se não, né, o else, que aqui, basicamente, é menor do que 20, ele vai retornar,
+baixo. Então, o que a gente faz, a gente vai aplicar, lembra que a gente botou o
+a gente, que se não como que faz o apply, não vai classificar a gorjeta, que o padrão do
+apply é botar no nível de coluna mesmo, e a gente vai passar a função classificar a
+gente, então, a gente vai criar uma nova coluna chamada nível gorjeta,
+a gente vai pegar a partir do total bio, então, o total bio ele vai entrar aqui,
+e vai ser a gente paramilita para a gente fazer esse classificação.
+Quando a gente fiativa aqui, olha o que acontece, já está classificado o nível daquela gorjeta.
+Próximo passo, agora vamos fazer aqui um abruparamento com as gorjetas,
+para ver como que elas compota uma um dos dias da semana, a gente tem aqui o dia,
+a gente botou o velho grupo a gorjetas, na das nossas outras pessoas,
+um gata frame com o jeito, esse tipo de velho grupo a pude, e não agregador,
+a gente vai pegar o total da conta, e do total a gente vai pegar a leção de
+lapação ali, se você vai pegar a média e a soma, e na gorjeta de tip,
+a gente vai pegar a soma, a contagem e a média. Então, olha essa
+clagal, a gente vai pegar a média e a soma do total bio, olha aqui,
+pude da semana, olha, pode ver que é uma gente no sábio de um domingo,
+as imagens das gorjetas são maiores. E a soma está lá,
+a gente pode ver que se esta feira, é o total,
+eu desculpa, o total do dos gorjetas, não, ele é maior,
+aqui a gente vem pela média, não sábio de um domingo, as gorjetas saem de
+277, vão para 2,993, 25, mas essa acontece também,
+porque as contas ficam as caras no final de semana,
+e a gente vê que pelo total, 87, 36 no final de semana,
+e 62,99, bem menos o volume, nos dias que não são final de semana.
+Então, aqui a gente já conseguiu fazer um agrupamento,
+e se a gente quiser se fazer um segundo agrupamento, eu poderia vim aqui no grupo P.
+Então, eu vou agrupar além do bem, eu vou botar por
+time.
+E olha o que acontece, ele agora pega por a moça e jantar,
+em um sábio da parentemente, não funciona o promosso,
+quando tem nenhuma entrada, a gente já descobri isso aqui agora.
+Mas a gente pode ver, eu quer se contas, do amor,
+vou sopar a gente mente na sexta,
+eu sou bem mais barato do que eu jantar.
+E na terça, bem parecido, apesar de só ter uma entrada aqui por jantar,
+então, estranho, que tem um jantar, um uma entrada por jantar na terça.
+Mas enfim, a isso que a gente consegue fazer com o web de pomens,
+a gente pode passar aqui dentro do grupo P.
+O que a gente quer botar no agrupamento,
+e seguir a gente faz o agregador,
+e mostrar o que a gente quer levar no agregador,
+e quais as funções que a gente quer levar para ela.
+Então, a gente dá a pica na média,
+e a soma aqui é a soma contagem a mente,
+para cada uma dessas duas columnas, chip e total bem.
+Em seguida, vamos passar agora por função exlando da...
+As funções lando das permite,
+que a gente viu aplicar operações simples em uma linha de cor,
+então a gente consegue definir funções sem o def,
+sem a palavra de escada def,
+então a gente consegue definir as funções em uma linha de cor,
+e a gente vai fazer isso aqui,
+não só uma, por exemplo,
+aquelas três columnos no mérito que as lados taxa,
+a gente vai somar em um só,
+como que a gente vai fazer isso,
+a gente vai dar uma plai,
+e a gente vai, novamente,
+a plai a gente dá para a funções,
+só que a gente vai definir a função dentro do apply,
+então a gente vai jogar um âmbida,
+então para cada linha,
+a gente vai somar o fér, o chip e o tos,
+e aqui a gente vai passar um áxis igual,
+porque a diferente do que ele lá,
+a gente é precoa, a nível de cor,
+não é que a gente vai aplicar a x-1, a nível de linha.
+Então, com isso, olha o que acontece,
+ele vai pegar por que por si é que se eu Zoom ele nem difícil que a linha,
+e faz a soma desses três columnos,
+gerando o somo total viagem,
+o que que o somo total viagem em vira,
+ele vira uma série com o somba da total,
+soma total viagem para cada linha,
+então a gente vai ter que ir,
+para cada linha a gente tem o somo total daquela viagem,
+então basta depois atribuir isso,
+a nova coluna chamada a soma total viagem,
+aqui era o nosso determinante frem, perfecto,
+e com isso a gente consegue adicionar ela,
+outra coisa aqui, por exemplo,
+a gente vai pegar e vamos aplicar, por exemplo,
+como a gente pode usar dentro do índice em filtro,
+aqui a gente vai aplicar um filtro,
+eu posso colocar o apply,
+o lâbida de x, x igual a marata,
+então dentro do aplicar boro,
+eu vou aplicar o apply para pegar x,
+o que só que foi uma rata,
+então aqui eu consigo filtrar ela,
+toda vez que o nosso data frem também,
+esse é um outro modo de fazer afiltragem,
+e aqui ele vai vir, por exemplo,
+ele veio três, porque a gente deu a reestrei,
+mas tem, provavelmente, mais de índice em marata,
+mas essa ideia,
+aqui a gente pode pegar a coluna e aplicar dentro dela um filtro,
+para justamente pegar o valor que a gente quiser.
+Seguir a gente pode também criar uma nova coluna,
+lembra do filtro indirir,
+que a gente viu,
+a gente pode também fazer isso,
+aqui, no caso, não enxerga a ser fatim indiria,
+e está muito mais agitando,
+aqui, apenas, a gente vai basicamente traduzir.
+Ó, a gente vai aplicar para cada linha,
+se o pagamento indiria,
+a gente vai criar o valor vai ser pagamento indiria,
+se a linha foques,
+se não pagamento de cartão,
+são essas duas falsas, tem um anjero e cartão,
+que eu acredite de cartão,
+e que é isso.
+Então, a gente vai botar o foques,
+ele vai virar pagamento de e-mail,
+se não vai virar pagamento de cartão.
+E com isso, a gente consegue aterar
+todas as colunas lá,
+então aqui o lábida,
+e pode julgar bem em versátil,
+para fazer essas operações mais simples.
+E agora, acho que,
+em das partes mais legais da aula,
+vai trabalhar aqui com o Indofunction,
+funções de janeu,
+então, a gente vai usar a média móvel,
+o ranking, comparação,
+vai ficar bem claro,
+usando o data set Gil,
+então, que nem ele te viu,
+o Gil, ele é o data set de 40 anos de distensão
+da o Gil, la camada da superfície do mar,
+e com isso,
+o Gil já era valor,
+é a série histórica,
+ao longo tempo,
+ele tem 40 anos de formação.
+Mas, o primeiro coisa,
+a gente lembra da média móvel da pandemia,
+ali para ver,
+nos últimos 90 dias,
+qual é a média móvel de casa?
+Aqui, isso, com a média móvel,
+basicamente, ela segue,
+para criar um entendência,
+mas,
+é,
+podemos dizer,
+se mais robusto dos dados,
+e quando eu tô olhando 90 dias para trás,
+eu tô pegando um histórico bem,
+mas,
+robusto do que é um indudio,
+ou uma semana,
+perfeito?
+Então,
+é, com isso, eu consigo analisar,
+será que tá subindo,
+será que tá desse ano?
+Porque é dependendo do restado de ontem,
+dia de ontem,
+pode ser que tem um influência ali,
+mas, quando a gente olha no vento de as patrais,
+acaba que fica,
+é o peso maior,
+porque realmente tá acontecendo
+nesse período de 3 meses.
+Então, aqui, a gente vai fazer a mesma coisa,
+na média móvel dos 3 meses,
+para a colombia de extenshete,
+certo?
+E a gente vai botar
+os a fazer isso usando o metro do rol,
+então, a gente vai pegar a gela,
+a extenshete, que é essa colunque,
+vai aplicar o metro do rol,
+como a janela de 90 dias,
+pegando a média, então,
+a gente se guide botar o agregador,
+e a gente consegue,
+a média.
+Em seguida,
+a gente vai fazer,
+para o rânsque,
+o rânsque com o metro do mínimo,
+ele faz exatamente
+um rânsqueamento de cada linha,
+ou seja, dentro das 3 milinhas
+lá do data frame,
+em que lugar em que posição rânsque
+literalmente,
+tá aquela linha,
+e aqui, quando a gente bota mim,
+ele vai do,
+o menor,
+é o primeiro rânsque,
+ou seja, que a gente vai menos gelo,
+vai ser o primeiro no rânsque.
+Então, olha como a técnica fica aqui.
+No começo aqui,
+a média móvel,
+tem valores no uso,
+porque, naturalmente,
+não tinha noietadias ainda no história,
+certo?
+Mas a partir daqui,
+a gente pode ver,
+na colunque no botar,
+que não ventei um,
+assim,
+se eu pegar aqui,
+o do 80,
+sim,
+realmente,
+não vai ter,
+aqui,
+então, a gente pode ver a partir do dia 89,
+que ele já tinha no meu
+tedeza no história,
+que ele começou a consolidar
+a média móvel.
+E que me a gente viu aqui,
+rânsque,
+é justamente que posição,
+no rânsque,
+das 13 mil linhas,
+tá,
+é aquela linha.
+Então,
+é isso que a gente consegue ver,
+a gente pode ver que os dias atuais,
+eles estão
+um rânsque bem menores,
+ou seja,
+tem menos gelo,
+aqui,
+do que os dias anteriores,
+que estão bem lá em cima,
+próximo do dos menores,
+dos menores no rânsque,
+que me não é só dataçais.
+Outra coisa que interessante
+é fazer uma comparação,
+botar uma comparação dentro
+da mesma linha.
+Então, aqui com o extente,
+quando o boto shift 30,
+ele pega,
+qual que era aquele valor,
+do seja,
+da colunque extente,
+30 dias atrás,
+aqui o padrão,
+ao indo,
+na janela,
+é 30 dias.
+Então, com isso,
+eu consigo fazer comparações,
+ter feito,
+olha aqui,
+no começo aqui,
+claro,
+não tinha 30 dias para trás,
+mas aqui,
+eu estou olhando aqui,
+eu tinha 12 mil,
+quando eu olho 10 dias para trás,
+desculpa.
+30 dias para trás,
+porque a gente botou para
+30 aqui,
+a gente tinha 10 mil,
+que é 42.
+Então, com isso,
+a gente consegue comparar
+a item de ideia.
+Então,
+eu consigo inclusive fazer
+uma coluna aqui,
+de comparação,
+na conta que cresceu,
+os últimos 30 dias cada
+menino.
+E a gente pode fazer
+isso,
+claro,
+nessa gente estava
+de usando 30 dias,
+a gente pode fazer
+uma também,
+por um ano anterior,
+então,
+que a gente pode criar uma coluna
+para ver,
+quanto que estava no ano anterior,
+ou seja,
+naquela mesma data,
+no ano anterior,
+quanto que tinha de jeito,
+porque,
+aí,
+quando a gente compara
+ano,
+a gente já está
+matando o efeito
+sazonalidade com corno,
+porque,
+se eu analisar,
+beleza,
+está frio agora,
+mas pode ser que está frio agora,
+porque,
+é,
+de exemplo,
+mas não é,
+sinceramente,
+está frio igual,
+estava em,
+de exemplo,
+de ano passado,
+com corno,
+aqui também era
+um veno,
+enfim,
+então você consegue
+ver essa comparação,
+é,
+com base no período,
+está frio agora,
+em exemplo,
+mas eu comparar com o julho,
+com corno,
+que não é o comparação injusto,
+porque são,
+estações diferentes,
+então essa comparação
+que a gente chama de ano,
+contra ano,
+ela é muito legal,
+e às vezes mais robusto,
+do que a comparação
+meio escontranana,
+eu escupo meio escontranês,
+que a comparação meio escontranês,
+se está pegando uma tendência,
+de crescimento,
+ou redução,
+mas recente,
+mas ano contra ano,
+seja como essa tem um história,
+tão robusto que eu
+quando você é comparar
+a sazonalidade,
+do seu coge em de dados,
+a gente pode ver aqui,
+quando a gente pega comparação
+no contrano de 2019,
+é basicamente todos os dias
+estava menor no ano anterior,
+então,
+ouvi uma redução
+no julho na camada das perfísse de até.
+Outro ponto aqui,
+agora a gente vai começar a trabalhar
+com datas e horas,
+a gente viu aqui,
+que a gente consegue fazer
+a parte da analis sazonal,
+quando a gente tem as datas
+bem organizadas aqui,
+então aqui,
+com o shift,
+a gente conseguiu compar o jiu,
+ano contra ano,
+e agora a gente vai fazer
+uma manipulação
+dos dados naquele coge em de taxes,
+então,
+vamos voltar aqui para ver os cogemultivos taxes,
+a gente tem aqui a data
+da coleta do passageiro,
+ao 20 de 20 de 19,
+e 20 de 16 de 24,
+então esse cara aqui ficou 6 minutinhos,
+ali,
+na viagem,
+e eu consigo ver
+o tipo de coluna também,
+se botar taxes,
+fica para o GTIP,
+olha aqui,
+ele já está em 180,
+que é um formato de data,
+então ele já está tudo saixí,
+se botar aqui o GTIP,
+se não dá até freio,
+ele vai trazer todas as comuns,
+então aqui é o DESTIM,
+o GTIP,
+tem um grande porf,
+é exatamente o que a gente quer,
+então, o meuesa,
+tudo certo,
+agora,
+eles já estão em coluna,
+na DESTIM,
+a gente consegue fazer operações
+de data com eles,
+primeiro a coisa,
+vamos pegar o dia da semana,
+que a gente falou,
+né,
+a gente já tecionar essas colunas
+de DESTIM,
+pode ser útil depois,
+para fazer algum analhista,
+a unalhidade,
+você já quer analisar
+a segunda feira,
+a tema da demanda maior,
+ou algo do tipo,
+então a gente consegue ver
+isso, por exemplo,
+beleza,
+vamos fazer aqui,
+a água,
+de da semana,
+então agora vamos ser
+na de da semana,
+o mês,
+e com as duas colunas,
+já estão no formato de STIM,
+quando isso acontece,
+a gente pode fazer
+uma operação de subtração,
+a gente vai pegar o Drop-Off,
+menos o PK,
+que ela entrega do passageiro,
+menos a coleta,
+a gente consegue ver a duração da viagem.
+Olha só que legal,
+depois a gente vai filtrar,
+aqui o TAC,
+seis,
+vai ver as colunas,
+e olha só,
+PK, Drop-Off,
+a gente tem um dia da semana,
+que a gente criou o mês,
+então já consegue criar analisas
+naidade,
+com base no dia da semana,
+com base no mês,
+e a gente tem a duração da viagem.
+Então, que a gente consegue ver,
+aos, podem ver zero dias,
+porque está no mesmo dia,
+mas,
+e não tem 24 horas,
+não é?
+Tem aqui tem bateria 24 horas,
+para dar um dia,
+mas aqui a gente tem a duração,
+seis minutos,
+essa aqui foi mais longa,
+25 minutos,
+essa aqui apenas três minutos,
+então aqui,
+vão ter,
+se chegar a maior,
+ele vai pra cá,
+então ele já dá ali a duração,
+é,
+em,
+no tipo,
+duração no formato de data,
+e aqui,
+quando a gente olha,
+vamos olhar,
+uso de type,
+se de novo,
+agora,
+duração de viagem,
+é no formato,
+time delta,
+esse formato aqui,
+de zero de,
+está,
+está,
+está,
+ele chama time delta,
+que vocês podem ver exatamente isso,
+não é um Einstein,
+ele não é uma estringa,
+ele se encaixa no formato específico,
+que é a variação de tempo,
+esse formato também existe no pão,
+que é o formato time delta,
+por fim,
+agora vamos dar um ano,
+passado pelo Rechap,
+a gente vai pegar aqui,
+o nosso data sete do taxis,
+vamos dar uma mexida nele,
+que a gente pode ver,
+quando tive as viagens,
+a gente pode deixar ele mais longo,
+então,
+a gente vai pegar
+duas colômas,
+né,
+a zona,
+ali,
+a zona do pick-up,
+e o distrito do pick-up,
+e vai chamar
+aqui,
+onde variavo,
+e vamos pegar o valor também,
+olha como a que fica,
+variavo,
+vai virar pick-up,
+e o valor,
+vai virar,
+justamente,
+o dia da coluna,
+então,
+aqui,
+o que era,
+o pick-up daqui,
+então,
+quando a gente pega o
+o valor nome variável,
+o que ele tá fazendo?
+Ele vai pegar,
+e para todas as colunas,
+aqui, cada uma das colunas,
+pick-up,
+drop-up,
+passam até o final,
+ele vai transformar aqui,
+no marinho,
+então,
+para cada coluna,
+do pick-up,
+drop-up,
+você já é para cada data,
+ele vai jogar aqui no valor,
+e vai jogar,
+variável,
+categora,
+o que aqui,
+o nome da coluna vai virar
+uma variável categora,
+basicamente,
+então,
+a gente tirou reduzir no
+número de colunas,
+mas aqui no número de linhas,
+em pick-up,
+a invalhável a gente vai criar,
+aqui ele ficou gigante,
+102 milinhas,
+então a gente tirou,
+saiu de 6.400,
+mas a gente tirou tudo,
+que era todas as colunas,
+botou numa variável categora,
+que não manim,
+e o valor virou o valor que era delante.
+Esse pode ser usio,
+para justamente,
+quando a gente quer pegar
+ali,
+depreendendo formatos que você vai
+trabalhar,
+acaba sendo útil,
+mas,
+da prática,
+mas interessante a gente
+envete,
+é cenário,
+principalmente,
+num da taxa de larga,
+então aqui a gente vai fazer,
+justamente contrário,
+a gente vai pegar,
+esse,
+data set nosso,
+né, do taxis,
+e agora a gente vai deixar ele
+mais longo,
+de ver a xalho mais comprido,
+a gente vai pegar o valor,
+vai ser a duração de aviagem,
+né,
+que é aquela coluna que está informado
+do time delto,
+o índice vai ser o
+distrito,
+a coluna vai ser o dia da semana,
+então a gente vai levar aqui em cima,
+e a função de agregação vai ser
+a média.
+Vamos preste as valores
+novos consó,
+mas aqui no caso,
+acho que não tem valores novos.
+E olha aqui que legal como fica,
+os olhos ação no� que você
+esteio bem feita.
+Quem a gente consegue ver o
+puro de estrito,
+dia da semana,
+a duração das viagens.
+Então,
+a duração das viagens em uma rata,
+é bem mais curta.
+Aqui,
+aparentemente,
+não tem diferença entre
+a semana e a semana,
+só na terça-feira,
+acaba sendo mais longo,
+isso para todas as
+estritos,
+aparentemente,
+desculpa todas,
+vem aqui,
+que então dia do trastelado,
+aparentemente,
+dá para ver.
+A gente pode ver aqui,
+o broms,
+aparentemente,
+as durações mais longas,
+que eu tenho que ter 4 minutos
+a gração na área de daviais,
+no broms na quinta,
+uma rata,
+tem as durações mais curta,
+porque é uma rata meio
+que já o centro ali,
+então,
+aqui a gente acaba de fazer,
+isso a gente consegue
+fazer no grupo de bair,
+também,
+mas dentro do grupo de
+tempo,
+na verdade,
+eu vou preparar nada mais
+éto que um grupo de
+tempo que você consegue
+organizar mais fácil,
+né?
+Então,
+é isso.
+E agora,
+os pressões regulares,
+então,
+os pressões regulares,
+só podem relembrar,
+a gente consegue
+extrair
+padrões de columnos de texto,
+então,
+aqui,
+vai dar um exemplo
+bem legal,
+a gente tem a coluna,
+aqui a gente tem a coluna
+drop-off,
+faisam
+a unipe capisônio,
+certo?
+Ela diz,
+basicamente,
+o local que
+que a pessoa pegou
+e o taxa.
+A gente tem,
+por exemplo,
+o rote são esse que,
+esse que,
+em inglês,
+é square,
+square é
+praça.
+Então,
+rote são
+square,
+então,
+a gente sabe que
+você tem um abraço.
+Então,
+aqui, por exemplo,
+a gente vai
+extrair
+todas as linhas
+que têm praça,
+das pessoas que foram
+coletadas em praça.
+A gente vai pegar
+o pick-up zone,
+vai chamar
+a ceça-lives
+tringue,
+o método de stringet.
+E lá,
+tem o contense,
+que a gente consegue
+botar
+um,
+esse que?
+Então,
+tudo que tiver,
+o esse que é de praça,
+em algum lugar da Christrini,
+a gente vai coletar
+como linha.
+Aqui a gente está pegando
+o índice,
+ou seja,
+a gente está pegando
+essas linhas,
+olha só,
+por exemplo,
+a gente vai pegar
+justamente as linhas
+que têm praças,
+vai filtrar no nosso data frame.
+Então,
+aqui,
+todos os linhas tem praça,
+a escuela,
+e,
+olha aqui,
+que legal,
+o esse que ele
+pega justamente
+o que tem esportes,
+escrito
+completo,
+e o que tem
+são a esquena.
+Então,
+aqui,
+o time square,
+pain station,
+by the square,
+ninkos square,
+e todas as
+praças lá de novo.
+E aqui,
+a gente está pegando
+quando a gente
+dá um shape,
+que tem cheasseza,
+um shape,
+a gente haça,
+esse,
+está amanhã,
+daquele data frame,
+vai vir uma
+tuplazinha,
+e
+conta amanhã,
+e tem essa
+de ter 3,
+8 linhas
+e 18 lomas.
+Quando a gente haça essa,
+eu índice zero,
+dessa puta,
+a gente está acessando
+o total de linhas.
+Então, 187, 18 linhas.
+Aqui a gente está pegando
+o total de linhas com praça,
+e aqui,
+o total de linhas do nosso data frame.
+Quando a gente roda,
+a gente fique,
+a gente vê que
+3,65% das viagens
+foram feitas
+de ou para
+praças, né?
+Não,
+desculpa,
+de praças,
+quando a gente está aqui no picado,
+se a gente quiser ver
+do drop-off,
+quanto a 100% das viagens
+foram para praças,
+a gente tem que mudar
+aqui no drop-off.
+Então,
+10,
+ponto 93% das viagens,
+foram para praças
+e 13% de viagens de praças.
+E a gente pode fazer
+esse de outra forma,
+explícitamente,
+usando o regiâx.
+Aqui a gente pode ver
+que o contém
+se ele faz uma
+abstração,
+ali uma facilitação
+do,
+em dar regiâx,
+da expressão regular,
+então ele
+pode botar ele do a forma mais fácil.
+Mas a gente pode fazer isso
+naturalmente também,
+com o regiâx.
+Quando a gente botar ele
+o contém,
+e da mesma forma,
+então aqui a gente pode
+passar o SQ.
+Quando a gente
+passa o
+asterismo,
+a gente quer dizer que
+em qualquer lugar
+da nossa string,
+que tiver um SQ.
+Traga,
+ele aqui,
+ó,
+única diferença
+a gente tem que passar
+um regiâx,
+igual a tru.
+Para a minha regiâx,
+igual a tru.
+E a esse aqui
+a expressão regular,
+a gente que ela é.
+Ou seja,
+em qualquer lugar do código,
+traga o SQ.
+Quando é que o contém
+por outro lado,
+ele já faz uma abstração,
+e ele tem
+que em qualquer lugar
+que tiver de dar
+string SQ,
+ou seja,
+pode ser o SQ.
+Por exemplo,
+ele tem...
+Aqui,
+a gente tem
+e SQ é
+completo na escrita.
+Aqui a gente
+já tirou.
+Mas quando tem o SQ
+é completo,
+aqui, por exemplo,
+muito curado no quino.
+Não, agora já saímos tudo.
+Quem escase a gente tem
+o Rõe de São Esquena.
+Estive as se Rõe de São SQ.
+Ele pegaria também
+porque o que está contido
+nele.
+E para fechar,
+vamos mostrar aqui na prática,
+como funcionou
+atimizações para a Fóxima
+no Pai.
+Combruto,
+é o Num Pai,
+entendo de processamento.
+Aqui,
+vamos criar
+dentro do Num Pai.
+Uma...
+o conjunto,
+na ID$ 10 da Isla Válisext,
+então da 1.000,
+de números aleatorios,
+para a gente volta aqui a Rõe de
+o conjunto de 1.000
+de números aleatorios.
+E aqui, como fazer,
+é usando o liste
+com prevenção do Pai,
+então, naquessa
+quando a gente volta no ímense,
+para cada x
+dessa conjunto de
+1.000 de números aleatorios
+que a gente criou chamado
+ar,
+é leve o x ao quadrado.
+E a gente vai chamar o time
+que é para ver quanto tempo
+demorou em seguida.
+A gente vai chamar a mesma coisa
+para o Np,
+que é a função
+utilizada lado num Pai.
+Vamos ver?
+A�as vezes,
+a questão aqui embaixo está aí,
+vou pagar.
+Então aqui, 10 anlevadas sexta,
+muita coisa.
+Então, o que ele está fazendo aqui no primeiro
+passo é,
+você pode ver que a taxa é tínhatea
+que está aqui.
+Ele está executando um
+onde está executando
+cada para cada número desse
+nosso range de 10 milhões de
+1.000 de 1.000 de
+ocopa ele está elevando.
+É o quadrado.
+Enquanto aqui na segunda
+a gente vê que ele pega um
+num Pai como num Pai.
+Agora, a gente já falou que trabalha
+com operações meteorais.
+Então, ele vai ser
+otimizado.
+Olha aqui,
+aqui a gente vê dois
+pontos tem sete segundos
+para cada loop.
+E aqui 24.4 mil
+segundos, pessoal.
+Então, tem a diferença
+muito grande.
+Agora, a gente volta a
+mil e segundos.
+Olha aqui,
+dois segundos da
+tipo dois
+dois pontos tem sete segundos.
+É exatamente dois mil
+três antes de satenta mil
+segundos.
+E aqui, dirigido por 24.4.
+Então, essa é a conta.
+O num Pai aqui nesse caso foi
+100 vezes praticamente.
+No 27 vezes mais rápido do que
+a operação nativa do
+Pai, então.
+Então, quando a gente faz o vídeo
+com a pressa, quando a gente
+passa a ter uma termina.
+A gente acaba sendo muito
+mais lento.
+E por isso, que o
+pando das eta um rápido,
+porque ele está rodando
+ali em cima do num Pai.
+Pessoal, por hoje é só.
+Depois, a maioria do pessoal
+deve estar passando o natal.
+E qualquer dúvida também sobre a
+aula, só me chamar.
+Mas hoje foi bem tranquilo.
+A gente só fez aplicações
+dos das manipulações
+de dados avançadas que a gente fez
+na...
+Tem que virar o ano passado.
+Então, por hoje é só.
+Fiz na tal para todos,
+para o pessoal que está vendo
+vai ver depois.
+E feliz ano novo também.
+Se por que não.
+A gente se encontra, agora
+a gente vai dar uma pausinha.
+É, do dia 25 de ouro.
+E depois do dia hoje,
+a gente volta com tudo
+ali na primeira semana do ano.
+Já na... no nosso 24.
+Então, é isso, valeu.
+O pessoal, vamos te alchar o qualquer dúvida.
+Só chamar.

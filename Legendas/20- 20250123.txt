@@ -1,0 +1,1544 @@
+hoje vamos fazer nossa primeira atividade prática, então a gente vai estar chance de botar na prática
+alguns com isso mesmo que a gente viu ao passado, a gente falou muito de especialmente
+de prompiti de comando, então ali do terminal, onde começa a trabalhar e tem uma noção
+pouco maior ali, saí-lo um pouco do novo notebook, que começa a trabalhar no nível mais de
+estamos uma aqui na tela aqui do ano, para abrir o chat também, então a gente vai sair do nível de
+notebook, vai começar a trabalhar mais com a ideia de repositório, é que é um contexto que a gente
+está mais integrada ali com o sistema, mas que a gente vai trabalhar, enfim, a gente vai abrir um
+todo um outro, uma outra gama de ferramentas, e aqui a gente vai ter chance hoje faz um primeiro
+para a gente, então tem um gostinho assim, como que é trabalhar, que é um projeto,
+direto usando terminar o para facilitar o nosso trabalho, mas também é utilizando mais a
+noção de repositório mesmo, então, então, quando a gente não vai trabalhar no notebook,
+para a gente, vamos criar a scripts.py, que são scripts impai, então, que a gente vai conseguir
+fazer toda a dinâmica que a gente quer, que dentro da... é uma aplicação, não deixe a
+aplicação, tudo que a gente faz assim dentro de um repositório de ganhe, esse nome mais de aplicação,
+ele deixa de ser um notebook, um script, porque uma aplicação justamente isso, não, fluxo de
+scripts, podando para gerar algum resultado. Então, hoje, a ideia a gente, um objetivo aqui de hoje,
+vai estruturar um projetoinho, para mostrar para vocês como que a gente pode tomar automates algo
+humanálise, então, o exemplo que a gente trouxá a sua passada foi, e se a gente vai se matar a
+minha defa, e que a gente vai se ficar aplicado e toda a segunda-feira é uma análise que a gente fez,
+teria que rodar. Então, hoje eu vou trazer na prática, como que a gente pode fazer isso, né? Então,
+criar um repositório que se espalhem, eu queria uma pasta, basicamente, abrir aqui no meu
+versicou de, então, a primeira vez também que a gente vai ter o contato com o terminal externo,
+com o versicou de... Eu recomendo muito versicou de trabalhar, mas nesse... nesse
+excelente repositório, justamente por isso, é integrado diretamente aqui ao conterminal,
+ele é integrado com as pastas, então, ele faz elito toda essa noção de projeto aqui para
+a ciência e a análise de dados. Então, eu recomendo demais o mais escoude, é possível fazer tudo esse
+não qual a ver, é? Eu não acho book, também, mas não é tão visual e fácil de fazer as coisas
+contaquem. Eu acho que está só um pouquinho pequena aqui, provavelmente, mas vocês eu vou
+aumentar a tela pouquinho, eu estava o uso aqui. Então, é isso, a ideia é mais ou menos essa,
+acho que foi muito grande, já me dá agora.
+Agora, agora, sim.
+Agora, eu sessi, então, e isso, a gente vai começar um projeto atinho, a gente vai mostrar
+para vocês como alguns comandos que a gente fala aqui dentro do Procute, e depois a gente
+vai atomar de sapa. Ela passada a gente, os oldatas a assistida, é nos lados se bom, então, vamos
+aproveitar aqui, vamos fazer um projeto relacionado aí. Então aqui, nós primeiro passo,
+as moqui vai criar uma pasta, então, que a gente está com um direto ao embranco. E aí,
+vamos criar uma pasta, como para criar uma pasta, aliás, deixa eu primeiro mostrar aqui como
+que a gente chegou aqui. Então, geralmente, quando vocês iniciarem a brilha, não sei me
+aqui no vescojo, a brilha uma pasta ou a empolde, que está em inglês, mas tem
+ponto de geiza, você bota aqui, ou contra o carro, contra o outro, também, você consegue abrir
+uma pasta e depois, quando você abre uma pasta, ele se basicamente oposto a embranco,
+ele se seleciona aquela pasta, se já tiver alguma coisa ali abre, mas, geralmente, ele abre
+aqui o terminal, o padrão ele faz esse silencio, o terminal, na pasta que você abre. Então,
+esse é o padrão, a espurar alguma ative, você fecha o atalho, é contra o shift, contra o shift,
+o assento, né, quando desculpa, contra o shift de ascos, quando mais aqui fica mais pra esquerda,
+não ter cala em ponto de geiz, ou mais simples, a gente vai aqui, bota aqui, terminal, no terminal.
+Também é a outra opção, você vê aqui no terminal e ele inicia, né. Aqui, hoje,
+essa é uma receitação de 3 vezes, são terminais, não precisa, não precisa, só precisa de 1.
+E também, aqui, tem outras opções de perfil que a gente pode iniciar. Outra, enfim, outro tipo de
+linguagem que a gente pode usar, o padrão, o índio, os uso palestral, que é, ser linguagem de terminal
+lundas, o linguagem de terminal do lino, que, igual a gente falou, é o bicho, mas aqui dentro do bicho,
+tem uma coisa legal que o GIT, quando a gente está o GIT, nosso computador o GIT, é, por ele,
+se é escrito, basicamente, todo o fácil de estar no pra bicho, ele permite que você adaptar,
+um código que está do, do Windows, diretamente, pra bicho. Então, aqui se é só muda, bota aqui, GIT,
+e ele já gera um terminado pra você, em baixo, que é a linguagem do lino, que sem,
+basicamente, a mesma coisa que é no Windows, só que ele adapta pra lino, que não se pode
+ver aqui, é um pouquinho diferente, ele traz aqui a máquina que eu estou, tal, mas ao mesmo
+caminho, eu estou no mesmo lugar, é só uma linguagem diferente, então ele muda aqui o baixo.
+E aqui, outra coisa que eu tenta também instalar, é o...
+Não é isso, aqui já foi, não é uma estrela que, pra vocês, o bicho, a gente tem aqui o padrão
+do Windows, todo mundo já tem instalar, é o terminado do Windows, é esse aqui o palachão, então,
+quando vocês instavam o emissão dos copo, terminar o lindos, o padrão, ele é o palachão,
+então, aqui ele já vai vir o padrão aqui, toda vez, no vescojo, dentro do palachão,
+que é o do Windows, então, beleza? Aqui, a gente vai deixar só esse mesmo, agora vamos começar a brincar com ele.
+Primeiro, como a gente vai GITAR, a gente vai criar uma pasta do nosso projeto,
+que a gente não tem nada aqui, então vamos iniciar a pasta, a gente pode iniciar uma pasta,
+que com o nome do projeto, vamos chamar ele de projeto NIGLANDS.
+E isso, vocês podem ver como o botem MCAG, como o nome do meio do diretor, o original de essa visita,
+que é a pasta. E agora, quando eu gito GITAR, que é o com nome do GITAR, é tórios, para o distal de
+literatório, os diretores e tudo que tem dentro do diretor, ele vista aqui, projetará-los,
+que é o que justamente a pasta que a gente criou, mas a resenha ainda não está no nível de projeto
+daímos aqui no terminal, né? Se a gente quiser avançar, para esse nível a gente tem que botar aqui,
+CB, e aí, de GITAR projeto, dá-los, e agora, agora, sim, a gente já está no nível que a gente quer.
+Então, eu vou limpar aqui, c'est alias, só para botar aqui para cima, para vocês,
+aí aqui, vocês podem ver agora se a gente está no nível do projeto daímos, já onde a gente
+quer a nossa pasta, e agora, vamos começar a fazer o que a gente quer. Então, um bom prática,
+sempre a gente tinha esse um projeto, começar um arquivo RITMA, então um arquivo RITMA,
+por padrão, toda vez que a gente faz um projeto, que nem a gente falou, essa é um bom prático,
+é só vinha aqui dentro e criar um arquivo chamado RITMA e mais ozco.md,
+então aqui, já vai identificar que é um marque dão, então é uma, é uma sala de texto que a gente
+gita ali no pai do presente, e aqui é basicamente um arquivo de texto, então aqui a gente basicamente faz
+uma descrição, este é um projeto do bootcamp de análise, para serem esses dados.
+Vamos beleza, aqui eu não vou me alungar a descrição, mas essa é a ideia do item,
+tem um arquivo que a gente escreve o que a gente está fazendo ali no projeto,
+e agora, se a gente vai botar no nosso. Então, a gente vai criar algumas pastas aqui dentro,
+algum, a gente vai precisar de alguns arquivos, a ideia é, a gente criar uma estrutura dentro do projeto daímos,
+é que a gente vai aproveitar e, basicamente, estruturar e distribuir o que a gente vai precisar dentro de cada
+coisa do projeto. Então, aqui, a primeira coisa, eu vou só abrir no nível do projeto daímos,
+então a gente pode vim aqui e eu vou o bem folga e vou caminhar agora para o nível do projeto daímos,
+para a gente ficar no nível sertinho. Então, agora que se eu lição no pasto, para o projeto daímos,
+aí só vai mudar, agora vou iniciar sertinho, um nível do projeto daímos, então agora aqui,
+não preciso mais nada, então aqui, a ideia foi mostrar como a gente criar um repositor do zero,
+e agora, com trouxifix, as pastas já vou abrir aqui o terminal,
+e vai iniciar o terminal para a gente. Então, a gente pode continuar, a gente vai precisar.
+Primeira coisa que a gente já vai precisar, é uma pasta para a gente armar as enals dados,
+então vou chamar ela de data. Segno de coisa, uma pasta que a gente geralmente cria para
+saídas, então o que a gente vai produzir dentro do nosso processo da nossa apricação,
+e onde a gente vai jogar as nossas saídas, então vou chamar ela de autiputs.
+E na verdade, a gente pode criar aqui também, porque não, não tem no lado,
+em que a gente vai precisar agora que uma outra pasta chamada S-R-C, então,
+ela vai parecer que agora, essa S-R-C, ela não é a pasta que geralmente
+a gente usa para armarzenar os objetos que a gente vai ter do código.
+Então, aqui não essa S-C, eu vou rodar os scripts relacionados
+ali na raiz do código, então, na raiz da aplicação. E eu vou criar uma outra pasta chamada o T-Shuse,
+para a gente botar os scripts adicionais. Então,
+algumas outras scripts que a gente precisa de suporte, a gente precisar,
+ele eventualmente, em jogo aqui no U-T-Shuse. No geral, é isso. Então, essa é a estrutura
+aqui inicial que a gente vai pensar, e já tenho foto aqui, o nosso rídeo,
+me na caixa que a gente tinha criado fora, no repositor,
+então, eu vou deixar ele aqui agora,
+eu vou preencher, mas ele já fica aqui escrito. Então, o primeiro passo
+aqui, a gente pode criar um, a gente apesar um script para carregar os nossos dados. Então,
+a gente vai usar o data size Spanish, que é o que aí lado se borre,
+a gente vai precisar carregar de alguma forma os dados aqui. Então, o primeiro passo aqui,
+dentro de data, eu vou criar um arquivo, e chamado o carrego da dados,
+ou o pai. Dentro de carregar dados com pai, a gente vai precisar de portar o
+C-Morning que a bibliotechão está, o esse arquivo, o data size design,
+por naquele valor usar o Penhys, e em seguida, a gente vai botar também, o Pandas.
+Pode, pandas, a SPD, que é o nosso melhor amigo, né, a gente vai precisar
+para carregar aqui. Então, o nosso data size, agora o segundo passo, a gente vai ter que realizar
+algum processo dentro desse script, então, a gente vai, mas, idram, a gente pensando
+em alórica. Não vai ideal, a gente botar aqui, pensar em alórica, e não se buca.
+Vou ir pessoal, acho que cheda a não cortar, caiu muita hernete aqui, deu um pico.
+Mas agora sim, agora sem a restrutura certinho, este é o nosso main.py, e a partir do
+main.py, a gente vai consultar aqui e vai montar toda a estrutura, puxando dos outros arquivos.
+Então, primeiro passo agora, vamos mostrar.
+A gente vai ficar do não.
+A verdade é esse, vale, vamos avisar sempre, né, a gente cai num volta.
+Agora, tá no prever?
+Agora, sem, agora tá.
+Vou volar.
+Então, agora sim, a gente vai partir
+para a construção do nosso repositor, já tá aqui, o nosso arquivo principal,
+e agora a gente vai carregar o daílote.
+Beleza, pra carregar o daílote, basta a gente botar aqui.
+Então, eu vou mostrar como a gente pode rodar um script, na mesma lógica de um notibuque,
+mas, em seguida, a gente vai salvar o CSV e vai mostrar toda a lógica de construção
+ali dentro, correctamente tá.
+Então, quando eu acho que quando você criou o que ele aqui, o meio empairo,
+não tava a partir de lado, não se tinha perdido, internet, que é lorário.
+Não sei o que você criou lá.
+A banha não só criou um meio pouco pai, não tem nada.
+Eu só queria ir lembrar como é.
+Agora, a gente vai começar.
+Então, aqui, no se bônio,
+a gente vai chamar um método ou de data set, a gente vai chamar o penhoins aqui.
+E aquele data set dos pingüins, que a gente tinha visto também,
+em uma manda das alas restantes, não lembro se fala o apassado.
+Quando a gente bota aqui em data,
+aqui ele já vai tal no nosso data frame carregada.
+E seguida, eu vou só chamar, ele vai tal no ponto, as não. Eu vou jogar ele.
+O CSV para pasta do data.
+Só que agora a gente tem que pensar na lógica de caminho relativo, né?
+Então, eu vou deixar ele aqui na pasta principal, vou tirar ele no tios.
+O ponto que ele não jogou.
+Para ele não ter que chamar, a gente vai chamar, o que mais fácil chamar.
+Então, aqui, só prende a vontade data, barra.
+Então, vamos chamar ele de pingüins.
+E em mim, vamos precisar de saber.
+Então, aqui a lógica é bem simples, né?
+A gente vai, nem é precisado, vamos dizer porque ele já fica no objeto.
+Então, aqui o Cborn,
+que o Cborn para carregal da data set, e seguida a gente já olah aqui para o penhoins.
+Quando a gente está aqui, basta a gente vinha aqui.
+A gente está aqui no nível do projeto da Amazon, vou chamar o Python,
+salvar na garante para que está salvo o bonitinho.
+E vou rodar aqui embaixo.
+Deixa eu subir aqui para vocês bem, de mentinho.
+Pai, estou carrega dados, ponto para.
+E vamos ver o meu café um teste.
+Ele vai demorar um pouquinho, porque ele está executando.
+Olha, ele parou e pronto.
+Pemmo o nosso penhoins aqui, bonitinho.
+Então, beleza, primeiro passo deu certo.
+Agora vamos partir para construir o nosso data set, né?
+Então, vamos primeiro abrir aqui dentro de sorte,
+e vamos configurar um JSON, que a gente vai a acionada depois de nosso código
+e mostrar como a gente interagem com arquivos dentro do repostor.
+Então, beleza.
+Para criar um JSON, basta vinha aqui.
+Vou chamar ele de config.
+Anne, você vai остar isso aqui.
+Ficue ninguém estava.
+E, pilotsam.
+Aqui, eu vou criar um JSON, né?
+Jecaves.
+Sebs você vestir, já.
+E aqui,
+a gente vai ter que configurar alguma coisa.
+E a primeira passo eu consigo評brar em configuração
+O caminho de origem do nosso data sete.
+Então, o caminho de origem vai ser.
+Eu vou chamar origem no quinto.
+E o caminho de origem vai ser data,
+barra, penguins, ponto, só escrever.
+Só esquecer que a gente tem que colocar
+da louquismo. Então, o que tem que ser as pastas dofas.
+Eu vou acreditar a viso aí, dona.
+Por isso, então, data.pens.cv.
+Essa é a nossa origem.
+Um aspecto interessante que também é considerando que o config está dentro de essa
+em ser a gente tem pensar uma lógica de repostorio.
+Então, com a gente bota aqui, ponto ponto,
+a gente está pensando que, do config, eu volta uma pasta,
+vou producta e aí eu chego no penguins.
+Então, esse dois pontos aqui, ele está numa lógica de
+a partir do config que é a nossa aqui, no nosso
+nacional de configuração, volte, duas casas.
+E aí, sim, você vai conseguir executar,
+chegar no caminho do data e buscar o penguins.
+Então, é isso que a gente vai fazer.
+E agora, eu vou configurar o caminho da saída, né?
+Saída.
+Vai ser, a mesma lógica desse ponto, se ele isso, agora,
+vai ser, ponto ponto.
+Ao te paraus.
+E agora, vamos criar aqui um nome,
+a importe, pode ser esse ver.
+Então, beleza?
+Acho que isso é um bom.
+Essa é a desconfuração.
+O próximo passo a gente vai começar a criar uns modos auxiliários.
+Então, o primeiro passo, a gente vai criar aqui um modo
+um desculpão.
+É um método que não dentro aqui de utilizam,
+um escrífis chamado Carregados.
+Agora vai ser, vamos ajudar a sete, né?
+Agora a gente vai carregar o data sete, propriamente.
+Agora, aqui, a gente fez um processo,
+que a gente não vai facilitar de novo, com o código,
+o botar dele é eleitar.
+Que a gente só carregou ali do seboa,
+a gente salvoi se não sair se vê.
+Então, foi um gato que a gente fez ali para buscar nossos dados.
+E agora, vamos começar a carregar o data sete do ponto para.
+Então, vamos botar os biblioteques que a gente vai precisar.
+A gente vai precisar do plano, que posso para vocês, vai se perder.
+Outra biblioteca que a gente vai precisar depois, é o mais pode livre.
+Então, vocês sobam em portar agora, acho que não.
+Eu vou guardar ela para depois, porque na verdade,
+mas na escripe que acho que a gente só vai carregar os dados, é melhor.
+Então, aqui, eu vou definir uma função para a gente carregar os dados.
+Então, vai ser uma função loja da sete.
+O caminho dela vai ser justamente a origem, a gente, o chula de cima.
+Então, a partir da origem, a gente vai tentar ler um arquivo, você é cv.
+A gente vai armazenar um data freino.
+Esse aqui você vai estar na origem.
+E aí, se vai ser a gente vai dar um cliente.
+Da f, já arregado.
+Com forças.
+O que é?
+O seguida, a gente vai retornar o data freino.
+E foi porque a gente criou.
+Mas dentro do depois entrar, a gente vai criar aqui uma estrutura.
+Se a gente não achar o arquivo no pé, a gente vai criar uma exceção.
+E a gente dentro do pé, então, a gente tem alguns tipos de exceção personalizados.
+Um deles, o FirenottyFounder, é robo.
+E a gente, provavelmente, vai ter dado alguma coisa errado no caminho.
+E aí, a gente vai botar aqui.
+Pringos.
+Pringos formatada agora.
+O arquivo.
+O arquivo não foi encontrado.
+Bem.
+Orige.
+Então, esse vai ser a nossa funçãozinho para carregar o data sete.
+Então, aqui a gente vai carregar na origem.
+E agora, a gente vai lá no nosso arquivo principal.
+Então, dentro do arquivo principal, a gente vai ter que pensar em alguma forma de carregar aqui.
+O dia é isolado.
+E depois, voltar para a cana, voltar para o arquivo mesmo.
+Então, primeiro passo aqui no meio, a gente vai definir uma função, chamada.
+Bem.
+Não é essa a nossa função principal do nosso código, né?
+E depois, eu vou explicar para vocês o porquê.
+Mas já para adiantando, a gente pode fazer o seguinte,
+se o nome é igual, bem?
+Não é o que o nome é igual, né?
+Temos o nome.
+E a gente vai chamar...
+Isso aqui é um prático que fez falar o Zamui.
+Então, é mais uma boa prática também.
+O Zaiça é sar arquiteturasinha.
+De definir uma função principal.
+E se a gente estiver no bloco principal do código, chamar essa função principal.
+Então, não é nada demais, mas é basicamente aqui, a gente...
+Não toda vez que a gente quiser colocar essa função principal,
+ele replica o que está acontecendo dentro.
+Então, vou mostrar que para vocês eu vou chamar Python,
+SRC, barra, 1.5, e olha que vai.
+Então, basicamente a executa, por eu chamo...
+Eu queria essa estrutura, eles executam a função,
+e a gente está criando a função,
+e a gente vai ter o nosso código ali,
+ou basicamente a raiz da nossa aplicação.
+Beleza? Então, aqui, primeiro passo, a gente vai abrir o nosso funcionário,
+para abrir algum arquivo, a função nativa do Python chamado Open.
+Parece que a gente tinha Open com o fígado.Json,
+como o modo de RID, modo de leitura,
+eu vou chamar...
+a gente pode, já mexe com a gente chamou,
+e tem que dar uma s depois, tem que dar um nome.
+Então, eu vou chamar de ir para o fígado duração.
+E, em seguida, a população...
+A população, em seguida, a gente vai ter que ler.
+Esse aqui, a gente não tem um diazão importado,
+então, a gente vai ter que importar aqui em cima.
+E um forte leisão, aqui, quando dá esse, de tá subliada,
+porque já está faltando a biblioteca aqui,
+então, a gente já importei o leisão agora, assim, tudo certo.
+Jeisão lout e vou chamar aqui a configuração.
+Beleza? Eu acho para dar certo.
+E vou jogar isso no objeto.
+Então, eu vou fazer esse teste agora,
+puder um príncio.
+Então, eu veço de um certo.
+Eu vou ficar no lugar do ou do ou do alá mundo, né?
+E vou aqui uma dica também, quando a gente mexe que tem melhor de comando,
+para evitar executar de tatúmido,
+não é pai, então essa receita é em ponto pai.
+O boto só até que eu para cima,
+e ele executou o último comando que já estava ali no terminal.
+Agora, eu vou ganhar,
+não tem nenhum diretor com o fígio ponto de aisão.
+Então, vamos ver o que está acontecendo.
+Aqui a gente criou o configo ponto de aisão,
+como a natureta, essa configuração,
+está morrando dentro de dessa aisão.
+Sei ser meio ponto pai.
+O pé.
+Não tentar botar da receita antes,
+a provesta está rolando direitinho.
+Para a gente botar o da receita também,
+a gente vai ter que vinha aqui,
+pronto.
+O de sius,
+um pote,
+luz na receita.
+E ele já vai,
+em portar a função,
+luz que a gente criou,
+aquela luz de data set.
+Outro passo importante também,
+ó, aqui, ele não tem o modo criado ainda,
+para a gente criar o modo que a gente consegue importar,
+a gente tem que vinha aqui no teus,
+no,
+na parte de o teus,
+e criar um arquípio chamado teus.py,
+dentro dele é bem fácil,
+vocês vão botar,
+pronto.
+O luz de data set,
+um pote,
+todos.
+Então, o pote aqui é asterisco,
+ou posso botar aqui o luz de data set,
+também,
+mas,
+porque ponto onde data set é o arquivo,
+e dentro dele tem uma função chamada
+luz de data set,
+por isso que os dois,
+então,
+o pote do mundo de data set em posto,
+o luz de data set,
+e agora,
+ela já vai estar no nosso modo vai estar criado.
+Agora, eu acrediti,
+vai dar certo.
+Não modo nem teus,
+fronoutiu,
+não posso olhar o teus,
+só te,
+não fazer que eu teche.
+No teus.
+A data tem de porquê,
+é porquê que,
+a gente nem gootá o nosso main,
+no nível principal do pojo,
+então, beleza, agora,
+eu mê em tanto o nível principal do pojo,
+o SNC está ali dentro,
+eu vou botar aqui,
+essa SNC,
+bá,
+config.
+JSON,
+para abrir JSON,
+pegar as configurações lá,
+printar aqui,
+agora que a gente está no nível
+maior do que eu teus,
+então, acredito que vai dar certo,
+porque a gente fez
+fronoutiu da data set em posto,
+é, acho que está tudo certo,
+agora,
+agora a gente não precisa mais
+dessa SNC,
+são Python,
+main,
+poll,
+pá,
+opa,
+bom,
+sinal,
+deu certo,
+agora sim,
+conseguimos carregar aqui,
+bonitinho,
+ele puxou as duas origens,
+aqui origens saída,
+e printou na tela.
+Então, beleza,
+é isso,
+só que agora,
+vamos pensar aqui,
+a gente está na pasta principal,
+a partir dela,
+não precisa daqui dos dois
+pontos, porque
+daqui a gente vai direto
+para a data,
+então,
+a queres dois pontos
+a restrecutura em TIG,
+então, agora vou tirar
+ela,
+vou deixar aqui
+só,
+barra da data,
+e barra o tipo de se.
+E agora,
+vamos tentar
+importar,
+e printou,
+config,
+vou botar aqui origen,
+para a gente ver,
+pão que fica,
+vai também,
+barra data,
+barra pão e isso é esse ver.
+É isso aí,
+esse é o caminho que a gente cai,
+mesmo.
+Então,
+agora vou botar o pão das,
+então, beleza,
+aqui a gente já criou uma
+nosso modo,
+chamado TIG,
+agora que a gente vai importar um pão das,
+que é um modo,
+não vai botar aqui,
+gente,
+baixou,
+falando,
+eu tenho instalado por um exemplo,
+aqui no nome,
+mas a gente não quer mais
+ele,
+vocês também,
+deva ter,
+e aqui,
+pão das atranquilo,
+eu só vou,
+lembro da data frame,
+então vou que chamou,
+método,
+RSSB do Paras,
+PDRSSB,
+e agora aqui,
+eu vou passar o caminho
+que está aqui no config,
+origen,
+vou armazenar aqui,
+isso não,
+chamado origen,
+origen,
+igual a config,
+origen,
+e hoje,
+aqui dentro do ís,
+essa CV,
+em seguido,
+vamos tentar aqui,
+vou dar um print
+da vez,
+ou na vez,
+sim,
+então,
+vamos ver se dá essa,
+agora,
+fazer,
+ali tudo,
+não,
+não,
+é,
+data,
+tenho esse pão,
+essa CV,
+então ele não,
+que seguiu,
+eu dirá,
+torno,
+vamos ver aqui,
+vamos ver aqui,
+vamos ver aqui,
+por aqui,
+ah,
+acho que é a bátima,
+vamos tentar de novo agora,
+eu vou dar de novo,
+não veço de acer,
+acho que vai,
+boa,
+agora sim,
+agora a gente leu lá,
+está só,
+agora aqui,
+olha o que a gente fez,
+a gente está acessando a configuração esterna,
+então,
+imagina,
+realmente aquele caminho muda,
+a gente só vem aqui,
+muda,
+é o caminho do nosso,
+da nossa origem,
+e aqui a gente,
+já tem gatilhado,
+o caminho da nossa saída,
+então a gente pode
+deixar de pronto,
+no meio ponto para aqui,
+para mim da saída,
+que é o que vai jogar,
+o resultado que a gente produz,
+então a saída vai ser igual,
+ao configo,
+ao dicionário configo,
+só que agora a gente vai pegar,
+saída,
+então,
+já tem uma saída armazenada também,
+agora o que a gente vai fazer,
+a gente que decide,
+aqui,
+agora,
+é o momento que a gente
+voltava para o tios,
+e criar as funções
+que a gente quer fazer,
+então,
+uma das funções que a gente vai fazer,
+é um abropamento,
+então,
+vamos pensar no empagropamento
+seria legal aqui,
+para a gente ver,
+dentro dos pingunes,
+a gente pode pegar e ver,
+eu vou criar o logo aqui,
+dentro de outros,
+um,
+acho que o sol,
+vamos pensar que um
+chamada,
+sumará-es.
+Então agora,
+vou para o fonte o ponto pai,
+sumará-es.
+ponto pai,
+e aqui dentro de
+o script sumará-es,
+a gente vai ver que não é o função,
+sumará-es,
+é basicamente agrupa,
+é disso,
+é tipo,
+prática,
+eu meia porque,
+já,
+a gente já enxerre de software,
+e quando a gente constrói um,
+qualquer coisa,
+a gente constrói um inglês,
+querendo,
+a gente vai a universal,
+mas pode ser agrupa,
+enfim,
+fica a vontade,
+a gente vai basicamente agrupaos,
+dados,
+e a coisa que a gente tem que
+receber,
+a única coisa que a gente tem,
+é o data frame,
+então,
+ele vai ser a nossa entrada.
+Aqui,
+pensar,
+a gente vai fazer um grupo
+i倍,
+do...
+o rilha,
+vamos criar uma visão
+por rilha,
+do grupo i倍,
+o rilha,
+e,
+olhar,
+a bilense,
+não vou olhar só um barimés para
+facilitar a nossa vida.
+Vou olhar só um barimés.
+E,
+ir especificamente,
+e sexo.
+Eu vou uma grupa com tudo,
+todos os variáveis categorics que a gente tem.
+Hum,
+uma cabega,
+vemos uma coisa aqui.
+A gente ponente leu,
+veio uma coluna que chamada
+na emigro zero,
+isso acontece que,
+geralmente,
+a gente salvo,
+provavelmente a gente salvo aqui,
+essa é a CV,
+com um índice,
+então,
+salvo ele com índice do pando-as.
+Então,
+num caso aqui,
+só para aproveitar,
+como ele já foi salvo com índice,
+e ela com o nucleão tem nome.
+Eu vou aproveitar,
+escolher ela direto ali na importação.
+Então, vou chegar aqui,
+vou ajudar a sete,
+então,
+pdr e de cssv.drop,
+o volume,
+igual,
+na emigro de pontos zero.
+Por exemplo,
+o mais que esteja ele no arquivo,
+quando ele portava,
+já não vai mandar em boa.
+Então, beleza,
+agora vou estar lá no nosso morais,
+aqui a gente vai agrupar,
+e ele é esse pés sexo,
+o que tem passar em forma de lista,
+ou para,
+forma de lista,
+agora assim,
+do vídeo aqui,
+certinho,
+e,
+deles eu vou pegar a bora e messe,
+me como agregador,
+eu quero,
+a média.
+Então, a gente vai verificar a média,
+e no botão de vídeo padrão,
+vai se tede, então,
+então,
+esse vai ser o nosso agrupamento.
+Eu vou chamar ele de resultado.
+Então, pensem isso,
+não é que infingem.
+Se são aqui,
+pior,
+no janar de dados,
+do que falar,
+da equipe de que faz essa
+minha emigção dos penguins,
+e vocês têm que fazer esse
+relatório,
+todo significa feira.
+Então,
+precisa definir um diretório,
+alguma coisa para poder dar isso
+automaticamente.
+Então,
+é isso que a gente está fazendo aqui.
+A gente agora sumarizou aqui,
+e até o defiro de pebo,
+no nosso caso aqui,
+vamos falar um que é um que preim de
+por enquanto,
+para ver como é que ficou.
+Pente resultado.
+No nosso meio ponto pai,
+agora a gente vai ter que importar,
+também,
+o samarais,
+uma das montagens
+da gente ter
+usar desses as teriscos em aqui,
+é que a gente não precisa
+bem aqui,
+e ficar fazendo isso.
+Pronto.
+Bom,
+botar todas as funções.
+No caso,
+ali só tem uma função,
+dentro do script,
+vamos ajudar a sat.
+Então,
+é algo que vai importar.
+Agora, a gente vai ter que
+importar a função,
+do samarais.
+Que é,
+no caso aqui,
+eu vou importar cobras,
+também, depois a gente vai
+fazer uma função de visualização,
+mas,
+por enquanto vai ser,
+só a samarais,
+que é ela que está aqui dentro.
+Bom,
+ele teria algum desvantagem
+deixar o asterisco?
+Não,
+no caso,
+o tipo,
+o que você,
+esse geralmente do asterisco,
+você está importante todos.
+Os montais só seriam
+em termos para a forma,
+se você tiver muitos,
+mas aqui a gente está tranquilo,
+construindo ainda,
+então,
+de repente,
+se imaginar aqui,
+no samarais,
+no script,
+samarais,
+a gente tem a função chamada
+de samarais.
+Mas,
+para eu vou montar
+no nome dela de agrupo.
+A função é o agrupo
+dentro do script samarais,
+então aqui,
+eu teria que botar
+pronto,
+ponto samarais
+e posso achar agrupo.
+Aí dá certo também.
+Aí aqui,
+na sertiva,
+vai se várias
+ções,
+tem que botar
+outro,
+outro,
+bíblah,
+outro,
+bíblah,
+outro,
+porque eu teria que
+botar
+todas,
+é um ocorundo.
+O asterisco,
+ele já importa
+todas,
+né?
+Então,
+é a acaba que deixa mais
+passo,
+e ficou mais bonitinho,
+também.
+Mas,
+um desvantagem,
+aí, beleza, agora,
+tipo do nome,
+agora, do meu grupo,
+agora sim,
+frontiu,
+empóshe a grupo,
+e aí,
+beleza.
+Agora,
+aqui,
+a gente está tudo bonitinho,
+a gente já já impotou o batçete,
+já está aqui,
+e agora,
+a gente vai tentar
+aplicar
+ao
+o agrupo,
+ao nosso batçete.
+E aí,
+bem simples aqui,
+a gente vai ter que chamar,
+ele almova um objeto
+chamado resultado,
+é a mesma coisa que está
+ali no somoraz,
+né?
+Então, ele vai receber
+o nosso data 6,
+ele vai entrar aqui,
+e vai agrupar
+por ele,
+espécie,
+e sexo,
+pegar o peso,
+e depois
+tirar a média
+e o desempenho.
+Então,
+essa é a nossa ideia.
+Vamos ver como é que fica isso,
+na prática,
+ele vai dar um print,
+também, né?
+Mas aqui está voltando à uma coisa,
+que a bade vê.
+Primeiro, vamos mudar a só o print,
+sei, né?
+Sei nada,
+vamos estar botar aqui um agrupo,
+bèf,
+então aqui,
+na nossa função,
+a gente não está retorna na
+a gente está soldando o print,
+o limpo,
+mas é isso,
+ficiente,
+pra gente.
+A gente quer ver como é que vai ficar.
+E agora,
+eu vou rodar aqui de novo,
+aqui embaixo,
+né?
+Vou limpar aqui,
+seria esse,
+paito um limpo,
+paito um limpo,
+paito um limpo,
+vamos ver,
+ó,
+já deu bonitinho, né?
+Então aqui,
+bisco o adélio,
+simeio,
+a média,
+pra cada um,
+ziu padrão,
+então,
+olha que legal,
+a gente queria,
+hoje,
+já basicamente,
+o relatorico,
+a gente queria,
+não,
+a gente queria,
+e isso aqui,
+pode ser muito valioso pra gente, né?
+Então,
+eu acho que vale demais,
+a gente guardar isso aqui,
+eu vou voltar lá no Samarais,
+agora,
+agora sim,
+que eu já deu pra gente
+confirir,
+eu vou retornar no resultado.
+Pois,
+só vou resetar o índice,
+aqui no final,
+é ZX.
+Inundix,
+só pra ficar tudo direitinho,
+se vocês já vão ver como é que fica,
+e agora,
+vamos ver como é que ele fica,
+dentro do nosso mempocpai,
+aqui,
+agora,
+o que a gente mudou aqui,
+a gente botou um retânero,
+né,
+para a nossa função,
+que agora ele vai retornar o resultado,
+desde o processo que a gente fez aqui,
+então,
+o processo aqui,
+primeiro a gente já grow pouco o rilha,
+está esse sexo,
+pegou o peso,
+churou a média de desviupadrão,
+média de desviupadrão,
+e resetou o índice da nossa função.
+Beleza?
+Aqui,
+no 117,
+a gente cromeceção,
+então a gente tá,
+deixe criando,
+uma repositora
+um projeto numa estrutura,
+bem robusta,
+na pessoa.
+E agora,
+eu vou carregar aqui um resultado,
+igual ao,
+a grupo, né,
+pelo death.
+Ele vai rodar esse troquí,
+vai resetar o índice,
+vai ter o na ideia.
+Agora, eu vou dar um print aqui no restado no nosso
+mempocpai,
+só para ver como é que tá ficando.
+Vai ser mais uma coisa,
+mas só para ver se deu ser.
+Agora, já conheci,
+resetado.
+Boa,
+e aqui, conheci,
+resetado,
+a gente botou no formato,
+que a gente precisa,
+para a moto a bela,
+para salvar isso, né,
+para ter isso no histórico.
+A gente tem todas as combinações de irespécie sexo,
+a média e o desviupadrão,
+então, no análise bem,
+bem robusta.
+E por enquanto,
+a isso aí,
+vai ter isso no nosso mempoc.
+Próximo passa aqui,
+meu tios.
+A gente vai também criar uma função,
+chamado
+saves
+Samar.
+Samar,
+todo o pai.
+E é onde a gente vai jogar?
+Esse nosso
+data set.
+Então aqui,
+lembra que a gente tem um camin de saída,
+a gente vai ter que fazer a mesma coisa,
+a gente vai ter que dedicar aqui,
+agora o que em uma função,
+o chamar da descei.
+Eu tenho o meu data set,
+e naquele que a gente vai ter que salvar,
+vou chamar ele de resupar,
+e aqui o atpute.
+O atpute.
+O atpute.
+Pute.
+Péfice.
+Inseguida,
+a gente vai ter o resuptado,
+e aí, tipo, quantos costos,
+quando vocês construiram uma função,
+vocês vão pegar esta lógica de,
+ao construir uma função,
+vocês vão meio que,
+fazendo ali uma receitinha de bom,
+onde vocês querem que passa
+que o objetivo da função,
+aqui a gente quer um resuptado,
+vai ser um data frein,
+o resuptado,
+porque é o que ele é,
+que a gente está olhando aqui embaixo,
+e ele vai para se ver,
+a gente vai só salvar ele,
+no caminho no atpute, Péfice.
+Então,
+é isso,
+aqui aproveita,
+eu vou botar,
+eu vou me comentar o mesmo,
+eu vou comentar,
+botar a saída,
+em DXFals,
+que a gente não vai ter que dar aquele drop
+lá no, na coluna mente.
+E aí,
+aproveitando aqui,
+só por boas práticas,
+eu vou botar um traio,
+e o X7,
+X7,
+X7-chomp,
+quando eu não tenho o indo padrão,
+igual eu não sei de pude,
+que a vez o indo padrão
+para não conseguir salvar aqui o seu evento.
+Então, botar aqui,
+X7-chomp,
+S-X-X,
+e aí,
+geralmente,
+que a gente faz a botar uma mensagem,
+né,
+de ah,
+a gente não foi possível,
+ou a somba.
+E aí vai aparecer aqui na tela.
+Mas,
+beleza,
+aqui o Save,
+acho que está encaminhado,
+então a gente vai se pegar o resultado,
+jogar para se receber,
+num caminho do atpute Péfice,
+com o índice Fals.
+Beleza,
+voltando aqui,
+e aí,
+agora a gente precisa de novo voltar aqui no Init,
+um pude novo, né,
+voltando,
+pronto,
+o Save Samurai,
+no Tote,
+tudo.
+Quando estou fazendo um inscrito separado,
+não é?
+A gente poderia fazer,
+jogar tudo,
+mais inscrito,
+mas aí não fica,
+então,
+vamos utilizar de,
+né,
+questione um inscrito,
+que tem funcionso,
+um objetivo,
+totalmente diferente.
+Geralmente,
+a gente joga com fones,
+dentro do mesmo inscrito,
+porque estão ali para a mesma coisa,
+né,
+então,
+de parte diferentes com sonhos de
+agupamento,
+então,
+aqui no caso,
+a gente fez um homem de
+pamento,
+de que ele fazer o outro,
+e aí,
+joga também dentro de
+isso,
+marais,
+outra com outro,
+tipo de agupamento,
+então,
+teria mais de uma função
+dentro do agupamento.
+Então,
+beleza,
+agora,
+sim,
+estamos,
+estamos bem,
+e vai ser só voltar no
+main.5,
+agora,
+então,
+tal,
+o save,
+então,
+aqui o agrupo já está feito, né,
+o botão,
+aqui o botão de sessiver,
+mas,
+com o botão de dataçaíquita,
+também,
+que foi ela,
+que a gente fez,
+aí,
+a gente fez esse verão de dataçaíquita,
+beleza,
+e cede a e-filo de dataçaíquita,
+deixa ela retorna aqui o da tefrem,
+e agora,
+main.5,
+a grupo aqui,
+resultado,
+quando a gente estava dando um
+print no restado,
+a gente não vai dar mais
+print,
+a gente vai salvar ele,
+mesmo,
+vai ser o save,
+o resultado,
+vigo,
+na saída,
+então,
+obviamente,
+como a gente vai dizer que o
+está,
+tem que jogar ela para cima,
+na saída,
+save resultado,
+na saída,
+que são dois parâmetros,
+na função save,
+que a gente criou ali,
+ao save,
+uma o datafrem do estado,
+ou outra o datafrem,
+ou outra o caminho de saída,
+a estringa,
+então,
+aqui,
+a estringa,
+já está certinho,
+configurada aqui no
+funcionário de a izão,
+e,
+o resultado também já está aqui,
+nossa datafrem,
+que a gente cai em gostar,
+chou,
+pai também,
+ponto para aí,
+acho que está tudo certo,
+eu vou só
+o chá aqui,
+assim,
+a sexto,
+e vamos lá,
+vamos executar,
+o impacto aqui sobre o
+jogo,
+vai também,
+para o pá,
+um dedo que vai ficar
+regado com o sucesso,
+e aqui,
+não save,
+eu não vou ter nenhum amessagem,
+mas deu certo,
+frente,
+na área izissal,
+da ponta do sucesso,
+ponto,
+uma rodad de novo,
+vai,
+vai,
+então,
+ponto para,
+deve ficar regado com o sucesso,
+na área de salvo sucesso,
+então, pronto,
+a área de se quem a gente criou,
+está aqui,
+todos as combinações,
+de
+iria espécie,
+sexo,
+média de o padrão,
+então,
+a mais enadze aqui,
+então,
+para dar uma pálime,
+a gente poderia, enfim,
+eu queria que uma outra função,
+então só para dar um exemplo,
+dentro de Samarais,
+que sem estivesse uma outra função,
+então,
+poderia ter uma função chamada de
+Death,
+Lorde,
+agrupo,
+para medo,
+então aqui a gente tem o resultado,
+e aqui,
+dentro de resultado,
+o resultado vai ser,
+esse nota,
+nossa data sete aqui do deporte,
+então,
+isso vai ser o resultado,
+porque a gente imaginar,
+dentro do meio,
+ele está fácil aqui,
+ela se sive também,
+tranquilo aqui,
+então,
+dentro de Samarais,
+aqui,
+a gente vai ter um resultado,
+a gente vai ser do resultado,
+e vou
+printar
+uma imagem,
+um gráfico peda-o,
+e aqui,
+eu vou dar uma pálime,
+não vou construir um gráfico no detalho,
+mas,
+eu vou
+voltar,
+a gente,
+igual,
+a bar.
+A bitada dos...
+Eu vou,
+na verdade,
+a acessar o meu comum,
+onde está,
+vamos fazer um gráfico de que
+vamos ver aqui,
+um gráfico da média,
+um gráfico aqui da média,
+vamos ver,
+vamos ver,
+e aqui,
+vou chamar,
+como é que você pôn nome da
+coluna mesmo ali?
+pode,
+mim,
+bem simples,
+então,
+resultado,
+mim,
+ponto,
+pode,
+a gente, igual a bar,
+aqui a gente vai ter um,
+uma potagem bem simples,
+depois,
+a gente,
+vamos ver,
+se a gente dá uma incrementada ali,
+mas agora,
+dentro de somarais,
+a gente não tem mais
+uma função,
+a gente tem duas,
+e aqui,
+eu não preciso acrescentar,
+porque dentro de
+somarais,
+ele já está puxando
+todas as funções.
+Então,
+aqui vai ser só vinha aqui no meu
+mente,
+e vou,
+vou atuar o compramento.
+Então,
+aqui,
+depois de salvar,
+vou apnotar
+e meu parametro vai ser
+resultado,
+e vou jogar aqui,
+para o resultado.
+É meu único parametro dela,
+resultado,
+mim,
+pode ficar lá embaixo.
+Então, vamos lá.
+Ele vai rodar tudo de novo,
+e ele vai carregar,
+salvar,
+e agora ele vai rodar o gráfico.
+Ah,
+não estou,
+porque aqui como a gente não está no
+noto book,
+a gente não consegue visualizar
+essa forma,
+então tem uma coisa um pouquinho
+diferente.
+Agora, a gente vai ter que chamar
+o médico atilíbete.
+No próximo médico atilíbete,
+ponto para a gente que vai ter que
+ter assim a gente em porta mais
+spotlight livre,
+primeiro passo aqui,
+a gente vai ter que criar
+a rostegura no
+médico atilíbete,
+que vai ficar meio
+criar uma imagem,
+porque eu estou só
+dando uma pália como que a gente
+faz em gráfico,
+mas aqui a gente vai criar um
+gráfico,
+para meio dele,
+dá-se por 6.
+E agora,
+sim, a gente vai passar os parâmetros
+para o mais spotlight.
+Vai ser um gráfico.
+De barro,
+o meu...
+dados, vai ser o resultado.
+O meu x
+vai ser...
+Aí,
+vamos botar.
+Pinho meus ys
+não vai ser
+a média,
+então,
+me,
+e,
+em seguida,
+a gente happy
+tem elas que já
+tem tudo.
+Então já voltam o
+spotlight precanto,
+chamando resupado,
+Sunense예y
+E vocês não viram,
+porque está aqui na um outro tele,
+mas ele imprimiu o gráfico.
+Ei tá
+Aqui.
+Vou mostrar para vocês
+chan
+vou tornar opyo,
+vou tal para baixo lá amuloon
+mas E esse samurai
+que ele gerou esse grato. Por exemplo, e outra coisa que a gente pode fazer, então,
+aqui essa média do... a gente pode incrementar esse grato, que está mais
+lembrando que está na do detalhe hoje, acho que esse não for, mas aqui a
+gente pode ver que está totalmente estalgo, né, que é só múgo, botar sexo, e
+vou rodar de novo.
+E agora a gente vai ter, por exemplo, a média por sexo, né, tá, vai carregar, e
+jogou aqui, botar o tal.
+Então, aqui na média, poupinho em sexo, tá, agora que ele ainda tá rodando,
+porque a gente não fez churna, então, eu explotou ele ainda tá executando
+nem, então, por isso que ele ainda tá rodando.
+Eu vou...
+Aqui, e agora vamos salvar a invés de dar um chur, e quando a gente dá um chur, ele fica...
+ele é zibe e fica lá, né, até você fechar.
+E a gente não caisse, a gente já viu, que a gente quer aqui, o botar o gráfico,
+e, le mesmo, então, vou...
+Vou estar pro espaço.
+Então, vou tal, o gráfico que eu quero salvar, e melhor ainda, na verdade, vou botar aqui,
+ó, poupinho, poupinho, o que você quer, a brupa.
+E aí, jogou aqui, mais fácil, né, vamos lá, que é um parâmetro de nome.
+Então, jogou aqui, aí vai de chau, eu vou usar um outro parâmetro,
+se eu não me engano, é, é, é, é, é, é, é, é, é, é, é, é, a gente vai ter,
+que jogou o caminho que a gente está aqui do...
+hexão.
+Aqui a gente já botou, já tenho saída, né, então, olha aqui,
+o saída, ele é um hotspot, hotspot, hotspot, hotspot...
+派 pôntice a CV.
+A gente já tem ele aqui no main poupar, então, esse aqui já é,
+o saída, hotspot, hotspot, hotspot, hotspot,
+esse CV, é uma stringa.
+Eu posso soldar um ponto de replace, aqui.
+ou tal, acho que a gente estava...
+ou que a gente estava, um golpeamento, aqui são mais.
+Então, beleza, olha o que a gente pode fazer?
+A gente vai ter o caminho na coluna, beleza?
+A gente vai pegar...
+saída, agora, né, que você não saída?
+A saída, ponto de replays.
+O lá a gente tem, mesmo?
+Aqui.
+E pode ponteçar esse V.
+E eu vou trocar o CSEV por um PNG, que é um formato de imagem.
+CSEV, ponto.
+PNG.
+Eu acho que para dar essa, é bom.
+O que a gente vai...
+É o mistringe, o saída, lá, né?
+A gente vai tirar o que a CSEV vai jogar para o PNG.
+Então, vai ficar bem legal.
+Agora, vou voltar aqui para o meu meio, o próprio atas certo.
+Só que agora, ele ganhou mais parântico, né?
+Então, ele tem um resultado, e aquele já me falou.
+Outro parântico, qual é o segundo parântico?
+Pomem uma.
+O que é a poluna, vou botar aqui a Islaux.
+E a saída é o saída.
+É aquele que a gente viu, né?
+Que é o que está puxando do Jason.
+Ele vai botar o seu que ele vai botar.
+Ele está puxando do Jason.
+Ele vai proxar aqui, a string.
+Outputs vai repostar o SV.
+Aí, vai levar aqui para o main.
+E na nossa função, a grupo, ele vai trocar aqui.
+Tem um replay, se ele vai trocar o SV, por PNG.
+E aí, sim, vai salvar o que pode ser efeito.
+Então, se dentro de SV vai salvar a imagem, acho que ele...
+Ponte o máximo.
+Hoje vamos.
+O ponto PNG.
+Ponte o SV também, eu tirar o ponto.
+Ah, bom, verdade, valeu, pra avisar.
+É verdade.
+E aqui, a gente vai ter que tirar o ponto SV daqui, né?
+O finalzinho daqui do funcionário.
+E vai trocar de ponto SV para PNG.
+Então, a gente vai criar um arquivo chamado,
+Output.png, que vai aqui para os puts.
+Então, é isso, acho que para tudo set.
+Vamos testar agora.
+Só um vato ali aqui.
+Me impar e vamos morar.
+Na área de salva, o papo.
+E geramos aqui o nosso gráfico.
+Agora, sim, né?
+Bem, melhor.
+Então, olha o que temos que fazer aqui, pessoal.
+A gente criou aqui uma agrupamento, gerou imagem.
+A gente fez repositor, a gente tapo chão de uma aqui, mister.
+A gente tem funções para carregar o data set, funções para salvar o data set,
+funções para agrupar, funções para fazer,
+plotar as imagens dinâmicas.
+Então, olha o tanto de coisas que a gente fez.
+E, no fim das contas, tudo que a gente precisa para fazer isso.
+É isso aqui, o pai to mempompai.
+Então, tudo que ele precisa é rodar esse comando,
+que ele vai fazer tudo isso que a gente viu.
+E o ponto é, como que a gente faz isso,
+não é real, né?
+Então, no Windows, tem tempo que no vídeo é mais tem isso aqui,
+chamada a G ainda doito tarefos.
+Ele vai abrir aqui, ó.
+Dentro do agir da doito tarefos.
+Então, usa isso aqui que o sabedoria está pessoal,
+porque dá para fazer, por exemplo, um bóz para bater ponto.
+Não, é uma boa ideia, mas...
+Se eu consegue fazer o que você quiser, um com o pai to,
+você consegue criar qualquer tarefos lá.
+E aí, você vem aqui, você queria colocar a escrípte.
+E aqui, é o...
+Tem que tomar cuidado aqui, porque ele tem todos aginadores de tarefos do seu Windows,
+né, da sua máquina.
+Então, é bem importante, né?
+Eu diria que é...
+Importante, então, eu tenho que lembrar aqui direito como é que é?
+Mas aqui, criar tarefos,
+você vem aqui em cima da direita, criar tarefos,
+aquele disco, qual computador você tá, né?
+Você queria que o nome de uma tarefos agora, lá.
+Tem que os disparadores que são condições que disparam,
+então, basicamente, horários.
+Então, aqui eu posso botar para rodar.
+No nosso caso, a gente queria fazer, toda a segunda-feira, né?
+Então, eu venho aqui, isso é humana, o mente.
+Segundo a feira, repetir por tanto as semanas,
+iniciando tanto, então, se eu ia rumar que as configurações bonitinhas,
+e isso aqui tem uma coisa, por exemplo, você pode entrar a zona tarefos,
+para eu começar a incongar o área da atora,
+num espaço de infim humor, 30 segundos, o minuto,
+você já está para não rodar todo dia no mesmo horário,
+você pode repetir a tarefos, para o emprego de tempo,
+você pode ter um pé, se ela dá aí, você pode rodar de novo,
+enfim, pode fazer muita coisa aqui,
+mas isso aqui, você configura o disparador, né?
+Mas, no que você quer, aqui, vou botar,
+vamos ver se é mano.
+Se é mano, a mente, repetir toda a segunda-feira, beleza?
+Aí, ele já identifica aqui, habilitado, e ações,
+e ações é o que você quer fazer.
+Você vem aqui ao novo, ações iniciaram programas.
+Qual é o programa? Qual que você acha que é o programa que a gente fez?
+O que a gente vai botar aqui?
+Exemposar os plannedos,
+você pode eternificar o observation do möglichst rápido,
+no quarto denial?
+Tem закрыária,
+nãoapers,
+Aí aqui, 35, live 5.1 projet, dá-me, não é?
+Ela dá, mas a gente acabou bem feito pingui, mas é do 7.
+Aí aqui, nosso main.py.
+Main.py configura aqui, eu não vou botar, mas enfim.
+Aí, ok, a seta.
+E aí depois a agenda, depois se você consegue ver aqui no Toventilei, mas aqui tem todas as tarefas que estão
+agendados no meu contador.
+E aí ela aparece já aqui embaixo, né?
+Então, os as tarefas são sonativas.
+Ela parece aqui, sim, por exemplo, eu acho que é por aqui que ela parece.
+Mas se você consegue ver, depois essa foi executada ou não.
+Então, é isso?
+Não tem muito segredo, pessoal.
+Muito legal, mas, finalmente, assim, bem útil do link, os né?
+Na verdade, isso no Linux e no Mac, a gente consegue fazer com um link com o mando no terminal,
+que tem uma linguagem para programação de discrepes, né?
+Porque a gente chama da Chrome, a gente consegue nessa linguagem para ação os parâmetros.
+Se não é Chrome executa com coisas no Mac, então, quem tem Mac, que quiser bem cá, também consegue.
+A gente conseguir ele também fazer via WCR, que é uma forma de emular um servidor Linux dentro do seu computador também.
+Mas, no fim das contas, é isso.
+Então, agora aqui, nosso main.py, como o main.py, está bem filho aqui para rodar a função,
+ele já executa o que está aqui.
+E aqui, a gente está fazendo todas as informações locais.
+É isso, pessoal.
+Então, nossa ideia era essa, um projeto para fazer uma análise e agendar, ela mostrará como que a gente,
+que este é agendamento, aqui a gente fez a integração enfim.
+Esse é um exemplo de arquitetura, né, da própria deixar bem bem mais robusto, aqui a gente não tem,
+por exemplo, um ambiente que a gente amazena as bibliotextes não está usando,
+mas deu para ter um gostinho, né, então, primeiro gostinho de cometão repositor,
+o segundo projeto da semana que vem vai ser mais complexo, a gente vai botar a mão na massa,
+a gente vai conectar numa peí, então, é um pouquinho mais robusto, mas vai ser bem legal também.
+É isso, pessoal.
+Então, espero que vocês tenham gostado, né, é isso com alguma dúvida,
+muito com alguma dúvida, tranquilo, tudo certo?
+No certo?
+Então, é isso, o senhor esvaleu, pessoal, já te há boa noite para quem está assistindo também,
+depois da gravação e a gente se vê na semana que vem, segunda feira.
+Valeu, Bruno, bannou a gente, ta segunda.
+Valeu, salvo.
+No bannou a gente.

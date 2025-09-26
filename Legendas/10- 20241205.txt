@@ -1,0 +1,2212 @@
+que eu nunca mais faço isso, né?
+Mas agora vai dar-se.
+Então,
+eu vou compartilhar a minha tela aqui.
+A gente vai fazer a atividade prática,
+vamos hoje vai ser, então, uma aula mais leve,
+na segunda, a gente fez uma aula ali,
+a história, a passão, um pouco vários pontos,
+sobre a manipulação de dados,
+então a gente começou a entrar no detalhe,
+de que a gente vai ter que fazer com os data sites?
+E hoje que não a gente vai começar,
+é, tenho primeiro contato,
+a gente vai fazer aqui o nosso primeiro,
+é, a gente chama de lábio,
+a gente faz uma atividade prática juntos,
+então,
+a gente vai começar hoje quando a data site bem conhecida,
+pelo certeza que,
+se vocês não viram ainda com certeza,
+vocês vão ter contato com ele,
+e é bem legal para a gente
+me dergurar o enteirias
+com esses pais conceitos na prática,
+e, enfim,
+a ver basicamente que a gente fez na segunda-feira,
+então, eu vou só preparar aqui,
+é, com o berto,
+então, agora,
+vocês estão vendo pessoas?
+Acho que sim,
+está para você, daqui.
+E vamos lá,
+então, hoje a gente vai fazer
+a análise de dados do conjunto de dados do Titanic.
+Esse é um conjunto de dados real,
+então, é o conjunto de dados de todos os passageiros do Titanic,
+é meio moroso,
+mas a variável do pessoal uso como variável óvon,
+então,
+é feita para focar as nossas análises,
+é a variável de se a pessoa sobreviver ou não,
+e a gente já vai ver o porquê.
+Mas então, ainda,
+a gente tem um primeiro contato,
+esse é um data frame muito, muito conhecido,
+então,
+vocês podem usar eles para fazer
+pessoas de sentidade,
+para criar modelos de previsão,
+ou de legislação,
+pessoal para analisidade,
+por exemplo,
+para analisar.
+Mas o que a gente vai fazer hoje,
+é tentar analisar os principais fatores que levam
+um pessoal sobreviver ou,
+hoje a gente não vai chegar tão nesse nível,
+mas vai dar uma paninha e quem quiser
+me regulhar também,
+e ficar montais.
+Mas a nossa mais a que a ideia também,
+a gente tem o primeiro contato com a mente,
+do Google Colabi,
+então,
+esse é uma mente que a gente vai desenvolver alguns nossos projetos,
+a gente vai variar também,
+a gente vai dar uma coisa para o Provescoge,
+para vincinar para vocês,
+também,
+é outra opção.
+Mas o Google Colabi,
+é uma forma muito, muito versátil.
+Ele funciona,
+basicamente,
+como o Júpe Tenante Book,
+aqui vocês têm,
+inclusive, a mais opção da edade,
+porque o Júpe Tenante Book é em algumas partes,
+aqui,
+os pais de encontrar alguma coisa no código,
+a gente pode fazer a vista ao código,
+sem as diabetes,
+então, aqui a gente pode ter a pasta,
+e muito interessante dele,
+aqui a pasta,
+a gente pode se incronizar com um Google Drive,
+então aqui,
+por exemplo, a gente pode se incronizar com o Google Drive,
+da nossa conto Google,
+então qualquer aqui,
+porque eu só vou lá,
+eu consigo acessar aqui.
+Então, só só vai lá um arquivo,
+por exemplo,
+em nosso caso aqui,
+a gente vai usar um arquivo CSC-B,
+que vai ser para púlinhas.
+Então, a gente pode só vai
+ir lá no nosso Google Drive,
+como qualquer um arquivo,
+e consumir aqui direto,
+no qual abre.
+Então,
+é uma ferramenta muito versátil,
+e na prática,
+como aquela funciona.
+É o Google,
+dá uma computada dos impregentes,
+então,
+ele dá uma engenha,
+que a gente chama,
+então,
+ele gada um back-end,
+então,
+que são um processador de 12,
+e gigas de RAM,
+então,
+a gente já falou,
+bem forte,
+então,
+a gente for ver a maioria das máquinas
+ele que saem gentrada aqui no Brasil.
+Hoje são 8 gigas de RAM.
+Então, a máquina é bem interessante.
+Não pense em que a máquina fraco,
+então,
+um problema é,
+é espaço no Google Drive.
+Então,
+então,
+o espaço limitado,
+que é o espaço gratuito ali do Google,
+vocês podem comprar também
+espaço da máquina,
+e, enfim,
+outra ferramenta muito interessante dela,
+é que ela,
+também,
+traz ferramentas de execução em paralelo.
+Isso aí é lá para frente,
+mas o Google forna é,
+esse pra gente,
+o opção de construção de placa de vídeo,
+que a gente consegue executar
+cogemos muito mais rápido.
+Então,
+é um ferramentas simbénavançada,
+que dá trabalho,
+mas,
+dá trabalho nem te montando um ambiente local,
+e o Google já forna,
+esse sim de mão beijado.
+Depois,
+vale a pena explorar,
+esse tem que vira aqui,
+é o tráutip de execução,
+e aqui a gente muda,
+está vendo aqui,
+a gente tá no CPU,
+usando Python 3,
+a gente pode usar em R também,
+mas aqui,
+uma das possibilidades é o GPU.
+E o GPU é a construção de placa de vídeo,
+se consegue usar muito mais rápido,
+mas tem que fazer também
+de vai ser adaptações no código,
+mas vai a pena,
+vai a pena olhar depois.
+O geral, vamos ficar aqui mesmo,
+no nosso mundo,
+e aqui,
+a gente vai ter o primeiro contato com o data frame
+do Titanic,
+então,
+já tem um esforado aqui na ferramenta,
+do colabe,
+a primeira coisa que já está ligada,
+no nosso computador,
+quando aparece o joinha,
+ele está ligado.
+Eu vou importar duas bibliotecas,
+aqui, o pão das,
+da uma mentada,
+para ficar mais claro,
+pessoal.
+Então,
+estendo meus bibliotecas,
+o pão das Iumu pai,
+vamos importar as duas,
+e aqui a gente tem o caminho,
+da pasta,
+de uma no repostória,
+que do Guit de Hub,
+mas é um consfocinho,
+um lugar que vai interrer,
+é a gente que está salvo noço,
+é arquivo USB.
+A gente vai ler ele usando o método
+e de USB,
+porque ele é um USB dentro do pão das,
+e aqui,
+o legal que a gente consegue armazer,
+não há dentro de um data frame,
+o Google vai executar,
+agora vocês vão ver,
+ele dá uma mentagem,
+aqui foi muito live,
+não é?
+Não deu bem para sentir,
+mas dá para monitorar,
+então, bem legal,
+finalmente.
+E quando a gente tribe aqui embaixo,
+a gente já tem
+a monetização do nosso data frame.
+Então,
+beleza,
+vamos dar uma explorada,
+aqui da Tha Frame,
+para a pessoa que não está
+muito acostumada ainda com parte,
+eu só deixei no cara,
+é muito parecido com a tabela,
+não é que isso é,
+ou qualquer tabela que você pode imaginar.
+É, qualquer tabela,
+esse carácterismo por tecolones e rinhas,
+então,
+aqui as colunas são as variáveis,
+que vão definir as características,
+e as linhas vão ser cadentrada,
+cadentrada,
+vai ser uma nova pessoa,
+aqui no caso,
+e as colunas vão ser as características
+associadas àquela pessoa.
+Então, aqui a gente tem primeiro passo
+um idê,
+um idê na mais,
+é porque não cpf,
+como dizer assim na base,
+em um número que ele a gente fica,
+cada pessoa,
+e,
+que a gente,
+SUV-vive,
+que é justamente que a gente falou,
+você é pessoa sobreviver ou não,
+tem classe,
+é a classe que a pessoa tava no
+tênia,
+que então se ela estava na primeira,
+segundo a outra esse era classe,
+o nome,
+o sexo,
+então,
+se ela era homem ou mulher,
+a idade,
+então a idade,
+nada,
+da pessoa,
+a gente tá vendo aqui,
+a idade tá em número inteiro,
+não tem nenhuma idade que é brada,
+interessante.
+Então,
+provavelmente não devia estar em flote,
+e aqui no sexo,
+eu já vejo,
+por exemplo,
+que tem meio,
+que é homem,
+é em minúsculo,
+e maiúsculo.
+Então,
+isso aqui já,
+já um problema muito característico,
+porque,
+e se acontece em um entre de duas linhas,
+que,
+é no colunas sexo,
+ele tem dois valores,
+que quer dizer a mesma coisa,
+meio,
+e ela só tem o minúsculo,
+é em maiúsculo,
+então,
+quando a gente agrupula,
+se fica separadas,
+não é importante a gente
+padronizar aqui, né?
+Seglim esse peça,
+eu não me engano é o número
+de filhos que a pessoa tinha,
+né,
+seglim esse,
+eu acho que é filhos em inglês,
+então,
+é quando todos os quantos filhos
+a pessoa tinha,
+não havia um filhos ao pais, né?
+Eu acho que é,
+tipo,
+relação direto,
+parxonou,
+lembro o que quer,
+mas não é não é relevante
+para a gente,
+tinha que estar bem,
+não é relevante para a gente,
+isso aqui é bem relevante para a gente,
+que é o fair,
+pera,
+quanta pessoa pagou a passage, né?
+O preço da passage,
+e aqui a gente já viu a presa da passage negativo,
+né?
+Então, já chama atenção,
+você que provavelmente também não está correto,
+porque,
+quem era a gente pagar se receber se pra viajar,
+eu contrai a gente,
+pagar,
+caro,
+e,
+cabinho também é a cabinha da pessoa,
+é em marketing,
+é isso aqui é legal,
+é o porto que ela em barcote,
+também,
+nada,
+que foram três portos que o de tênico passou,
+antes de partir,
+para produzir,
+não quer a nova maior,
+que não,
+então ele passou ali,
+essa é o femp,
+estão sendo me engano,
+se é cá,
+e tem algum outro também menor,
+então ele passou para alguns portos,
+antes de partir,
+para,
+é,
+para,
+não vai eu,
+então beleza,
+esse é o nosso data frame,
+a nossa ideia é que é,
+a gente vai analisar,
+então alguns fatores,
+e eu quero ouvir de vocês agora,
+a gente já olhou aqui nossa base,
+é,
+são aqui,
+aqui interessante,
+né,
+a gente pode dar um hatch,
+para ver assim que o primeiro eslinhas,
+a gente acabou fazendo aqui com ele com plet,
+o shape,
+é uma coisa que eu sei por gosto de deitar,
+porque ele dá uma limão,
+deve,
+ponto shape sem nada,
+né, sem ensinado,
+se é o botão,
+como é uma tuta,
+se eu botar um shape zero,
+eu vou ter a quantidade de linhas,
+então aqui eu posso ver a quantidade de linhas,
+mas que está demorando a execução,
+então aqui eu consigo ver a quantidade de linhas,
+e se eu botar um,
+eu vou eja a quantidade comunas,
+mas no geral eu não preciso botar nada,
+eu deixo da shape,
+porque eu vejo aqui,
+eu sei que meu e 98 não vai ser colunas,
+então eu já vou me dar para a sensação,
+que você,
+são o meu e 98,
+de minhas e dois colunas,
+aí dá para ser tempo ideia,
+ali do tamanho,
+um do data frame, né,
+é,
+vamos continuar aqui um pouquinho,
+eu vou pedir ali de vocês, já já,
+agora aqui no describe,
+o describe,
+pessoal,
+sempre recomendo toda vez que pegar,
+fazer esse passa-pass,
+pega da amolada,
+da amas porada,
+viu formado,
+viu quantas linhas tem em quantos colunas,
+mas o primeiro passo,
+para começar realmente analisar,
+eu describe,
+que no describe a gente consegue,
+tem muita informação,
+a entrocca de muito pouco cóteo,
+então ali,
+uma gente tem aqui,
+um data frame,
+a gente vai ter,
+o método ponto de describe literalmente,
+e ele vai passar,
+em todas as colunas no méricas,
+nós data frame,
+ele vai passar informações importantes,
+mas eu vou passar aqui,
+uma dica para vocês como,
+a gente pode ler isso,
+aqui em o count,
+é a quantidade de valores
+vários dos pra cada colônia,
+antes de tudo,
+aqui a gente tem as colunas,
+no que tem números no nosso data frame,
+primeiro passo,
+para interpretar que o count,
+ele é a quantidade de valores
+vários para cada uma das colunas,
+então,
+sem cheiolea,
+passe de HD,
+ele tem em 1998,
+e interessante que são em 1998,
+ninhas do nosso data frame,
+então isso quer dizer o que,
+que todas as linhas de péssara de HD,
+então preenchidas,
+para a sua viva,
+e também,
+agora,
+para a peclas,
+a gente tem alguns passageiros aqui,
+da 15 e 115 passageiros,
+que não tem a plaza preenchida,
+tudo bem?
+A gente vai tratar isso,
+mas no prinquanto,
+vamos ficar só,
+a guarda essa fação,
+o que o a peclas tem,
+tem valores faltantes,
+aí,
+da gente também tem valores faltantes,
+é,
+se brinza,
+é SP,
+parte,
+não tem,
+e em fera que a gente tem,
+apenas 16,
+que tem valor,
+faltando.
+Em péssara,
+geral,
+a média não quer dizer muita coisa,
+porque,
+porque é uma média
+de uma imaginação se pegar uma lista,
+eu dou uma pessoa de fazer uma média de um CPF,
+por mais que um CPF seja um número,
+quando a gente quer,
+ele é um número basicamente para ação achável,
+para ação registra,
+não como informação,
+por trás desse número,
+diferente no survival,
+que é que a gente já tem 38,
+que você vai ver,
+ponto tem que ter o 88,
+mas é uma média,
+considerando que o survival de um avariado,
+o zero ou um,
+se a média dele é 0.38,
+é o que esporte significar,
+já é uma informação muito melhor
+para a gente,
+solhando a média do survival,
+ela é 0.38,
+alguém tem algum pau pich,
+e não muita gente sobreviva.
+Exato,
+é SP,
+exato do anilborco,
+é palpaulim,
+tipo, na verdade,
+não,
+não dá para falar que foi muita,
+é maior de um morreu,
+tipo,
+essa verdade dá para ver,
+mas não foi tão descrepanho assim,
+não, boa, boa,
+parte da galera do também sobreviva.
+Mas é isso,
+o que mais a gente morreu,
+porque está mais perto do zero,
+do que sobreviva,
+se a gente vai sobreviva,
+eles estaria mais perto do mundo também.
+De ziu padrão,
+aqui, nesse caso,
+também não quer dizer muito,
+porque é uma avariável binária,
+então,
+o ziu padrão zero ou um,
+é só basicamente,
+a média que vai trazer uma sua pra gente aqui,
+mas agora,
+para a peclés,
+olha que com a média a gente consegue também a mesma
+em relação,
+quando a gente tem a classe 1, 2 e 3,
+a maioria do pessoal,
+por uma média de estar em dois pontos de 22,
+quer dizer que a maioria do pessoal
+estava ali na terceira classe.
+E faz sentido, né, igual a classe colonômic,
+não é verão,
+a maioria do pessoal vai,
+vai na classe colonômic.
+Mas aqui,
+nos padrão também,
+de zero para o outro,
+83,
+é significa que,
+que também tinha bastante gente,
+na primeira classe,
+com a gente,
+olha aí,
+e depois no gráfico,
+vai ficar mais claro de entender.
+É, o mínimo aqui não não diz muito
+que é um máximo 3.
+E aqui,
+o nosso pode ver,
+naquele momento,
+que eu não ia falar uma variabinar,
+zero ou um através do mínimo do máximo.
+Agora, a idade,
+a idade,
+a gente vai conseguir analisar
+todas as linhas do describe.
+A idade,
+a gente tem o 165,
+então a gente viu que a gente tem
+algumas linhas soltando,
+mas não analisas que a gente tem.
+A média de idade é 29,
+ponto 45.
+Beleza?
+Padrão,
+ali próximo nos 30 anos,
+a média do pessoal de Tanik.
+É, mas o seu padrão é bem alto.
+O seu padrão de 14,
+e ponto 43 anos.
+E o que isso indica o seu padrão alto?
+Realmente,
+o aumento de alto.
+Que tinham pessoas de várias idades
+diferentes.
+Então,
+se o seu padrão fosse de um ou dois,
+ali,
+vamos dar um exemplo,
+significa que,
+grande maioria do pessoal
+estaria realmente próximo da média.
+Então,
+seria o grande parte do pessoal,
+estaria com 29,
+30,
+27,
+28 anos.
+Então,
+estaria um...
+um...
+um...
+um...
+confusitação de população muito concentrada,
+é próximo da média,
+do 29.
+Como isso,
+não é verdade.
+Então,
+o gente tem que a gente vai ver depois,
+e são muitos pessoas velhas,
+muito pessoas muito bebês,
+também.
+Então,
+eles viupadrão acaba sendo mais alto.
+O mínimo,
+então,
+uma pessoa mais jovem,
+igual a gente fala...
+E a gente vai arrever agora,
+tinha um bebê de 0,42.
+Então,
+pro lado,
+que fosse um bebê,
+não,
+ainda,
+a idade,
+e,
+de meses,
+25%,
+isso é o percentio.
+É o primeiro quartil da nossa mostra,
+e significa que,
+até 25% das pessoas,
+tinha um 20 anos.
+E vai ficar mais claro agora,
+quando a gente olha 50%.
+Os que o 80% é,
+o ponto que de vídeo,
+a nossa mostra em dois.
+Ou seja,
+50% das pessoas,
+sejam mais de 28 anos,
+e 50% das pessoas,
+que são menos 28 anos.
+O ponto de 75% é 38 anos,
+ou seja,
+até 75% das pessoas,
+se tinha 38 anos,
+e, de 35% das pessoas,
+tinha mais de 38 anos.
+E aí,
+já é fleite também,
+outros fatores,
+aquela época era...
+A idade mais da população era muito menor.
+A expectativa de vida da população era menor,
+então,
+vai sentir também
+por tratar de uma viagem
+em transatlântica longa,
+que não fosse uma população
+com idade tão avançada.
+Por isso que a gente viu
+uma mediana ali muito
+para sua matrínita,
+uma população muito jovem assim, né?
+Hoje a gente vê
+o pessoal
+com o itentaneos costindo a vida,
+né?
+Viam, o mundo, tá?
+Então ali eram outros tempos.
+Mas de fato,
+tinha o pessoal de 80 anos,
+e agora falei no Titanic,
+tá?
+A era a pessoa mais velha,
+a gente tênia aqui.
+Se cibrem-se,
+a esperem tão a média
+de dizer a ponto de 52,
+a medida de...
+próxima entre
+não ter um filho,
+mas a gente vê o vídeo
+padrão muito alto,
+que a gente fica também
+em que tinham famídeas grandes.
+É, aqui eu falei
+na família se com até oito
+oito pessoas.
+Então, de uma família
+bem grande lá no Titanic,
+também.
+E agora o Ferro
+parte não vamos analisar
+a vô no analisar o Ferro.
+A média,
+o preço foi 29.27 dólares.
+Parece muito barato,
+né?
+Mas quando a gente bota em fação
+isso naquela época,
+eu gostaria que
+que viacê é um dos mil dólares de hoje,
+não sei.
+Mas de viacê é muito dinheiro
+é na época
+clé época 32.
+Um dos viupadrão
+porém bem a auto-peção,
+de viupadrão de 48.
+Por que que desveu padrão é alto?
+Por que provavelmente
+essa média
+ela tá sendo puxada
+pra cima
+por algum
+alguém que pagou
+uma passagem muito
+muito caro.
+Então,
+isso como a gente tem
+uma passagem muito muito caro
+e passar isso também bem baratas,
+o que vai acontecer?
+A média vai ficar
+ali no meio, né?
+Então, a gente vai
+todo mundo
+é metade do pessoal
+pagando mil
+e metade
+pagando
+50.
+A média vai estar
+na metade do caminho
+e a média vai estar ali no que
+a gente se encontre.
+Por favor,
+mesmo que ninguém
+tem pagado
+que a gente se encontre.
+Mas nesse caso
+o desviupadrão vai ser
+grande.
+Porque uma passagem vai pagar
+sem o trapaixa
+para pagar mil
+mas no fim a média vai ser
+a gente se encontre.
+É mais uma vez
+isso que aconteceu aqui.
+A gente vê
+25% das pessoas
+a gente tem
+menos 88,
+a gente viu que a gente tem
+algumas
+aostras erradas
+então em possível pagar
+uma passagem negativa
+de novo.
+É 25% das pessoas
+pagaram até
+7.85 dólares.
+Então,
+muito parato na imagem
+para pagar 7 dólares
+para viajar no
+trasatulântico.
+É
+e 50% das pessoas
+pagaram até
+3 dólares.
+Então, a média
+na gente pode ver
+estava muito distante
+da média.
+Isso ocorre
+em
+aostras
+que estão sendo
+muito puxadas
+por alguma
+que a gente chama
+de Aostra Láes, né?
+É
+em dia vai ver
+que é o exemplo.
+75%.
+Da
+das pessoas pagaram até
+3 dólares.
+Então, o que a gente
+avelma
+não
+um salto maior, né?
+Eles saem
+de 7 no
+no primeiro quartil, no
+peço
+em 25%.
+Então, eles saem de
+7 para 13.
+Então, metagens
+das pessoas pagaram até
+13.
+Metagens
+pagaram mais
+13.
+7.85%
+pagaram até 30.
+Mas
+teve uma pessoa
+que pagou
+que é
+em 200 dólares, né?
+Na época.
+Então,
+isso aqui, provavelmente,
+de ver se
+é uma cabine
+ou algo do tipo
+ou,
+enfim,
+pode ser algumas
+de se
+se
+se é capaz de
+apesar de
+apesar de
+se apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+apesar de
+se criar o modelo pagino
+analisário, tentar
+prever uma...
+o que que leva
+uma pessoa sobre
+vê o não?
+De repente, um preço
+de passagem muito alto
+e a pessoa sobrevive
+vai parecer
+que a empresa
+da passagem influencia
+muito, mas, no caso,
+vai ser só uma monstro.
+Então, nesse caso,
+de repente,
+é melhor,
+sento que está creando
+generalizar bem,
+tenta tirar ela
+da...
+da monstro.
+E vale a pena entender,
+eu sei
+que, para tirar
+valores noos,
+para ver se o valor
+ter errado,
+a gente tem que de fato
+ali, a moto,
+a gente tem que
+ver se está fazendo sentido,
+mas, no caso,
+aqui, a gente vai considerar
+que está certo que a pessoa
+pagou quem é entre 12
+dólares.
+E aí, isso, né?
+O describe a gente pode ver
+quando a gente sabe
+interpreter.
+É uma ferramenta muito, muito
+valiosa.
+Tem muita informação aqui
+na tela, e uma, um
+simples comum, né?
+O tanto que coisa que a gente viu
+tiver que ter
+em valores faltando aqui
+em peclas, em age.
+A gente viu, que a distribuição
+a maioria das pessoas morreu.
+E a gente viu
+que tem um dos viupadrão
+grande das classes, então
+também tem muita gente
+na primeira,
+tive o camége da população
+a 29 anos.
+E até 60%
+das pessoas tinham 28 anos,
+mas tinham um pessoal
+mais velho também.
+A gente viu que tinha
+o família de até 8
+integrantes.
+A gente viu que tem
+erros na nossa
+nossa presa da passagem,
+que não tem passagem negativas
+que não deveriam ter.
+E a gente viu também
+que tem um pessoal que foi
+bem guarato no Titanic,
+a media,
+na Segunda Pistenda
+as pessoas pagou
+mais têm
+a moestras que
+bem caras de 1512
+por exemplo,
+puxando para cima.
+Então, muito forna,
+em pouco cógio e isso é
+interessante para a gente
+quando a gente sabe
+interpretar, é uma arma
+bem útil.
+E agora passando
+para a moestra,
+isso aqui sempre,
+é outra forma bem interessante
+da gente viu da passagem,
+porque eu que acontece.
+As vezes quando a gente pagou da passagem
+ele vai estar ali
+de acordo com o período de tempo.
+Então, pode ser que no período de tempo
+os dados de diversas incertos
+e a partir de
+jogos momentos para alguns
+em ventres,
+como isso não ficar errado.
+Se a gente olha
+por exemplo, só o rede
+ou o seu o Teio,
+o que é o acauda
+o da passagem,
+a gente vai estar deixando
+de olhar o que está no meio.
+Então, o bom caminho
+é usar o sample.
+Eu sempre,
+a gente pega
+uma moestra,
+aleatória,
+seleciona linhas,
+aleatórias do da passagem,
+então, talvez,
+que a gente executa,
+vão vir um minhas diferentes.
+Então,
+isso é bem legal
+para a gente
+por exemplo,
+da uma espensionada
+boa no data 6,
+sem precisar
+também digital muito coge.
+Então, você vai ficar ali
+passando pelo índice
+se enrolando no índice
+aqui é muito fácil,
+a gente consegue dar uma
+bom boa explorada.
+Então, beleza,
+uma coisa que a gente viu,
+primeiro é coisa
+a gente viu que o sexo
+não está atpado a organizado.
+Estão das coisas que a gente
+vai fazer.
+A idade,
+está em número
+que vamos ver,
+vamos botar para no meu entero.
+Outra coisa aqui no porto
+olha que legal,
+aqui no sépio,
+quando a gente viu ali,
+no começo,
+estava só sC.
+Agora, tem port s,
+pode ter port s,
+pode que,
+então, outra coisa,
+vai ter que padrão
+exatamente a chasor,
+ela aí,
+que a gente sabe que ela
+só um mês vem formação.
+Port s,
+e s, só uma vez,
+uma coisa.
+Vamos ter que preencher os valores no...
+Então, vamos lá.
+As duas coisas que a gente viu aqui
+de cara,
+na coluna f6,
+então,
+vou dar uma metade.
+Na coluna f6,
+a gente vai acessar ela.
+Então, a gente vai chamar o método STR,
+que é para converter a string.
+Isso é bom fazer,
+tipo,
+ela provavelmente é string,
+mas aqui a gente está garantindo
+porque, com STR,
+aqui a gente consegue acessar
+o método loure,
+que é o método que a gente aplica
+pra as strings,
+pra converter elas todas para o minúsco.
+E o que a gente faz?
+Ou seja, a gente não atribui.
+A gente vê,
+olha aqui,
+vem só o da F6,
+olha aqui tudo o minúsco,
+mas se eu voltar no da F,
+olha o que acontece.
+Ela não foi efetivada.
+Então, o que eu tenho que fazer?
+Eu tenho que falar aqui,
+isso que a gente fez é igual
+à operação que a gente já acabou de fazer.
+E é isso,
+em é,
+ela vai ser efetivada.
+Eu vou dar aqui embaixo.
+Eu vou dar aqui embaixo.
+Agora, assim,
+pronto,
+padronizando agora,
+munitinho.
+Outra coisa que a gente viu
+e aí vamos fazer a mesma lógica de atribuir
+o que a gente está criando
+é pro embarque,
+a gente viu que a gente tem que tirar o porte,
+a gente nunca é o porte.
+A gente quer só ler,
+ela já resolve para a gente.
+E muito interessante,
+depois do porte a gente tem o espaço.
+Se vocês,
+em é,
+muita atenção,
+então,
+esse passeinho aqui depois do port,
+a gente vai ter que tirar
+o que fique exatamente da mesma forma.
+Então,
+quando a gente está trabalhando com estrem,
+tem que ter muita muita atenção,
+porque é literal.
+Se ela tem espaço,
+tem que incluir o espaço.
+Então aqui,
+não é de outra tirar a sua oporte,
+porque ele vai deixar.
+E aí vai te dar mais trabalhando,
+porque você vai ficar,
+porque normal e com o que com espações,
+e aí pode demorar para até achar esse problema.
+Então aqui no caso,
+a gente tem que tirar o porte e o espaço.
+Então,
+muita atenção também,
+quando a gente for usar o replay
+isso para depois não ficar perdido,
+porque tem dois queies,
+porque tem dois esses,
+pode ser também o espaço.
+E aqui,
+no caso a gente vai substituir,
+por nada.
+Então, como a gente fala bem de ter algo,
+eu vou pegar substituir o porte e o espaço,
+por nada.
+E o que vai acontecer,
+ele vai tirar isso aqui,
+e vai ficar só o que exatamente o que a gente quer.
+E vou atribuir isso ao embarque,
+e também.
+Pronto,
+matando aqui já,
+os primeiros ajustes.
+Vamos ver como é que ficou.
+E aí eu vou dar um sempre o dinógrafo.
+Agora, assim,
+sex padrana de desado,
+e o porto também,
+setinho.
+Então, boa.
+Galórios nuos.
+Agora vai ser o nosso ponto 2.2.
+Qualquer alguma dúvida,
+pessoal tranquilo,
+nas manipulações que a gente fez aqui no começo,
+e aí,
+na análise de via carinho,
+sobre o colab,
+também.
+O que é dúvida também,
+só, só enviar no chat.
+Beleja,
+seguindo aqui, então, pessoal.
+Aqui o DF info,
+ele é uma meta do muito útil,
+para a gente também,
+é o similaro describe,
+muito informação,
+o copo córdico,
+aquele traz o número de linhas,
+do nosso data frame,
+do 0,107,
+a indecciação do pai,
+que começa no 0,
+12 colunas,
+igual a gente viu,
+982,
+era o que a gente botava o DF shape,
+e aqui ele traz todas as colunas,
+a quantidade de valores no lunes,
+justamente o que a gente viu no DF describe no calo,
+a gente consegue ver aqui também,
+só que aqui fica mais claro,
+então,
+a gente tem 9803,
+8805,
+875,
+cabinho,
+também tem vários valores no os,
+porque aqui a diferença é que
+não dá só os valores no mérito,
+igual a no describe,
+e aqui ele dá todos,
+que cabem, por exemplo,
+é um variado catagoric,
+então, quando a gente bota no describe,
+o describe ele não,
+não vai botar ela,
+porque ela não estringa,
+mas não tem um leitra,
+então,
+ela não é interna describe,
+porque o describe,
+é uma na estatística,
+que está analisando o mérito,
+então, no faz sentido,
+botar numa variado string,
+que uma coluna que tem,
+variado ficar até golpes,
+então, por isso aqui no info,
+ela aparece no describe,
+não,
+mas,
+então, a gente vai ter que tratar ela também,
+vamos decidir se a gente vai tratar ela,
+no caso,
+no burro e comendo a recomendação,
+com o passo,
+se não tiver pelo menos 60,
+50, 60% dos valores prendidos,
+pessoal,
+não é legal trabalhar com essa coluna,
+porque,
+e talvez fique de figiitender,
+mas, pata no princípio,
+quando a gente está,
+preenchendo o valor no,
+a gente está assumindo a uma coisa,
+então,
+se a gente preenchendo com a média,
+a gente vai assumir,
+que é aquela pessoa,
+full ano,
+que não tem a idade,
+ele vai ser a média,
+então,
+é um exemplo,
+e,
+isso,
+pode gerar a problema,
+mas também,
+que a gente pode criar passos maiores do que é a pena,
+então,
+imagínem,
+não com os vendidados,
+que a idade,
+para 50% das pessoas,
+a idade,
+para não tem a idade,
+para outra 50%,
+a gente vai ter um problema,
+que se,
+de repente,
+eu tiver o,
+as ar,
+o,
+o, a casa,
+pegar desse grupo,
+tem uma idade muito mais avançada,
+do que o grupo que eu estou nem agora,
+eu vou,
+eu vou estar estimando a idade muito errada,
+então,
+o ideal é que você tem pelo menos ali,
+você sempre está 70%
+que o pessoal trabalha,
+para preencher,
+para te promestrateja
+de preenximentos valores noço,
+então,
+quando a gente tem 250,
+são cabines,
+seria muita loucura,
+a gente está aí preenxendo,
+quais são as cabines
+das outras pessoas,
+com base,
+só em 250,
+restados, né?
+Então, nesse caso,
+é uma boa prática,
+né,
+tem 250,
+de 1998,
+não dá,
+nem 25,
+de 1998,
+então,
+não vale a pena.
+E aqui eu vou passar uma sequência
+em indímetro dos,
+né?
+Esse aqui outro,
+outro característico do Python,
+a gente pode aplicar
+método dos nices,
+a gente conheceu do outro,
+e o resultado vai ser aqui no final,
+então,
+que vamos seguir pela loja,
+primeiro a coisa,
+a gente vai aplicar,
+vamos estar aqui,
+a gente vai aplicar o escená,
+que é o método,
+e olha que,
+pode fazer,
+da mesma forma,
+vamos fazer no junho.
+Então aqui o def,
+e isso não é o que ele faz.
+Ele pega
+para todas as colunas,
+e faz o verdadeiro falso,
+se for verdadeiro,
+tem valor faltando.
+Então lembro,
+porque a gente tem,
+viu alguns valores faltando,
+aqui é o verdadeiro,
+se falso,
+está preenchido.
+Em seguida,
+a gente vai aplicar a média.
+O que é a média faz?
+Lembro que a gente viu,
+lá,
+que a gente vai usar o zero-1,
+ele faz a mesma coisa que o trofaz.
+Então aqui a gente consegue a proporção,
+de valor soltantes,
+para cada coluna.
+Muito simples,
+devem esnaminar,
+a gente consegue a proporção de valor soltantes,
+porque vai ser a quantidade de tru em relação ao total.
+É,
+e o próximo passo,
+a gente pode usar o sorte velhos,
+com a senhora de golfhouse,
+aqui basicamente para a motar do maior,
+para o menor,
+então,
+vamos ajudar um,
+são tibários,
+a senhora de golfhouse,
+para vindo o menor,
+e que eu vou deixar a bonitinha aqui,
+para o meu modo da homenómeno,
+da coluna, né?
+É,
+a legal aqui outra coisa também.
+Olha aqui,
+se a gente quiser fazer os nossos índices,
+né, se reparar,
+são as colunas,
+se a gente quiser,
+por lá elas,
+para ser em uma coluna,
+também, né?
+Tipo a coluna com um,
+vai ser tipo,
+coluna,
+o nome de cada uno,
+e a segunda coluna vai ser,
+a proposta,
+então olha aqui acontece,
+quando a gente volta
+em um resettinho,
+a gente joga para a direita,
+a gente pega o índice,
+que era Kevin,
+e a gente pecolosa,
+a gente já no para a direita,
+a gente cronvinha,
+fizeram um dos três,
+então,
+então bonitinha.
+E agora,
+a gente vai dar o remém,
+em colos,
+então,
+a gente vai renomir as colunas,
+aí,
+ao tamanho que o bichinho já tá ficando,
+agora,
+agora eu vou estar pra cá,
+falando igual,
+e aqui é o passar,
+como são dois elementos que eu quero passar,
+o primeiro vai ser a coluna,
+e o segundo vai ser a
+porcentagem nisso,
+eu vou passar em uma lista,
+lembra que a gente viu no primeiro modo,
+você tem que a gente quer passar a informação,
+que é mais de um valor,
+no pai,
+e que a gente usa nistas,
+o que a gente vai passar a coluna,
+porcentagem nisso,
+dentro do nosso rinem,
+o que a gente sabe vai dar o vivo,
+e o meio que que foto,
+listo,
+a gente não acha que ela tá,
+então,
+o pão é um dos igual,
+então,
+então,
+eu vou passar a verdade com o pão,
+e vou renomir a 1 por 1,
+porque aquele pédio,
+nesse caso,
+quando a gente tá pequeno,
+não tem que aplicar no púruno,
+então,
+eu vou aplicar um diçonário,
+do que a gente quer o antigo,
+do zero,
+o púruno,
+então,
+aqui a gente vai botar,
+você entar a gimícima,
+é isso que tava quiser,
+contrário,
+o zero colunho,
+e o 1,
+porcentagem nisso,
+o zero é o antigo,
+e o mísse,
+o pão é o antigo,
+o pão é o pão,
+então aqui,
+aqui,
+quando a gente vai lá,
+a verdade,
+então,
+pão,
+agora,
+quando a gente aplicar,
+ele vai renomir a,
+aqui,
+e o legal do funcionário que a gente pode passar,
+outro aqui dentro,
+então a gente pode botar,
+index,
+é,
+por lo,
+e tá,
+o trocanômico por nome,
+não,
+por opção,
+aqui nesse caso,
+não é possão,
+que quando a gente passa do dev.com,
+aí é possão,
+mas aqui,
+o game,
+qual é o que é o,
+a polícia que ele quer ter errado,
+a gente tem que passar no seu narro,
+então a gente passou o zero,
+o zero,
+o pão é o pão,
+e o indigo é que se virou colunho,
+então,
+de parana,
+então,
+o depara,
+e agora,
+a gente precisa,
+no final,
+é o outro métodozinho,
+bem fácil,
+para a gente filtrar,
+então a gente pode filtrar de várias formas,
+mas o mais fácil,
+talvez seja dentro dele mesmo,
+o cuéreo,
+a gente passa para metrocóreo,
+a gente pode chamar,
+por exemplo,
+por centagem míssim,
+se aqui,
+a gente tem,
+a gente tem,
+a gente tem a gente,
+mas,
+ela,
+é,
+ela,
+a parinha,
+então,
+que a gente consegue vira,
+no pão das vidas,
+mas,
+é,
+é,
+que é uma outra linguagem de bankitados,
+que consegue acestar o nome da coluna,
+e fazer,
+a nossa secoéreo,
+então,
+que eu tinha fechado,
+que é,
+por centagem míssim,
+por exemplo,
+então,
+por exemplo,
+chengada,
+alta,
+é,
+porque nesse caso aqui,
+ela tem que ser realmente,
+é,
+que não está trabalhando com as
+que ela tem que deixar os gultas,
+você tá agimíssimo,
+ah, tá,
+não era isso,
+é porque,
+aqui,
+a gente,
+está agimíssimo,
+o primeiro nome,
+eu acho que eu estou um,
+é,
+aqui,
+a,
+bom,
+é,
+vai,
+é,
+bom,
+sete,
+agora aqui,
+a gente tem,
+e aqui,
+a gente pode a gente tá, né,
+porque a gente não é porque
+se eu quero pegar,
+a gente também,
+que a gente falou,
+é, que a gente vai,
+a um códigozinho para pegar as maiores,
+do que,
+zero ponto,
+dois,
+na 20%
+então,
+vou estar na grão,
+todo isso,
+e ele já fala,
+e aqui,
+interessante,
+olha,
+isso aqui não está a treilada,
+não queria,
+nem um objeto,
+depois de método,
+depois de método,
+depois de método,
+o final de deu rename,
+aqui o colo,
+a gente passou um funcionário,
+com de par, né,
+e depois,
+no final,
+a gente chamou o último método,
+o coelho,
+para dar uma filtrada,
+com base em um nome da colo,
+a gente fez várias,
+várias operações,
+mas a gente não queria nada,
+então,
+se eu quiser,
+se eu guardar e sei que eu vou dar,
+aí,
+eu teria que atribuir,
+então,
+botar um,
+porcentário,
+me,
+por exemplo,
+e a trebuy aqui,
+e aí,
+ele fica guardada para sempre,
+você quer um,
+uma um,
+bata frame, né,
+não beada frame,
+pequenininho,
+de duas linhas,
+duas colonas,
+mas a nota frame,
+a gente queria,
+fazendo várias métas,
+no nosso data frame original,
+mas isso,
+o que foi mais para mostrar,
+como que a gente pode fazer,
+várias operações na sequência,
+e o que eu falei,
+vamos remolver a colo,
+de que é,
+justamente,
+a gente se enfairir para setempteis,
+de setempteis por cento,
+de cento,
+de cento,
+de cento,
+de nossa mostrando.
+Então,
+como a gente pode fazer isso,
+é o método,
+é,
+de fazer de duas colas,
+novamente,
+indo na tribuição,
+a gente pode fazer,
+olha aqui,
+vamos criar um bf drop,
+no pôr,
+a gente vai passar a lista, né,
+aqui,
+o que gera um data frame igual
+que eu tenho,
+sem querem,
+só que eu que acontece,
+aqui não está associado a nada,
+para eu enfaite igual,
+pelação,
+eu tenho que me equinar
+a f, igual,
+da f drop,
+sem colos,
+e aí,
+sim,
+por enquanto eu não fiz isso,
+que é,
+ainda vai estar aqui,
+outra forma,
+deu fazer isso,
+e evitar ter que fazer o,
+da f,
+igual,
+eu prefiro porque geralmente
+seja estar escrevendo
+dentro do código,
+seta let,
+com o drop,
+pontos,
+igual,
+vai retirar que é bem,
+e depois,
+essa volta viga,
+em place,
+igual a tru,
+e isso é f,
+ao pressão,
+então,
+aqui deu para ver que,
+aqui,
+que vou com dois,
+pontos,
+agora deu certo,
+então,
+isso,
+aqui a gente é feitível,
+da mesma forma,
+do que,
+lá, sem,
+evita,
+né, você tem que fazer a tribuição
+ao da f, de novo,
+e aí agora,
+sem,
+sem,
+sem,
+sem,
+que não vale a pena,
+então,
+agora,
+não,
+que a gente vai fazer,
+que,
+f,
+e aí,
+contagem,
+tem dois,
+e dois,
+e três,
+e o que que vocês poderiam pensar?
+E aí, minha ajuda,
+pessoal,
+qual que seria uma boa estratégia para
+a gente preencher,
+a idade das pessoas que a gente não tem,
+é,
+com base nos dados que a gente já viu,
+né,
+no nosso data frame aqui.
+Espanhol,
+eu queria pensar,
+assim,
+não tem idade,
+mas assim,
+hora,
+misconstances,
+a gente poderia pensar,
+alguma estratégia para preencher aqui,
+né,
+não é?
+Bom,
+que seria uma estratégia,
+a gente poderia pensar,
+está,
+está bem avançadas,
+eu já vi,
+isso aqui eu falo porque,
+esse data saía muito usado.
+É,
+mas,
+o estratégia bem básico,
+seria usar a média.
+Então,
+sem,
+não tem a idade das pessoas,
+mas,
+na vida real,
+então,
+é um risco que a gente está correndo.
+Vamos olhar a gente tem diferença,
+mas,
+outro fato que é importante,
+a gente tem colar as são
+algumas características,
+ela cala pesando muito para mim,
+todo o repens,
+por uma,
+uma casa,
+muito tênia,
+que todo mundo era,
+os homens eram,
+os jovens,
+os mulheres eram velhas.
+Então,
+de repente,
+se eu fosse preencher para a senhora,
+de com,
+com 30 anos,
+estaria bem errado.
+Mas então,
+que a gente vai ter,
+para ver se tem diferença entre algum,
+algum fator,
+ele leva a ter diferença entre a idade.
+Então,
+que é um dos séxos quando a gente
+a grupo pelo sexo,
+a gente vai pegar a colonidade,
+e vai,
+a gregar para pegar a média.
+Então, aqui a gente está,
+a gente quer na média da idade,
+o sexo.
+E aqui,
+28 anos,
+para a mulher,
+30 promenas,
+muito parecido.
+Agora,
+vamos olhar a,
+pelo local,
+que elas,
+em barcaro,
+no porto,
+o repens,
+de espalho,
+no fronte,
+a gente só muda ali o sexo pelo embarque,
+né?
+Também,
+muito parecido,
+né?
+27,
+para 29,
+bem parecido,
+então,
+desvupadrão muito baixo.
+E,
+de repente, pelo,
+classe,
+da pessoa,
+isso acho que vocês acham mais sentido.
+Pelo esperê-se,
+quando vocês vão na primeira classe,
+lá do avião,
+e algo,
+vocês são que já viam pela primeira classe,
+né?
+Eu viam uma vez,
+quando eu fui para a Argentina,
+tinha a primeira classe,
+bem avançada,
+assim,
+com mais de 70 anos,
+hoje eu viam pessoal,
+para o costinavida,
+já, já trabalhou muito,
+para chegar ali,
+então,
+faz sentido,
+com esse pessoal,
+faz sentido,
+a gente usava,
+por exemplo, aqui,
+pela classe.
+E,
+essa, assim, é uma boa estratégia,
+porque,
+olha aqui,
+quando a gente volta pela média,
+exatamente,
+que eu falei,
+no Titanic,
+em 1995,
+era já,
+já era dessa forma aqui, né?
+O pessoal da primeira classe,
+era quem trabalhou mais para chegar ali,
+era a classe,
+extremamente chome.
+Então,
+24 anos,
+pessoal,
+o pessoal da terceira classe,
+era aqui muito,
+muito também,
+do primeiro a classe,
+era pessoal estava em
+fazer turismo,
+na gosto,
+na maior,
+então, o pessoal que estava ali,
+na terceira classe,
+estava em para,
+de mudar,
+para cima da mesma,
+então,
+com a cara e coragem na vida,
+muita gente iria estar no
+terceira classe,
+em condições bem precárias,
+então,
+o que acontece é,
+a classe,
+a classe,
+a classe é nova,
+é muito melhor para
+preencher,
+quando a gente agrupou pela classe,
+a classe é muito melhor para preencher
+a média da idade,
+do que eu tentar botar a média geral,
+que seria,
+acho que a gente viu que é
+trinta, né?
+do que,
+ou, por exemplo,
+escolhi pelo porto,
+pela idade,
+então aqui,
+nós, caso, por exemplo,
+aqui da senhora,
+a classe,
+que a gente fala,
+o uso,
+o com exemplo,
+tá, tá, a terceira classe,
+também,
+provável que ela seja,
+ou que ela é,
+também, o vazio pochasse,
+também,
+mesmo coisa bem provável,
+não tem a idade,
+mesmo bem provável que seja
+de jovem,
+e, por assim,
+assim,
+por assim,
+a gente tá fazendo
+previsões,
+mas precisam, né?
+Quero a gente tá preenchendo
+os valores nos,
+e também,
+a gente poderia usar
+as variáveis
+em condições também, né?
+Ah, dependendo a primeira,
+da classe,
+do porto,
+e também do sexo,
+sim,
+mas aí,
+se chega também num problema aqui,
+se tem que ver se você tem a
+a mostra,
+se eu ficiens,
+pra preencher,
+que não é repente,
+é, tem uma pessoa
+que entra no aquele porto
+da primeira classe,
+que é velho,
+mas dependendo naquele,
+na tendência,
+elas pessoas não,
+mas como só tem uma mostra,
+de repente não dá pra ver.
+Então, você pode agropar nesse nível,
+mas você também tem que ver
+se o grupo que você tá pegando,
+tem gente,
+isso ficiens,
+pra gerar ali uma mostra de confiança.
+E outra coisa também,
+em busca de quando o pessoal
+usa,
+eu ser no meu lugar,
+um dos pessoas que usam
+para fazer
+a cidade da sética,
+já vi,
+ela usa o título da pessoa.
+Então,
+se a gente for ver aqui,
+tem mister,
+mister,
+mister,
+mister,
+no Estados Unidos,
+a mulher que não casou,
+um pouco,
+tem um mister,
+também,
+não, não,
+não,
+e tem o MES,
+e com a MES.
+Então,
+se tem que pegar aqui,
+pegar a mostra maior,
+a gente viu outros cheatros.
+Então aqui,
+o mister,
+e o com o Roneu,
+tem gente que era militar,
+mister,
+mister,
+mister e mister,
+Mister,
+também,
+mister,
+o com o MES,
+e o MES,
+e o Mises,
+acho né?
+É mais velha.
+Eu acho que é mais velho. O é casada, é casada.
+MMA Reyes é quem casou.
+Quem casou. E ou menos, homem é todo mundo da mí, MMA,
+e mulher é solter, olha o que vamos me isso faz sentido.
+Se eu pegar aqui pelo texto, quem é MMA Reyes, 39 anos,
+tinha a dobra, assim, olha aqui, MMA.
+E aqui há de cima, ela tinha dezenove, porque ela era mez, então,
+eu não tinha casada ainda, tinha dezenove, olha só.
+Em 100 vezes, a maioria das miss faz sentido.
+São as jovens.
+A miss é que é o MMA.
+A miss, 14 anos, então, por causa de casar 14 anos, nem na lei,
+nem meu acessinho, acho.
+E no geral é isso, então, dá para você usar.
+E aí, é muito uma mansana de sequer, que era uma estratégia.
+Veu que você tem disponível para criar o melhor possível.
+E você pegar o pelo tido, você já tá pegar o processo,
+por exemplo, porque esse pegado homem é a místia,
+mulher não, mulher não, tem algumas clascações.
+E aí tem algumas outras clascações, por exemplo, tem alguns religiosos,
+por exemplo, bicho, então fica lá bicho, porque,
+por geral, em julgar pra fazer bicho, foi bem mais velho, então,
+você consegue coronel, eu tô meio cara pra chegar no seu coronel,
+não é um... não é uma hora aí da vida aqui, ó, se é tando, então,
+você consegue por algumas características saber a alguns inferências
+para apencher os valores nudos.
+Então, beleza, aqui a gente vai usar o...
+Vamos ver aqui, e o que a gente pode fazer?
+A gente pode pegar aqui, pessoal, da primeira classe,
+vamos usar o mistratagem para pegar o defe.log,
+da primeira classe, então, vamos pegar aqui na primeira,
+a ideia da primeira, a idade e a média,
+gente vai ver aqui, a gente consegue pegar,
+é vai dar o 38, né, que a gente viu que a média
+do pessoal da primeira classe não liga nisso, e ali,
+os outros, né, aqui, pra terceira, 28, 24 anos.
+Então, aqui a amazena, essas três, e o que a gente faz,
+a gente vai dar o novamente o BF-log, a gente vai pegar as linhas,
+que vai que a idade é nula, e a primeira classe,
+então, vamos pegar os são duas coisas, a idade tem que ser nulo,
+e a classe tem que ser nulo.
+E depois, a gente vai na coluna e isso,
+dentro da coluna e isso, a gente vai fazer a tribuia e idade,
+então, vamos botar aqui, a média, vai ser justamente isso,
+a amazena, a idade 2 vai ser a amazena daqui,
+e a idade 3, a gente vai chamar a anua que a gente vai preencher aqui.
+Então, depois, esse jeito, a gente vai conseguir preencher os valores nulo.
+Vamos ver, que acontece, 23,
+então a gente tinha, se am ago, 300, quase 300,
+agora a gente baixou pra 23, porque tem 23, porque tem pessoas que também não têm a classe,
+então, a pessoa tem a idade e não tem a classe também,
+e, para isso, que a gente vai fazer, cara,
+exatamente se você falou, então, a gente tem que ver,
+então, a gente tem informações por níveis, né?
+Então, o que carate que eu vou ter a idade o porto e tudo da pessoa, né?
+Não tem, nesse caso, então, a gente tem pessoas que a gente tem só,
+a gente não tem a idade, não tem a classe também.
+E o que a gente pode fazer para as pessoas, cara,
+a gente chegou a nosso limite, a gente não consegue inferir,
+a idade poderia fazer o que está até, de ver pelo nome da pessoa,
+e agora a gente falou que, nesse caso, a gente vai usar a média,
+que, por exemplo, a gente geral também na média,
+é um bom nunca vai ser também a pior,
+a inferência do mundo, né?
+No sentido de, eu falo que é melhor usar a média,
+que você chegar aí, não,
+gostei que o nome dela, estou sentindo 42, não.
+Então, é melhor usar a média, porque o número, o número da...
+O Bruno, tem uma dúvida,
+eu estou pensando aqui, tem alguns momentos,
+que vale a pena você, por exemplo, a idade,
+não é que eles que falem,
+vale a pena excluir aquelas inas faltantes
+para uma análise só de idade,
+e por isso, às vezes surgem alguns trabalhos,
+tipo, até preenchecem,
+não tem muitas alternativas,
+excluir aquelas inas, aí nesse caso,
+para fazer análises somente da idade,
+isso vale a pena alguns momentos.
+Tá vale, você, entesa,
+principalmente, para você tem uma noção,
+dá distribuição na idade, mas eu não sei se eu entei de apelhante,
+mas, no sentido de que,
+se eu não ter a idade, eu vou tirar fora.
+É, tipo, e só que aí se acaba perdendo os outros dados,
+se tirar fora.
+Por isso que eu pensei,
+em uma análise que você for fazer somente da idade,
+você separa um dataframe das idades e joga fora
+às que estão tão mulas, né?
+O que eles são para mim, também.
+Então, você quer analisar com a idade,
+e você não tem tudo, mas, né?
+É, é, acaba sendo,
+o ideal que nem se fala os forstas são,
+porque não foi muito limite de deixar
+de muitos valores soltando,
+até 20% de preenche,
+porque usando uma estratégia de preenchimento,
+igual a gente viu aqui,
+porque justamente porque,
+por, por esse outro fato,
+você falou que é aproveitado outras gariáveis.
+Então, quando você, ter não ter a idade,
+tem o por exemplo, assim, sobreviver ou não,
+é, o porco que ela entrou,
+tem o celular mulher, ou, me,
+eu tenho o, é, o, a cala acelatável,
+então, tem outras, variáveis que podem me acrescentar.
+Então, que a gente faz pra idade,
+é, a gente tenta ferir,
+pra, com base, no resto,
+mas é, fazer uma inferência,
+você é probabilidade, por,
+é, poderia também deixar no,
+e olhar, é, idade separada,
+pra ter uma visão só, só, só,
+de idade.
+Mas, no geral, é sempre bom se tentar
+criar uma estratégia de preenchimento.
+Aí mesmo que eu for fazer uma análise,
+somente da idade,
+que tem lá um gráfico, comparando as idades.
+Aí, o jaluso, é,
+essas idades modificadas, não é?
+Não, então, agora eu entendi,
+se eu, esse é um ponto,
+você não pode usar as idades modificadas,
+você tem que preencher e depurir,
+você não vai usar.
+Hmm?
+Porque, se não, esses idades também,
+mas, por, esse é outro ponto,
+quando você, tá fazendo a inferência,
+tá manipulando,
+as tribunções, eu concordo.
+Hmm.
+Então, deixe a prática,
+então, esse listo é um dos problemas
+de que eu vou fazer uma análise de idades.
+Isso chamou da Teleket,
+que é quando você,
+isso, inclusive, cara, bom,
+eu for no, no primeiro que isso,
+quando eu estava começando a minha carreira,
+eu, os carafalários,
+muito legal,
+mas, ser eu vou, porque você fez o,
+você preencher o conjunto de idades
+com antes de,
+essa treinar o seu modelo.
+Então, eu desculpa,
+com a fizanálise,
+preencher o conjunto de idades.
+Então, treinei o modelo,
+no caso, fizanálise,
+preencher o modelo.
+Eu devia ter feito análise,
+elas se de preencher.
+Então, isso que,
+a gente não pode fazer,
+também,
+não pode deixar que o modelo,
+outros poucos,
+que os dados,
+sejam analisados,
+sempre,
+com a preenvisão das nossas diferenças,
+né,
+sempre,
+fazer análise com que a gente vê,
+pegou o e-mail.
+E depois,
+a gente preencher os valores,
+então, acho que eu vou entrar na
+travôlita,
+hoje.
+E, a gente, agora no final,
+quando a gente preencher o com a
+média,
+para os que a gente não tinha.
+A idade foi o melhor que a gente
+consigo fazer.
+Então, a gente tentou chegar
+por classe,
+que foi a gente de vi uma boa forma de
+de agrupar.
+E,
+agora, a gente viu que sobre o que
+o e-mail,
+então,
+aqui,
+tudo preencher.
+Pessoal,
+vamos mudar uma pausa que
+de cinco minutinhos,
+só para
+buscar um aqui mais a
+água e,
+no final,
+a gente,
+vamos ver aqui,
+se a gente consegue matar.
+Eu acho que vai acabar
+sendo muita coisa.
+É, tem bastante coisa
+ainda para frente.
+Vai ser melhor,
+a gente deixar
+para a próxima semana.
+Mais é isso,
+a gente deu para
+ter uma boa estima.
+Acho que havia sendo
+muita toria.
+Agora,
+que a gente começou a botar
+a mão na massa mesmo.
+É,
+próximo passo.
+Vamos ter mais um alto aórico,
+para continuar funcionando.
+Vejam as alas na
+dez prime dois.
+Também,
+se aqui vai ajudar a
+muito vocês a fazer
+em projeto.
+Depois eu vou mandar o link
+lá no lutescode.
+E,
+sem uma hora que vem,
+então, a gente
+no nosso próximo atividade
+para a gente vai terminar.
+Acho que é melhor que
+o nosso próximo
+hoje,
+na hora de fazer o nosso
+tempo, o serebe começa a
+se descansar.
+Acho que,
+por hoje é só.
+Então,
+pessoal,
+todo espanhido também,
+qualquer dúvida sobre
+hoje,
+o nosso serebe com o que ainda
+não chaste,
+também pode me chamar.
+E,
+é isso,
+por hoje é só.
+Bom,
+hoje pessoal,
+veja vocês na segunda-feira.
+Bom,
+não é de problema,
+obrigado, lá.
+Valeu,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,
+tchau,

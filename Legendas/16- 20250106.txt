@@ -1,0 +1,2212 @@
+dados ali, seu primeiro contato, mas é a partir desse 24, mesmo que a gente vai
+botar a mão na massa dele como o compáito funciona para a gente utilizar
+na estatística desse objetivo, então a gente vai começar a se aproximar muito
+mais da análise de dados, proprenente do que da ferramenta Python, então a
+gente vai começar a focar também a estatística desse objetivo, que é o objetivo,
+o objetivo da sprint, na verdade não é passar propriamente por Python,
+o objetivo da sprint é mostrar como a gente pode fazer estética desse
+objetivo e o pai desse principalmente a ferramenta, que a gente usa para
+fazer isso hoje, impossível também falar de estatística desse objetivo,
+sem a gente falar sobre probabilidade, então a gente vai começar
+da uma pincelada também, sobretoria da probabilidade, vamos começar a falar sobre
+alguns exemplos e aplicações, entender como a gente vê isso na nossa
+o nosso mundo real e na nossa aplicação trabalhando como a vista e sentir
+estrange dados, então o objetivo de hoje, então a gente vai introduzir a
+estatística desse objetivo, vai ser o primeiro passo, a gente vai entender
+os tipos de variables que a gente vai trabalhar como a análise de sentige
+dados, fundamentalmente entender os tipos de variables para saber o que fazer em cada
+uma das situações, a gente vai entender o que é o misto grano e isso é a
+função, o est software vai ser nos nossos melhores amigos, vai fazer uma
+uma análise por atora, vai dizer para a gente muito sobre uma variável, então a gente vai
+ver no detalhe o que é o misto grano, a gente vai conhecer as medidas de localização
+e variabilidades, então as medidas que são fundamentales para entender sobre as
+colômas, basicamente, sobre as tribuições das nossas variables, então conhecem
+que você consegue entender muito sobre a variabilidade e sobre a localização de
+cada uma dessas variables, a gente vai saber de gente ficar justamente dados
+aciméticos a partir dessas medidas de localização, vai também saber de
+ficar valor exatípicos, então valor que não faz sentido para nós com a gente
+dados ou que distou, e no final da aula, a gente falou, vamos fazer uma
+introdução principalmente sobre a teoria da probabilidade, então ela é um campo
+de estudos conhecimentos de notéisco, a gente vai tentar esumir que brevemente
+vão dar uma pincelada e falar sobre a teoria da probabilidade, como a gente
+enfim, usa ela com uma lista e sentisse os tejidados, beleza? Então, primeira pergunta
+para vocês e aqui para a gente começar a hoje a aula tem um crepe, veço e você
+sabe a principal diferença entre a estatística inferencial e a estatística
+descretiva, então são dois campos da estatística, então são dois tipos de estatística
+totalmente diferentes, e aqui é ver se você sabe a principal diferença da estatística
+inferencial para a estatística descretiva, então a o rei está falando muito sobre
+análise de descreptiva de dados, que é ver se você sabe qual a
+diferença da estatística descretiva para a estatística inferencial, então se alguém
+que seguime ajudar, se alguém que seguime dar o chat também, descretiva olha para o
+passado e quando vai inferencial, tenta aprender um fúmpere no futuro, como não me
+falo, é um abúrge, é um bom ponto de partida, que deve ser a bem
+consegue complementar, mas ela é excelente, ponto de partida, então a estatística
+descretiva está muito mais pra análise, então olha o passado, enquanto a estatística
+inferencial, a gente vai tentar prever ou seja, inferir o futuro, é um intermais
+alguma ideia para complementar, então vou ver o meu embalho, mas essa é a principal
+e da mesma, vou limpar aqui, a estatística descretiva ela envolve a coleta
+organização em análise, os dados para a estatística descretiva descrever as
+principais características que o conjunto de dados, então coleta a organização
+em análise, tudo isso é a estatística descretiva, a coleta apesar de
+parecer simplesmente a coleta tem muito importante quando a gente fala a
+estatística descretiva, porque depende principalmente de como que a gente tem
+aqueles dados ou seja, será que essa população que a gente coleta realmente a
+população será que a gente entrevistou todo o mundo, então essa ideia, ela é
+essencial para resumir, ter pretar informações quantos estativas, então
+qualquer principal diferença da estatística descretiva pra estatística
+inferencial, na estatística descretiva, que nem o jogo tá se falou, a gente tá
+analisando passado, ou seja, a gente tá analisando o que a gente já tem, mas que a
+gente falou também envolve o processo de coleta organização em análise, então esse
+volta a seleção de amostras, quando a gente vai falar, por exemplo, do
+cê-so do IBGE, por exemplo, é um cê-so é uma pesquisa que é para ter uma
+amostraja em autíssima na população brasileira, mas nem todo o mundo
+é entrevistado no cê-so, então qualquer ideia, a gente ter uma amostra da população
+e a partir dessa amostra, a gente analisar, então criar informação, a partir disso,
+através da estatística descretiva, a gente criar informação, a partir dessa amostra,
+e, por fim, depois que essa informação foi criada, a partir da estatística
+descretiva, a gente usa o estatística inicial para inferir sobre a nossa população.
+Ou seja, não é exatamente fazer previsões, mas a gente pode estar falando
+é dizer uma verdade, enfim, dizendo a população da lei não tem 60% de
+tendência em otar uma coisa de data total, ou a população brasileira tem
+uma, a desculpa, o índice de desemprego tem uma chance do Brasil
+é tanto com base em uma frente se estatística, então, não a população brasileira não
+é todo entrevistado para a gente ter uma ideia, por exemplo, do índice de desemprego,
+o que quer ocorre, o que se uma amostraja, a partir do qual é feita, análise descretiva
+dos dados, e em seguida a gente parte para a estrapulação, que é justamente
+usar infernência estatística, ou seja, que tem um ego, sempre que a gente vai trabalhar com
+o estatística, infelicial, a gente vai trabalhar com ego para voltar por resto de
+população e fazer inferências na partir do que a gente analisou na estatística
+descretiva, né? Então, elas são muito complementares a estatística inferencial,
+que a gente vê aqui, ela depende muito da estatística descretiva, mas ela também sempre
+trabalha com ego, essa é a outra das principais diferenças entre as duas.
+E aqui, voltando, o principal jeito que a gente pode ter e mais fácil de ter contado com a estatística
+descretiva ao trabalhar com parte, é o descrape, o descrape é a presagem para esse bem
+bem simples, é trás muito informação, de estatística descretiva para a gente.
+Algumas coisas que a gente se fala, a contagem é a média, então isso aqui já é um primeiro
+gostinho de estatística descretiva, é a média. Então aqui a gente tem quatro variáveis,
+esse que é complemento das petolas, esse é que é uma base bem famoso, complemento das petolas,
+largura das petolas, seja que sepa ou não sei, mas ela largura sepa ou é o complemento
+de sepa ou então que a gente tem a média, este é desde viu padrão, a gente tem o valor mínimo da
+mostra, a gente tem quanto mais cala é 25% ou seja, 25% do sepa ou a gente tem até 5-10,
+50% aqui, a mediana, então a mediana está sempre aqui, na 50% esse é de 15% e os valores
+mais, com isso a gente consegue ter o ideia do ponto, a mostra vai evoluindo, então a gente tem sempre um
+que é um com 25% e o valor botar aqui, tem que ele sempre um que é um com 25% ou o que é 2,
+isso é que a mediana, 50% e o que 3, isso aqui a gente é um de 4x, então toda a mostra,
+vamos se derando aqui, ela vai ter o valor mínimo, vou se derando que esse é o reenjivo valores para a
+mostra, ela vai ter o valor máximo, dentro disso a gente pode ter diferentes combinações para
+ter o que é 1, que é 2, e o que é 3, com 1, não é exatamente porque o valor mínimo mais é o
+e o valor máximo é 100, eu vou ter 25, 57, 55, com 1, as vezes a grande maioria está concentrada
+para a primeira parte, até a 10%, então, o que a gente precisa entender é como que dentro disso aqui,
+então, distribuidos os quates, que é 1, que 2, e que 3, e a estética descritiva, ela ajuda a gente de mais
+nisso aqui, agora vamos começar a falar sobre o chip de variáveis, deu para ficar tudo certo,
+pessoal, sobre a estética descritiva, eu falo os discrabens que a gente usa muito nosso dia de dia,
+mas não tem de conta, das contra a gente vai ver que, como eu vou luir na estética descritiva,
+eu vou luir o nosso entendimento, tanto os discrabens quanto na complexidade das análises que a gente vai fazer,
+perfeito, então vamos lá, tipos de variáveis, então a gente tem os tipos de variáveis, com chinos,
+discretas, e qual itativas, então, quando a gente fala de variáveis com chinos, elas são variáveis que assumem
+infinitos valores dentro de um intervalo, então o maravis exemplo que eu dou é, tem tem,
+como você pensar na maravis um cotinho, é que você sempre consegue quebrar mais um pouco,
+então, por exemplo, a nossa altura, o ninguém tem um metrio 80, ninguém tem o metrio 70,
+você vai ter o metrio 79, 5, 4, 3, 2, 1, você vai ter o número infinito, né? Então, o que a gente faz,
+é a gente arredonda, é a altura para duas casas no meio que as comunícias, né? Porque ninguém vai falar, eu tenho
+o metrio 79, oito 3, 4, 2, 5, não ninguém fala, então a gente fala já me tinha o meu item,
+mas no caso a altura é infinito, né? Se eu quiser ser cada vez mais preciso, adicionar casa no
+meio que a pra altura de alguém eu consigo, então no caso é porque há infinitos valores,
+entre o mais de 79 e o mais de 80, não a gente tem conconjaleço, então a gente tem a altura, peso,
+temperatura, é valor de vendas, então você tem que a gente fala de valor, isso é interessante,
+é o valor, o conveniência da humanidade, a gente assume duas casas no meio que está meio, então,
+a gente fala que as coisas são um em 99 ou o 2020 ou o 2019, mas na verdade, esse é uma conveniência
+no meio que, né? Muito mais fácil se trabalhar com os cidades, com duas casas no meio que os,
+do que infinitas casas no meio que os, mas não pôs de gasolina, por exemplo, não são duas casas no meio que os,
+e quem já comprou o bit com, é por exemplo, a ação sabe que é possível fracionar no meio,
+é que a gente não tem um faldo escarzo no meio, então a gente também considera geralmente valor,
+na indiener do que a dinheiro variáveis continuas, vai já ver de discretas, essas sims são aquelas contáveis
+em teras, então variáveis discretas são tudo aquilo que dá pra contar, ninguém tem, por exemplo,
+dois filhos em meio, ninguém tem um mulher em meio, então, ou você tem um não tem,
+então, é um ninguém tem, por exemplo, 13,4 com movidades, ou você tem 12, ou você tem 13,
+então, sempre que a gente vai falar de quantidade de beijículos, com a gente da de filhos, então esses variáveis
+discretas são as que a gente involve geralmente contagens e valores de números em teras,
+então, essa é a principal diferença, não são valores infinitos, são valores que a gente consegue contar
+um teras, essas são as variáveis discretas, as variáveis qual itativas, elas também são coisas como as variáveis
+categoricas, e elas saem pra representar justamente categorias ou classificações, e aí dentro dela,
+a gente tem dois tipos, então, as tem as qualitativas discretas, que são aquelas sem ordem ou oirar aqui,
+então, por exemplo, quando a gente vai fazer, é, vamos variar o catagórico,
+eu vou analisar um conjunto das populações brasileiras, se o olho é azul, veio de castan,
+isso não influencia, a curdo olho não influencia, se um pessoa é melhor ou não, um algo tipo,
+na teoria é só uma classificação, então, por exemplo, o curdo carro, tem uma base de dados,
+eu tenho a curdo carro azul, o irmêlio, o uso, isso é uma variável com a itativa discreta,
+porque, então, o que eu toro com a gente, não influencia na ordem, não a ordem, eu irá aqui,
+com base na casa categorizada, então, o tipo de beijo, celerar at, esse o V, esse é dano,
+então, algo tipo, um flegue, as fleguis que a gente trabalha bastante, que uma fleguis
+são pessoas trazou, não, para o meio desse fator, então, um ou zero,
+posso falar que os binários que a gente vê bastante, várias binários, elas são categoricas,
+elas não indicam uma aula de um irar aqui, mas elas indicam na verdade que, por exemplo, uma coisa,
+o comportamento e os eram o outro comportamento, quando a gente fala que são variáveis
+com a itativa ordinais, isso aqui é uma pergunta que é muito concurso também,
+principalmente, as qualitativas, ou de nas diferentes das escretas, elas também são variáveis categoricas,
+ou seja, elas são texto, geralmente, né, variáveis categoricas, não é a mesma edas vezes, elas são
+testas, não é que tem um entreáscoa, umasterística, não é porque não sempre,
+mas o principal ponto é que elas seguem uma aula bem ou irar aqui, ou seja, quando a gente vai
+passar uma base de dados, a gente tem o grau de escolaridade, se eu peço você tem de uma emergina,
+você perió ou mestradotorado, a gente sabe que por mais que seja um categorias, a pessoa que tem o
+notorado é a unívio assim, então, a unirar aqui há uma diferença entre aqueles categorias,
+é outra exemplo bem prática, né, que a gente vê bastante faixa etária, então, quando a gente vai falar de faixa
+detalhes, faixa etária de 10, 20 anos, 20 a 30 anos, 40 a 50 anos, são stringas, assim,
+foi pensar 30 a 40, 40 a 50, mas no fim de dia elas têm uma aula, elas têm uma irar aqui,
+então, é o principal ponto, né, a gente tem várias quantativas que são as categorias,
+discretas que não têm nenhuma ordem específica, e a gente tem as ordinais, que sim, também são
+categorias, mas neles, há uma diferença, como no caso do grau de acordar, de baixetário, por exemplo,
+uma patente, no caso do militarismo também, então, aqui, misqueminho, para ficar mais fácil, né,
+se são números, elas são quantitativas, né, são para contar alguma coisa,
+então, dentro disso, o intervalo pode ser contínuo, que a gente falou aqueles intervalos infinitos,
+então, aqui, altura, salário, inflação, tudo que tem dinheiro, entra nos intervalos continuos,
+e pode ser valores inteiros, né, e dá de, então, quando eu falo de idade,
+também, isso aqui é polêmico, porque não é mais idade de hora, mas que não é de idade completa, né,
+é um número inteiro, eu não vou variar do quantidade muito discreta, então, eu tenho,
+ninguém fala no geral, ou você tem 30 anos, ou você tem 29, né,
+então, você pode ter 29.5, e tal, mas no geral, a gente pode tratar também,
+como com a estativa discreta, a número de pregados, quantidade de meículos, tudo aquilo que dá para
+contá, né, então, vamos escrever aqui, tudo aquilo que dá para contá.
+Agora, quando a gente fala de categorias, a gente está falando de texto, principalmente.
+E, nisso, a gente pode ter uma hora de endeddo, então, são as qualidades ativos originais,
+e a gente está falando de escola da esfa chetaria, ranking algo do tipo,
+e quando eu não há nenhuma ordem, rassa, cur, sexo, profissão, quando as categorias são puramente,
+ali, categorias de chintas, mas é uma ordem específica, entre sí.
+Em beleza, tudo certo, então, agora, quando eu perço,
+então, então, eu vou passar aqui pro próximo passo, esse programa de frequência, eles vão ser alguns,
+vão ser uma das tal vez, vai ser uma voz nosso maior das amigas, como ali, sem digidados.
+E por quê? Eles representam a distribuição de dos dados,
+e isso, basicamente, são pontas vezes os valores aparecem ao longo daquela, daquela variável, daquela coluna.
+Em parte, nós podemos ao mais cotilível, se bom, para tirar esses programos visualiza essas frequentes.
+Então, qual que é ideia aqui? A gente tem uma variável, uma coluna, no caso, a nossa coluna é,
+a ciclo farém-se de uma árvore, e aqui a gente tem a frequência,
+que cada ciclo farém-se, ela aparece nos conjuntidados.
+E ele que, justamente a ciclo farém-se, em mimétrios,
+ela é o que a gente vai avaliar. Então, o que a gente vai avaliar?
+A gente vai avaliar como cada um desses grupos, desdere a 50, 50, a 100, 100, a 150,
+a 250, a 200, e 250, como que cada um desses grupos,
+ele aparece em termos de frequência nos nossos dados.
+O que diz, era 50?
+Vamos ver que, ó, o nosso grupo desdere a 50, ele apareceu 6 vezes.
+O nosso grupo desdre em 50, sem, apareceu 7 vezes.
+O nosso grupo desdre sem a 150, ele foi o que mais apareceu, apareceu aqui a 12,
+vezes. Então, o que a gente infere?
+A maioria das árvores, que a gente ama uma boa opacela dos árvores está entre 100 e 150,
+e milímetros de cinco ference.
+Quando a gente vai aqui, por 150 dosentes, já tem uma queda, o cai para 6.
+E quando a gente vai para mais ainda, desde 250, cada maior ainda,
+ela caiu para 4.
+Então, a gente vê aqui que tem um comportamento de subir e dese.
+Então, lembra bastante a gente a curva da distribuição normal.
+No caso, ao valor continuo separado em classe exatamente.
+O Instagram recebe, principalmente, no aspecto de pegar as várias condens,
+a gente separa em grupos, né, que a gente chama de Bings, aqui ó,
+em Glays Abin, mas no geral aqui, a gente chama de grupo, basicamente, ponto gays, mesmo.
+Mas no geral, é a usada também em Bings.
+E aqui a frequência de esses grupos dentro da amostra.
+E com isso a gente consegue ter uma ideia bem clara de distribuição funcionando.
+Com a ideia aqui no Fredo de G.
+A gente tem desse olhar 100 árvores, como vai ser comportamento da elas, né, então aqui no caso,
+a gente vê que o meu parcello é pequena, né, quando chega do 100, 150 acaba que concentra a maioria,
+ou seja, a maioria das árvores tem a circumferência meio,
+e algumas também tem essa circumferência alta.
+O que essa curva aqui,
+sem que for transportar ela para o gráfico, ela poderia ficar assim.
+Alguém consegue pensar em alguma gráfica que tem esse desenho aqui,
+da esquerda, como é o lado, né, mas,
+ou sem transportar o próprio gráfico, alguém consegue pensar em algum gráfico.
+Talvez tem um pequeno tempo, mais pequenas, pois jovens tem mais que veras.
+É, então, a idade, acho que o J.E.E.E.E.E.E, a gente também tinha idade, né, isso aqui é idade.
+É um exemplo que a gente tem isso aqui, olha, a gente tem poucas pessoas mais veras.
+Não, não sei se você tem idade, é pode ser idade, né,
+alguma população que tem a maioria da parcela está aqui nas idades médios,
+a gente tem poucos jovens e poucos pessoas mais veras.
+A distribuição brasileira é já da população brasileira pode ser assim.
+Mas, uma maior exemplo que a gente tem para essa curva aqui,
+que a gente chama o escuro normal, é altura,
+que a gente se identifica muito bem toda a nossa idade.
+Então, se a gente for pensar aqui, por exemplo,
+a gente tem um botar aqui, um metro,
+e 60.
+Aqui eu vou botar.
+Aí, se a exiginaria, a escala está pressor.
+Opa, que eu vou botar um,
+em 70, e aqui eu vou botar um ponto 8,
+e aqui um ponto 9.
+Então, deixa eu só pagar aqui,
+aqui vai ser um ponto 6,
+e aqui um ponto 5.
+Então, a gente tem essa extremidade esquerda aqui,
+todo mundo com essa alguém bem baixina,
+mas são poucos as pessoas bem baixinhas,
+e são poucas as pessoas muito altas também.
+Se a gente for pensar na maioria das pessoas com a gente com essa,
+elas não estão nesse gruto, porquê?
+Entre o i60 e o meu 80.
+A grande maioria das pessoas que a gente conhece,
+não tem um botar aí no zômes,
+entre o i60 e o i80,
+e nas mulheres entre o i50 e o i70.
+A grande maioria das pessoas não estão nesse grupo,
+que a gente for pensar assim,
+pro homem, o cara que tem mais de um gruto,
+a gente já fala que ele é alto,
+e provavelmente ele está nessa parte aqui da curva.
+Pra mulher,
+e tem ele em 150.
+A gente já fala que ele baixina,
+está aqui no homem com o mesmo i60,
+mas no geral, é isso, a gente tem na curva normal,
+a grande maioria dos grupos concentrados no meio,
+e a gente já está também a gente vê que a grande maioria
+concentrada no i50 e reduções de direção a extremidade.
+Exatamente isso que a gente vê que...
+E então é muito cuidado pra não confundir o instagram com o gráfico de barra, tá?
+São coisas totalmente diferentes.
+No instagram, a área,
+tem de finalizar a área,
+ela é 100% dos dados,
+eu vou até voltar aqui,
+100% dos dados e a gente está falando,
+não, 50% está aqui,
+20 está aqui,
+20 está aqui,
+5 está aqui,
+e 5 está aqui.
+Então, se que foi exemplo,
+mas enfim,
+se a gente são mais do que tudo,
+a proporção da 100% em relação a essas frequências aqui,
+se 12, por exemplo,
+ele pode ser em relação a quantidade total,
+ali, 50%
+então, ele tem correlação.
+Não tem que falar, não tem intervalos,
+os grafos que são coladinhos,
+assim que a gente acaba um,
+a gente já vai pro outro,
+diferente do gráfico de barra,
+que a gente tem espaços entre as classes,
+as variáveis aqui são bins,
+não são,
+aqui são maravilhos categóricas,
+quando a gente vai no gráfico de barra,
+e cada um das categorias,
+aqui a gente tem uns bins,
+justamente os rendes,
+né, de 0,5,5,
+até 15,5,5,
+e aqui a gente tem justamente a proporção deles,
+quando a gente olha pro eixo eixo,
+em relação a um outro tal,
+e aqui, portanto,
+não real ordenar as baças,
+porque a gente também tinha que ele que a gente falou,
+quando você imagina se pegar isso aqui,
+real ordenar,
+botar ele pro final,
+como se fosse crescendo,
+peja totalmente sentida,
+então, por mais que ser mudia aqui no eixo,
+seja o lado pra cá,
+a gente peja essa distribuição visual da proporção.
+No gráfico de barra,
+aí sim, vale a pena relegher nada,
+que fica mais bonito,
+não sério pra trabalhar melhor,
+por um neste,
+trabalha com os gráficos de barra,
+ordenados e,
+é como a gente falou,
+cada categoria,
+ela,
+o tamanho da coluna é proporcional,
+ao valor daquele dado,
+diferente daqui,
+que a gente tá falando do um total,
+aqui,
+cada coluna,
+ela é proporcional,
+a relação da categoria dela,
+e aqui no total,
+a gente tem essa é a principal diferença,
+aqui a gente não precisa ser a pegar a ordem,
+diferente daqui,
+que a ordem ela diz bastante coisa pra gente,
+em relação a com que é feita a costa de distribuição.
+Então, muito cuidado para não confundir
+de um estogramo com um gráfico de barra.
+O estogramo pode ser facilmente convertido,
+quando a gente olha,
+pra uma curva de frequência acumulada,
+então, a gente for pensar,
+aqui a gente tem um estogramo,
+então, a gente tem de 4, 6,
+6, 8, 8, 10,
+pode ver aqui que nesse caso,
+tem um variável de 0.2,
+a grande maioria acaba que se concenta nesse grupo aqui,
+de 4 vai de 3 a 7,
+e aqui a gente tem os valores extremos,
+parte do 7,
+e a partir do 3 para baixo.
+Então, mas,
+que é a nossa curva?
+Você a gente olha isso aqui,
+numa forma de uma curva,
+exatamente isso,
+e com a diferença aqui no da direita,
+a gente tem valorizado sobre os outros,
+quanto mais diferença a gente tem a gente,
+nem cidade,
+o que é isso?
+É frequência relativa,
+então, está vendo aqui,
+a usar 0.4,
+isso significa o que no ponto aqui,
+do 6,
+ele representou 40% na nossa mostra,
+ou seja,
+nem troquido,
+do queco no nosso estogramo,
+está 40% da nossa mostra,
+e quando a gente olha pra as variáveis,
+isso vai diminuir em um dão,
+aqui, 0.5,
+e o que são esses valores?
+Se aqui são os disvios padrões,
+pessoal,
+então, a gente tem os vio padrão,
+seja ele,
+pra baixo,
+ou pra cima,
+o que o menos,
+e o mais,
+a gente tem isso.
+Então, aqui,
+nossa média,
+por exemplo,
+essa é a entorno de 5,
+vai,
+a gente tem um desvio padrão,
+de menos 2,
+menos 3,
+por um lado,
+e menos 2,
+menos 3,
+por outro,
+e que nem a gente pode ver,
+quanto mais longe,
+da média,
+que é o 0,
+menor,
+é a probabilidade
+daquela mostra,
+o correto.
+Então, o lembro do que a gente falou,
+tem de pegar aqui a média
+da população brasileira,
+deve ser de 170.
+É,
+a probabilidade de uma pessoa
+tem dois métis,
+ela é muito menor,
+e essa pessoa é um desvio padrão,
+pra cima,
+um desvio padrão,
+positivo.
+Se a pessoa tem um métro de 50,
+ela também é um desvio padrão,
+só que pra baixo,
+não é o tamanho pra baixo,
+e com isso,
+ela também é bem provável,
+menos provável,
+e não é a gente ter alguém,
+de 1,5,
+então,
+a gente tem que começar a pensar,
+nessa noção de estograma,
+mas ainda em forma ação
+que ela traz pra gente.
+E como que a gente faz isso no pai,
+é bem simples,
+a gente pode fazer,
+usando o ciborne,
+ela é um biotechro,
+que nem a gente já falou algumas vezes,
+ele segue.
+Para fazer,
+a gente também se as análises
+tá típica,
+ele transforma esses gráficos,
+de uma forma muito mais fácil pra gente,
+ela é construída
+em cima do mais potilebe,
+é aqui,
+por exemplo,
+a gente chama
+este plot do ciborne,
+já tem tudo pronto,
+para criar esse programo,
+através do xiborne.
+A gente só passa a variável,
+que a gente quer,
+e quando a gente chama o cadeia,
+igual a tru,
+a gente tá falando
+justamente que a gente quer
+a nossa cúva de densidade acumulada,
+então,
+sem o cadeia igual a tru,
+a gente não tem esse cúnic,
+agora que a gente chama o
+lazplastilebe,
+para justar a gente voltar o título,
+e exibiu o nosso gráfico.
+Então aqui, por exemplo,
+a gente tem as barbatanas dos golfinhos,
+de outro nada sete,
+a gente vê que tem aqui
+bastante entre 190,
+e 150,
+a ele cai entre 200
+e 200,
+mas a gente volta a crescer de novo
+entre 200,
+2x20,
+por isso que esse aqui é um comportamento,
+acaba tendendo a ideal normal,
+mas tem uma pequena falhazinha aqui
+entre 200,
+e 200,
+e essa é anatureza,
+então, por mais que ela tem
+da distribuição normal,
+a gente vê que valores extremos também
+são mais em comuns,
+mês caso que
+ela tem uma pequena falhazinha no meio
+entre 200,
+pode ser enfim,
+que é a mostra esse aqui,
+quem é aí,
+e a corrispense,
+é o corrispense,
+principalmente,
+nessa coleta que a gente fez,
+mas pode ser também que de fato,
+os golfinhos,
+por algum motivo,
+caraturas,
+não sabe de só Deus,
+sabe?
+Não tem entre 200,
+200,
+mais tem entre 190,
+200,
+e 200,
+e 220.
+Então, é esse custo-ogramo,
+traz pra gente.
+Então, beleza?
+Agora falando,
+sobre medidas de localização
+e variabilidade,
+as medidas de localização
+já conhecem muito,
+onde eu falo muito das,
+principais são a média,
+e a mediana,
+elas indicam a tendência central
+nos dados,
+enquanto as medidas de variabilidade
+são a variança,
+e o desvio padrão,
+elas mostram a expressão nos dados.
+Então,
+quando a gente olha pra cá,
+para uma distribuição normal,
+a gente tem a média,
+a mediana,
+e a modo no mesmo ponto,
+porque,
+sem folhar aqui,
+ela é simétrico,
+perfeito.
+O que eu tenho pra esquena?
+Eu tenho pra direito.
+Então, a minha média,
+e a minha mediana,
+a minha moda,
+vai ser exatamente nesse mesmo ponto,
+porque eu tenho a metade
+para um lado, metade para o outro.
+Ele é espelhado,
+então, seu pegagem,
+esse aqui,
+dividir por dois rividades,
+exatamente no ponto do médio.
+E, afrecorneça,
+ou seja, a moda,
+ela corre com maior
+uma quantidade nesse ponto
+aqui específico.
+Então, ela também aqui.
+Mas o que ocorre no mundo real,
+nem sempre,
+a gente tem essa distribuição
+no mundo alpeira e feita.
+Então, aqui,
+a gente tem, por exemplo,
+uma distribuição no mundo,
+com a calda longada para a direita.
+E o que isso ocorre, por exemplo?
+A gente tem,
+se a gente pode pensar, por exemplo,
+nos salários das pessoas.
+Então, a gente tem
+uma grande maioria,
+o minoria ganha do muito pouco,
+e, scoopa,
+os salários das pessoas não é uma boa,
+não é um bom exemplo,
+porque a gente tem a grande maioria
+vendo o salário mínimo,
+e depois vai tá indo,
+quando a gente vai passando
+quanto maior,
+o salário menor da quantidade
+pessoas que ganham.
+Mas a gente for pensar aqui,
+a gente pode pensar
+na,
+não pensar no que tem um
+com o pouco longada para a direita.
+A gente pode pensar na idade
+da população de determinados países,
+a população tem uma média
+sim,
+lá por 10 anos,
+e a curva vai longando para a direita.
+Então,
+quanto,
+se a gente for pensar,
+na idade da população brasileira,
+essa média,
+ela está aumentando cada vez,
+mas para cá,
+porque a população está envelhecendo.
+E quando a média,
+ela está mais para o final da nossa curva,
+ou seja,
+mais para cá,
+o da direita,
+nos da nossa curva,
+aqui,
+vamos dizer que a nossa média
+está aqui,
+né,
+a gente tem valores
+mais altos,
+o chão da nossa média
+para cima,
+concorda?
+A moda,
+ela sempre vai ser no pico,
+porque,
+porque,
+esse é o ponto onde vão correr
+ainda a maior frequência,
+ou seja,
+a maior quantidade de pessoas
+ainda vão estar nesse ponto.
+Mas a gente vai ter uma média,
+puxando para cima,
+puxando a média um pouco para a direita,
+principalmente por causa dessa calda longada.
+A gente tem valores mais valores extremos,
+né,
+para esse lado,
+do que para esse lado,
+concorda?
+Então,
+nesse caso,
+aqui pela média,
+acaba puxando a calda para a direita,
+a média também acaba puxando para a direita.
+Você,
+quando a gente pega 50% de valores,
+eles estão aqui,
+e 50% está nessa outra parte.
+Então,
+essa ideia por trás das medidas
+tem desse central,
+elas indicam justamente
+a posição
+da média mediada,
+principalmente,
+em relação a autotáus dados.
+A variança,
+e o desempenhado,
+elas são medidas de variabilidade.
+Estas falando de dispersão dos dados.
+Então,
+que é a variança?
+A variança é,
+com distante cada número
+do data set,
+do ou seja,
+daquele conjunto de dados,
+está da média.
+Então,
+e também consequentemente,
+de ou seja,
+dos,
+de todos os outros,
+valores daquele,
+daquele,
+daquela comum,
+quando a gente está falando de
+todas.
+Então,
+com o que ele daí aqui por trás,
+da variança.
+Se a gente tem ali uma população
+de todo mundo tem um metro e oitenta.
+A variança é baixíssimo.
+Se a gente tem uma população
+onde,
+formada só para o pessoal de um metro e cinquenta,
+a metade tem mais cinquenta,
+a metade tem dois mais e dez.
+Se o concordo também tem a média,
+vai ser o meu eitenta,
+só que aí nesse caso a variança
+é muito mais alto.
+Porque também nossos viam padrão
+é muito mais alto.
+Então, a pessoa tem mais de cinquenta.
+Ou dois mais e dez,
+ela não dica o que?
+O mais que nossa média seja um
+e o meu eitenta,
+os nossos pontos estão fugindo muito da
+média.
+Então, os viam padrão
+vai ser muito alto nesse caso.
+Então,
+só consolidando,
+medidas,
+principais medidas de localização
+e varia habilidade a média.
+Então, a média é a soma
+dividido pelo total de valores,
+na inséria,
+em que o S de mais.
+A média,
+ela é presente o ponto de equilíbrio
+dos dados,
+ela é muito sensível a oitilais.
+Lembra o que a gente falou?
+A média de salada da população brasileira
+se folhar,
+ela está ali em torno.
+Acho que esquatro,
+se come mais.
+Isso não é verdade.
+Com a gente sabe que é grande
+maioria das pessoas ganham salar o mínimo.
+E o que?
+Porque você não acaba sendo puxado
+para quatro,
+para cinco.
+Porque tem pessoas também
+que estão ganhando o milhão
+e meio,
+que estão vendo dois milhões.
+Então, quando a gente volta
+a lista,
+você tem uma pessoa que ganhou um iion
+e uma pessoa que ganha mil,
+o salário médio delas
+é que a gente se cinco mil.
+Então,
+esse é o ponto na média
+ela é muito sensível a oitilais.
+A média não,
+a média na lovaloso central
+no João Conjão de Dades ordenado.
+Seu número de valores
+do nosso conjunto da Aempa,
+a média não é o valor do meio.
+Se ele é par,
+ele é a média dos dois
+valores centrales.
+Então, ali,
+se a gente tem por exemplo
+sem,
+ele vai ser a média
+lido do 49, com 50.
+A média é
+bem menos valores
+esses valores extremos
+e ela reflete a posição centrales da Azena.
+Então, o que nem a gente falou.
+Neste caso,
+ali,
+se a gente tem,
+por exemplo,
+pessoas puxam na média
+da população
+no salário brasileiro
+para 4,5 mil reais.
+Se a gente folha a média
+na conceitesa,
+ela vai ser 4,5 mil reais.
+A gente foi pegar ali
+50% da população
+nas glídeiras,
+da Ereania,
+até 2,
+e a outra ainda.
+Então,
+ela está
+a média na cama
+ficando bem mais baixo do que a média.
+E a moda
+que é o valor que eu
+qual é o frecouista em hoje de dados.
+Se a gente for pensar no salário,
+com certeza a moda
+de salário
+na população brasileira
+vai ser o salário mínimo.
+E que é de mim,
+em fim mil e quente reais,
+a grande maioria das pessoas
+ganham mil e quente reais.
+Por isso,
+a gente tem aquela cova de salário.
+Ela vai ser mais ou menos assim, né?
+A gente vai ter...
+Algum,
+a grande maioria das pessoas
+ganhando
+aqui
+o salário mínimo,
+ninguém,
+então,
+eu também esticando menos
+do que o salário mínimo,
+né?
+Que para a gente estar falando
+de salário registrado.
+E a gente vai ter
+com o curro bem
+comprido para direita.
+Então,
+às vezes a gente vai ter
+que a nossa moda vai ser
+aqui,
+a nossa média,
+vai ser,
+vamos probrar
+e a média
+na bfk,
+que é o bem próximo.
+A média na renda
+mil 167,
+aí viu que o Jonathan falou,
+a média da renda população
+deve ser bem mais alto,
+mas é uma média,
+vamos dizer assim,
+fausana,
+que é puxado justamente
+pelo cara que está aqui na
+ponta,
+ganhando o infinito.
+Um milhão de reais.
+E quanto a média,
+o salário mínimo vai ser
+milquese.
+Então,
+esse é o ponto, né?
+A média é distorce
+bastante os valores,
+e quando a gente olha a
+média,
+a gente olha principalmente
+para onde está
+o valor sem a posição central dos nossos
+dados,
+né?
+Então,
+eu sempre um
+um ano frasesinha
+a média,
+a 3.2 anos
+dos anos 22.
+Exatamente isso.
+Então,
+ponto é,
+quando você pensa na média,
+pensa 50%
+por um lado,
+50%
+por outro.
+No qual a gente fala que a
+média,
+do país é
+mil 167,
+a gente está falando
+que até 50%
+das pessoas no Brasil,
+dos mil militos militos militos militos militos,
+na época,
+até milo 167 reais por mês.
+Agora,
+a gente vai a habilidade
+ela é pro outro lado,
+na média,
+a despeção dos valores
+em relação ao meio,
+calclamar a média dos quadrados
+das diferenças
+entre cada valor em a média.
+Então,
+quando a gente fala isso,
+é,
+por exemplo,
+a gente vai ao quadrado,
+porque quando a gente
+tem a média de
+milhão e tenta
+quando eu pego
+o pessoal de um e 50,
+um e 50 menos um e o
+e 80,
+é menos 30.
+E dois mais de 10,
+menos um
+e 80,
+também,
+só é 30,
+30 positivo.
+Então,
+a gente vai ao quadrado,
+porque menos 30
+positivo ao quadrado,
+e 30 positivo,
+menos 30 negativo,
+e 30 positivo ao quadrado.
+Quando a gente alveva,
+qualquer número ao quadrado,
+mesmo se ele foi negativo de vida positivo,
+e aí sim, a gente consegue
+ter uma ideia da variância.
+Então,
+a variância ela diz independente de
+se estar para trás o
+prasinho da média,
+a gente consegue calcular
+aquela despeção.
+E o desempenho padrão de tira,
+a raiz quadrado dessa variância.
+E foi o representado
+despeção dos valores,
+na gente volta para aquela
+mesmoidade.
+Então, a gente alveva quadrado
+basicamente
+para desconsiderar
+a diferença para trás o
+pras frente,
+depois a gente tinha uma raiz quadrada
+para ter aquela
+mesmoidade dos dados original.
+Então, a gente que
+em média
+a distância dos valores
+de uma distribuição
+em relação a média.
+Aqui, mas um resumom,
+aqui é fome,
+a média é a soma
+dos valores
+dividido pelo total
+da mostra que a gente chama de
+ele.
+A variância populacional,
+é o que a gente falou,
+é a soma
+da diferença
+de cada um das amostras.
+Para a média,
+a média
+é isso aqui que a gente chama de
+lambda.
+Ele evado ao quadrado.
+Então, aqui a gente está
+pegando a soma da diferença
+de cada um dos valores.
+Para a média,
+ele evada ao quadrado.
+Dividido pelo população.
+E, no fim, a gente tira
+essa raiz.
+Que essa raiz aqui,
+então, aqui a gente está pegando a
+diferença. A diferença
+isso aqui, do valor
+para a média,
+ela eva o quadrado.
+Stoma todas as diferentes
+por isso que está o
+signal aqui do signa.
+Ele é uma notação
+para a soma, então, aqui,
+a média a soma de todos
+valores de que de prototáua,
+aqui a soma de todas as
+diferentes
+não evada o quadrado.
+E aqui a gente tira a raiz quadrado
+para levar na mesma escala.
+E no fim de novo,
+eu se viu padrão
+na mais é do que a gente
+tira a raiz quadrada de
+isso aqui para voltar
+para a mesma escala.
+Beleza, pessoal do
+o deprendedor.
+Não é, nenhuma matemática
+de foguetina.
+Essa aqui, na varia,
+não sei ela é basicamente
+que a gente falou de
+pegar diferença.
+A gente só ela eva o quadrado.
+E depois tira a raiz
+que a gente tem que
+não jeito de desconsiderar
+o que foi negativo.
+Então, beleza,
+aqui no pai,
+a gente tem algumas formas
+fazer isso.
+É uma boa ferramenta para
+usar também.
+É um pai,
+quando o pai consegue
+já tem tudo
+mais chica de innan,
+então, que no pai
+ele tem alguns metros
+para a gente aplicar, tem um
+minho, tem um medien,
+tem um var
+para varienas,
+mais de mediena e varienas,
+especificamente.
+O desvio padrão
+é o STD.
+A série,
+então aqui,
+ou quando a gente
+está falando de moda,
+a gente tem que pegar
+uma colonão do pão das
+e a gente
+a moda é uma propriedade
+das séries,
+porque a série são colunas
+do pão das
+e dentro dela,
+a gente pode chamar
+o mesmo ponto módio
+para pegar a moda de uma colonha específica.
+Então agora,
+a forma de dados acimétricos
+é os dados das
+cimétricos,
+eles são aqueles que têm
+o ronão de afalométricos,
+fibruições
+da uma cimétricos,
+é enquanto...
+ou para o que eu vou traque?
+Enquanto valorizativos
+eles são aqueles pontos
+fora do padrão,
+do conjunto de dados.
+Então,
+a gente ficar etratal
+esses aos lais,
+ele é crucial
+para análise de precisos.
+Então,
+vou volar aqui
+primeiras extribuições
+acimétricos.
+Não é porque a gente falou
+esquinas,
+é justamente um
+tempo em inglês
+que fala dessa acimétria
+ou não dos dados,
+né?
+Nesse caso,
+a gente tem uma mostra
+como a calda
+a longada para a direita,
+aqui no azul.
+No verde,
+a gente tem uma calda
+a longada para a esquerda.
+No azul para a direita,
+no verde para a esquerda.
+E no laranja,
+enfim, vêm meio,
+a gente não tem nenhum
+a longamento,
+é uma calda cimétrica,
+né?
+A gente vive aqui
+a gente tem uma calda
+acimétrica para cá,
+do que para cá.
+Então, a gente fala
+de distribuição acimétrica
+ou no acimétricos.
+É a calda
+da extribuição,
+né?
+A depender
+do lado,
+que ela é esse estica,
+ela pode ter
+uma cimétria positiva,
+se a calda
+se estiga para a direita,
+o que ele esquina é significa?
+Distribuição,
+não, esquinas é
+esse tempo justamente para falar
+de acimétria.
+Então, a esquina,
+se a minha goinga,
+acimétria.
+Então, aqui, quando a gente fala
+de esquinas,
+igual a zero,
+é uma expribuição cimétrico.
+Uma expribuição
+acimétrica positiva,
+ela é essa com essa calda
+a longada para a direita.
+Uma esquina,
+uma acimétria negativa,
+é essa com a calda longada
+para a esquerda,
+igual ao caso do verde aqui.
+Mas aí,
+essa,
+se consegue inver
+com a extribuição,
+se ela tiver,
+não foi espelhada,
+ela vai ter algum nível de acimétria.
+E aí,
+portanto,
+se entender,
+como um grande
+a acimétria
+é como que a mostra
+é distribuída.
+Balores atigos,
+eles são quem tiver um de outro laz,
+é que, por exemplo,
+a gente tem um gráfico de gosto,
+marcado por jogador.
+Esse é um gráfico,
+a gente vai ver demais,
+aqui é o longo do bootcamp,
+porque o gráfico de
+cacha e boxpot.
+Então,
+agora não vai entrar no detalhe,
+mas a gente vai falar muito dele.
+Mas,
+acho que a gente já está começando a falar
+na nossa ossiftação.
+Messe caso,
+a gente vê um ótimo laz,
+que é um pontinho,
+acho que a gente já conhece
+com um ponto fora da curva,
+algo tipo.
+Mas aqui,
+a gente tem um jogador que fez 20
+golos no capo arato,
+enquanto
+essa é a minha aqui,
+por exemplo,
+a média,
+desculpa a média.
+A gente tem uma média no
+aqui de um fim,
+cinco gores,
+quatro gores,
+praticamente.
+O quanto o cara marcou 20
+goesres,
+ele é claramente o ponto fora da curva,
+e aqui a gente vê,
+por exemplo,
+eu não vou entrar no detalhe do boxpot,
+mas é importante
+saber aqui, nesse caso,
+o que é essa aqui é a
+média.
+Essa,
+esse risquinho dentro da cacha,
+então essa aqui é a média,
+e aqui,
+a gente tem o nosso artilair
+esse ponto fora da curva.
+Então, beleza,
+como que a gente sabe o que é o
+artilair,
+então a gente tem a
+nossa primeira opção,
+é os a escolhe,
+os a escolhe,
+não é?
+Eu quero falar de,
+a menos 1,
+menos 2,
+menos 3,
+0,
+é exatamente isso aqui.
+Os a escolhe
+é o número de
+desvios padrões que o valor está
+em relação a média do conjuntidades.
+Então, é o último prédite de
+causa artilais,
+pois ele transforma os dados
+enfim,
+uma escala comum,
+então a gente tiraria de
+da escala da população,
+da altura de
+a 10,
+a 2,
+mais.
+E a gente leva
+por uma escala de
+desvios padrões,
+pois ele transforma esse
+dado uma escala comum,
+então, a gente consegue
+comparar a posição
+relativo de cada valor
+em relação a média.
+A nossa média vai ser
+sempre zero,
+e a gente olha,
+menos 1 de o padrão,
+e mais 1 de o padrão.
+Mênos 2 de o padrão,
+mais 2 de o padrão,
+menos 3 de o padrão,
+mais 3 de o padrão.
+Então, sempre falo para
+lembrar da altura.
+Lembra que,
+ou seja, vai ser 1 e 70,
+menos 1 de o padrão,
+vai ser 262,
+mais 1 de o padrão,
+vai ser 27,
+2 de os padrões,
+vai ser 85,
+menos 2 de o padrão,
+vai ser 25,
+3 de os padrões,
+vai ser a 1 no venta,
+vai ser 95,
+menos 3 de os padrões,
+vai ser o pessoal,
+a com menos de 1 de 1 de 1 de 50,
+então, algo do tipo.
+Então, qualquer ideia,
+então, que a gente tem a distribuição acumulada,
+a gente fosse uma mais
+2 aqui,
+ou menos 1 ao 1 de o padrão,
+numa distribuição normal,
+que é seu caso,
+a gente tem a ideia,
+então, no de 68%,
+se a gente adiciona os 2 de os padrões,
+isso já vai para quase 95%.
+E quando a gente bota estuda aqui,
+aqui, olha, que eu não insumisse tudo
+que já vai para quase 95%.
+E por isso, que a gente...
+Pendo,
+a gente usa como padrão mais taxa,
+que cortar,
+tudo o que for mais ou menos de 3 ao 3,
+porque na distribuição normal,
+a gente já considera que,
+mais ou menos 3 de os padrões,
+já tem a limbo,
+99% dos dados da distribuição normal.
+Então,
+tudo o que for,
+menos 3,
+ou mais 3 de os padrões,
+a gente pode considerar o slide
+e cortar,
+que, claramente, é que é um ponto
+o infinito,
+porra da distribuição.
+Então, o que a gente falou,
+forma dos aiscorela bem simples,
+a gente pega um valor qualquer,
+isso betrai da média,
+e, no ferro das coisas, a gente diz
+o dividir pelos viupadrões.
+Um dos aiscoreis zero, que ele significa,
+porque o que ele valor ele está exatamente na média.
+O z-coro positivo,
+que ele valor está a cima da média.
+Então, o mesmo.
+A média aqui é um insatenta,
+se o cara tem o e o e o e tem aeta,
+está a cima da média.
+Então, os z-coro positivo de 1,
+se ele tem o e c-60,
+ele está num z-coro de menos 1,
+está-ne um pouquinho,
+a esquerda na média.
+E, valores extremos são os aiscores,
+que é o que a gente,
+geralmente fala de mais de 3,
+ou menos de 3 de os padrões,
+é uma forma intelecta,
+tratar os aiscores.
+Mas o ponto é x,
+testa a noção do que a média vai se usar,
+e a gente vai caminhar,
+menos 1 viupadrão,
+mais 1 viupadrão, mais 2,
+mais 2.
+A gente vai ter os casos cada vez,
+mais extremos a medida que a gente for chegando na...
+Pra as pontas.
+Então, aqui é ação, o trezém,
+pode ter um intervalo,
+a gente tem aqui,
+um limite superior aqui de 2, 92,
+e o limite superior de 5,62 em uma mostra.
+A nossa média aqui é 4,67,
+então aqui a gente tem o 4,67,
+exatamente aqui,
+o limite inferior de 2,
+no v2, o limite inferior de 5,
+e no v2.
+O que a gente está falando,
+que tem 95% da média populacional,
+ela está exatamente aqui nesse meio.
+E o que for a esquerda,
+e a direita,
+nesse caso aqui a gente está falando,
+o 95%,
+está nesse meio,
+o que está nos extremos aqui,
+e aqui são a última vez.
+Então aqui, eu intervalo de confiência de 95%,
+na nossa outra linha anterior, 99%.
+Como que a gente faz isso no Python?
+É muito simples, pessoal.
+A gente tem o hotel que chama a destaque,
+e que ela serve muito pra manipular principalmente,
+está tudo que em volume está tisco.
+E aqui, a gente vai pegar, por exemplo,
+uma colomba do um data frame normal,
+a gente vai pegar esse lembro de nossa colombia de altura.
+A gente vai pegar ela,
+a gente vai pegar os stacks,
+a gente vai em portaiela do site pai,
+o site pai bioteca,
+a escudo, a classe é a estates.
+E aqui a gente vai pegar o número absoluto,
+o potante sempre bom a gente
+está entrando no Brasil absoluto,
+porque a gente está falando dos a escolha,
+pode ser então pra trás,
+quanto pra frente,
+é, e aqui a gente,
+estou a pegar o número absoluto,
+luz é escolha.
+Então aqui, sempre que foi maior do que 3,
+lembrando que a gente já jogou pra móvel,
+então, que foi, que é a menos 3,
+menos 4, ele viavi no positivo,
+porque a gente motor que o abs, que é jogar pra móvel,
+sempre que tornar positivo,
+para que o que a gente falou
+na gente, se a gente vai ser funegativo,
+ele quebra essa situação,
+então aqui, a gente vai chamar a gente lá,
+sempre que os a escolhas foi maior do que 3.
+O que a gente consegue pegar as alturas,
+quem são os auteuais da nossa altura.
+Outro opção, e agora assim,
+falando do boxpot,
+visualizar via boxpot,
+esaltuais.
+Lembra que a gente falou que o meio do nosso boxpot
+é a mediana,
+ele pode ser na horizontal também,
+na pessoa.
+Então, o que é aquele esquino do boxpot?
+Ele sempre vai ser a mediana.
+É o que, dois,
+é o ponto que de vigelinho,
+50% para o lado,
+50% para o outro.
+O início da caixinha,
+ele sempre vai ser o que é um,
+e o final, ele sempre vai ser o que é 3.
+Então aqui ó,
+o final,
+você vai ser o que 3,
+e o início,
+sempre vai ser o que é um.
+Então, o que a gente tem a pressão,
+na pressão, a sua mina,
+de uma população,
+a média está ali em todo 2030.
+Treza né?
+O primeiro quartil, ou seja,
+25%
+aqui é o equivalente ao 25% do describe.
+Aqui é o equivalente ao 75% do describe.
+Se a 10% ali vai aqui,
+volta a 1505,
+ou algo tipo,
+e o primeiro quartil aqui está bem em 520.
+A gente tem pessoas né,
+a gente tem o limite inferior,
+e como que a calculada esse limite inferior?
+A gente pega justamente o que é um
+que é 120.
+Isso subtraiu, um vigla 5,
+vezes o que é?
+O que é o que é?
+É justamente esse tamanho aqui,
+que é o tamanho da caixinha.
+O que é 3 menos o que é um?
+Então, que a gente não quer 3 de 1503,
+e um que é um dia,
+vai 120,
+eu vou usar para facilitar.
+Então aqui, nós caso vai dar um 33, vai
+o votar 33.
+Então, a gente tem aqui,
+a 120 menos um vigla 5 vezes 33.
+Então, vigla 5 vezes 33 vai dar
+a regular da 50,
+120,
+menos 50,
+vai dar em tornes.
+Isso.
+Ou por?
+Vamos ver esta seta, nós contamos.
+1503,
+menos 120,
+de nossa 33.
+Um vigla 5 vezes 23 dá o satenta.
+É, para uma coisa errado.
+O que é 3?
+Ele vai ficar aqui ó,
+no 1503.
+Mas um vigla 5, que é?
+Vai dar 1503,
+menos de 120, de 83.
+Então,
+aqui é porque o gráfico está fora de escala mesmo.
+Mas o inimigo superior deveria ser um vigla 5 vezes
+o Ikei,
+a tá.
+É porque o Ikei está fora de escala.
+É só para comparar a sua box,
+pode ter errado.
+Depois que eu vi aqui,
+mas realmente o box pode estar a fara escala.
+Então, se a gente fosse pegar aqui,
+deveria ser 1503,
+mas o vigla 5 vezes o Ikei,
+então,
+cento-codei 3 mais 50.
+O 7 mesmo deveria ser 1, 2, 3,
+e 120, 50, etc.
+Então, deveria ser mais ou menos,
+porque o limite é 150,
+100, está meio da caixa,
+está meio da caixa.
+É que é um vigla 5,
+um vigla 5,
+que nem que o está meio da caixa,
+tão deveria ser,
+o 7 deveria ser que
+essa caixa em até o 70,
+e aqui, até o busante de 5 na minha.
+E o que fosse realmente fora disso,
+aí que seriam os box ports.
+Então, tive um exemplo na prática,
+que isso aqui não é um box pode,
+por mais que ele aqui 180,
+quando a gente joga 180,
+a gente senta a tenta,
+ele não está,
+ainda nesse intervalo que a gente calcou no
+aqui,
+por que é o intervalo máximo
+para ser 25.
+E o intervalo mínimo,
+que a gente calcou no
+aqui era para ser tipo 70,
+então,
+esse intervalo mínimo era para estar aqui,
+e esse ponto aqui do 100,
+ele ainda não é um scriptante,
+porque o limite filda da caixa de
+vai mais para baixo,
+então, o limite,
+o que está pegando aqui,
+o limite é igual ao mais ou menos,
+o terceiro zéis cor.
+É bem parecida a cidade,
+mais aqui,
+são uma veração dos métodos diferentes,
+tem um método dos a escóris,
+que é tirar para cima no terceiro z,
+ou para baixo no terceiro z,
+então a gente pega tudo aqueles vezes tremos,
+e tira,
+e tem também o método aqui do
+intechortinho,
+não a gente pega essa diferença
+e fazer
+corta fora.
+Então, não é igual a mais
+ou três estratégias,
+sim, são dois métodos diferentes.
+Mas, assim, são dois métodos bem basados,
+né?
+É, a gente viu aqui, por exemplo,
+o que o método do
+Box Pot,
+ele tem a vontade de ser mais visual,
+então ele deixa mais claro para as pessoas,
+mas ele tem a pequena desvantagem de estuquina,
+isso aqui sem ingessado.
+Esse valor do vígula 5,
+ele sem enfim definido pela estatística,
+mas para grande valor de dos casos
+adivacionáveis para a sua
+ficação às vezes ele pode no funcionar.
+Enquanto o mucaz o terido dozo,
+a escora, a gente pode deixar um dos a escóring,
+mais rígido ou flexível de acordo com com casos que a gente vai precisar.
+Então, é isso no Box Pot, ele é bem fácil de fazer.
+A gente já só chama o mais de pot, ele ele,
+o Box Pot,
+dá com uma única gente quer.
+Eu recomendo demais,
+vocês começarem a criar esse ar,
+e criar Box Pot para as variáveis que vocês estão fazendo.
+A gente pode mostrar,
+e aqui o que o que a gente falou,
+a gente pega aqui o pecentivo,
+é o 25%
+é o que é 1,
+75% é o que 3,
+a gente vai calcular o que é,
+pegando o que 3 menos que 1,
+limite inferior.
+A gente multiplica esse aqui,
+prova o vígula 5,
+e me enxir.
+Superio,
+está bem prova o vígula 5,
+só que só é o que é 3,
+e a gente pode tirar os ótis lá,
+é só.
+Deve basicamente botar um filtro,
+pegando o que é maior do que o limite inferior,
+e o que é menor do que o limite superior.
+O isso a gente fez basicamente aquilo que a gente viu no último passo,
+só que no Python.
+Então aqui a gente só pegou,
+descobriu qual que era o que é 1,
+e o que é 3 para a distribuição,
+tal color os limites do dos,
+integrantes,
+né,
+a gente viu,
+e,
+por fim,
+tirou tudo o que estava,
+para cá,
+e tudo o que estava para cá.
+Então a gente vai deixar venda nossa mostra,
+só o que está dentro dos limites do Box Pot.
+Dá para mudar o do Box 5 no código,
+e o emão no parâmetro.
+Dá.
+E agora,
+o que a gente fez aqui na mão,
+a gente calculou que o que é 1,
+no 25%
+o que é 3 no 35,
+igual a vai para ser.
+Aí a gente já tem um valor do integrativo,
+é isso?
+Só que aqui a gente bota no re-te onde é rato,
+hoje, né?
+É, eu posso mudar e falar não,
+nesse caso aqui,
+eu quero botar o limite mais rígido,
+então, eu vou botar um limite de 3.
+Aqui estou falando,
+em limite de integrativa.
+Nímitis de escupas,
+é 0.5,
+enfim, que você pode,
+a gente está aqui,
+mas como o padrão na estatística,
+é 1.5.
+É,
+chou,
+então,
+para fechar a aula aqui,
+pessoal,
+o último appassinado,
+mas aí,
+então,
+dá,
+acho que não é passada sobre a teoria
+da probabilidade,
+a teoria da probabilidade,
+ela é,
+basicamente,
+a chance,
+ela media chance
+do evento correr,
+variano do 0.1,
+parece muito simples, né?
+O 0 é um impossível
+e um,
+o certo,
+quando é 100% de 6,
+tem esse acelimento vai acontecer.
+Ela permite para a gente
+estimar a ocorreça
+de eventos futuros,
+com base em dados estóricos.
+Então, ela é fundamental para
+eventos para modelos prestivos,
+que através da teoria da probabilidade,
+a gente construa
+toda essa base,
+para a nossa diferença e com base,
+no que já aconteceu no passado.
+Então, um livro corre com a indigimais
+para quem esterece
+por probabilidade estatística,
+até para todo mundo que vai trabalhar com dados no geral,
+é um andar do belo,
+esse, enfim,
+foi um livro que mudou minha forma de chegar a vida,
+acho que são poucos livros que fazem isso para a gente,
+e esse aqui é um deles,
+então, um andar do belo,
+ele traz alguns exemplos muito pratos sobre,
+realmente como a casa,
+influencia nossas vidas,
+ele traz muito muita base,
+enfim, de conteúdo mesmo,
+e deixa muito claro para a gente,
+é um livro, enfim, uma aplicação,
+não é densa, não é científica,
+mas ela traz exemplos
+de vida real de histórias,
+assim, como que o acaso acaba muito mais,
+evidente a nossa vida do que parece,
+então, é exemplo clássico que ele se
+interesse livre, o chefe, o modo chefe do que o estib de job se tinha no apoio,
+então, quando ele deixava o modo realmente a reatoria,
+as pessoas reclamavam e falavam que ele não era na reatoria,
+o que várias vezes acabava tocando o mesmo artista,
+é uma música parecida com aquela,
+isso é como esse é porque, cara,
+quando você tem, em por exemplo, a minha playlist tem em sem músicas,
+e 20 são, ser tanês,
+se eu botar em pra próxima,
+o ano, cada cinco vezes, vai ser senta nele,
+então, o que as pessoas queriam da verdade a leatoria,
+só que o estib de óbvio se me ser boa,
+que não dava pra botar uma leatoria da naturel,
+que as pessoas nem acharam estranho,
+falaram, não, se eu to milo senta nele,
+e eu to no leatorio, a minha próxima música tem que ser
+o negócio completamente diferente,
+então, não pode ser algo, não pode ser senta nele,
+não pode ser desse artista, não pode ser senta nele,
+então, o estib de job,
+esse é o exemplo caro de como o acaso,
+o chefe, o nome do chefe,
+o que era pra ser modo da leatoria,
+ele não é realmente a leatoria,
+porque ele tem esse ajuste,
+pra tirar o acaso,
+desses ocorrentes,
+que queram muito simular,
+e usar o que vindo,
+tocar no música anterior,
+então, vai ser em clássico,
+também, mas que queram muito interessante.
+Por hoje, de algum dado,
+a gente sabe por exemplo,
+que é a probabilidade,
+se o dado não tiver marcado,
+na cidade de Viciano,
+é de um sexto,
+pra cair em qualquer fase,
+então, se a gente joga ali mil vezes o dado,
+a tendência é,
+que cada um das faças tem sempre um sexto de probabilidade,
+de cair.
+Como que se tiver isso agora,
+por exemplo, no mercado de base,
+o que está pegando fogo aqui no Brasil,
+as casas de aposta,
+quanto maior a chance de vitória limchinho,
+então, que que a gente tem o jogo,
+é uma drei, e jeetafio.
+Quanto maior a chance de vitória,
+ou seja,
+é uma drei aqui,
+tem uma chance de vitória maior,
+o sábio já possui pagam menos
+através das horas,
+né, ou seja,
+quanto maior a probabilidade de enganar,
+menos eles vão pagar.
+Agora,
+lújeetafio,
+que é, enfim,
+bem provável que o jeetafio ganha,
+eles vão,
+uma chance de vitória menor,
+eles vão pagar no probabilidade maior,
+então,
+o jogo em que deles é que se você somar
+com ver essas probabilidades
+para porcentagem,
+porque se a gente for pensar,
+cada uma dessas horas é uma probabilidade,
+então, mode 2 aqui,
+deveria ser o evento que tem 50% de chance de ocorrer.
+Então, aqui o 68 de estão falando,
+sei lá, um chucho está,
+não sei de cabeça,
+mas sei lá em torno,
+70%,
+o empate,
+aqui, 480,
+vai ser em torno de 25%.
+E o jeetafio no 75 vai dar mais 10%.
+O que acontece?
+Com a insolvisa aqui,
+não vai ser em que senta,
+dá, sei lá, 75%.
+E é assim que sede a posta ganha.
+Sente somas probabilidades da mais que 100%
+e essa gordura,
+é como é esgriger no longo prazo,
+então,
+é vocacínio,
+é esgriger no longo prazo,
+não é na operação,
+então,
+esse é o teando das casas de a posta,
+né, quanto maior a probabilidade de um evento,
+menor ao retorno que você,
+é ser a conqueles chegadas em preço,
+muito, muito, muito análise,
+estatístico, algoritmo,
+extremamente complexos,
+é uma pandamina dos caras,
+então,
+esse é o teórez,
+consegue transformar
+algo extremamente complexo pra números.
+Então,
+a gente fechar,
+agora a gente se estivesse,
+e meus aores,
+não estas nesses fazem tudo,
+a posta da bria de tudo,
+até tudo famoso,
+tem alguns casos,
+bem interessante de a posta,
+também, né,
+por estar do niz em gata,
+é muito comum,
+tem uma da igual a terra,
+que eu já lita,
+era um cara que chegou no
+caçinho,
+e ele falou,
+eu quero pegar um pouco de um
+de um cara que vai pegar uma posta,
+do meu filho, o seu jogador,
+do Manchester United,
+era um tipo específico da em laterra,
+e os caras tem alguém,
+lá no caçinho,
+eles pensavam,
+pucam colar aquela probabilidade,
+então,
+cara foi lá,
+calcolou a probabilidade,
+esse me jogado no
+o Manchester United,
+já é tanto tanto tanto tanto,
+enfim,
+eu não sei como ele fez essa conta,
+mas ele chegou e falou,
+não,
+o dos anos pra um,
+enfim,
+se botaram um doro,
+eu tido dos
+anos,
+daqui a 10 anos,
+se eu filho,
+jogando e não e o night,
+e esse me não chegou,
+o jogo no night,
+essa história é algo,
+acho que o jogo,
+foi famoso,
+e estava mais ele jogou alguns jogos,
+e eu pede ele ganhou essa posta,
+depois eu vou mandar no
+chate,
+mas é um história boa,
+para a gente,
+eu vou mandar no escói,
+mas a história boa,
+para a gente ver como
+que a tua identidade
+está presente tudo na vida,
+então,
+lembra que a gente falou
+da curva,
+a distribuição normal,
+da altura,
+a gente tem essa função aqui
+do site pais tates,
+chamada enorme,
+que aqui,
+olha,
+que quer comprar probabilidade
+uma pessoa,
+tem um metrume tenta,
+sendo que a loque,
+nesse caso,
+aqui a média,
+então,
+quem a gente tem a média de
+um eça da T5,
+o esquerdo,
+o esquerdo de vio padrão,
+o esquerdo,
+estando a desviência,
+então,
+o esquerdo de vio padrão,
+então,
+a média é um eça de T5,
+e o dia padrão
+de 0.1,
+se eu de pra baixo,
+para cima,
+então aqui a gente consegue,
+nether e a função,
+com a colaprubidade
+da pessoa tem mais de 180,
+dada,
+das esperantes,
+né,
+a média de 75,
+e uns vio padrão,
+de 0.1,
+então,
+aqui é uma fórmula
+a atualidade
+a probabilidade,
+então,
+a distribuição,
+aqui a gente tem
+cdf,
+o nome,
+é como o motivo
+de distribuição
+fórmula,
+a gente consegue
+colaprubility,
+para cada ponto
+daquela função,
+se a gente vê a média
+no loque,
+e o dia padrão,
+no esquerdo.
+E agora,
+para te fechar,
+acho que é o último,
+é não,
+a gente vai fazer agora
+os probabilidades juntos,
+mas,
+para a gente fechar,
+é o evento independente,
+eles não são influenciados uns pelos outros.
+Então, o seu jogado,
+uma vez,
+ele decide
+a probabilidade de beber
+6 de novo,
+ele não vai ser influenciada
+pela probabilidade de aquela primeira,
+com corna.
+Se eu jogar,
+10 vezes ele cai 6 nas 10 vezes,
+pode achar que tem um pouco
+de outro mundo,
+mas não,
+a probabilidade
+era sempre um 6,
+mas cara,
+pode ser,
+é muito pouco provável,
+tem a gente que vai na mega cena.
+Então, porque não pode
+jogar um dado 6 vezes,
+e ele cai 10 vezes,
+ele cai 6 em todos.
+Só é extremamente
+improvável,
+porque,
+que cada vez que a gente
+joga,
+era,
+a gente multiplica
+uma pessoa outra,
+então a probabilidade
+de um de cair 6,
+uma vez,
+é um 6,
+para um deás,
+de cair 6 de novo,
+é um 6.
+Aja multiplica.
+Um 6,
+do mesmo sexto,
+a probabilidade de um
+vez a probabilidade de outro
+já era um sobre 36.
+Então, já bem menor,
+já cai ele,
+para o tipo 3%,
+então,
+na igual que era 15,
+já cai para 3.
+Se eu mostri comigo de novo.
+Então,
+um sobre 36 vezes 6,
+aja vai para um
+sobre 180,
+já cai para a tipo 0,5%.
+Até a probabilidade de
+caist 6, 3 vezes seguido.
+E assim vai acumular,
+né?
+Quanto mais,
+vezes vai acumular,
+e mais
+essas productais são
+independentes.
+Se eu joguei 3,
+e caiu 6 vezes,
+vai continuar
+a ceva
+um sexto
+para a quarta vez,
+que eu jogar.
+E agora,
+eu me pergunto um
+um pouquinho mais complexo,
+um jogo de pugu.
+Mão do supoca,
+a gente tem um
+mais aisás,
+para quem não sabe o aisás,
+é maior,
+não um possível,
+o melhor,
+não o possível,
+no jogo de pugu.
+A probabilidade de
+amão,
+dos nossos oponentes,
+né?
+Então, vamos supoca
+a gente está aqui,
+nois 6,
+jogando o mesmo
+de pugu.
+Se eu tenho mais ais,
+a probabilidade de amão de
+vocês,
+ela influenciada,
+não fico porque cada um aqui
+está na sua visão,
+não é?
+Eu tenho mais ais,
+não tenho mais ais,
+na sua visão.
+A probabilidade
+da mão das outras pessoas,
+dos outros cinco,
+ela influenciada
+pela minha
+pelo fato de eu ter mais ais,
+que vocês acham.
+Ou vocês acham que
+são eventos que não são influenciados.
+Perfecte, juntos,
+matutos.
+Exato, sim, são quatro ais,
+apenas.
+Então, se eu tenho um 2,
+e são cinco e tem três
+cartas no barário,
+então, a diferença
+no dado,
+que toda vez,
+ele tem uma contagem
+inteira, tem 6,
+nesse caso aqui,
+a gente tem um número
+finito.
+Então, são cinquenta e três
+cartas no barário,
+e são com apenas quatro ais.
+Se eu tenho dois ais,
+a um, os que estão
+a probabilidade de
+vocês,
+cinco, perinho,
+também em alguns dos outros ais,
+é muito menor,
+que eu já tenho dois.
+Então,
+qual é a conta?
+A probabilidade
+de...
+que a gente vai estar ao coloque,
+a probabilidade
+ou por...
+qual é a probabilidade?
+De outra pessoa,
+tem um ais ais,
+sendo que eu tenho ais ais.
+Então,
+vamos primeiro fazer aqui o que a gente falou
+para o...
+para o...
+rodado.
+Então, a probabilidade de tirar
+o 1,
+eu te falo 6,
+mas,
+para tirar um é um o 6,
+com o condo,
+sendo que o joga um dado vai ser um 6.
+A probabilidade de ter um 10 vezes seguidas
+é um 6,
+ele vai dar 10,
+né?
+Lembre o que a gente falou,
+um 6,
+um 6,
+um 6,
+10 vezes.
+E agora,
+para o ais,
+a probabilidade
+vamos suponei que eu tenho ais ais.
+Então,
+se eu tenho ais ais,
+são 52 catas,
+culto,
+eu falei,
+que eu tenho 3,
+são 62 catas no...
+no barário.
+Se eu tenho ais ais,
+concorda o que já são 50 cartas.
+E são 4 ais.
+Concorda o que seu tem um 2,
+já são,
+somente 2 pro jogo.
+Então, a probabilidade de
+alguém tem um primeiro ais,
+é de 2 sobre 50.
+Dá do que essa pessoa,
+já tem um ais,
+vai cair de 2 para 1,
+e de 50 para 49.
+Então,
+vamos explicar isso,
+é dado que eu tenho ais ais,
+a probabilidade de outro pessoa
+também tem ais ais,
+é a probabilidade de 2 sobre 50,
+vezes 1 sobre 49.
+Então, vamos ver isso,
+a probabilidade de um pessoa cai 10,
+1,
+10,
+6 seguidos,
+0.00,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+já começa a ficar impulsivo.
+Mas aqui é mais próximo da
+Se eu tenho ais a probabilidade de outra pessoa,
+tenho ais ais também no jogo de
+pouca vez 0.082,
+pessoal,
+menor do que 0.1.
+Então, vocês nunca jogaram um pouco,
+mas se você jogar,
+pode ter sido se estiver em um ais ais,
+a chance de alguém,
+tá untatado com vocês,
+porque não vai estar melhor,
+é 0.1%.
+De reances,
+não está sempre caindo.
+Claro que,
+o jogo de pouca ele muita coisa pode
+acontecer,
+mas por mês antes do das
+cátulas aparecer,
+se vai estar sempre ganhando,
+é da primeira, mas vai ser
+milionário.
+Eu acho que,
+se bobei,
+é mais provável ainda na mega cena,
+do que jogar,
+a aceita 10 vezes seguidas 6.
+Não, eu acho que a mega cena
+é menos provável do que isso aqui.
+Eu vi essa conta do tudo de jem,
+mas uma coisa bizarna.
+No geral é isso, pessoal,
+essa é a teoria da probabilidade,
+então,
+isso aqui dá para ficar falando por horas,
+por causa de horas,
+por causa de uma mega cena,
+1 para cada 50 milhões.
+Então,
+eu não sei quanto que dá isso aqui,
+mas,
+eu acho que é um pouco menos.
+Mas no geral é isso, pessoal.
+Então, a probabilidade da teoria da probabilidade,
+é isso,
+a gente pensar em eventos independentes
+e sempre somando as probabilidades deles.
+É, nas próximas alas,
+a gente vai ver como
+prazer isso,
+mas para nossa realidade,
+trabalhando com dados,
+mas algo muito interessante,
+né,
+a gente tem esses conceitos de distribuições,
+principalmente trabalhando aqui como
+anabilistas e sentisse os candidatos.
+Mas,
+aos 0.0000,
+aos 0,
+os jantos mandores são 5,
+3,
+5,
+ao da bem próximo,
+da bem próxima,
+que são 5 eras também.
+Então,
+a probabilidade de ganhar na mega cena,
+bem próximo de você jogar
+um dado e tirar 10 vezes um,
+ou 10 vezes 6 seguidas,
+então vocês clara tentarem boa sorte.
+A gente quer que seguir aí,
+eu mando um pix.
+Não é da mega cena, tá?
+É isso.
+Então, fechou,
+por hoje é só,
+pessoal, espero que tenham gostado de aula.
+Então,
+feliz ano novo aí pra todos,
+novamente,
+vamos manter o ritmo agora.
+Tem muita coisa legal para
+vir nas próximas semanas.
+Vocês vão ver aqui,
+os projetos 4, 5,
+somém são muito interessantes.
+E agora,
+realmente quem está começando
+a nos tornar na licença de cidade.
+Agora, brincadeira,
+tá começando.
+Então, vamos lá,
+boa noite pra vocês.
+Esse puder é a Valea Aula,
+aqui depois,
+grande chacabado.
+E até a próxima.
+Valei, eu te notiou.

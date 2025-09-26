@@ -1,0 +1,2136 @@
+start	end	text
+300000	305000	Ainda não é a forma de fazer o que você tem.
+305000	310000	Não é a forma de fazer o que você tem.
+310000	315000	Não é a forma de fazer o que você tem.
+315000	320000	Não é a forma de fazer o que você tem.
+320000	325000	Não é a forma de fazer o que você tem.
+325000	330000	Não é a forma de fazer o que você tem.
+355000	360000	Não é a forma de fazer o que você tem.
+360000	365000	Não é a forma de fazer o que você tem.
+365000	370000	Não é a forma de fazer o que você tem.
+370000	375000	Não é a forma de fazer o que você tem.
+375000	380000	Não é a forma de fazer o que você tem.
+380000	385000	Não é a forma de fazer o que você tem.
+385000	390000	Não é a forma de fazer o que você tem.
+390000	395000	Não é a forma de fazer o que você tem.
+395000	400000	Não é a forma de fazer o que você tem.
+400000	405000	Não é a forma de fazer o que você tem.
+405000	409000	Não é a forma de fazer o que você tem.
+409000	414000	Não é a forma de fazer o que você tem.
+414000	419000	Não é a forma de fazer o que você tem.
+419000	424000	Não é a forma de fazer o que você tem.
+424000	429000	Não é a forma de fazer o que você tem.
+429000	434000	Não é a forma de fazer o que você tem.
+434000	439000	Não é a forma de fazer o que você tem.
+439000	444000	Não é a forma de fazer o que você tem.
+444000	449000	Não é a forma de fazer o que você tem.
+449000	454000	Não é a forma de fazer o que você tem.
+454000	459000	Não é a forma de fazer o que você tem.
+459000	463000	Não é a forma de fazer o que você tem.
+463000	468000	Não é a forma de fazer o que você tem.
+468000	473000	Não é a forma de fazer o que você tem.
+473000	478000	Não é a forma de fazer o que você tem.
+478000	483000	Não é a forma de fazer o que você tem.
+483000	488000	Não é a forma de fazer o que você tem.
+488000	492000	Não é a forma de fazer o que você tem.
+493000	502000	Não é a forma de fazer o que você tem.
+502000	507040	Você pode hockey, Nana, CНB,
+507040	515000	weights 7x6,14円as dos La structura e eu vou usar 2 estades de casa.
+515000	532000	E hoje, pessoal, dia 19 de desembro, menos de semana que estava na tal, está chegando.
+532000	535920	A gente estava lançando bem aqui no botiquem, porque já estamos pedindo de terminar as
+535920	543500	23, a gente passou muito o paito, o até agora, o paito começou a pegar a parte de uma
+543500	549340	situação de dados, o dos últimos últimos últimos últimos aos práticas que tenham estes teve.
+549340	553780	A gente fez um pouco mais voltado para dados do que, propriamente, só batendo na técnica do
+553780	558960	paito, do paito, do paito, o que a gente sempre fala, o paito é a ferramenta, mas o que
+558960	563960	o botiquem é a dia análise e esse estidado. Então, esse é a nossa objetivo, a gente tem que aprender
+563960	569460	sobre as ferramentas, mas o foco é a gente tendeu que a gente está fazendo.
+569460	574360	Então, hoje vamos começar a pegar uma parte de um pouquinho mais avançada de manipulação de
+574360	578960	dados. São manipulações de dados um pouco mais complexas que a gente vai ver hoje. Então,
+578960	583700	a gente vai precisar disso para trabalhar com os conjuntos de dados, para fazer os
+583700	588520	nossos análises, para fazer as nossas previsões. Então, dependente do que a gente
+588520	592840	foi fazendo, dependente por onde a gente foi passar trabalhando com dados, isso aqui é fundamental,
+592840	598620	que a gente vai ver hoje. Então, vamos lá, primeiro a gente vai começar revisando ali os
+598620	604700	principais conceitos da última aula teórica, então a gente vai passar ali principalmente na parte
+604700	610060	dos mesos, dos joens, que isso acaba sendo conceitou fundamental para quem trabalha com dados,
+610060	615060	ela é uma coisa que a gente faz muito no dia de dia. A gente vai conhecer a utilização
+615060	620520	de funções para manipulações de dados. Então, a gente vai conhecer a utilidade, as funções
+620520	624780	para que elas facilitaram nossas vidas e como a gente pode usar, principalmente no dia de
+624780	630320	dia de dia, para ganhar tempo. A gente conheceu o indoofanxão e também vamos revisar as
+630320	635280	lá em um da fantasia, a gente já falou, né, elas brevemente, na em algum momento aqui do
+635280	639480	do bochiquei, pelo lembrazar também de onde, mas a gente vai revisar também. A gente vai falar sobre
+639480	646600	da ter o englind, que é basicamente organizar com juntos de dados, as comunas de data
+646600	650720	e hora. Então, esse é um trabalho em um pouco chato, principalmente com a gente pega as
+650720	657480	conjuntos de dados, porque cada país, cada região tem um trabalho com formatos de data diferente,
+657480	661000	cada conjuntos de dados, às vezes, vai ter o conjuntos de dados que chega no nível de segundo,
+661000	665620	às vezes, um que chega no nível de minuto, só. Então, é importante entender como que a gente
+665620	670860	trabalha com esses diferentes formatações de data. Temos a aprender, a reorganizar os
+670860	676840	data frames em questão de formato, os recheips, não a gente vai aprender o pivot, o leute, o
+676840	681880	steck, então como organizar é um data frame de acordo com quem a gente precisa de, na,
+681880	687620	ver a informação, então isso aqui é bem legal também, acaba aqui, é uma ferramenta útil para
+687620	692940	a gente ganhar tempo ali nas análises, expressões reculares, então isso aqui é muito legal,
+692940	698660	isso é muito trabalhando com esses termos, expressões reculares são, enfim, todo uma área de pesquisa,
+698660	703860	de conhecimento para identificar padrões em estrenos, então a gente vai passar um pouco em
+703860	709540	por elas também, da uma introdução, e no fim a gente vai ver como que a gente consegue
+709540	714980	utilizar a performance em operações complexas, né? Porque muito do que a gente vem fazendo aqui,
+714980	719700	são em cogentos de dados, até que em cogentos de dados grandes, mas não são em cogentos de dados
+719700	724940	gigantes e quando a gente faz esses operações e cogentos de dados muito grandes, ou muitas
+724940	730060	operações, a gente acaba entrando uma limitação de tempo, então a gente vai entender como a gente
+730060	734780	ganha tempo, quando a gente faz as operações, o que realmente importa quando a gente está fazendo ali,
+734780	741460	as manipulações, então eu queria começar aqui com a pergunta para vocês, vamos pensar que a gente
+741460	745420	vai aplicar a mesma manipulação, a mesma transformação, então vamos porque a gente quer
+745420	750500	acessorar uma coluna, é para muito de posto da tafrente, então eu suponei que a gente tem uma coluna
+750500	755580	coluna de faturamento para cada mês do ano, então a gente tem de arduza da tafrente, e a gente
+755580	760020	quer fazer a mesma transformação para os dos, são iguais, né? Só que nunca a diferença são os
+760020	764180	meses, então a gente quer fazer isso para a dose da tafrente, o que a gente pode fazer para
+764180	768380	fazer de tal nossa vida que me escasa, a gente vai lá nos dos e da tafrente, e vai fazer uma
+768380	772420	manipulação passa passo, o que a gente tem uma sugestão melhor?
+781460	787100	Aí eu pensar, não fazer um l, fazer um tratamento, não tem l, que não é conformo, olha, eu
+788100	794720	teri bem da quantidade, né? Então, bom começo, que contratamento, você começa, é golúpe,
+794720	799660	você começa a ir terato pelos da tafrente, certo? Então, se a pensiona a primeira hoje,
+799660	805080	mas aí pensar na manipulação, então vamos pouco você tem que adicionar duas colunas,
+805080	809440	remove uma, multiplicar uma ou pela outra, então, se vai fazer ele em fim, quatro ou cinco
+809440	815440	manipulações básicas, mas como que você pode fazer isso, no menor, no, no, no,
+815440	818940	no, no, a maneira mais fácil, é organizada e com menor número de cois do possível.
+819900	829420	O l, já o o que a início, o mal função, exato, então, é mais ou menos essa lógica que a gente vai
+829420	835060	evoluir em uma função, ela é perfeita para esse exemplo de padrões, algo que a gente tem que fazer
+835060	839280	várias vezes. Então, aqui a gente tem uma manipulação que a gente tem que fazer cinco, seis vezes,
+839280	843800	não, desculpa 12 vezes, uma manipulação que a gente faz é de cinco, seis operações.
+843800	847360	Então, imagina a gente, para a gente faz o l, mas aí a gente ainda tem que escrever as cinco,
+847360	853000	seis operações dentro do l, se a gente faz a função, a gente define a função uma vez e
+853000	859320	aplica ela dos vezes. Então, e uma linha gente consegue matar tudo. Então, essa ideia da
+859320	865120	começar a pensar uma estratégia pouco mais avançada para a manipulação, e que está uma
+865120	868920	estratégia de organização de cois, não? Fica mais fácil, fica menos estêncio, quando a gente
+868920	876920	tem ele, tudo, separa a gente. Aí, começando aqui uma revisão da alapassada, a gente tem
+876920	881880	o grupa e baia, o grupa e baia vai ser um das funções provavelmente que a gente mais
+881880	886240	arusar, na nossa experiência trabalha com dados em pai, então assim, meu, falamos, meu dia a dia,
+886240	893040	o grupa e a raro de acocábulosando. E o grupa e baia ele pode ser escrito de duas formas.
+893040	899320	Então, aqui a gente chama geralmente um data frame, um data frame, então, que a gente tem um data
+899320	905240	frame, por exemplo, o zooma e a gente agrupa ele, então a gente chama o grupa e baia depois
+905240	912120	de um data frame. O parametro baia, ele é opcional. Então, eu posso passar o parametro baia e passar
+912120	919520	uma lista de colunas dentro do baia. Correcto? Então, quando eu quero agrupa por mais de uma
+919520	925680	coluna, eu posso passar uma lista aqui no baia. Mas, se eu quero agrupa só por uma, eu não preciso
+925680	932320	do baia. Eu posso simplesmente botar um nome da coluna aqui. Então, na maioria das vezes,
+932320	936320	eu vai acabar que você só quer agrupa por uma coluna. Então, aqui, no caso, é por exemplo,
+936320	941800	a gente tem uma base dados de consumo de água, por animais de uso hoje. Então, a gente quer
+941800	946600	agrupa por animal para ver o consumo de água. Simples. Então, eu não quero agrupa com mais de uma
+946600	951240	coluna. Eu só posso passar o parametro animal, direto no grupa e baia sem o baia. Mas,
+951240	956560	quando eu quero passar uma lista, eu posso passar também a lista, diretamente aqui. Eu
+956560	962480	quero agrupa por mais de uma coluna. Eu posso, então, simplesmente passar a lista, eu quero
+962480	973840	agrupa por animal, enfim, tartagurinha, enfim. E das, então, eu posso passar também a lista dentro do
+973840	981880	grupa e baia. Então, eu posso passar a grupa e baia. Assim, essa é outra possibilidade,
+981880	988600	também, por exemplo, a gente quer passar por mais de um parametro. Mas, o padrão é assim,
+988600	992840	em seguida, quando a gente quer agrupa a mente, a gente ainda não tem o que a gente precisa.
+992840	997440	A gente tem que dizer, qual medida a gente quer partir daquele agrupa a mente. E aí,
+997440	1002200	você vai funcionar agregador. Então, a gente pode passar a função agregadora de duas formas.
+1002200	1008160	A gente pode passar ela simplesmente chamando o ponto e aí, dizendo a função agregadora,
+1008160	1012760	agora a gente faz aqui, então aqui no caso, eu quero a mente, quero pegar a média do consumo
+1012760	1017960	de água, aqui eu nem vou ter o consumo de água. Então, a gente pode reparar, e se eu nomear
+1017960	1030780	a ace aqui depois do grupa e baia o ateníde, botar aqui, aí eu teria que chamar o ponto
+1030780	1039500	minho depois. Aí eu que ia acontecer. Eu sempre as mães, não ia ter a coluna e unica de aqui,
+1039500	1045860	certo? Eu teria só a coluna que eu vou ter aqui, que é o ateníde. Então, vou limpar aqui.
+1048500	1054660	Então, só para deixar certinho, eu poderia fazer o ponto grupa e baia. Animal,
+1055660	1061220	do grupa e branimal, se eu quero pegar só o que eu que com qual o da coluna de água não faz muito sentido,
+1061220	1064620	eu sempre que eu falo, quando a gente vai fazer um grupamento, eu não quero fazer muito sentido,
+1064620	1069820	porque lembrando de sempre a água e de não faz sentido, porque é com o seu sucesso do CPF, e não faz sentido
+1069820	1074180	até a média do CPF, não é não tem valor para a gente. Então, aqui eu só quero a única coluna
+1074180	1081180	que porta o ateníde. Então, posso fazer o ateníde. E em seguida, a gente já selecionou o som ateníde,
+1081180	1087340	a gente já quero pegar a média, aí sim, eu aplicamente. E outra possibilidade é eu chamar o
+1087340	1094740	âmbio agregador e passar a média. Então, eu chamo o ponto a GG e passar a média. Essa é outra possibilidade,
+1094740	1105060	também. Uma terceira possibilidade é, eu posso passar um exigcionário dentro do agregador,
+1105060	1118020	então, eu abre e faz funcionar, e eu falo, ah, eu quero para o ateníde, essa vai ser achável,
+1118020	1126900	eu quero a média. Então, aqui é uma forma, enfim, no caso aqui só tem uma ateníde,
+1126900	1131980	mas quando tem mais de uma coluna, você consegue atribuir o que você quer para cada uma. E além disso,
+1131980	1138060	eu não preciso ser necessariamente uma média aqui. Eu posso passar por exemplo, só a média,
+1138060	1145860	posso passar por exemplo a max e o minuto. Então, ele vai pegar essa outras métricas aqui,
+1145860	1151820	também. Então, ele vai pegar por exemplo lá qual o consumo máximo de água do elefante de cada
+1151820	1158700	elefante, qual o consumo mínimo de água de cada elefante. Então, é de cada que agurou, de cada
+1158700	1165820	água de não. Então, ele vai pegar dentro dos agropamentos um mínimo de cada categoria. Outra possibilidade,
+1165820	1171460	também, que seria, no caso aqui, a gente não precisa do ateníde, eu poderia simplesmente deixar assim.
+1171460	1178500	Então, aqui, além da média, aqui no caso a gente só tem a média, de quanto cada elefante,
+1178500	1186020	cada que agurou, cada leão, cada tigre, cada zebra, consumo. Se eu botasse dessa forma aqui, eu
+1186020	1191700	pegaria o tamanho máximo o mínimo que cada elefante, cada que agurou, cada leão, cada tigre, cada zebra,
+1191700	1199300	consumiriam também. Aí eles viriam para cá. Então, o grupo vai ele para assim, dá um pouquinho
+1199300	1204100	de medo, mas ele não tem muito segredo não, pessoal. Essa é só você entender, no primeiro, no grupo
+1204100	1209100	bairro, o qual o colôno você vai querer agrupar, qual o colôno você vai querer levar na visão aqui,
+1209100	1217860	detalhado, em seguida, escolher, se for o caso, quais colônas você precisa, aqui no caso, por exemplo,
+1217860	1224720	o ateníde, a gente não precisa ir a do ateníde, e em seguida qual função agregador, então, no caso
+1224720	1228960	que a gente quer média, isso vai ser levado em os valores.
+1228960	1243060	Perfeito, a mão do desobragultamento, pessoal. Então, agora, outra coisa que é, sempre
+1243060	1248840	monte, revisar, a gente acaba usando muito também é quando usar o merge e o concate apende e
+1248840	1258140	joga. O concate acaba sendo usado quando a gente quer unir da ateníde, seja pro lado,
+1258140	1263300	ou seja, para baixo. Então, a gente tem dois conjuntidades, que as joga eles juntos,
+1263300	1269580	seja um em cima do outro, seja um lado, ou seja, espanho de unir, seja nas linhas ou nas
+1269580	1275000	colunas. Perfeito, então quando a gente bota a exescer, a gente está falando que a gente quer unir nas
+1275000	1279820	linhas, a gente quer jogar o data frame 2, e embaixo o data frame 1, quando a gente bota a
+1279820	1285240	exescer um em que a joga unir nas colunas, e aí percebe o que tem a diferença entre unir e
+1285240	1289400	cruzar, certo? Então, quando a gente quer cruzar, a gente precisa de uma chave para ver o que
+1289400	1294720	de um, tem outro, quando a gente quer unir não, a gente bota pegas colunas de um em jogo,
+1294720	1299720	bolado aqui na direita, mas colunas de outro. Então, concate, permite isso, para a gente,
+1299720	1307320	permite essa flexibilidade de open, de unir com base no eixo, todos os linhas ou todos as comunas.
+1307320	1313920	O appende, ele não vale muito a gente conhecer no detalhe, porque ele é um caso específico de um
+1313920	1319320	concate. Então, ele é um concate com um padrão, a que se zero, ou seja, ele é para as linhas,
+1319320	1325320	e o join é alto. Então, é importante dizer que tem um outro tipo de parametro no concate,
+1325320	1330760	porque é o tipo de join, como o padrão, ou seja, se você não botar nada, ele vai ser o alto.
+1330760	1335800	Mas você pode escolher também o iner, que o inerão de join que ele faz basicamente um confere
+1335800	1341080	para ver o que já existe, ou seja, ele pega a voidronas em as embaixas, mas antes ele vê se
+1341080	1345080	já tem alguma linha do aplicada. Então, essa é o que é diferença, os dois, o outro ele
+1345080	1349840	coloca tudo, então, com a outra hipódenia, a condensilinhas do aplicados, com o inerão, ele
+1349840	1355200	vê ele fica o que já tem, e ele cola embaixo só o que não tem, ou na direita.
+1355200	1362760	Então, ele está sendo depreciada, justamente porque o concate, ele oferece exatamente
+1362760	1367160	isso através desse parametro. Então, quando a gente usa um concate com o parametro a
+1367160	1371600	que se zero, isso é que serve para as linhas, e o alto é esse caso que a gente falou,
+1371600	1378600	que ele junta tudo. Ele faz literalmente uma união sem olhar nada diferente do iner,
+1378600	1387600	porque a gente poderia botar a iner e olhar se já existe ou não aquela linha ocoluna. E aqui,
+1387600	1392880	o potante não confundir com o método a pende do pando também, né? Porque a gente está falando
+1392880	1396480	ou, desculpe a gente não confundiu a pende do pando, mas que é o que a gente está
+1396480	1401320	bem agora, o método apenas que a gente usa para listas, que a gente viu bastante lá no
+1401320	1405000	modo 2 que é quando a gente quer jogar alguma coisa dentro de uma lista. Então, na
+1405000	1409160	quilo a gente tem uma lista, pode ser me branco, pode ser uma lista que já existe. E quando a gente
+1409160	1413760	quer jogar algum objeto, a gente chamou nome daquela lista, ponto a pende e o objeto,
+1413760	1417880	a gente está jogando o objeto em delista. Nesse caso aqui é diferente, nesse caso é o
+1417880	1423480	apende do pando, então, é uma confusão que às vezes acontece. Esse são dois maiores salvo
+1423480	1428440	em escondor iguais, vamos desiguais, mas ele está em funcionar em dados diferentes, né? Porque
+1428440	1434800	eu apende do paitonativo, ele serve das listas, é do paitonativo, ele serve para as listas,
+1434800	1444360	e o apende do pando, ele serve para trabalhar com data frames. O joie, ele é exatamente diferente
+1444360	1449520	do que a gente falou aqui, não é o nenhum, o joie ele é para cruzamento, só com joie ele é
+1449520	1454600	cruzamento baseado no índice. Então, se vocês perceberam em mim, todo está abelando
+1454600	1458520	pando, as todas data frames no pando, eles têm um índice, que ele fica fora, da
+1458520	1462040	lhão na região onde está a tabela, ele tem um índice que fica ali na esquerda, e aqui
+1462040	1468800	não é uma chave para identificar cada linha, inclusive, não pode ter um índice do aplicado,
+1468800	1475400	tal, eu tenho que acropeitar, é para ser a chave, é para ser um identificador único de cada
+1475400	1481520	linha. Então, a gente pode definir qualquer condona como um índice, inclusive, se você
+1481520	1486120	tentar botar uma corona, que tem valores do aplicados para a ciência, ela não vai dar,
+1486120	1490200	vai dar aí. Então, tem que ser o pelo que não tem valores do aplicado, e a gente pode
+1490200	1495000	definir qualquer condona usando o Parámetro 7 índice, e ele pode ser feitiando
+1495000	1499480	a curta com as variáveis. Então, quando a gente está falando de cruzamento, esse cruzamento
+1499480	1505960	é baseado nas variáveis. Então, a gente pode fazer o cruzamento, lembra que a gente
+1505960	1510680	viu os tipos de cruzamentos, pode fazer aquele cruzamento da esquerda, para a direita,
+1510680	1515480	a gente pode pegar exatamente o que tem os dois e o que tem tudo o que tem os dois. Então,
+1515480	1522360	a gente vai ver essa revisão aqui, mas é o tipo de cruzamento. E o merge também é o cruzamento
+1522360	1529240	assim como John, porém, diferente do John, que é só para índices, o merge é para qualquer
+1529240	1534200	columno. Então, ele é uma versão, vamos dizer assim, evoluída do merge on John, porque a gente
+1534200	1540760	não precisa daquela columna através do índice, né? Você está adorquido. Então, o merge
+1540760	1544440	vai ser para qualquer columno dos dois da tafrems, ele é muito versátil, ele vai acabar sendo
+1544440	1550120	que a gente vai mais usar. E ele serve a gente pode definir, a gente pode definir o índice,
+1550120	1557480	de transformo, de duas formas, quando as comunas são iguais no dois da tafrems, quando a esquerda
+1557480	1561400	dá direita, vamos supor que a gente tem uma columno índima na esquerda e na direita. A gente
+1561400	1569000	pode usar só um para dizer que só aquela columna, é mais seu nosso, nosso columno cruzamento,
+1569000	1583720	etc. Mas se a gente tem, por exemplo, na esquerda, a índice, a índice, uma índice, v, a gente tem que fazer
+1583720	1590840	uma tribuição. Então, quando a gente usa a ON, elas não vai identificar por porça da vontade dele,
+1590840	1595240	que o merge tem que ser feito naquelas columnos, aí disso. Então, você tem que atribuir,
+1595240	1600920	não, na esquerda, lefte-on, dentro do merge, não, para a um entre a gente vai passar lefte-on,
+1600920	1607880	e da, righte-on, e de bebe. Então, é isso é uma juxtapente tem que fazer quando os nomes das colvonas
+1607880	1611960	não são iguais nos dois da tafrems. Então, você tem outra solução também, que é aí lá no
+1611960	1616600	da tafrems, mas que é não mudar o nome pra id, e lá no da tafrems, da direita, o nome da
+1616600	1621320	columno pra id, e aí, se não precisas ao lefte, ON, righte-on, porque aí já vai ter o mesmo nome,
+1621320	1633480	você consegue usar simplesmente o 1. Então, agora que, a mais uns exemplos, a gente tem um merge,
+1633480	1638120	lembra o que a gente falou do merge, aqui a gente passou os dois parâmetros, lefte-rite,
+1638120	1643560	então a gente tem que dar tafrema da esquerda, e o da tafrema da direita, a gente vai unir,
+1643560	1649480	eles na que, ou, está vendo que esse é o nosso índice, dos nossos da tafrems,
+1649480	1654600	e o que ele é simplesmente uma columno, então a gente escolheu a columna aqui,
+1654600	1661800	aqui, usando o 1, porque o nome é aqui, tanto na esquerda pode dar direita, então,
+1661800	1666360	aí, a gente consegue, e no nosso caso a gente vai fazer um minhas idiões, o minédio,
+1666360	1672440	ele é esse caso aqui, que a gente vai pegar o que tem nos dois da tafrems,
+1672760	1679080	e, então, nesse caso, com ele são identificos, vai dar tudo certo, então, completou aqui,
+1679080	1688280	a gente tem ascolonas a e b, que vieram, do lefte e ascolonas cd que vieram do righte,
+1688280	1697000	unidos aqui pela esta chave, casérica, 1,2,3. Então, só vou revisando também aqui os tipos de join,
+1697240	1705720	o tipo, aqui, pode ser pra join, mas vale pra mergita também, a gente tem o lefte,
+1705720	1710680	quando a gente quer pegar tudo que tá na esquerda, a gente quer manter todas ascolonas da esquerda,
+1711880	1720120	e fazer o cruzamento, quase da direita, trazendo só o que faz o cruzamento,
+1720120	1725080	quando a esquerda, da esquerda, a gente traz tudo, da direita, a gente traz só o que foi encontrado.
+1725160	1730760	No righte, é o contrário, a gente traz tudo da direita, e do da esquerda, a gente traz só o que foi encontrado.
+1730760	1738520	No ino, a gente traz só o que foi encontrado, o que não tiver nos dois não é levado,
+1738520	1743640	e no alto, terão contrário, a gente traz tudo dos dois, o que não tiver em um e outra, a gente volta
+1743640	1749000	ali, o nano, o valor do, então, vamos ver mais alguns exemplos aqui, onde a gente vai fazer
+1749240	1754760	esses meus amens, aqui a gente tem o exemplo do concate que a gente falou pra fazer o nião.
+1756600	1763960	Então, aqui, a gente tem 3 data frames, data frame 1, data frame 2, e data frame 3,
+1763960	1770200	então aqui, a linha vai do zero a outra, e a linha vai do 4,7, aqui vai do 8,8, o concate,
+1770200	1774840	como a gente falou, quando a gente usa o Axis zero, ele serve pra um nha, ali, o gilinho,
+1775160	1779960	e aqui, no nosso caso, a gente vai usar o alto, e nem precisava, porque eu padrão de jaya,
+1781160	1788680	e a gente quer um nima, os objetos, aqui, os objetos, no caso, pode ser uma lista, onde a gente vai passar,
+1789640	1796520	da f1, nós está muito rondescriver, o botáquimas,
+1797240	1804760	a gente passa em principalmente uma lista da f1, da f2, da f3, então,
+1805960	1811480	a gente poderia criar os objetos e a triboir isso, a gente pode passar uma lista aqui direto mesmo.
+1813160	1820280	Então, o isso, a gente consegue fazer o concate, e a gente consegue ter um data frame só,
+1820280	1828520	a linha dos 3, se a gente quiser atribuir, e são o novo data frame, a gente simplesmente faz
+1828520	1838360	df igual e aí, a operação, então, isso aqui, se você não efetivar através do f igual,
+1838360	1843240	ele vai ser só temporário, certo? Você pode fazer isso aqui, se você não efetivar, ele não vai ser,
+1843240	1849800	a más enar num garinho, então, quando quiser más enar tem que usar um da f igual, a aplicação desse meta.
+1854280	1859160	Beleza, o join aqui, a gente tem um exemplo de Inerjoy, vai dar para entender melhor.
+1860840	1865880	Aqui, alguém que falou, a gente tem os íntices, e agora, a gente vai usar os íntices para fazer esse ognão.
+1865880	1868920	Tem o caseroca 1, 2, 1, a lhe o caseroca 2, 3.
+1868920	1875480	Então, perceba o que o caú, ele não tem aqui, e o c₂, ele não tem aqui.
+1877480	1884360	Então, o que vai acontecer? Quando a gente está falando de Iner, a gente vai levar aqui,
+1885960	1894360	e quando não, ou ver, o valor nulo, não vai no valor da ta frame da direita, por exemplo, a gente leva como valores nulos.
+1894680	1900440	Então, aqui, no exemplo, na coluna, com o join de c₂, a gente não tem nada do raiz, certo? Então,
+1900440	1909480	a gente traz aqui, valores nulos. Na coluna, no que no c₂, nas coluna vai ver, a gente não tem o join de c₂,
+1910280	1915320	então, a gente leva, o back, como a gente não tem os valores nulos para cá.
+1915320	1922840	Se a gente fizer assim, lefte, em que que ia acontecer, e eu ficar sós da esquerda, então,
+1922840	1932200	eu ficar só esses íntices. E o c₂ e a 6 cuida, se a gente fizer assim, righte, quem é 6 cuida,
+1932200	1939400	e a c₂, o caú, se a gente fizer isso um fú ao trade-on, também, e a das c₂.
+1939400	1952120	Então, esses são os casos que a revisão. E agora, finalmente, a gente vai começar a falar de manipulações
+1952120	1957880	mais avançados. Então, toda vez que a gente vai fazer uma manipulação mais de uma vez, a gente está evitando
+1957880	1963160	trabalho repetindo, aquilo que a gente falou de não ter que passar ali em 12 data frames, por exemplo,
+1963160	1970440	para fazer algo que é exatamente igual para os dois. Então, esse é o trabalho, evitado,
+1970440	1977320	trabalho repetivo, e além disso, a gente optimismo coche. Algunas principais coisas que a gente pode
+1977320	1984920	fazer em funções, filtragem, ordenação, agrupamento, em pesa dos dados, em remoção de valores
+1984920	1992040	e no Routes, transformação de valores errados, e também, entre as solas sombras.
+1992040	1998520	A gente pode criar novas colunas, a gente pode multiplicar colunas, a gente pode fazer medidas.
+1998520	2003320	Então, tudo isso pode ser feita através de funções, principalmente para se tossonos,
+2003320	2007960	onde a gente precisa repetir para vários datacetes. Então, essa é a ideia.
+2007960	2012200	Eu vou fom com uma mesma função, pode aplicar para diferentes datacetes.
+2012200	2017640	Desde aqui, eles mantêm um estrutura que é respeitada aqui na função.
+2019880	2024440	Então, é bom, também, a gente relebra a sintaxis da função.
+2024440	2027960	Sempre que a gente foi, escreveu a função, a gente vai voltar para a lavinha de defe.
+2027960	2031560	Então, quando a gente usa o defe, a gente está.
+2031560	2035000	É uma palavra reservada para a gente escrever a função.
+2035000	2038040	Então, o pai está já na identifica, ele bota ele até muda a cor.
+2038040	2041560	Em seguida, depois da defe, a gente dá um espaço e escreve o nome da função.
+2041560	2047320	Esse nome aqui, ele é flexible, a sua escolha, e geralmente, a gente já comeira alguma coisa para se sentindo.
+2047320	2050760	E ela ativa a operação, o que a função vai fazer.
+2050760	2053640	Em seguida, a gente vai passar os parâmetros.
+2053640	2057800	Os parâmetros da função, eles podem ser, eles são uma túpula.
+2057800	2062840	E o interessante é que essa túpula, ela pode ter uma lista, pode ter edicionar,
+2062840	2066520	e pode ter um data frame, pode ter...
+2066520	2069720	Ele é flexible, você já está aí, com o quete-te de entrada.
+2069720	2071960	Inclusive, ela pode ter nada.
+2071960	2074840	A gente fala o público no nome, então, é como a função que não tem parâmetro.
+2074840	2077400	Uma função que vocês usam toda a hora, o descraime.
+2077400	2080920	O descraime tem parâmetros, mas quando a gente usa o descraime,
+2080920	2085560	a gente nunca bota nada, a gente bota um descraime, abre fecha e a gente haver análise.
+2085560	2089000	Porque a gente não está chamando nenhum parâmetro dele.
+2089000	2092520	Então, o que ele faz é organizar todos os dados,
+2092520	2095640	ele faz manipulações, pega a média, faz os equipamentos corredes,
+2095640	2099000	ele leva toda aquela análise para a gente.
+2099000	2105400	E ele retorna o data frame manipulado para fazer casanais.
+2105400	2109240	Então, é isso que um descraime faz.
+2109240	2111160	Aqui, por exemplo, a gente tem dois parâmetros,
+2111720	2114600	os parâmetros deles são como se fosse os ingredientes.
+2114600	2120040	E aqui, o bloco da função, a gente tem o que a gente faz com esses ingredientes.
+2120040	2122600	Então, aqui, por exemplo, a gente vai sair doito para a doze u e 2.
+2122600	2124600	A gente está multiplicando um pelo outro.
+2124600	2127800	E armarzenando, uma variável total.
+2128680	2134040	Eu poderia muito bem preentar esse total também, depois calcular ele, concordo.
+2134040	2136520	Então, se eu quiser estar vendo a tela, ele vai dar um print.
+2136520	2139080	Depois do total, ele vai aparecer na tela.
+2139080	2141800	Se eu quiser armarzenar em outra variável,
+2141800	2145800	eu preciso criar essa dedicação de retorno aqui.
+2145800	2147160	Por quê?
+2147160	2149080	Quando eu quiser fazer uma operação, por exemplo,
+2149080	2151480	para chamar essa função aqui, que faz a multiplicação,
+2151480	2152920	eu vou comparar a minha total outra.
+2152920	2155000	Se eu chamar a ela,
+2155000	2157480	como se são 3, 5,
+2157480	2159720	então, vamos explicar aqui 3 por 5.
+2159720	2161240	Ele vai me retorner o total.
+2161240	2163880	Então, eu vou ter 15, mas eu vou ter 15,
+2163880	2165080	sem nada.
+2165080	2166520	Então, que eu tenho que fazer,
+2166520	2168120	se eu quiser armarzenar em algum lugar,
+2168120	2172920	eu tenho que fazer, resultado igual a função 3, 5.
+2172920	2177000	Porque aqui ela tem o retorno.
+2177000	2181320	Então, ela retora e ao retorno dela, aqui vai pro resultado.
+2182440	2185880	Se eu não botar um retorno, a próxima vez que o executar a função,
+2185880	2188920	ela vai, se você vai continuar a luz, ela vai retornar outra coisa.
+2188920	2190920	Então, ela vai fazer só o que ela está opinando.
+2190920	2193080	Mas, seu boto, para armarzenar aqui no lugar,
+2194360	2196280	eu preciso também do retorno.
+2196360	2198280	O retorno que vai atribuir,
+2198280	2199160	lá do outro lado,
+2199160	2201960	eu avoreava que a gente está definido.
+2204200	2207160	Então, aqui um exemplo, mas, prático,
+2208040	2210200	criar uma colona de risco de crédito,
+2210200	2211080	a aplicando a função,
+2211080	2213720	classificos os clientes, como o baixo risco,
+2213720	2215720	o médio risco, o alto risco,
+2216760	2218360	com base variáveis como renda,
+2218360	2219480	histórico de pagamentos.
+2219480	2221240	Então, que a gente tem duas variáveis, renda,
+2221240	2223000	histórico de pagamentos.
+2223000	2224440	E a gente quer definir esse cliente,
+2224440	2225880	é de alto baixo risco.
+2226120	2229320	Então, o primeiro passo é o cliente,
+2229320	2231320	o que é o cliente aqui?
+2231320	2234120	A gente tem um palpete, pode mandar no chá,
+2234120	2235640	também, é isso.
+2235640	2239160	Olha, lembro que a gente falou que dentro da tupa,
+2239160	2240680	aqui a gente só tem uma lamentação tupa,
+2240680	2241800	sabe?
+2241800	2244200	E é lista?
+2244200	2246360	Então, não é uma lista.
+2246360	2248760	Olha que a gente está fazendo com cliente.
+2248760	2251560	Olha isso, tratamento que a gente está fazendo aqui.
+2252520	2253960	E parece o que para vocês?
+2256120	2258520	Que a gente renda maior do que o mil.
+2263080	2264680	A gente é um data de frame.
+2264680	2266280	É.
+2266280	2268040	É isso, é um data frame.
+2268040	2270520	Então, simplesmente, eu posso criar a função.
+2270520	2272600	O boto aqui, cliente, mas ele poderia ser,
+2272600	2274920	geralmente, eu quando vou definir uma função,
+2274920	2276520	que em volta um data frame,
+2276520	2278440	eu sempre volto a dash para ficar bem claro.
+2278440	2279440	O boto é o boto,
+2279440	2281440	bf, classificar risco.
+2282800	2284760	Bf, por quê?
+2284760	2287480	Porque depois, todos as manipulações que você fizeram em baixo,
+2287480	2289480	vão ser em cima de bf, né?
+2289480	2292280	vão ser como se a tivesse manipulando ele lá mesmo, né?
+2292280	2297120	Então, você vai botar e f, bf, renda, e assim, vai.
+2297120	2298840	Então, acaba ficando mais fácil,
+2298840	2300520	que é um da gel da tta frame.
+2300520	2302440	Mas, cliente, falou um nome não importante, né?
+2302440	2304520	O que bota o formato.
+2304520	2306600	Então, essa é a mobsão,
+2306600	2309680	mas aqui a gente vai estar com o nome cliente.
+2309680	2311400	Então, a gente vai pegar a coluna renda,
+2311400	2314680	e o que for maior do que 10 mil.
+2314680	2316240	E com o histórico de pagamento,
+2316240	2317680	sempre o estringo de bom,
+2317680	2321000	então, quando é comparação em tilos a dois iguais, né?
+2321000	2323240	Ele vai retornar abaixo.
+2324360	2327160	Sim, ele, enfim, né?
+2327160	2330080	O histórico, o arrêndo foi entre 5 mil.
+2330080	2333160	Aqui, ó, a gente passa 5 mil, menor,
+2333160	2335000	do que a renda,
+2335080	2336680	menor igual a 10 mil.
+2336680	2339800	Ou seja, a gente crome o grupo intermediário, né?
+2339800	2342600	E se o histórico de pagamento estiver em bom ou regular,
+2342600	2344760	percebeu que aqui é ou não, é mais uma estringa única,
+2344760	2346520	aqui é uma lista estringes, né?
+2346520	2347920	Um dois.
+2347920	2350120	Então, aqui a gente vai retornar a meso.
+2350120	2351960	Sim, não, ele vai ser alto, né?
+2351960	2354360	Porque esse aqui, se não, ele vai ter...
+2354360	2356360	É...
+2357480	2359200	Uma renda menor, né?
+2359200	2361000	Uma renda...
+2361000	2363560	Pensar aqui, ó, enfim, cliente, não.
+2363640	2366360	É, que era para ser a outra para ser aqui, né?
+2366360	2367760	Agora, eu tô vendo para só fazer errado.
+2367760	2368720	Eu bacharia para ser no final,
+2368720	2371120	porque esse o cara tem mais 10 mil históricos pagamentos bom,
+2371120	2372160	e bem alto.
+2372160	2374160	O retorno tem que ser alto.
+2374160	2377160	Então, vamos agentar aqui.
+2381160	2382960	Vai ser alto.
+2384360	2386360	Agora, foi difícil.
+2386360	2390120	Por último, mas aí, nesse caso, eu risco...
+2390120	2392120	O risco é baixo.
+2392320	2394400	O risco tá entendido.
+2394400	2395120	É referência, né?
+2395120	2395880	Verdad.
+2395880	2397080	Então, o risco é baixo.
+2397080	2398360	Agora, ele tem que estar certo.
+2398360	2400320	Vai dar um jogo obrigado, né, razão?
+2400320	2402280	Então, o risco é baixo, tá certo.
+2402800	2404880	Então, aqui o risco é baixo, o cara tem...
+2404880	2408080	O ganha mais 10 mil históricos pagamentos, é bom.
+2408080	2409040	Se ele ganha...
+2409040	2413200	E tem 5 mil históricos pagamentos, se vai ir bom, regular,
+2413200	2414760	aí, o risco vai ser mais 10 mil.
+2414760	2415480	Se não, né?
+2415480	2418080	Se ele ganha menos de 5 mil.
+2418080	2420000	Ou, independente de ganha menos de 5 mil,
+2420000	2422000	o seu histórico dele for ruim, provavelmente, né?
+2422000	2425480	Que deve ser outra opção ruim, ou muito ruim.
+2425480	2426960	Ele vai cair no risco alto.
+2428080	2430160	Então, essa é que a nossa função é um perfeto.
+2430160	2433080	E quando a gente vai atribuir a uma nova coluna,
+2433080	2435280	basta a gente criar essa nova coluna.
+2435280	2437840	Então, a gente tá criando uma nova coluna que a risco de cresce.
+2437840	2439840	E a gente usa o método a plai.
+2439840	2441680	Então, essa é uma ótima combinação.
+2441680	2443720	Você se define ir uma função,
+2443720	2446400	se você se define no retorno que você se quer.
+2446400	2447760	E no a plai,
+2447760	2451000	você simplesmente bota essa função aqui,
+2451640	2455040	para explicar isso, usando o data frame.
+2455040	2457320	Então, aqui, o data frame no PDF,
+2457800	2460080	mas aí, ele que vai no lugar do cliente.
+2460080	2462480	Então, tudo que a gente faz aqui no cliente é o PDF,
+2462480	2464080	renda maior do que 10 mil.
+2465040	2466600	E aqui a gente tá falando de axis,
+2466600	2468000	porque a gente tá falando de coluna, né?
+2468000	2471040	A gente tá aplicando a manipulação em uma coluna.
+2471040	2472480	Então, a gente vai criar uma coluna,
+2473440	2474240	a que se zoon,
+2474800	2476880	usando a manipulação.
+2477440	2478840	A aplicação da função,
+2478840	2480040	clasificar risco,
+2480040	2481320	no data frame,
+2481320	2484680	vai tirar o chamado do apply do panas,
+2484680	2487080	para jogar a função clasificar risco,
+2487080	2488360	numa coluna.
+2490160	2492400	E com isso a gente consegue, por exemplo, imagina.
+2492400	2494280	Vai ter o data frame de todo mês,
+2494280	2497240	recebeu o data frame com a lista de clientes.
+2497240	2499880	A gente define a função aqui em uma vez.
+2499880	2501600	E agora, toda vez que a gente fizemos,
+2501600	2502920	já que ele não coge ozinho,
+2502920	2505040	só tem que mandar isso aqui,
+2505040	2506320	e ele já vai aplicar.
+2506480	2507680	A manipulação.
+2510080	2511600	Então, beleza.
+2512480	2515320	Agora, passando para a lâmbua da fã que já aconçou,
+2515320	2518520	as sonções lâmbadas são muito práticas,
+2518520	2521000	porque elas permitem definir uma função em uma linha de código.
+2521000	2522880	Então, geralmente também, né?
+2522880	2525480	A gente não vai querer fazer uma função muito complexa.
+2525480	2529840	Mas elas são muito boas para quando a gente quer fazer uma operação muito simples.
+2529840	2532920	Então aqui, crenche falou em uma linha de código.
+2532920	2534440	Sem necessidade de definir isso,
+2534440	2535840	principalmente o déficit, também.
+2536320	2537760	Então, quando a gente tem o zão lámido da fã,
+2537760	2539400	que a gente não precisa do déficit.
+2539400	2540960	Geralmente a gente se usa o zão lámido da fã,
+2540960	2543520	que o crenche quer trebuir uma variável.
+2543520	2545960	Então aqui, no caso, por exemplo, x,
+2545960	2548360	eu vou pegar o zão lámido,
+2548360	2549440	então, percebe o clandão,
+2549440	2551120	a palavra descarga de 100,000 da tecouro,
+2551120	2553200	quando se inscreverem.
+2553200	2554640	E aqui, eu tenho duas entradas.
+2554640	2555960	A imbe.
+2555960	2559440	Então, eu quero fazer...
+2559440	2563080	A imbe é só as entradas, né, como se fossem uns parâmetros.
+2563080	2565160	E eu dou dois pontos e seguido,
+2565160	2566240	e eu passo por car fazer isso.
+2566240	2567960	Aqui, como se fosse o bloco da função,
+2567960	2570040	isso aqui é com as suas parâmetros.
+2570040	2572640	E eu atribu a amazena, como se fosse a amazena,
+2572640	2574760	essa função ima variável.
+2574760	2576440	Então, depois, quando eu dou aqui,
+2576440	2581360	a um x, 3,4, ele faz a soma.
+2581360	2583080	Ele vai pegar e vai somar 3,4.
+2583080	2585640	E aí, eu vou prender ele não vai dar o prende do x,
+2585640	2587480	e vai dar o prende, 3,4,
+2587480	2589640	e vai dar a preta de 7.
+2589640	2591240	E o mesmo vai para outras operações, né,
+2591240	2593520	aqui, diferente, e fez uma multiplicação.
+2593520	2595560	Então, aqui, considera se o bloco da função,
+2595560	2597200	os parâmetros se mantem o mesmo.
+2597200	2598680	A gente ainda armasa nx,
+2598680	2601960	e aqui, a gente goto 3,4 para fazer a multiplicação,
+2601960	2603960	no parâmetro, pelo parâmetro b.
+2603960	2606880	Então, aqui, acaba sendo a, aqui, acaba sendo b.
+2606880	2609320	Então, aqui, eu exemplo de uma fissãozinho,
+2609320	2612080	que a gente consegue fazer muito fácil, né, então, por exemplo,
+2612080	2615200	mas a gente tem que fazer uma função para somar duas comuns.
+2615200	2617200	Ou, para a multiplicação duas comuns.
+2617200	2620960	Então, aqui, com o logo, a gente consegue muito mais fácil.
+2620960	2624360	E aqui, eu escorre falar de consegue aplicar também muito facilmente
+2624360	2626160	em data frames.
+2626160	2629160	Aqui, um exemplo, padrões álmã com o nome de cliente
+2629160	2632200	se atirando os passos em branco e deixando no formato correto, né,
+2632200	2634640	formato correto é com o maiúsculo,
+2634640	2638640	na primeira letra do nome sobre o nome, né, então aqui, João Silva.
+2638640	2641080	Então, isso é um trabalho muito, muito normal.
+2641080	2643600	Então, imagine a gente que você tem que querer criar um gráfico
+2643600	2645280	dos clientes que mais compro.
+2645280	2647360	E, às vezes, o nome do cliente está despado noizado,
+2647360	2648560	igual ao vendedores cremeu.
+2648560	2650240	Aí, um vendedores creve, João Silva,
+2650240	2651240	todo o mundo do meu uso.
+2651240	2653760	O outro escreve, João Silva, todo junto.
+2653760	2655840	O outro escreve, todo o minúsculo, o outro escreve certinho,
+2655840	2658080	o outro escreve com o uncle, o outro escreve sempre.
+2658080	2660040	Então, geralmente, a gente tem que fazer a espada,
+2660040	2662320	para usar a espada da organização para garantir que os nomes
+2662320	2665040	vão ficar, por exemplo, aqui, tudo certo.
+2665040	2668840	É, então, aqui, olha, o que a gente está fazendo a mesma coisa,
+2668840	2671320	a gente está querendo macar uma norma padrões,
+2671320	2673880	só que agora a gente vai aplicar diretamente,
+2673880	2675520	a gente vai já aplicar na data frame todo,
+2675520	2678800	a gente vai aplicar na coluna.
+2678800	2680160	Por quê?
+2680160	2687800	A gente vai usar o x, a coluna, como se fosse um parâmetro pro x, certo?
+2687800	2689800	Então, o que a gente vai fazer a coluna,
+2689800	2692960	o nome é com os fússos, um parâmetro pro x.
+2692960	2695760	E a gente vai aplicar o strip,
+2695760	2697840	que é justamente para dividir,
+2697840	2700640	então, ele vai atinar os pasímbram,
+2700640	2702480	perda um, ou foi de fússos, perdi um strip,
+2702480	2704480	o strip é atirado os pasímbram.
+2704480	2707040	E, quando a gente a seorece segundo metro, não é?
+2707040	2709680	Lembra que a gente pode ser pressionais no Zincadei,
+2709680	2711200	a gente é seu no time,
+2711200	2712960	que é ele já bota nesse pomato,
+2712960	2714800	e eu ouço o meu maio os columinusco,
+2714800	2716240	então, se o que a gente sai,
+2716240	2718280	então, esse pessoal vai enxerar muito bom para a mão,
+2718280	2719800	a gente perigar o ganhiza,
+2719800	2723240	ele identifica que cada palavra é para ter a maior uso
+2723240	2725520	na primeira letra.
+2725520	2728120	Então, aqui, uma boa aplicação do Lambi,
+2728120	2729760	então, aqui a gente simplesmente uma coluna,
+2729760	2732200	que a gente nem precisa chamar o def,
+2732200	2735280	porque em uma linha, a gente consegue fazer essa manipulação.
+2735280	2738080	A gente chamou o nome da coluna,
+2738080	2740240	e joga ela para o paramento do Lambi,
+2740240	2742080	e aqui dentro do bloco,
+2742080	2745360	a gente faz as manipulações que a gente quer.
+2750640	2754160	Então, agora, a próxima passa, as Minda o Fanchos,
+2754160	2757200	a gente já conhece bastante, as Minda o Fanchos,
+2757200	2762320	mas acaba que o Teino o Minda o Fanchos não é muito conhecido,
+2762640	2765200	com elas a gente já prica cá o Clos Agregados,
+2765200	2767920	então, a gente consegue organizar a rankings,
+2767920	2771760	ou até comparações com notilhas relacionadas a uma inspecífica.
+2771760	2774600	Então, o que a gente consegue é manter cada linha,
+2774600	2776880	individualmente do restado.
+2776880	2778520	Então, o que a gente faz?
+2778520	2781360	A gente pode criar, por exemplo, funções de agregação.
+2781360	2782960	A gente pode tirar medias,
+2782960	2784800	a gente pode pegar o máximo,
+2784800	2788800	o mínimo, fazer soma ou contagens.
+2788800	2790600	Então, essa aqui, são as que a gente mais conhece,
+2790600	2793080	principalmente pelo amor no describe,
+2793080	2795880	a gente usa no grupo depois do grupo B.
+2795880	2797920	A gente tem também o hand,
+2797920	2799960	então o hand que a gente tem roumba,
+2799960	2802800	a gente tem hand, bem se hand que peça a gente hand que é no time,
+2802800	2804280	a gente já vai ver os exépes,
+2804280	2806800	mas pode ser que, por exemplo, para dizer o número
+2806800	2809720	qual o linhas é aquela dentro da fatra-freem,
+2809720	2812520	então, isso acaba sendo útil para mostrarções,
+2812520	2813880	rã que a gente pode dizer,
+2813880	2816440	dentro de todos as vendas,
+2816440	2818440	é uma muda da fatra-freem de vendas,
+2818440	2821160	nós vamos poder ser linha 120 aqui,
+2821160	2823560	ela é convendo, então,
+2823560	2825160	que mais é deu, até 3,
+2825160	2826760	é que mais é deu, ela é que menos vendeu,
+2826760	2827800	então, ela começa a honrar aqui,
+2827800	2831600	é 1, 2, 3, de valores.
+2831600	2833800	Aqui a gente consegue ver leg e liche,
+2833800	2835400	também são funções para ver,
+2835400	2838040	por exemplo, valor de cima ou de baixo.
+2838040	2839480	Isso é o último em uma mostuações,
+2839480	2841800	ou seja, a gente consegue pegar e ver a liche cima,
+2841800	2843080	ou a liche baixo.
+2843080	2844280	Tinha que ver a primeira linha,
+2844280	2847080	a última linha, ou alguma liche específica.
+2847240	2850280	Então, agora eu vejo os exemplos das Windows Fonts.
+2851480	2854040	Então, em um contexto de barrigo,
+2854440	2855880	a gente vai criar,
+2856920	2859640	para cada dia de vendas, então, a gente tem uma base de vendas,
+2859640	2862280	a gente quer criar uma poluna com a média a movo de vendas,
+2862280	2864200	para 3 dias, tanto tipo,
+2864200	2866440	Windows Fonts, agreguei-te,
+2866680	2868760	a gente quer criar um rânguete de vendas,
+2868760	2869960	é um rânguete,
+2869960	2871400	e as vendas do dia anterior,
+2871400	2872520	a gente quer pegar um barrio.
+2873480	2874840	Então, por exemplo, aqui,
+2874840	2876920	para pegar a média a movo de 3 dias,
+2876920	2879240	a gente vai acionar o método Rooley,
+2880200	2884520	que é uma função de agregação, também.
+2885160	2887880	Então, a gente vai pegar as vendas,
+2887880	2890360	a comandivendas, vai aplicar Rooley,
+2890360	2891880	e vai usar Windows,
+2891880	2893160	para metir o Windows 3.
+2894040	2897160	O Windows está relativo a calunaidade de tempo.
+2897160	2899240	Então, o sigo sua base tiver um idade de tempo,
+2899240	2900600	se cada linha foi um dia,
+2900600	2901640	ele vai pegar 3 dias,
+2901640	2902600	se cada linha foi um mês,
+2902600	2903720	ele vai pegar 3 meses,
+2903720	2905560	cada linha foi um ano, ele vai pegar 3 anos.
+2906120	2908440	E, seguindo, a gente vai aprequer que a agregação
+2908440	2910520	vai enxerir o minho.
+2910520	2912200	Então, aqui, a gente consegue pegar Rooley,
+2912200	2914840	para pegar as 3 últimas,
+2914840	2917560	as 3 últimas, apareções dele,
+2917960	2919560	e seguir em a gente pega a média.
+2921000	2923640	O rângu, então, aqui, por exemplo, a gente quer pegar,
+2925400	2928200	quando a gente usa o minho, ele vai pegar o primeiro do rângu.
+2928200	2930440	Ou seja, aqui, aparece meio confuso,
+2930440	2932040	mas no rângu, o minho é o primeiro.
+2932840	2934200	Então, aqui, vai fredendo,
+2934200	2936360	quando eu boto ponto rângu, igual a minho,
+2937240	2938920	ele vai criar uma coluna,
+2938920	2942040	exatamente, criando o rângu do menor para o maior,
+2942520	2945400	e aqui, tinha que tiver a maior venda,
+2945400	2948680	vai ser, vai ter um aninha que tiver a menor venda,
+2948680	2950360	vai ter o maior número,
+2950360	2952680	ou seja, de deperego no vredirinhas do data frame.
+2954040	2956280	Seu quiser pegar as vendas do dia anterior,
+2956280	2958920	ou seja, supondo que cada linha do nosso
+2958920	2960760	pojudidad é um dia,
+2960920	2963800	seu que quiser pegar adicionar uma coluna,
+2963800	2965400	quase vendas do dia anterior,
+2965400	2967480	basta pegar a defenda e desistifte.
+2967480	2970520	Então, bem bem para criar um compadinho, ao do tipo,
+2970520	2972520	a gente pode precisar adicionar uma coluna,
+2972520	2973880	quase vez anterior,
+2973880	2975880	simplesmente dando defenda e desistifte,
+2975880	2977800	um tono vai identificar
+2977800	2980680	que eu estou querendo pegar um dia para cima.
+2985080	2987640	Beleza, alguma dúvida pessoal,
+2987640	2990360	aqui, eu vou pegar a parte das minho fântimas,
+2991080	2992520	próximo atividade prática,
+2992520	2993560	a gente vai fazer uma,
+2993560	2995480	uma, uma, um ainda o fântimas bem legal,
+2995480	2997240	a gente vai utilizar muito elas,
+2997240	2998920	é uma base que tem,
+2998920	3002040	todo o dejilo no planeta terra,
+3002040	3004520	então ela tem a quantidade de gel,
+3004520	3006680	no planeta terra, por dia.
+3006680	3008840	Então, ela não tem muita informação,
+3008840	3009800	ela só tem o dia,
+3009800	3010760	e a quantidade de gel,
+3010760	3012040	sobre os coluna só,
+3012040	3014040	mas ela tem seu nome ganho de 80,
+3014040	3014280	80,
+3014280	3015960	e 85.
+3015960	3017320	Então, ela tem de por cento,
+3017320	3020280	e quase 150 anos do histórico de gel no atén.
+3020440	3022200	Então, a mocola não é quando a gente vê
+3022200	3023880	só o valor, ela não precisa muita coisa,
+3023880	3026040	mas ela logo de 150 anos,
+3026040	3027640	ela fala muito muita coisa,
+3027640	3029000	então a gente vai ver isso no,
+3029000	3031240	na próxima atividade prática, vai ser bem legal.
+3033960	3036120	Agora, seguindo aqui,
+3036120	3038760	funcionões para organizar data.
+3038760	3040520	Então aqui, data ring,
+3040520	3041560	é o nome disso,
+3041560	3044360	são funcionões de data e hora para manipular
+3044360	3046840	extra informações de coluna,
+3046840	3049400	os que são de data,
+3049400	3051240	então, como as somes para analhes,
+3051240	3051800	se sazonais,
+3051800	3052920	eu tenho poréis,
+3052920	3055400	então, a gente tem, por exemplo,
+3055400	3057240	a possibilidade a gente já deve ter feito isso,
+3057240	3059320	que vocês já deve ter feito ao longo dos campos.
+3059320	3060680	Um extração, você é coluna da data,
+3060680	3061880	ela vai formar de data,
+3061880	3064040	e pode trair o nome do dia,
+3064040	3066680	então, a gente pode criar um novo coluna de da semana,
+3066680	3067960	pegando data,
+3067960	3069720	eu pego para o momento deles,
+3069720	3071880	e eu pego dentro de desde o day name,
+3071880	3073080	que é o dia da semana,
+3073080	3075800	então só atriba o que iria isso em uma coluna.
+3076360	3077560	E aqui,
+3077560	3079560	uma outra coisa, eu quero pegar um mês,
+3080840	3081640	então, posso pegar,
+3081640	3083080	simplesmente, a inveja de day name,
+3083080	3083800	eu noto,
+3083800	3085240	bom freio.
+3085240	3087000	Então isso aqui traz um mês,
+3087000	3087960	o nome do mês,
+3087960	3089000	e a gente salva também,
+3089000	3090840	em uma nova coluna.
+3090840	3092840	Isso acaba sendo muito útil.
+3092840	3094360	Quando a gente quer pensar, por exemplo,
+3094360	3095000	eu quero agrupar,
+3095000	3096360	eu tenho uma base de venda,
+3096360	3097160	e ele completa,
+3097160	3100200	eu tenho menos nos últimos 3 anos.
+3100200	3101640	Então eu quero agrupar para ver se,
+3101640	3102760	segundo, eu tenho essa feira,
+3102760	3104120	é um dia melhor de venda.
+3104360	3105080	Eu posso fazer,
+3105080	3106680	eu queria uma coluna com o dia da semana,
+3106680	3108040	e a gente faça um grupo e bairro,
+3108040	3108920	pelo valor de venda,
+3108920	3110280	usando dia da semana.
+3111480	3112840	Se eu quero ver se o final do ano,
+3112840	3114280	por exemplo, as menos descrentam.
+3114280	3115320	Então agrupo,
+3115320	3116440	o dia de agrupo,
+3116440	3118040	e agrupo,
+3118040	3119400	por ela depois.
+3119400	3120360	Mas aí, daí,
+3120360	3122680	a gente é adicionando as colunas de data,
+3122680	3123240	talvez,
+3123240	3124600	do data ongreio.
+3125080	3127000	A gente consegue criar
+3127000	3128680	uma base para fazer os agrupamentos
+3128680	3130680	e ver essas noitades depois.
+3130680	3132040	Então, a gente pode pensar,
+3132040	3132440	beleza,
+3132440	3134280	de uma semana em mês é muito batido,
+3134280	3135560	mas a gente pode pensar,
+3135560	3137480	estação a gente pode pensar,
+3138520	3139560	em outros fatores,
+3139560	3140440	por exemplo,
+3140440	3141080	de repente,
+3141880	3145080	eu posso criar uma base copo do mundo.
+3145080	3146040	Ali, venda,
+3146040	3148360	eu quero poder criar uma flega e copo do mundo.
+3148360	3148920	Então,
+3148920	3149720	tem uma base de bem,
+3149720	3150520	e eu vou identificar
+3150520	3151480	quando eu vou copo do mundo,
+3151480	3152120	ou não.
+3152120	3153480	Eu posso criar, enfim,
+3153480	3155000	já conto com alguns eventos específicos.
+3155000	3155560	Eu posso criar,
+3155560	3156680	já conto com qualquer coisa,
+3156680	3158280	que seja útil para a minha solididade.
+3159320	3160520	E para as minhas análises,
+3160520	3162840	então, por exemplo,
+3162840	3164440	uma coisa muito interessante.
+3165400	3166600	Se você tem uma pizza aí,
+3168200	3169480	uma coisa que muito importante é de
+3169480	3170120	a semana,
+3170120	3171160	é domingo com certeza,
+3171160	3172120	você vai ter mais pigi.
+3173480	3174760	O mês eu não sei,
+3174760	3175320	tipo, não sei,
+3175320	3176840	se tem essa análise de pizza aí,
+3176840	3178280	talvez, que não é não devendo
+3178280	3179160	a mais também,
+3179160	3180440	porque o pessoal está com a dinheiro,
+3180440	3181720	mas uma coisa que eu sei
+3181720	3182200	que,
+3182200	3184040	em facto,
+3184040	3185080	é muito empitaria,
+3186040	3186520	é o tempo.
+3187720	3189480	Se chove mais as pessoas
+3189480	3190440	perem mais pizza.
+3191320	3192760	Então, esse é um comportamento natural,
+3192760	3193240	principalmente,
+3193240	3193880	finance semana.
+3194680	3195400	Por quê?
+3195400	3196040	É pessoal,
+3196040	3196440	muitas vezes,
+3196440	3197480	faz planos de sair.
+3197480	3198120	Chuveu?
+3198120	3199080	Ah, não, vamos ficar em casa,
+3199080	3199880	pedi uma pizza.
+3199880	3201560	Então, esse é um fator,
+3201560	3202200	eu sei disso,
+3202200	3203240	porque eu estava andando esse
+3203240	3204040	diazomartigo
+3204040	3205240	do manstar tapilados
+3205240	3205800	em eles,
+3205800	3206760	que eles fazem pizza,
+3206760	3207960	eles saem com vãs,
+3208520	3209720	nos principais
+3209720	3210760	regiões são franceses,
+3210760	3211720	eles saem com a pizza
+3211720	3212360	pra é pronta.
+3213000	3215400	E de acordo com uma xilânea,
+3215400	3217480	com o estudo da demanda de cada região,
+3217480	3219080	eles levam a não
+3219080	3219720	pra essa região,
+3219720	3221720	vão levar 8 pizzas de margarita,
+3221720	3223160	10 pizzas de 4 kgs,
+3223960	3225320	8 pizzas de calabreso.
+3225320	3226760	Então, ele já tem a previsão
+3227320	3228360	do que vai ser naquele jeito.
+3228360	3230120	Então, com isso, eles conseguem reduzir
+3230120	3231160	o tempo de entrega,
+3231160	3232360	eles conseguem entregar o cliente
+3232360	3233000	em tipo,
+3233000	3233960	e o fôrno,
+3233960	3234760	é no aproprevão.
+3234760	3235960	Então, ele pega pizza,
+3235960	3236760	esquenta ela,
+3236760	3237800	e ele entrega o cliente,
+3237800	3239320	porque já está numa vampéreto,
+3239320	3240520	em tipo 10 minutos,
+3240520	3241800	que eles não usam para estar com a pizza
+3241800	3243160	quente na porta da casa dele.
+3244520	3245960	E eu vi que os fatores
+3245960	3246760	mais influenciam,
+3246760	3248120	não se eles vão levar
+3248120	3249960	mais pizzas ou menos pizza,
+3249960	3251560	é a previsão do tempo,
+3251560	3253240	porque os caras às vezes faziam isso,
+3253240	3254840	não, do mínimo é a sábola,
+3254840	3255560	pode ser um dia bom,
+3255560	3256520	onde eu vou ir,
+3256520	3257240	sexta-feiras,
+3257240	3258920	de sábola principalmente,
+3258920	3260040	quente a sexta-sábola,
+3260040	3261640	a depender do tempo,
+3261640	3263480	se quente a sexta-sábola,
+3263480	3264520	tem dias bons,
+3264520	3265400	e solarados,
+3265400	3266360	ou notes limpas,
+3266360	3267400	as pessoas já me saem,
+3267400	3268040	vou pra barra,
+3268040	3269240	restaurante,
+3269240	3270440	é, se nem,
+3270440	3271640	se está chovendo,
+3271640	3272680	as pessoas ficam em casa,
+3272680	3273800	então, a demanda da pizza,
+3273800	3275560	acabava que cada,
+3275560	3277000	praticamente, vou bravar.
+3277000	3277960	Então, esse impactava
+3277960	3281400	muito nos custos de supermèndese,
+3281400	3283240	e conhecer se seguir a organizade
+3283240	3284520	botar a demanda,
+3284520	3285800	ele faziam pra eles onde demanda,
+3285800	3288600	com uma chilãe, com cemestratos,
+3288600	3290040	então, uma das variáveis mais
+3290040	3290840	importantes pra eles,
+3290840	3292280	eram a previsão do tempo,
+3292280	3294680	de seguir e achou veio no dia seguinte,
+3294680	3295560	que se eixo ver,
+3295560	3296680	essa previsão é uma alta
+3296680	3297960	probabilidade de chuva,
+3297960	3298600	exigir a tudo,
+3298600	3300200	evava mais pizza,
+3300200	3301080	então,
+3301080	3301720	acaba que,
+3301720	3302360	da Taro Reinhue,
+3302360	3303080	em geral,
+3303080	3304120	pode ser dia da semana,
+3304120	3305160	pode ser dia do mês,
+3305160	3306680	mas pode ser também
+3306680	3307880	tudo isso que está relacionado
+3307880	3308680	a essas naidade,
+3308680	3309400	então,
+3309400	3310840	não deixa de ser data Reinhue,
+3310840	3312440	a gente pensar em essas naidade,
+3312440	3314440	você a gente adicionar no nosso data frame,
+3314440	3316120	uma coluna de dias,
+3316120	3317960	de previsões,
+3317960	3318680	você a gente adicionar,
+3318680	3320840	uma coluna de probabilidade de chuva,
+3321560	3322120	ou,
+3322120	3324040	quando a gente vai ter um data frame de venders,
+3324040	3325400	a gente pode adicionar,
+3325400	3327960	enfim, se chuver ou não, naquele dia,
+3327960	3328840	ok, a gente consegue
+3328840	3329640	correlar seu análise,
+3329640	3329880	por isso,
+3329880	3331160	deus dias que chuveram,
+3331160	3332600	e vêm esteve algum impacto
+3332600	3333560	nas nossas venders,
+3333560	3334200	por exemplo.
+3334200	3336200	Então,
+3336200	3338200	mas para trabalhar com datas,
+3338200	3339240	especificamente,
+3339240	3339800	a gente,
+3339800	3340600	muitas vezes,
+3340600	3341800	vai receber as colunhas de data
+3341800	3342600	como stringa,
+3342600	3344280	isso é um problema muito,
+3344280	3345640	muito normal assim,
+3345640	3347240	isso é um das mãos de colas,
+3347240	3347640	não é se vocês,
+3347640	3348280	vai eu ter que fazer,
+3348280	3349640	principalmente com datas,
+3349640	3351640	e é joga as colunhas de datas,
+3351640	3352280	e,
+3352280	3353640	que me trouxe bem como texto,
+3353640	3355640	para data através do PD do DEST time,
+3355640	3357240	conhecem,
+3357240	3358680	pode passar o paramilho de forma,
+3358680	3360680	para formar a data de acordo
+3360680	3362680	com a coluna da Taro Reinhue,
+3362680	3364680	vocês têm que ver como está um data set,
+3364680	3366040	e ajustar.
+3366040	3367560	É igual a falei aqui no Brasil,
+3367560	3369720	a gente usa o formado DEST,
+3369720	3370520	barra,
+3370520	3371480	M&M,
+3371480	3372680	barra,
+3372680	3374200	e absoluta,
+3374200	3374920	é,
+3374920	3375960	aqui o EPSLOM é maior,
+3375960	3376920	porque a gente está falando de
+3376920	3377560	anulomônia,
+3377560	3378280	então,
+3378280	3379400	o isso a gente possa identificar
+3379400	3380520	em Zenoove,
+3380520	3381240	12,
+3381240	3382200	2018.
+3382200	3382920	Dupa,
+3382920	3383880	2014,
+3383880	3385160	2018.
+3385160	3386440	Mas essa é a data
+3386440	3388280	exatamente que está aparecendo aqui na direita do meu
+3388280	3389160	monitor,
+3389160	3390200	por um pessoal,
+3390200	3392360	se tiver alguém no estasa no nids,
+3392360	3393960	vai estar assim,
+3393960	3395240	12,
+3395240	3395720	barra,
+3395720	3396920	19,
+3396920	3397640	barra,
+3397640	3399080	12, 24.
+3400360	3401000	E aí,
+3401000	3402360	olha a diferença do formato,
+3402360	3403560	primeira coisa a barra,
+3403560	3405000	aqui é barra no EF,
+3405000	3406200	e segunda coisa a ordem,
+3406200	3406760	na primeira,
+3406760	3408760	no primeiro mês, depois,
+3408760	3409400	o dia,
+3409400	3411480	então, que a gente tem que mudar,
+3411480	3412200	o anão igual,
+3412200	3414600	mas a gente tem que botar d,
+3414600	3415000	barra,
+3415000	3415640	M&M,
+3415640	3416120	barra,
+3416120	3417640	EPSLOM EPSLOM.
+3418760	3419800	É interessante também,
+3419800	3421960	aqui tem o mês maiúsculo,
+3421960	3422280	é sentido,
+3422280	3423720	se o mês tivesse escrito,
+3425880	3427240	aqui você tem que botar,
+3429000	3429560	dá,
+3429560	3431880	aqui, o mês pode estar escrito,
+3433480	3434360	aqui,
+3434360	3435480	também,
+3435480	3436760	e aqui agora também,
+3436760	3437800	formato de horas,
+3437800	3439560	as horas podem estar completas,
+3439560	3442200	podem estar no formato de IMPM,
+3442200	3443080	então,
+3443080	3443880	sempre que quiser ainda
+3443880	3445000	dar uma constada depois,
+3445000	3447000	denoreada na tabeli.
+3447000	3450520	Mas não tem segreda,
+3450520	3452200	é só buscar o formato
+3452200	3455640	e ver a lidatação
+3455640	3456760	para botar o formato,
+3456760	3457160	enfim,
+3457160	3458040	que o pando os intende,
+3458040	3459240	é que é que vai uma condidada,
+3459240	3460040	né?
+3460040	3461480	Então agora,
+3461480	3462440	rechepe de dados,
+3462440	3464440	eu rechei para esse funciono
+3464440	3466440	para transformar estruturas de dados,
+3466440	3467640	basicamente para facilitar
+3467640	3468040	a análise,
+3468040	3470440	e eles permitem que a gente
+3470440	3471480	não voreisios dados
+3471480	3472040	móngulos, né?
+3472040	3472920	É,
+3472920	3474280	para largos,
+3474280	3474600	então,
+3474600	3475720	a gente pega dados noms,
+3475720	3476840	que estão muito na vez de cara
+3476840	3478040	o jogo para horizontal,
+3478040	3479240	ou das que estão muito na vez de
+3479240	3480680	cara o jogo para horizontal.
+3480680	3482200	Como que a gente faz isso?
+3482200	3483240	Que brando,
+3483240	3484040	comuns?
+3485240	3486600	E é exatamente isso que a gente faz
+3486600	3487400	através do meu,
+3487400	3488200	por exemplo.
+3488200	3489240	Então, aqui,
+3489240	3490040	a gente tem,
+3490040	3490760	a uma ideia,
+3490760	3492600	nossa exemplar concentrada,
+3492600	3493960	todos os dados de uma base de
+3493960	3494760	menos em um coluno,
+3494760	3495640	e depois voltar.
+3495640	3496120	Então aqui,
+3496120	3497480	olha, no nosso exemplo.
+3497800	3499240	A gente tem uma coluna
+3499240	3500520	que tem três categorias,
+3500520	3501240	a biceira,
+3501240	3502600	a coluna de categorias,
+3502600	3503320	e a gente tem aqui,
+3503320	3504760	ó, vêm as gerenermos coluna,
+3504760	3505880	vêm as fevereiras e o outro
+3505880	3506600	comum.
+3506600	3507240	E se é raro,
+3507240	3508680	mas a arar mais da acontece
+3508680	3509720	com frequência.
+3509720	3510440	Então,
+3510440	3511880	tem uma coluna que
+3511880	3513320	de categorias biceiras,
+3513320	3513800	vêm das aqui,
+3513800	3515480	com qual o que elas deveriam.
+3515480	3516840	É, se repetir,
+3516840	3517880	deveriam ter uma coluna de
+3517880	3518440	vendas,
+3518440	3520200	e eu deveria ter
+3520200	3522280	os valores se repetindo
+3523240	3525000	dos eves, 150, 220,
+3525000	3526360	e tem uma nova coluna de
+3526360	3527960	atribuição pro mês.
+3527960	3529560	Então, como que a gente consegue
+3529560	3530760	fazer isso?
+3530760	3533160	A gente vai derreter
+3533160	3534200	aqui, a gente vai chamar
+3534200	3537000	de f1, a gente vai derreter
+3537000	3538200	aqui a variavo de d,
+3538200	3539560	a variavo que a gente quer manter
+3539560	3540600	é a categoria.
+3540600	3542360	Então, a gente vai manter
+3542360	3543720	o nome da variavo que a gente
+3543720	3546360	quer criar é mês
+3546360	3548520	e o nome da variavo
+3548520	3549400	que a gente vai
+3549400	3551160	meio que quebrar,
+3551320	3552120	é a venda.
+3552120	3553320	Então, o que acontece?
+3553320	3555080	O mês vai pra cá,
+3555080	3556120	então a gente pega,
+3556120	3557000	eu queria
+3557000	3558440	os nome de colunas,
+3558440	3559800	eles vão
+3559800	3561480	viram valores na coluna
+3561480	3562280	mês.
+3562920	3563960	E os valores,
+3563960	3565400	eles são distribuídos
+3565400	3567000	dentro da coluna, venda.
+3567400	3568040	Então, aqui,
+3568040	3569160	o varia neme,
+3569160	3570360	faz com que
+3570360	3572600	as colunas viram valores.
+3573720	3575320	E o varia neme,
+3575320	3576760	faz com que os valores
+3576760	3578760	saem aqui
+3578760	3579800	daqui
+3579800	3581800	e vão pra baixo, certo?
+3582040	3583720	Então, aqui a gente
+3583720	3584440	ou pra
+3584440	3587000	só ligar a tomar daqui, pessoal.
+3587720	3588680	Bateria.
+3589480	3591080	Esse não vão se casem,
+3591080	3591720	sem a ou.
+3593480	3594040	Vem a gente,
+3604040	3604680	agora assim.
+3607000	3608040	Então,
+3608040	3609960	com isso a gente consegue pegar um
+3609960	3611400	data frame que é comprido,
+3611400	3613080	porque a gente tem uma coluna,
+3613080	3614600	duas colunas necessárias,
+3614600	3615480	e a gente joga elas
+3616440	3617800	pra valores.
+3617800	3619320	A gente deixou o nosso data frame,
+3619320	3620280	mas com prido,
+3620280	3623480	e aqui a gente pegou essa coisa
+3623480	3624200	que é bem errado.
+3624200	3625160	A gente botar
+3625160	3626120	valores
+3626120	3626920	através de colunas,
+3626920	3628520	da ter uma certa
+3628520	3629160	agundida,
+3629160	3630200	a gente vê isso aqui.
+3630200	3631560	O correto sempre a gente
+3631560	3633480	tem os valores cada valor
+3633480	3635000	em
+3635000	3636280	uma própria linha,
+3636280	3637720	na
+3637720	3638600	vertical, certo?
+3639720	3640680	Em seguirem de poder
+3640680	3641400	voltar na gente,
+3641400	3642920	pode voltar a fazer isso
+3642920	3643960	usando pivot.
+3643960	3644680	A gente pode pegar um
+3644680	3646200	data frame que é comprido,
+3646200	3647960	e eu quero pegar uma coluna de valor,
+3648760	3649720	e jogar ela,
+3649720	3652120	voltar as categorias desse valor
+3652600	3653480	para a coluna.
+3653480	3654840	Então, posso fazer isso
+3654840	3655640	pegando aqui,
+3655640	3656840	tem duas categorias,
+3656840	3657240	com corro,
+3657240	3658840	que é bem na janela e bem desse ferverer.
+3659240	3659480	Então,
+3659480	3660280	essas categorias
+3660280	3661640	cada uma delas vai ter
+3661640	3662440	uma coluna,
+3664120	3665320	e os valores
+3665320	3665880	atribuidam
+3665880	3667080	a elas vão se encaixar.
+3667720	3668840	Então, aqui eu faço um contrário.
+3668840	3669880	Eu boto que columns
+3671160	3671640	é mês
+3672920	3674360	e vários é verdes.
+3674360	3675080	E com isso,
+3675640	3676920	ele acaba voltando
+3676920	3677720	e ele pega
+3677720	3679960	que os nomes de valores viram colunas
+3682360	3683320	e os valores são
+3684040	3685400	enhalocados da gente cada um.
+3685960	3687400	Então, em sontiacabas,
+3687400	3688840	fazendo justamente com a gente quer
+3689560	3690440	abrias vezes
+3691240	3692920	uma coluna de valores categoricos
+3692920	3694200	para a bestribuição aqui,
+3694200	3694760	mais claro,
+3694760	3695000	não,
+3695000	3695800	horizontal.
+3695960	3696800	Ou quando a gente tem
+3696800	3697800	uma coisa errada
+3697800	3698360	nos humanos,
+3698360	3699000	quando a gente tem
+3699640	3700360	esse formato
+3700360	3700840	ação errada
+3700840	3701480	os dados aqui,
+3701480	3702280	que a gente não consegue
+3702280	3703560	fazer os equipamentos,
+3703560	3704200	acaba ficando bem
+3704200	3704920	pior de ver.
+3705800	3706200	E aqui,
+3706200	3706600	inclusive,
+3706600	3707000	por exemplo,
+3707000	3707560	quando a gente tem
+3707560	3708040	alguma fervera
+3708040	3709000	de visualização
+3709000	3710040	tipo Power BI,
+3710600	3711240	esse é o formato
+3711240	3712120	que elas aceitam,
+3712120	3712440	sabe?
+3712440	3713400	Porque a coluna de valores
+3713400	3714120	aqui vai ser bem,
+3715160	3715640	então,
+3715640	3717480	sempre que a gente vai trabalhar
+3717480	3718280	com o computamento
+3718280	3718920	e a coluna de visualização
+3718920	3720280	e vai precisar de uma coluna de valores.
+3720280	3720600	Aqui,
+3720600	3721480	a gente tem duas colunas
+3721480	3722280	valor.
+3722280	3723160	Então, fica muito estranho.
+3723160	3723960	A coluna de valores
+3723960	3724520	só para janer,
+3724520	3725360	que é uma coluna de valores
+3725360	3726120	só para ferverer.
+3726120	3726840	Então, coluna,
+3726840	3727240	por mês,
+3727240	3728040	e uma coluna
+3728600	3729560	para
+3729560	3730760	para os valores.
+3732600	3733800	Então, beleza?
+3733800	3735000	Agora, passando
+3735000	3736280	para as pressões regulares,
+3736280	3737160	pessoal.
+3737160	3738440	As pressões regulares
+3738440	3739400	elas são um fim.
+3739400	3740680	Dá para explicar.
+3740680	3741480	Fazer um bootcamp
+3741480	3742920	só de pressões regulares.
+3742920	3743960	Mas,
+3743960	3744840	nos últimos anos,
+3744840	3745240	elas vão
+3745240	3745800	perdida
+3745800	3746360	assim um pouco
+3746360	3747640	da necessidade
+3747640	3748360	de a gente conhecer
+3748360	3749560	ela fundo, sabe?
+3749560	3751400	Nos anos 90,
+3751400	3752680	nos dois.
+3752680	3753640	Meu senão era muito,
+3753640	3755080	muito úteis.
+3755080	3755880	Principalmente,
+3755880	3757240	para que trabalhar com essas linguagens
+3757240	3758360	aqui, Java,
+3758360	3759560	P, Lumbi, P,
+3759560	3760520	P,
+3760520	3761000	tão linguagens,
+3761000	3762760	mais de um ebre mesmo, né?
+3762760	3764360	E ele era um
+3764360	3764920	muito,
+3764920	3765320	muito útil,
+3765320	3766600	porque ele permite buscar
+3766600	3767000	extrair
+3767000	3768600	manipular padrões específicos
+3768600	3769160	de texto
+3769160	3770120	no colunas
+3770120	3770600	para a gente,
+3770600	3771800	que trabalha com dados.
+3771800	3772760	Mas ele facilita
+3772760	3773480	muito
+3773480	3774840	a impese
+3774840	3775520	padrões ação
+3775520	3776520	os dados.
+3776520	3777800	Então,
+3777800	3779320	a gente tem alguns asêplos
+3779320	3781640	de expressões regulares,
+3781640	3783000	né?
+3783000	3783640	A gente pode usar a fan de algo
+3783640	3784760	para procurar alguma coisa,
+3784760	3785400	a estar,
+3785400	3785960	a grup,
+3785960	3786760	a metade.
+3786760	3788760	Então, dentro do Python,
+3788760	3789480	o Python,
+3789480	3790280	e se ele usa
+3790280	3791880	muitas expressões regulares,
+3791880	3793480	nativamente dele.
+3793480	3794040	Então,
+3794040	3794840	não é que a gente tem que
+3794840	3795480	se preocupar com
+3795480	3797240	baixar alguma coisa de expressões regulares?
+3797240	3798760	É uma outra coisa.
+3798760	3800360	Mas muitas coisas,
+3800360	3801480	das expressões regulares,
+3801480	3802280	o Python tem
+3802280	3803400	nativamente dentro dele.
+3803400	3804280	Mas é para o fan de
+3804280	3805400	ona.
+3805400	3806200	Tem que que é procurar,
+3806200	3806600	por exemplo,
+3806600	3807880	uma lista,
+3807880	3809240	é...
+3809240	3811240	esses valores aqui específicos.
+3811240	3812120	Então, a gente passa aqui,
+3812120	3812840	por exemplo,
+3812840	3813800	é...
+3813800	3814520	sol.
+3814520	3815480	A gente passa uma lista,
+3815480	3816040	ele vai me achar
+3816040	3817000	todos lugares
+3817000	3817960	com estei sol,
+3817960	3818680	naquela lista.
+3819880	3820360	Meta,
+3820360	3820840	quando é...
+3820840	3822040	uma...
+3822040	3823640	uma...
+3823640	3824600	busca perfeita,
+3824600	3825240	né?
+3825240	3825800	Quando ele contrressatamente,
+3825800	3826920	que você está passando.
+3826920	3827960	Então, cada caso,
+3827960	3830760	ele acaba sendo adaptado.
+3830760	3830920	Então,
+3830920	3831560	estigamente,
+3831560	3832240	tênívio,
+3832240	3832280	né,
+3832280	3833880	para expressões regulares.
+3833880	3834520	Mas,
+3834520	3835080	o que eu falo hoje,
+3835080	3835800	cara?
+3835800	3836520	O melhor livro
+3836520	3837320	de expressões regulares
+3837320	3837560	no J.
+3837560	3838520	A T.P.
+3838520	3838840	Então,
+3838840	3839400	vocês vão chegar
+3839400	3840360	com um caso,
+3840360	3841000	são perguntas,
+3841000	3841480	já de P.T.
+3841480	3842440	me deu uma expressão regular,
+3842440	3843880	que eu preciso usar nesse caso.
+3843880	3845320	E ele é torna.
+3845320	3845640	Então,
+3845640	3846280	é uma melhor cenário.
+3846280	3847560	Não precisa decorar
+3847560	3848520	expressões regulares.
+3848520	3848760	Mas,
+3848760	3850600	não sei algumas coisas de cabeça,
+3850600	3852600	mas é só pelas vezes que eu usei.
+3852600	3853320	Não propriamente,
+3853320	3855080	porque eu decorei.
+3855080	3857240	E aqui tem um exemplo.
+3857240	3858760	Aqui, a gente quer limpar um coluno,
+3858760	3859960	com informações de o cliente,
+3859960	3862600	para capturar somente o V.D.
+3862600	3865080	Então, olha como é que está a coluna de dedo.
+3865080	3865960	Esse é o formato,
+3865960	3866920	bél,
+3866920	3867880	ela tem o V.D.
+3867880	3869240	um, dois, três, com a cinco,
+3869240	3870280	barra cliente.
+3870280	3870840	E daí,
+3870840	3871640	essa é tipo...
+3871640	3872520	Isso acontece muito.
+3872520	3874200	Então, eu vou colar um despatronizado.
+3874200	3875320	O mais que ela tem o I.D.
+3875320	3876040	que certinho,
+3877400	3879560	ela está no meio de string,
+3879560	3880520	então ela está bem
+3880520	3881160	baseulada.
+3882120	3883000	E o que a gente vai fazer?
+3883000	3884520	A gente vai buscar,
+3884520	3885640	ela vai pegar,
+3885640	3887000	ela vai acionar a string,
+3887000	3887320	e aqui,
+3887320	3888840	vamos usar o extracte.
+3888840	3889560	Percebam,
+3889560	3891240	que é um método do bupándose,
+3891240	3892600	que nos expressões regulares.
+3893560	3895160	O agagente boto ézinho,
+3895160	3896040	aqui é o percebo,
+3896040	3896840	esse é a exingência.
+3898200	3899000	Esse ézinho,
+3899640	3900760	é o que está identificando
+3900760	3901800	que a expressão regular.
+3903720	3904520	E aqui,
+3904520	3906200	a gente vai botar o I.D.
+3906200	3907640	Olha, quando a gente passa,
+3907640	3908600	as ásposses,
+3908600	3910360	é onde a gente começa a navegar
+3910360	3911800	no que a expressão regular.
+3912280	3913160	Então, aqui,
+3913160	3914440	a gente boto o I.D.
+3915720	3917320	E, seguida, a gente passa a notação
+3917320	3918360	da expressão regulada.
+3919400	3921240	Quando a gente passa o bar,
+3921240	3921800	B,
+3921800	3924360	a gente está dizendo que tem um número inteiro,
+3924360	3925320	dentro dele.
+3925320	3926520	Então, o B
+3926520	3926760	é
+3927720	3929560	B mais específicamente,
+3929560	3930840	a um número inteiro positivo.
+3931640	3933480	Então, percebo o que esse D aqui,
+3933480	3935080	sempre é um número inteiro positivo,
+3935880	3936840	neste três casos aqui,
+3936840	3937400	pelo menos.
+3937960	3939720	Então, o que ele vai fazer?
+3939720	3941080	Ele vai pegar qualquer número
+3941080	3942280	inteiro positivo,
+3942280	3944840	que tiver, depois de D
+3944840	3945960	e um espaço,
+3946680	3948040	e então, tem muito cuidado.
+3948840	3949320	Mas,
+3949320	3949960	o que ele faz,
+3949960	3950440	e destra,
+3950440	3951320	é perfectamente.
+3951320	3952200	Então, a ideia é ser de um
+3952200	3952920	peso aqui,
+3952920	3953800	tem imagina,
+3953800	3954760	como complexo seria
+3954760	3955560	dar um replay,
+3955560	3957160	se trecradou esse place,
+3957160	3958280	um primeiro no ID,
+3959320	3960840	dois pontos igual a um espaço,
+3960840	3962280	e o segundo no ID,
+3963080	3963960	igual a isso aqui,
+3963960	3965080	e de repente poderia mudar,
+3965080	3966040	poderia ter outro caso,
+3966040	3967000	que você não ia pegar,
+3967400	3967960	mas,
+3967960	3969560	com os ambas pressões
+3969560	3970680	regulares acaba sendo mais
+3970680	3971240	fácil.
+3971240	3972600	Então, sempre que pensar,
+3972600	3973480	você se separar,
+3973480	3974200	como o problema,
+3974200	3975400	você tem que identificar um padrão,
+3975400	3976040	nos dados,
+3976440	3977960	há tempo que remover,
+3977960	3978760	eu tenho uma lista de
+3978760	3979880	nome de pessoas
+3979880	3981480	que está lá do turmarco,
+3981800	3982840	sagento, Paulo,
+3983240	3984440	então, o que era remover,
+3985000	3986040	o primeiro,
+3986040	3987160	primeiro a palavra,
+3987160	3988520	um título antes de um nome
+3988520	3989320	da pessoa,
+3989320	3989960	vai lá no chat,
+3989960	3990920	e peitar e volta.
+3990920	3991800	Quero remover,
+3991800	3992760	a primeira palavra,
+3992760	3993800	do uma coguna,
+3994200	3995800	com nomes,
+3995800	3996680	então, que era remover de
+3996680	3997240	oscidos.
+3997240	3997880	Então, ele vai lá,
+3997880	3999080	ele vai te dar uma solução
+3999080	4001080	para você tirar a primeira palavra.
+4001080	4001880	Então,
+4001880	4004280	é para isso que serve as pressões regulares,
+4004680	4005880	é impossível decorar
+4005880	4007320	toda a notação de pressões regulares,
+4007320	4008280	com tantos coisas que a gente tem
+4008280	4009480	para ver aqui nesse post-camp,
+4009480	4011160	mas o importante é entender isso,
+4011160	4012680	que ela serve para a gente
+4012680	4013880	identificar padrões
+4013880	4014840	em texto.
+4017160	4018840	E, pessoal, para fechar a aula
+4018840	4020200	que, e nosso último ponto,
+4021400	4022680	a gente vai falar sobre
+4022680	4023960	otimização de performance
+4023960	4025320	e operações complexas,
+4025800	4026440	então,
+4027400	4028440	o Pandas era muito,
+4028440	4029240	muito eficiente,
+4030280	4031880	ele costuma resolver
+4031880	4033400	grande parte dos nossos problemas,
+4033400	4034440	como o eficiente,
+4035080	4035800	e ele é, é, é, é, é
+4035800	4036280	sim,
+4036280	4037480	muito eficiente para trabalhar
+4037480	4039080	como data sites grandes e complexos.
+4040360	4040920	Por quê?
+4040920	4041640	O Pandas,
+4041640	4043000	ele é construída em cima
+4043000	4043720	do num pai.
+4044520	4045080	Sete?
+4045480	4046920	Tudo que é operação
+4046920	4048200	matemática ali no Pandas,
+4048200	4049240	então, quando você vai adicionar
+4049240	4051000	uma coluna no Pandas,
+4051000	4052360	ele transforma que ele inventou
+4053240	4055160	os boomers das comunas ibetores,
+4055160	4056200	somos vetores
+4056200	4058360	e atribui ele de novo.
+4058360	4059640	Então, ele se fez para estar fazendo
+4059640	4060680	operações vetorias,
+4060680	4062280	porque as operações vetorias
+4062280	4063080	em processamento
+4064200	4065560	do jeito que as nossas máquinas são,
+4065560	4066360	o meio que o processamento
+4066360	4066840	em série,
+4066840	4068200	elas são extremamente eficientes.
+4069400	4070520	Quatro diferenças do Pandas
+4070520	4071160	para o num pai,
+4071800	4072680	o Pandas
+4072760	4073960	você tem muito e fácil,
+4073960	4074840	seja elagráfica,
+4074840	4075800	seja ela de Deus,
+4075800	4077800	se tem construída de o data frame,
+4077800	4078760	então, geralmente,
+4078760	4079240	um Pandas,
+4079240	4080840	você vai ter um muito e fácil visual.
+4080840	4081400	Então, um num pai,
+4081400	4081880	muitas vezes,
+4081880	4083240	você vai estar só processando,
+4083240	4084200	então, você não vai estar,
+4084200	4085160	ele tem um
+4085160	4085720	um
+4086440	4088280	e ter fácil visual extremamente
+4089240	4090040	limitada,
+4090280	4092280	até para você ver o tipo de operações,
+4092280	4093560	que você está fazendo nos arrays,
+4093560	4094440	os oréis são
+4094680	4095800	basicamente as matrisas,
+4095800	4097560	que a gente usa no num pai,
+4098120	4098680	mas,
+4098680	4100200	é até ruim de ver
+4100200	4101000	o que você está fazendo.
+4101960	4102760	Mas,
+4103080	4103800	o Pandas não,
+4103800	4104440	quando você consegue
+4104440	4104920	necessitir,
+4104920	4106440	você está fazendo as operações,
+4107000	4108120	mas o problema é isso,
+4108120	4108200	né?
+4108200	4109880	Isso é o que eu amassem um grande
+4109880	4110040	e,
+4110040	4111480	é uma grande treidófrica,
+4111480	4112040	a gente chama,
+4112040	4113480	uma troca na tecnologia,
+4113640	4114680	tudo o que você vai ter
+4114680	4115640	mais interface visual,
+4115640	4116600	se acaba tendo menos
+4116600	4117640	poder de processamento.
+4117880	4118680	E tudo o que você tem
+4118680	4119880	menos interface visual,
+4119880	4121880	se acaba tendo mais poder de processamento,
+4122200	4123160	porque essa ainda é
+4123160	4124120	uma das grandes barreiras
+4124120	4125080	do processamento,
+4125080	4125240	né?
+4125240	4126840	No da computação mundial,
+4126840	4128200	é a visualização,
+4128680	4129320	para
+4129320	4130280	o Google chegar
+4130280	4131480	que botar todos nós
+4131480	4132040	da minha cara,
+4132040	4132600	que,
+4133800	4134680	para vocês,
+4134680	4136280	ele gasta muito interés.
+4136520	4137080	Então,
+4137080	4138200	até inclusive,
+4138200	4139560	quando eu,
+4139560	4141320	eu faço um teste de aplicação,
+4141320	4142920	às vezes com os clientes,
+4143400	4143720	e,
+4143720	4144040	cara,
+4144040	4144440	às vezes,
+4144440	4145480	eu testo perfeito,
+4145480	4146680	funciona tudo rápido.
+4146840	4148040	Aí eu vou lá na apresentação,
+4148040	4149000	tem muito pessoas,
+4149000	4150280	como um pouco abravete,
+4150440	4151560	eu vou fazer a apresentação
+4151560	4152600	e ficar lá travando.
+4152600	4153240	Então,
+4154040	4154120	é,
+4154120	4154760	seu limitação,
+4154760	4155240	é realmente,
+4155240	4156760	da computação,
+4157640	4158440	porque,
+4159400	4160840	fez isso de muito processamento
+4160840	4161880	das máquinas, né?
+4162120	4163080	Então, essa diferença,
+4163080	4163400	né?
+4164120	4164680	O pãs,
+4165480	4166680	ele está no meia de origem,
+4166680	4167480	de pode falar,
+4167480	4168040	aqui no loo,
+4168040	4168520	eu botaria,
+4168520	4168840	por exemplo,
+4168840	4169880	um excel da vida,
+4169880	4171080	você está fazendo operação
+4171080	4172360	célula por célula,
+4172360	4173160	então,
+4173160	4173480	é,
+4173480	4173880	quando ele,
+4173880	4174280	por exemplo,
+4174280	4174680	um excel,
+4174680	4175880	tem um ali uma coluna,
+4175880	4176680	um valor,
+4177240	4177560	ah,
+4177560	4178520	e a coluna com um valor,
+4178520	4179080	claro,
+4179080	4180280	tem um terceiro coluna
+4180280	4181080	e eu quero somar
+4181080	4181720	em todas,
+4181720	4181880	né?
+4181880	4182520	Todas nisso,
+4182760	4183640	vai querer ir a rasta
+4183640	4184200	para baixo.
+4184200	4186280	Eles ecuta célula célula o operação.
+4186680	4187080	Então,
+4187080	4187880	isso é,
+4188280	4189400	muito custoso,
+4189400	4190440	tem um tipo de computação
+4190440	4190760	naés,
+4190760	4191640	demora mais.
+4191880	4192760	No pã das naúer,
+4192760	4193640	de transforma,
+4193640	4194680	toda a colonar,
+4194680	4195400	no vetor,
+4195400	4196040	toda a coluna,
+4196040	4197000	bem o vetor,
+4197000	4197960	somas duas,
+4197960	4198840	pega o resultado,
+4198840	4199160	pronto,
+4199160	4199640	você teria ele,
+4199640	4200200	ou cola,
+4200200	4201320	três com o resultado.
+4201320	4202360	Isso é o,
+4202360	4203240	o pã das e o no pãe,
+4203240	4204280	na descrição mais
+4204280	4205000	sem isso.
+4205000	4206600	O pã das ainda tem o custo
+4206600	4207880	computação alge
+4207880	4208760	adequado a esse
+4208760	4210120	retura do data frame,
+4210120	4210920	tal,
+4211320	4212280	fazemos a realização
+4212280	4213320	muitas vezes,
+4213320	4214600	e o no pãe não.
+4214600	4215640	No extreme,
+4215640	4216840	em que acha uma coisa que a gente
+4216840	4217400	chama
+4217400	4217960	esparque,
+4217960	4218760	o pãe esparque,
+4218760	4219640	principalmente,
+4219640	4220760	para fazer manipulações
+4220760	4221640	de dados,
+4221640	4222760	ele é o mais rápido que
+4222760	4223320	existe.
+4223320	4223800	Hoje,
+4223800	4225160	é o estado da arte,
+4225160	4226200	é porque
+4226200	4227000	ele trabalha com o
+4227000	4228680	processamento paralelo.
+4228680	4230040	Então, o pãe esparque
+4230040	4231080	se se vai precisar
+4231080	4232600	numa infraestrutura
+4232600	4233560	muito mais robusta,
+4233560	4234520	precisa de uma placa de vídeo
+4234520	4235560	no computador,
+4235560	4237240	precisa configurar os ambientes.
+4237240	4237720	Então,
+4237720	4239720	ele é um pouquinho mais complexo,
+4239720	4240360	ou você pode
+4240360	4241880	gelar no logo o colabio,
+4241880	4242840	usar um GPU que
+4242840	4243480	ele disponibiliza.
+4243480	4244120	Também,
+4244120	4244440	lá,
+4244440	4246760	você consegue usar o pãe esparque,
+4246760	4247640	para quem também quiser
+4247640	4248520	conhecer o pãe esparque,
+4248520	4249720	eu recomendo de mais
+4249720	4250520	o data bricks.
+4251560	4251880	Então,
+4252920	4253640	o pãe esparque,
+4253640	4254120	tem uma senta que
+4254120	4255160	é um pouquinho diferente
+4255160	4255880	do pãe esparque,
+4255880	4257240	é bem parecido.
+4257240	4258520	Se você não me enupando,
+4258520	4259880	você vai chegar no pãe esparque,
+4259880	4260840	você vai estar um pouco
+4260840	4261560	mais
+4261560	4262280	se vai conseguir entender.
+4262280	4263080	Eu sempre para falar o que é
+4263080	4263720	com o seu
+4264120	4264680	português,
+4264680	4265880	fosse o pãe esparque,
+4265880	4267080	o pãe esparque,
+4267080	4268440	ou fosse o pãe esparque.
+4268440	4268920	Você chega
+4268920	4270040	e ele senta em alguma coisa,
+4270040	4270360	mas
+4271640	4272200	tem que
+4272200	4273480	saber qual ainda.
+4273880	4275240	E a diferença
+4275240	4276200	é que
+4276200	4277320	não faz parque,
+4277320	4277960	você consegue
+4277960	4278680	que usar
+4279720	4280760	poder computacional
+4280760	4281320	o gráfico.
+4281960	4282360	Então,
+4282360	4283320	para quem quiser conhecer
+4283320	4283960	o recomendo
+4283960	4284520	de mais
+4284520	4285800	o Microsoft Data bricks.
+4287080	4287800	É um das ferramentas
+4287800	4289160	que eu mais lento a minha vida.
+4289400	4290440	Agora, eu não usando
+4290440	4291240	a total de saudade,
+4291240	4291960	de somando
+4291960	4293400	faz uma viúva do bricks.
+4293720	4294600	E lá, tem um
+4294600	4295560	comiritivetion.
+4296200	4297160	O bixet-prago,
+4297160	4297560	então,
+4297560	4298760	a lógica dele,
+4298760	4299960	a mesma do colávio,
+4299960	4300760	você consegue usar
+4300760	4301400	máquinas,
+4301400	4302600	diferentes máquinas,
+4302600	4303400	fazerem diferentes
+4303400	4304120	paixais,
+4304120	4305480	conectar com a peguís,
+4305480	4306760	disponibilizar a peguís.
+4307880	4308600	Muito fácil.
+4309720	4310360	Mas
+4310360	4311240	tem um custo,
+4311240	4311960	de processamento,
+4311960	4312920	por hora que eu contato
+4312920	4313160	zinho,
+4313160	4313880	a que eu posso ter que
+4313880	4314360	ligado.
+4314760	4316360	Mas tem uma versão de comunidades,
+4316360	4317080	que eles disponibilizam
+4317080	4317720	em seu
+4317720	4318520	o Minional Macre de 8,
+4318520	4319080	11, 6,
+4319080	4319160	6,
+4319160	4319720	e jigas,
+4319720	4320360	que você
+4320360	4321320	a diferença do bricks,
+4321320	4321800	eu não sei
+4321800	4322360	se no colávio,
+4322360	4322920	você consegue
+4322920	4323160	rodar
+4323160	4323880	já a paix-parque.
+4323880	4324600	Eu nunca ter esse tempo.
+4325160	4325880	Mas no bricks,
+4325880	4326520	você já vem
+4326520	4327800	com o paix-parque instalada.
+4327800	4328600	Então, você consegue
+4328600	4329880	fazer uma limpação de dados.
+4330440	4331320	Em paix-parque,
+4331320	4332360	vai lear pena com esse,
+4332360	4332760	para quem
+4332760	4333720	tem ter esse
+4335480	4336840	amento e em autongivore.
+4336840	4337720	Eu gostaria de
+4337720	4339000	muito alto.
+4339720	4340360	E não,
+4340360	4341480	paix-parque é incrível,
+4341480	4341640	assim.
+4341640	4342920	Eu já peguei alguns processos
+4342920	4344120	que empandas
+4344120	4345480	demoravam
+4345480	4346520	dez horas.
+4346520	4347640	Era uma limpação de dados
+4347640	4348120	gigantes,
+4348120	4349960	em um junho de dados
+4349960	4350680	e mais de três
+4350680	4351400	milhões de linhas.
+4352200	4352760	E quando a gente
+4352760	4353640	jogou para paix-parque
+4353640	4354760	caíra para tipo 30
+4354760	4355400	20 minutos.
+4355960	4356600	Então,
+4356600	4358040	é realmente
+4358040	4358680	absurdo
+4358680	4359480	se o ganho que vocês
+4359480	4359720	tem,
+4359720	4360680	quando vocês estão trabalhando
+4360680	4361160	com o processo
+4361160	4361720	meio paralelo.
+4363320	4363880	Mas assim,
+4363880	4364600	muitas vezes também
+4364600	4365480	a gente tem aquela,
+4365480	4366360	a gente não precisa
+4366360	4368040	montar toda essa estrutura
+4368040	4368600	do pais-parque,
+4368600	4369400	sem esquecer a fazer uma
+4369400	4370280	operação simples.
+4370600	4371400	Uma coisa que a gente fala
+4371400	4372760	muito na programação,
+4372760	4373720	na tende geral,
+4373720	4374680	é você não precisa matar
+4374680	4375800	uma fúlmiga com o canão.
+4376520	4376840	Então,
+4376840	4378120	quando você tem um problema
+4378120	4378680	simples,
+4378680	4379320	se resolver,
+4379320	4380040	se não precisa usar
+4380040	4380840	algo muito complexo
+4380840	4381640	para se resolver.
+4384440	4384840	Agora,
+4384840	4385560	aqui um exemplo,
+4385560	4386920	na prática,
+4386920	4387960	a gente vai mostrar
+4387960	4389560	que um lupinativo
+4389560	4390360	do Python
+4390360	4391560	e uma função
+4391560	4393240	do um Python.
+4393560	4393640	Então,
+4393640	4394520	a função do um Python
+4394520	4395640	vai usar o S
+4395640	4396080	que é a
+4396080	4396920	em T,
+4396920	4397720	que é uma
+4397720	4398280	briviação
+4398280	4399480	para a Espoir Routes,
+4399480	4400360	que é
+4400360	4401480	ao quadrado,
+4401480	4401880	em dois,
+4401880	4402920	na Espoir Drada,
+4403480	4404600	e aqui a gente vai
+4404600	4405880	fazer a mesma coisa,
+4405880	4406120	né?
+4406120	4406600	A gente vai
+4406600	4407880	ele vai ao quadrado,
+4407880	4408920	o
+4408920	4410120	os valores
+4410120	4411080	usando
+4411080	4412520	o lupinativo do Python.
+4413640	4414520	Então, aqui eu vou usar
+4414520	4414920	também outro
+4414920	4415560	brilotecador
+4415560	4416120	do Python,
+4416120	4416840	que é arrandom.
+4416840	4417400	A gente consegue
+4417400	4417960	criar valores
+4417960	4418680	ali atores,
+4420200	4420520	então,
+4420520	4421240	aqui eu vou usar
+4421240	4421720	o método
+4421720	4422360	do randim,
+4422360	4423240	já é uma classe,
+4423240	4423480	né?
+4423480	4424040	Random,
+4424040	4424920	eu vou usar
+4424920	4425320	o método
+4425320	4425800	randim,
+4425800	4427080	que é
+4427080	4427640	ele já
+4427640	4428120	é um lupinove
+4428120	4428680	ao elatório
+4428680	4429480	inteiro,
+4429480	4430360	por isso o randim.
+4431000	4431480	E aqui eu vou
+4431480	4431960	botar
+4431960	4432280	o lupinove
+4432280	4432680	ao elatório
+4432680	4433000	inteiro,
+4433000	4433320	entre o
+4433320	4433720	muistem,
+4435000	4435320	e o
+4435320	4435880	saze,
+4435880	4436520	primeiro,
+4436520	4436680	né?
+4436680	4437160	O
+4437160	4438120	o dia de comesta?
+4439000	4439960	O dia de termina,
+4439960	4440120	né?
+4440120	4440520	Os valores
+4440520	4441000	alatores,
+4441000	4441320	eu quero que
+4441320	4441560	tem
+4441560	4442440	pode ser enzer
+4442440	4442600	em um,
+4442600	4443080	mas aqui eu vou
+4443080	4443480	celerar um
+4443480	4443720	e sem,
+4445080	4445880	e o tamanho.
+4445880	4446120	Então,
+4446120	4446760	aqui o saze
+4446760	4447160	eu vou criar
+4447160	4448920	um ilhão de valores alatores.
+4448920	4449760	E seguir
+4449760	4450520	só o jogo ali
+4450520	4450760	isso aqui
+4450760	4451800	para um gata freio.
+4452760	4453000	Então,
+4453000	4453960	que eu tenho data freio
+4453960	4455000	como a colombia de valores
+4455000	4455480	e,
+4455480	4456120	ou melhor,
+4456120	4456680	o melhor
+4456680	4457560	de valores alatores
+4457560	4458360	entre o e cê.
+4459640	4460280	Aqui eu vou
+4460280	4460920	marcar
+4460920	4461560	o time,
+4461560	4461720	né?
+4461720	4462760	Outro biblioteca?
+4462760	4463320	Eu vou marcar
+4463320	4464440	o tempo de início.
+4466040	4466600	Eu vou fazer
+4466600	4467800	operação,
+4467800	4468600	certo?
+4469400	4469800	Então,
+4469800	4471000	usando um pai,
+4471000	4472040	então eu vou chamar um
+4472040	4473000	pai square,
+4473560	4474280	aqui eu botei
+4474280	4474840	a esquerda
+4474840	4475320	o square,
+4475320	4475480	tá,
+4475480	4476440	o boterra.
+4476600	4477280	É,
+4477280	4477680	a esquerda
+4477680	4478040	é escudrar
+4478040	4479040	a escudrar
+4479040	4479760	a escudrar
+4479760	4480760	a escudrar.
+4480760	4481480	Aqui o square
+4481480	4482120	então eu vou pegar
+4482120	4482280	ele,
+4482280	4483000	e vai alpatrar
+4483000	4483720	todos os valores
+4483720	4484760	da colombia de valores.
+4484760	4485400	Seis cegredo
+4485400	4486000	a perseguida
+4486000	4486680	o marco de novo
+4486680	4487800	tempo usando o time, né?
+4487800	4488600	Se aquele
+4488600	4489080	pega
+4489080	4489800	que cria uma
+4489800	4490120	uma time
+4490120	4491000	sempre que a gente chama
+4491000	4491240	tá
+4491240	4491520	estempa
+4491520	4491960	com o seu
+4491960	4492840	mano
+4492840	4493000	um
+4493000	4493720	cil
+4493720	4494320	uma
+4494320	4495240	a hora completa
+4495240	4495960	aqui.
+4495960	4496360	Então, aquele
+4496360	4496600	pego
+4496600	4497080	a hora
+4497080	4497560	vai pegar ali
+4497560	4498280	a exatamente
+4498280	4498640	dezenove
+4498640	4499560	com a 86
+4499560	4499920	só que ele
+4499920	4500440	pega até
+4500440	4501480	os nanos segundos.
+4501480	4501720	Então,
+4501720	4502120	ele vai pegar
+4502120	4502360	a 99
+4502360	4503200	com a 86
+4503200	4504280	que segundo os
+4504280	4505440	os 8.000 segundos
+4505440	4506200	para 6 lá
+4506200	4506880	o tempo esato
+4506880	4507280	da próxima
+4507280	4507960	do procedimento
+4507960	4509320	no seu computador.
+4509320	4509720	E aqui
+4509720	4511240	ele vai pegar de novo.
+4511240	4512360	Só que ele vai fazer
+4512360	4512960	o tempo
+4512960	4513800	daquele momento
+4513800	4514920	menos o tempo inicial,
+4514920	4515480	né?
+4515480	4515640	Aí,
+4515640	4516120	com o código
+4516120	4516360	que a gente vai
+4516360	4516720	que seguir
+4516720	4517240	meio com o tempo
+4517240	4517680	durou
+4517680	4518080	para fazer
+4518080	4519720	essa operação.
+4520840	4521320	Em seguida,
+4521320	4521520	a gente vai
+4521520	4522640	fazer a mesma coisa
+4522640	4523240	só usando
+4523240	4523600	que o liste
+4523600	4524200	com o pre-rente
+4524200	4525400	então a gente
+4525400	4525920	vai criar
+4525920	4526640	uma nova colombia
+4526640	4526960	valores
+4526960	4527440	quadrado
+4527440	4528440	do loop, né?
+4528440	4528840	A gente
+4528840	4529360	atribuiu
+4529360	4529600	como
+4529600	4530040	não pai
+4530040	4530360	a gente vai
+4530360	4530640	criar
+4530640	4531000	agora uma
+4531000	4531680	valores quadrado
+4531680	4532680	do loop
+4532680	4533200	onde a gente
+4533200	4535480	vai levar o quadrado
+4535480	4537040	cada x
+4537040	4537280	então
+4537280	4539600	para cada valor
+4539600	4540560	a gente vai levar
+4540560	4542240	de bf valores, né?
+4542240	4543440	A mesma coluna
+4543440	4544200	a gente vai levar
+4544200	4545440	aquele valor ao quadrado.
+4545440	4546600	A mesma coisa que a gente fez aqui
+4546600	4547040	sim, né?
+4547040	4548560	Só de outra forma
+4548560	4549280	aqui usando
+4549280	4550280	o loop na ativa do pai
+4550280	4551120	para através do
+4551120	4553520	o liste com o pre-rente.
+4553520	4554160	E aqui a gente
+4554160	4554960	faz a mesma coisa, né?
+4554960	4555280	De pergo
+4555280	4555400	tá em um time
+4555400	4557160	sempre no final
+4557160	4557720	e isso
+4557720	4558040	de trás
+4558040	4558400	pra o time
+4558400	4560040	sempre no começo.
+4560040	4560520	Olha aqui
+4560520	4561640	os resultados, pessoal.
+4562600	4563080	O time
+4563080	4563640	tem
+4564360	4564840	o tempo
+4564840	4565480	com o no pai
+4565480	4565600	né,
+4565600	4566040	que a gente chama
+4566040	4567000	de vetorizada.
+4567640	4568280	Ele durou
+4568280	4571200	0.009 segundos.
+4571840	4572400	Então se consegue
+4572400	4572880	entender
+4572880	4574720	do que a 0.009 segundos
+4574720	4575640	não dá pra ter
+4575640	4576440	ideia.
+4576440	4577240	A gente
+4577240	4577680	bumano
+4577680	4578640	não consegue
+4578640	4579560	processar
+4579560	4579880	isso.
+4579880	4580880	É muito rápido.
+4581360	4582720	Agora 0.7
+4582720	4583160	já dá
+4583160	4583520	né?
+4583520	4584360	0.7
+4584360	4584840	por exemplo
+4584840	4585320	numa corrida
+4585320	4586000	de 100 metros
+4586000	4586360	é um
+4586360	4587120	e uma diferença
+4587120	4588120	agritante.
+4588520	4588840	E é
+4588840	4589520	isso que o loop
+4589520	4590320	demora.
+4590320	4590520	Então
+4590520	4592280	o loop demora 0.7
+4592280	4593120	por exemplo
+4593120	4594480	que é uma sobre a outra
+4594480	4595440	isso dá
+4595440	4596320	70
+4596320	4596880	e 1
+4596880	4597840	vezes mais rápido
+4597840	4598880	com um pai.
+4598880	4600080	Então
+4600080	4600960	esse é o poder
+4600960	4601080	né?
+4601080	4601560	Então
+4601560	4602400	aqui
+4602400	4602880	por exemplo
+4602880	4603800	tá fazendo exatamente
+4603800	4604360	o que eu falei
+4604360	4605760	que o o exéu faz.
+4605760	4607120	Cêu laceu.
+4607120	4607760	Então ele faz
+4607760	4608520	operação
+4608520	4609360	operação.
+4609360	4610360	Nunca não.
+4610360	4611120	Ele transforma
+4611120	4611720	que um
+4611720	4612200	e uma matriz
+4612200	4613560	ao Rio Grande e a Arne
+4613560	4614320	ele transforma
+4614320	4614480	uma
+4614480	4614840	3
+4614840	4615160	muito pica
+4615160	4615760	aquela matriz
+4615760	4616240	e já transforma
+4616240	4617000	os resultados.
+4617000	4617720	Então
+4617720	4618240	7
+4618240	4618560	é 1
+4618560	4619840	vezes mais rápido.
+4620080	4620780	Então
+4620780	4621200	nós procurem
+4621200	4622960	a precisar aprender o ouro o pai.
+4622960	4623220	Não, o
+4623220	4623880	o Panda
+4623880	4624900	e quer que antes ng steam
+4624900	4625060	do o mundo
+4625060	4625860	no pai
+4625860	4626260	e
+4626260	4627680	se não quer fazer
+4627680	4627860	oio
+4627860	4628660	paia
+4628660	4629160	quando
+4629160	4629360	ele é
+4629360	4629800	então
+4629800	4630740	eficais
+4630740	4631840	computacionalmente.
+4631840	4632460	Então
+4632840	4633400	o Pantly
+4633400	4634040	para trabalhar com
+4634040	4634840	junto de dados
+4634840	4635660	2
+4635660	4635960	3
+4635960	4637100	quatro nos dados
+4637760	4638620	o problema
+4638640	4639240	da ele face no
+4639240	4640700	interesse
+4640700	4641800	e muitas operações.
+4641800	4642660	Então
+4642660	4648000	inc stating
+4648000	4650700	está em parte que é o processamento paralelo.
+4650700	4655760	Mas o plano de você que fala, pessoal, ele vai resolver 90% do que os seus problemas.
+4655760	4660460	Eu já trabalhei com engeros de dados que que ele pegava para a frente de 1000 minhas e fazemos a
+4660460	4661940	manipulação e para a esparra.
+4661940	4664360	E aí, se você chega a falar, cara, se não precisa.
+4664360	4668660	Você está tipo matando a fundo, e eu canhão milíris, quando daqui resolvem
+4668660	4671120	dar pontos 0,00, 0,00 segundos.
+4671120	4677200	Então, essa ideia é porque ele rolna esteima do não par.
+4677560	4682940	Acho que deu para ter uma ideia, pessoal, do hoje aqui, mais geral, das manipulações
+4682940	4687100	amançadas, conseguimos matar tudo.
+4687100	4689320	Ficou alguma dúvida, pessoal?
+4689320	4695040	Obrigado por ter vindo aqui hoje, nessa quinta fecha, estiver alguma dúvida só chamar.
+4695040	4697040	Também quiser impender um tal.
+4697040	4703760	E aí, esse então, boa noite, boa quinta fecha, a gente que está feira para todos.
+4704120	4709680	Boa sexta também, boa semana que a gente não se vê e até semana que vem.
+4709680	4713760	Então, eu não sei direito quando vai ser com o programa de Natal, tal vou pedir para
+4713760	4718560	a priori que eu começo a vocês, então, não conversa com ela, mas assim que a gente
+4718560	4723120	estiver definida em te mando lá no Discord.
+4723120	4726480	Então, é isso, pessoal, valeu, boa noite.
+4726480	4729880	Pus puderém avaliá-lo aqui depois, quando a gente iserrar.
+4729960	4734520	Agradeço muito, ajuda muito a gente e é isso, obrigado, boa noite.
+4734520	4737520	Valeu, Bruno, boa noite.

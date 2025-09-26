@@ -1,0 +1,3405 @@
+Toua, hoje irá muito abruptmente como pois reenacer.
+Poste e até segunda o dia deMT6 e
+A partir de traga valor com os dados, então, muito do que a gente construiu aqui na preparação dessa fase.
+E hoje eu acho que tem uma das alas que mais consolida esse conhecimento, porque a gente vai trabalhar muito
+o conceito de distribuição.
+Com principalmente o que a gente tem de conhecimento, ao longo da vida, com outras experiências e
+uma forma da gente testa a precaução, com a gente trabalhar com dados.
+E o teste de potas ele é muito usado, principalmente quando a gente quer fazer uma
+variadação e alguma análise que a gente faz.
+Então, na prática, os los testes de potas, está muito relacionado a gente querer confirmar
+algumas análises, alguns sentimentos, alguns sites que a gente tem ali, com base,
+e no que a gente está vendo os dados, com base do que a gente está analisando.
+Então, uma grande ideia de testes de potas é a lista, uma comprobação atemática, do que
+dos sentimentos que a gente tem a partir de aula de algumas análises.
+A gente vai ver eles, mas aqui no detalhe, a gente vai trazer vários exemplos, ou uns aprofundar.
+E é muito difícil falar de testes de potas também, sem trazer exemplos práticos, porque
+eu quando tive o primeiro contato que tem de potas, beleza, eu entendi, mas não entendi direito,
+porque eu não sabia a aplicação que aquilo tinha numa situação real.
+Então, acho que a ideia que eu vou trazer hoje para vocês tenta trazer o máximo para a situação
+real, a situação mais prática, a gente consiga fazer essas associações,
+né, de situação que a gente pode ter analisando com os resultados.
+Então, objeitivo de hoje, reforçar o conceit de distribuição, e a gente já passou
+em vários momentos, olhando estogramas, olhando boxplots, também a gente está analisando
+distribuição, mas aqui a gente vai reforçar o conceit de algumas vezes para a gente
+distribuição normal, são duas das principais distribuições, é muito conhecendo,
+entendeu alguns dos conceitos.
+E também vamos passar depois sobre a moça desrelatores e mais de mostrar que algo
+é uma forma de alguma dar base, e ter de precisar ter para calcular os testinets,
+e dentro dos testinets, vamos conhecer todos os testinets de coisas principais,
+e quando os sacaram deles de situações com aplicação reals, assim, vou tentar trazer
+formação os testinets, também, ao longo da aula que para a gente ver como que faz
+esses aplicações, e na próxima aula na quita fera, a gente faz as aplicações juntos,
+de forma também construindo no último look.
+Então, começar uma pergunta,
+juntos estivê por aí me ajuda,
+mas a ideia é pensar de uma forma porque falar da caixa,
+a gente sabe que o homem meia de brasileiro,
+então a gente tem uma pesquisa,
+com uma comunha qualidade que não segui pegar na qualidade menor,
+mas a ideia é que,
+a gente tem justamente a altura meia de doma e da mulher brasileira,
+então a mulher brasileira tem a altura mais de 160,
+e a altura do homem brasileiro é o mais 73,
+a gente tem uns países como a holanda,
+que tem uma um e oitenta,
+e países como a Guatemala, por exemplo,
+tem mulheres de um mais 49,
+então, por mais que a curva da altura,
+em geral, seja assim,
+na curva da distribuição normal,
+igual a a dia sabe,
+algumas poucas pessoas muito altas, poucas pessoas muito baixas,
+e a maioria do pessoal na média,
+a gente tem pequenas alterações,
+ou seja, o Brasil vai estar derrepentes assim,
+a holanda pode estar assim,
+a Guatemala pode estar assim,
+então, no sentido de ver o corrente,
+porque as várias leações da curva da distribuição da altura,
+mas o grande ponto é,
+como será que eles sabem,
+conseguem ferir que é a altura do doma e mais de brasileira,
+a uns 63 e da mulher é uns 60,
+se eles não me giram provavelmente ninguém,
+nem que está vendo essa gravação,
+nem emeu, nem emeu, nem em jundas,
+então, como que eles conseguem chegar nisso,
+que a altura mais de da população brasileira,
+no geral, do homem é o 63 da mulher é uns 60,
+o principal é principal ideia que encontrarse,
+é pensar no conceito de distribuição,
+então, que acontece,
+se tem uma ideia da população brasileira,
+então, de co-opulação do São Paulo,
+co-opulação do Street Federal,
+co-opulação do Seará, co-opulação da Bahia,
+então, se tem uma ideia de todas essas distribuições,
+da população dele, do território nacional,
+e também se tem uma ideia da distribuição entre
+contra o homem, contra os sonores,
+quando os sonhos dos sonhos de jovens,
+então, jovens a dupla do Jiguna,
+porque aqui, imagine que não é específico de só tão considerando a dupla,
+deve ter um asterisco,
+mas, no geral, a ideia é,
+como se sabe disso,
+para inferir também da população brasileira,
+se eles não entrevistam todo mundo,
+a ideia é pensar na distribuição brasileira,
+então, a gente tem pegado entre eles está candidatos,
+que têm, na mesma proporção da população brasileira,
+a distribuição dos Estados, ou seja,
+entre eles se tiversem pessoas,
+eu tenho que entrevistar em um,
+no ser, vamos ver, 20 ou 30 de São Paulo,
+que não é uma população brasileira,
+então, é, então, é,
+é, dentro da minha mostra,
+representar a divididade a partir da minha população,
+então, com uma, uma, uma,
+um, um, pontina de a, a mostra do que a gente vai ter,
+para distribuição, então, a distribuição,
+quando a distribuição está falando de,
+pouco, a população,
+e quando a gente está falando de a mostra,
+a gente tem que extrapolar,
+isso já vou formar,
+e eu só consigo extrapolar,
+se eu conheço,
+extrapolar no sentido de inferência estatística,
+só consigo extrapolar que a gente fez aqui,
+aqui é uma extrapolação,
+quando a gente fala de altura média,
+da no homem da mulher brasileira,
+então, que são a extrapolação, claro, a partir,
+da, da,
+premisa que não nem tô com o brasileiro e brasileiro foram entre eles,
+então, o grande ponto é,
+como que,
+eles fazem isso, uma extrapolação da mostra,
+para a população,
+a partir da distribuição da população brasileira,
+então, aqui eu tenho minha cúva da altura de homem,
+escúva da altura de mulheres,
+pessoas de 60 anos,
+que o voodote de pessoas 30 anos,
+que o voodote da altura das pessoas são Paulo,
+de brasileiros,
+no reais,
+eles conseguem pegar isso,
+e extrapolar a partir disso,
+mas o mais importante é conhecer a mostrência
+ao da população brasileira.
+Então,
+distribuição de elas,
+como os valores da,
+de uma variável se distribui,
+não é igual no me já fala,
+e elas são essaiais para fazer inferências,
+ao analisar e prevedados.
+Então, o que nós falamos é fundamental conhecer
+uma influência de uma população,
+conhecê-se a distribuição de uma população
+para fazer inferências precisas a analisar
+e esses dados consequentemente.
+Então, aqui, por exemplo,
+esse é uma cúva de altura de uma população.
+São poucos em vídeos com mais de 2 mais de altura,
+e muitos poucos em vídeos,
+por exemplo,
+menos de 15 de altura.
+A grande maioria da população está concentrada aqui nesse bolho.
+Isso é igualzinho a cúva da distribuição normal,
+porque a gente viu, lembra?
+Isso é uma das coisas mais interessantes.
+A distribuição normal está presente várias coisas na natureza.
+Tchau, até falar sobre isso também.
+A gente tem também,
+distribuição que não são normais, como, por exemplo,
+distribuição exponencial.
+Uma distribuição exponencial é aquela,
+que cresce,
+sem a partir de uma certa razão exponencial,
+mas sem controle, aquela que,
+quanto maior no tempo, considerando que o tempo é nossa variável aqui no X,
+mas, inclinada, está essa cúva para cima.
+Então, uma distribuição muito diferente da normal,
+por exemplo, que ela cresce,
+ela se concentra no meio, ela tem um pico,
+e depois ela vai voltar a décar aí,
+no proporção no inspeleo.
+E quem a gente falou aqui,
+por exemplo, na distribuição normal,
+você pode ter pequenas variações.
+No Brasil, por exemplo, a cove de altura
+pode ser um pouco mais tracar.
+Na o Landa, ela pode ser um pouco mais para lá.
+Mais o grande ponto é que, a partir do que,
+se conhece sobre esses distribuições,
+você consegue chegar e extrapolar para populações.
+Então, você não entrevista.
+mil brasileiros, seguindo, claro,
+uma temissa de que esses mil brasileiros estão representando
+a população brasileira,
+eu consigo extrapolar para o resto da população
+para os 200 milhões.
+Claro, mil talvez não seja bom número,
+porque ainda assim é muito difícil.
+Eu extrapolar de mil para um milhão,
+que há 200 milhões.
+Então, se eu não suposse em seu entrevista,
+50 mil, 100 mil brasileiros já não
+número muito interessante para conseguir extrapolar
+para a população de 200 milhões,
+porque eu to aumentando a confiabilidade
+de meu modelo reduzindo a variância.
+Que quanto maior a minha amostra
+dentro da minha população,
+mais precisa,
+vão ser as nossas previsões.
+Então, essa é ideia por trás
+de usados distribuições para fazer a inferência.
+E essa última aqui,
+ela é uma distribuição presente na natureza,
+também,
+mas ela é uma distribuição,
+não ali na área,
+uma distribuição que não faz sentido.
+Então, aqui, a gente for ver, por exemplo,
+a distribuição de tamanho de células
+e em algum processo químico.
+Então, a gente for ver tem 8 células de 0,10,
+33 células de 40,
+e depois crescer aqui sem sentir nenhum.
+A gente for se ver a curva distribuição
+gráfica disso aqui,
+seria algo do tipo,
+então, não faria nenhum sentido.
+E diferente da distribuição normal,
+isso aqui acontece muito também,
+só que de forma que a gente não consegue analisar
+de forma linear,
+muitas vezes analisar esse tipo de fenômeno
+a gente tem que partir para a equação de nonlineares,
+e aí, a coisa já complicada,
+ou a gente trabalha também com esses intervalos.
+Mas, o grande ponto,
+as tribuições no fim das contas elas mostram,
+elas dizem para a gente qualquer comportamento
+de determinado fenômeno, de determinado variável explicativa.
+A distribuição normal, que a gente falou,
+nossa principal distribuição,
+ela tem forma de cima,
+tímética para os dois lados,
+então, nosso fico muito ruim,
+então, é isso,
+ela é tímética para os dois lados,
+e ela,
+ela usava como base
+para muitos taxos,
+justamente muitos fenômenos naturais
+do que eu já não sei se parecer
+com a distribuição normal.
+Então,
+acho que eu te adoro não acredito,
+mas a principal ideia é,
+se eu não tenho,
+como tem uma população inteira
+entrevistada na minha mostra,
+eu posso traduir seu normal,
+e extrapolar isso pro resto,
+então, a partir da distribuição normal,
+ela pode servir como base
+para a gente criar.
+A cria,
+as situações,
+as cria grupos,
+as cria monsters.
+Um exemplo aqui,
+de outra presença da distribuição normal,
+na natureza,
+nós, que eu te diando,
+é a nota dos sites
+que eu sate ao enenho
+dos Estados Unidos,
+então,
+esses são os notas dos sites,
+e olha,
+como é uma representação perfeita
+da corvana normal,
+da distribuição normal.
+Isso acontece em muitos fenômenos
+em notas de vestibulares,
+ao outro tipo de anem,
+pois eu sei hoje ou não ter a nota de anem,
+e aqui,
+a gente pode ver,
+são poucas as pessoas que tiram notas autíssimas,
+aqui,
+mas de 1.400.
+E são poucas também as pessoas que...
+Tiram menos de 900.
+Está aqui, então,
+do 1550.
+E também,
+eu me arrascaria dizer que é a media,
+e é uma media aqui.
+Ou praticamente, a media.
+Essa curva tão simétria,
+porque é a moda a media,
+e a media tão praticamente,
+no mesmo ponto,
+que é o que acontece na distribuição normal.
+Outro fenômeno da natureza,
+muito interessante,
+que a gente vê isso,
+é distribuição dos pesos de bebê se recentenacitos.
+Então, aqui a gente pode ver,
+também uma curva no mal.
+Então, são poucos bebêis que
+nascem líquo mais de 4.000,
+vai até quase 5.000.
+E são poucos,
+e são poucos nos bebêis também,
+que nascem com menos de 2.000.
+É uma gente aqui,
+sejam os recenas cidades,
+não para maturas, né.
+E aqui, são poucos,
+nos escrancidos com mais 4.000.
+E a grande maioria dos bebêis,
+nascem aqui,
+na faixa dos 3.000.
+E aqui também,
+leve variado para a espariais,
+enfim,
+devem ter no lance dentro das distribuições.
+Mas, aqui,
+também,
+e vê que é muito simético,
+e eu me arrascaria dizer também,
+que é a moda a media,
+e a media,
+a media,
+a media,
+então aqui,
+próximo dos 3.000.
+Outro fenômeno, enfim,
+da nossa sociedade,
+que a gente vê também a presença da distribuição normal,
+é a curva de belo,
+por ver de belo,
+é muito usada pelo Departamento de RHG,
+para salvar a candidatos.
+E também,
+em um sentido de generalizar empresas,
+a locais pessoas,
+então,
+a curva de belo,
+ela vai falar que
+50% dos funcionários,
+ou seja,
+todo esse pessoal aqui do meio,
+pode fazer até uma metáfora,
+vamos aproveitar que fazer uma metáfora aqui,
+50% dos candidatos,
+vai tirar entre 1.300,
+15% dos candidatos fica a bafa da expectativa,
+aqui ficou um pouquinho mais do bem,
+e 15% fica cima,
+e da exposcento,
+é muito ruim,
+e da exposcento também,
+é muito bom.
+Então,
+essas duas pontas,
+sei que vale aqui,
+o que a gente vê na cova de belo,
+né,
+da exposcento que são muito bons,
+e da exposcento que são muito bons.
+E é muito interessante isso,
+né,
+realmente uma relação
+da natureza,
+da matemática,
+presente no nosso cotidiano,
+né,
+é muito interessante,
+mesmo porque,
+se a gente for olhar fome,
+depois vai até,
+se alguém quiser pesquisar mais,
+as correlações são infinitas,
+tem muitos e muitos casos que a gente vê
+distribuição normal,
+presente nos cotidiano,
+e realmente por isso que ela usada
+como base,
+para tantos taxis taxis taxis.
+E aí,
+ela acontece também,
+não é importante dizer.
+Pô, algumas variações.
+Então,
+ela pode ter uma calda longada,
+e a live-flight uma probabilidade
+em maior,
+mais ótima,
+mas por ela ter uma calda longada,
+seja prunado aqui,
+com um plado direito,
+nesse caso,
+opa,
+aqui que a gente tem a curva
+da aposentadoria,
+são poucas as pessoas que
+se aporou zentonou,
+certo?
+A grande maioria se concentra
+aqui no meio-dágil,
+mas a gente tem uma curva
+drática,
+a partir de uma sentidade,
+são poucas as pessoas que
+se aposenta com mais de
+serem de 55 tentados.
+E aí,
+por um motivo que
+a vida acaba,
+então,
+tem um limite,
+e por isso que a curva
+da aposentadoria
+é sim uma distribuição normal,
+mas ela é uma calda
+muito alungada pra esquerda,
+porque são poucas
+as pessoas que se aposenta
+em um jogo,
+diferente,
+por exemplo,
+do da distribuição
+de dia-gissol,
+na englaterra,
+sendo englaterra,
+sendo englaterra,
+essa aqui é uma outra distribuição,
+mas essa aqui é a distribuição
+de dia-gissol na englaterra,
+e nos últimos,
+sendo englaterra,
+10 ou 50 anos,
+algo do tipo,
+não,
+sendo englando,
+são fós-por aí,
+mas é número de dia-gissol,
+e em várias cidades da englaterra,
+algo tipo,
+e aqui são pouquíssimas cidades,
+que tem muito dia-gissol,
+a grande maioria tem,
+ou entre zero,
+o cheiro é uma empada aqui,
+ou entre zero e dez,
+enfim,
+praticamente,
+a grande maioria está aqui nesse grupo
+na média,
+está em 50 dias,
+e a mediana está em 40,
+então,
+a número de cidades pode perir,
+é uma curva aqui,
+sem enfoliar aqui,
+a distribuição da vai ser algo do tipo,
+assim,
+ela tem um pequeno crescimento aqui,
+na esquerda,
+mas ela tem uma calda muito longada
+para a direita,
+porque são pouquíssimas cidades,
+que tem muito dia-gissol,
+e aí exatamente isso que a gente vê aqui,
+ela pode ter,
+uma,
+que é uma esquerda,
+é o que a gente chama de distorção,
+né?
+Ela pode ter pequenas torção,
+para positiva, ou seja,
+nesse caso aqui,
+ela tem uma curva um pouco ao lugar
+para a direita,
+que é o caso,
+daqui,
+e ela pode ter uma curva ao lugar
+para a esquerda,
+que é o que a gente chama de distorção negativa,
+que é esse caso aqui,
+e aí,
+é distorção negativa,
+porque,
+nesse caso,
+a média e a mediana,
+elas vão para a esquerda na moda,
+então nesse caso aqui,
+sem te folhar,
+a moda vai estar sempre no ponto
+mais alto da nossa curva,
+então vai estar aqui,
+a média,
+dia aposentadoria e a mediana,
+elas vão estar um pouco,
+para cá,
+e aí,
+exatamente isso,
+que a gente vê,
+na,
+é,
+quando a gente tem,
+uma extorsão negativa,
+e o principal motivo disso,
+né, a gente tem aqui valores mais baixos,
+então,
+pessoas que se aposem com 40,
+50 anos,
+profissões ali,
+que tem uma pericula das dades maiores,
+que podem se aposentar mais sebe,
+elas acabam com chão dessa média,
+a mediana mais para baixo,
+principalmente a média,
+que a gente sabe que é mais
+propens sua valores extremos,
+então,
+o que acontece,
+nesse caso,
+é essa extorsão negativa,
+a distorsão positiva,
+que é o que acontece,
+nesse caso aqui do gestor,
+é exatamente o contrário,
+quando a gente tem uma média,
+e uma mediana,
+para frente da moda,
+então,
+aqui é nossa moda,
+são um pouco de sol,
+são aqui,
+se ela vim,
+já 30 dias de sol,
+por ano,
+mais a média e a moda,
+principalmente a média,
+então,
+que nem sabe,
+é, sempre também,
+acalpochando mais o que a média,
+ela está aqui provavelmente no 50 dias,
+puxado provavelmente,
+por esse valor de se trânsito,
+aqui,
+que alguns poucos casos de 2,
+em 50 dias de sol,
+já,
+a média,
+ela é menos propensão valores extremos,
+mas ela também está mais alta do que a moda,
+que está aqui,
+nessa,
+a primeira faixa,
+segundo faixa,
+então aqui,
+esse é o caso de uma distorsão positiva,
+e esse aqui é o caso de uma distorsão positiva,
+ambos,
+porém,
+não deixam de ser distribuições normales,
+são distribuições normales,
+com essas pequenas distorsões,
+mas elas não deixam de ser distribuições normales,
+então é importante,
+a gente mencionar isso,
+ponto principal aqui,
+vão correr várias ações nas principais
+medidas de localização delas,
+a distribuição de taistude,
+então,
+a distribuição de taistude,
+ela,
+praticamente igual a distribuição normal,
+mas ela é usada,
+principalmente quando,
+está mandando a mostra pequeno,
+ou seja,
+que é o menos de 30 mostras,
+eu padrão,
+ali aproximadamente,
+ou,
+nossas principais casos,
+quando a variança da população,
+é desconhecida,
+então,
+vamos ver alguns exemplos,
+que a variança da população é desconhecida,
+ou seja,
+a gente tem,
+no nosso caso,
+da população brasileira,
+a gente tem uns uns uns milhões de anos,
+mas a gente não sabe,
+por exemplo,
+qual que a variança,
+da altura dentro da população brasileira,
+porque eu também,
+não tenho nenhum registro histórico disso,
+então,
+que eu tenho que fazer,
+eu tenho que usar a distribuição,
+porque ela se assemelha,
+muito a distribuição normal,
+e aqui,
+que a gente pode ver,
+dentro da distribuição,
+eu só preciso,
+da média populaional,
+então,
+é com isso que eu consigo,
+através de distribuições menores,
+fazendo uma experiência,
+o valor da mostra aqui,
+é o X,
+o valor,
+a média populaional,
+é o,
+como é o Lambda, né,
+é só o Lambda,
+sendo me engano,
+e o S é o desvio,
+para dar a mostra,
+então,
+aqui,
+da minha mostra,
+coletado,
+eu consigo fazer,
+mas trapaulação,
+e aí por isso que a gente fala,
+né,
+quanto o maior o volume de dados que a gente tem,
+por isso que a gente fala,
+talvez,
+sem pessoas não sei de uma mostra suficiente,
+mas 10,50 mil,
+porque quanto é o boto de 50 mil,
+essa é o denominador da equação,
+e eu vou ter um T,
+é menor,
+que é também,
+esse o caso aqui,
+e com isso a gente vai conseguir fazer uma experiência mais precisa,
+mas aqui,
+por exemplo,
+a gente pode ver alguns ajustes,
+da distribuição T,
+onde a gente consegue jogar uma calda mais pesada,
+no sentido de,
+aqui,
+de minui,
+um pouco,
+a concentração dos valores,
+na moda,
+e jogar um pouco,
+calda,
+então,
+isso que eu consigo fazer também,
+se podem ver aqui,
+são algumas pequenas variações,
+da distribuição T,
+quando a gente joga esses valores mais para calda,
+mas vão ver as aplicações,
+reais agora,
+e também,
+eu vou falar desse distribuição binomial,
+que ela muda basicamente sucesso para o caso,
+então,
+aqui é uma distribuição binomial,
+basicamente,
+emunlando a distribuição normal,
+então,
+que a gente tem uma distribuição normal,
+e em certa forma,
+disso,
+se vacaços dos jogos de uma moeda,
+então,
+onde aqui a gente tem o vermelho sendo,
+cara,
+o azul sendo coroa,
+a não,
+a verdade aqui,
+é o número de caras,
+quando a gente joga 20 vezes a moeda,
+então,
+se eu jogar,
+fiz aí,
+se experimento várias vezes,
+o que vai acontecer?
+Vou ser poucas vezes,
+que eu vou ter,
+quatro moedas,
+e são,
+vou ser poucas vezes,
+que eu vou ter,
+é catose caras, né?
+Então, o que vai acontecer,
+na grande maioria das vezes,
+eu vou ter em dentro,
+a média,
+que é dez caras,
+aqui no caso tem a média,
+na posição distribuição normal,
+são concentradas aqui.
+Então,
+o principal ponto,
+é que aqui a gente consegue,
+a partir do uma distribuição binomial,
+cara ou coroa,
+sim,
+ou não,
+a gente consegue também em um lá,
+mas que o isso é o normal,
+analisando aqui os nossos grupos,
+né?
+Então, aqui,
+você poucas vezes,
+que quando eu jogar 20 vezes,
+vão dando,
+somente duas ou quatro caras,
+e vão ser poucas vezes,
+também,
+quando eu jogar,
+vai dar 14 ou 16 caras,
+a grande maioria,
+vai ficar concentrada aqui.
+Mas é importante mencionar que vão ser poucas,
+mas acontecem, né?
+Então, pode ser que,
+na primeira vez que você jogar,
+20 vezes,
+a moeda pode ser que ela bece de 8 vezes, cara.
+Pode ser que devem ter 20 vezes, cara.
+Então, é importante mencionar que
+esses fenômenos acontecem,
+mas o principal ponto é,
+quando a gente analisa esses valores extremos,
+a gente não pode ser levando contra.
+Então, você vai encontrar.
+Imagine, se a gente fosse analizar,
+num caso,
+onde dessas 20 vezes que a gente,
+se eu vou ganhar de jogo 10 vezes,
+e por um caso gigante do Xeno,
+eu tive quatro vezes em que,
+ocorreu,
+8 vezes, cara,
+uma sorte gigante.
+Então, que vai acontecer,
+eu cai quatro vezes aqui.
+E o que a gente faz quando a gente quer ter estas e potas, né?
+A gente usa essas regiões,
+a partir de um certo nível,
+ou seja, esses valores extremos daqui e daqui,
+né, os valores extremos da esquerda e da direita,
+a gente vai usar eles com propidades muito raras da gente errada.
+E vocês vão ver este dia já,
+mas aqui,
+ela mostra como que a distribuição binomial,
+ela se aproxima muito,
+ela contribuição normal,
+quando a gente tem uma média, né?
+Então,
+uma média bem definida.
+Outro exemplo de distribuição,
+é igual a gente já falou,
+esse potencial,
+é que a gente já trouxe lá no caso do decrescimento da Anas,
+o exemplo,
+a gente tem esse potencial negativa,
+onde a gente consegue controlar
+por um parâmetro aqui,
+alfa,
+então a gente tem,
+a gente pode controlar,
+basicamente, a inclinação dela,
+a gente tem o parâmetro,
+a distribuição alfa também,
+que é uma distribuição,
+que ela traz várias,
+consegue trazer distribuição normal,
+como nesse caso,
+aqui,
+a partir da regulagem de parâmetros,
+mas ela consegue,
+também trazém outras distribuições,
+ela muitos sabem o mercado financeiro
+para estimar algumas,
+basicamente,
+rendimentos,
+de investimentos,
+e também a gente consegue combinar várias distribuições,
+que umaosta pode ter um ângulo de tempo,
+então dentro do tempo,
+a gente pode trazer distribuições missedas,
+em que essa mostra aqui,
+por exemplo,
+ela era uma distribuição normal,
+depois ela passou a ser uma distribuição,
+era 3 distribuições aqui,
+no caso,
+era a vermelha,
+como ele impacta aqui,
+essa vermelha,
+a verde,
+e as 3 às 2.
+Porém,
+que modela isso ao longo tempo,
+ela tem esse formato de povo aqui,
+porque elas vão se acumulando ao longo do tempo,
+então elas vão se sobressar em,
+ao longo do tempo,
+como é isso aqui,
+essa verde,
+ela tem as duas caldos muito mais pesadas,
+do que essa vermelha,
+que ela tem uma calda muito mais leve,
+então acaba aqui o crescimento aqui,
+não é como ela fica muito menor,
+mas no geral,
+tudo isso para,
+o novo variável que é ao longo do tempo,
+por exemplo,
+ela pode ter tido essa mudança no comportamento,
+da distribuição de data.
+Então o teste de pôr,
+se igual a gente falou,
+ela é uma ferramenta estatística,
+para basicamente confirmar
+alguma afimação que a gente quer fazer,
+principalmente alguma afimação que a gente construiu na nossa idea,
+na nossa malestatista,
+então com base no teste,
+a gente vai fazer uma afimação sobre uma população,
+geralmente essa afimação,
+que a gente fala de pôr desenvolva,
+ela vai ser regiitada,
+ou aceita.
+Aí pode ser alternativa,
+por padrão,
+ela é o posto,
+vai pôr desenvolver.
+Então, por enquanto,
+bota a gente na cabeça,
+e pôr desenvolver,
+a gente quer afirmar,
+e a gão,
+é o contrário do que a gente quer afirmar,
+então,
+é basicamente isso.
+Alguns exemplos de pôr,
+o peso mais de dos clientes,
+uma academia,
+essa é a depensa adequada que isso seria,
+muito pôr,
+a uma diferença significativa entre os salários,
+médios,
+e mulheres, e uma empresa.
+Então, olha isso interessante,
+então, é isso também,
+mas é isso que eu estou comparando dos médios,
+eu estou comparando o salário de homens,
+o salário médio homens,
+e o salário médio de mulheres,
+estou comparando um,
+besso do outro,
+e eu quero ver,
+se tem diferença significativa,
+então, é isso é o meu teste de pôr,
+outro teste de pôr,
+de diferentes categorias,
+preferência por marcas de smartphones,
+então, tem várias marcas de smartphones,
+eu tenho o Apple,
+Samsung,
+eu tenho o Xiaomi,
+então, tem diferentes marcas de smartphones,
+e eu quero comparar isso dentro de diferentes taxas etárias de consumidores,
+então, é essa minha hipótica alternativo,
+e olha isso,
+o que a gente está fazendo aqui,
+a gente está comparando diferentes médios,
+é só que não só duas,
+aqui, aqui é um mundo contra outro,
+aqui a gente está comparando diferentes médios,
+em diferentes categorias,
+e aqui no final,
+o método de ensino,
+tradicional ou um íbido,
+tem impacto na pontuação mais de usá-los em uma prova,
+aqui também está comparando três médios,
+a média do tradicional,
+contra a média do online,
+contra a média do íbido,
+então,
+para cada um desses casos aqui que a gente trouxe,
+nesse caso a gente está fazendo uma filação,
+e está propondo uma média e está falando,
+é a média etá-lo,
+essa é a nossa Gazer,
+nesse caso a gente está comparando a média dos homens,
+contra a média das mulheres,
+essa é nosso hipótica alternativo,
+e aqui,
+deixa eu apagar aqui,
+nesse terceiro caso,
+a me preferir isso mais de fones,
+é a sociedade,
+então essa é uma palavra chave associada,
+a faixa etária dos consumidores,
+eu estou falando que,
+dentro de cada grupo,
+você é a preferência dos jovens,
+é diferente da preferência dos idosos,
+que a diferença dos adultos,
+então,
+o que a gente está comparando diferentes grupos,
+essa é a nossa hipótica alternativa também,
+e ao mesmo que a gente está fazendo aqui,
+então, se vocês podem prepar,
+perceberem que são diferentes comportamentos,
+mas aqui a gente está falando
+a grande diferença do terceiro,
+por quarto é que a gente está comparando,
+comparando,
+categorias,
+e aqui a gente está comparando
+médios.
+Então, vamos,
+agora reforçar um pouco do nosso conhecimento,
+então,
+relembrar alguns conceitos,
+para que a gente consiga ele chegar na parte do test de hipótica,
+bem afiado e é o que a gente vai precisar.
+Então, a estatística ter,
+ela é uma medida que o número de disvios padrão,
+que o valor observado,
+que determinado valor,
+ela está em relação a média,
+ou seja,
+seu pegar,
+dentro de uma distribuição,
+o valor, num ponto extremo,
+considerando o caméidio aqui,
+no meio, não é uma distribuição normal,
+perfeito,
+seu pegar o valor num caso extremo,
+ele vai ter um use muito mais alto,
+do que é um cara que está ali muito próximo a média.
+E esse é o ponto lembro que a gente viu como que a gente
+estraios a utiliza justamente olhando o valor,
+e a gente calcula ele,
+pegando a média amostral,
+ou seja, a média da nossa mostra,
+subtraindo da média popularcional,
+e dividindo pelo desvio padrão da população,
+dividido pelo tamanho da amostral,
+pela raiz do tamanho da amostral,
+então aqui,
+eu o três repundo por quê,
+quanto maior o nosso en,
+quanto maior a nossa amostra,
+mas preciso também vai ser o nosso z,
+e aqui é o caso,
+z,
+z,
+1,55,
+se a média altura de população é 1,70,
+quando se viu padrão de 24 centímetros e uma amostra de 25 pessoas,
+então o nosso z,
+nesse caso aqui,
+a gente tem,
+sem descoider e 5,
+menos,
+sem descoider,
+a média da população,
+é,
+ele quer saber,
+em que ponto da curva de altura de população,
+tá o z,
+então provavelmente,
+ele vai estar aqui para a esquerda,
+já que ele é menor,
+nem do que a média,
+a média provavelmente aqui,
+vamos fazer,
+a média vai estar no suenço a tenta,
+e ele quer saber,
+ao onde tá o suenço 55,
+qual é o que é o z,
+então,
+então,
+beleza,
+sempre pegou a amostra de 25 pessoas,
+vamos ver o que é como é que fica,
+sem descoider e 5,
+menos,
+até,
+fica menos 15,
+24,
+eu desviu padrão da população,
+né,
+quando se viu padrão aqui,
+ele passou,
+que a população tem o i7,
+e o desviu padrão da,
+aquela amostra que a população é de 24 cm,
+então,
+a gente vê esse i7,
+que é o desviu padrão,
+pelo,
+a i7,
+né,
+que é o tamanho da nossa amostra,
+o tamanho da nossa amostra,
+quanto maior for ele,
+vamos pensar aqui que isso vai,
+o maior vai ser o nosso denominador,
+e menor,
+ou,
+ou,
+se,
+o nosso z,
+então,
+e mais próximo,
+da média vai ficar,
+então,
+por isso que é a importância de fazer a inferência,
+com valor,
+a gente está mais significativa, né,
+aqui é uma amostra muito pequena,
+de somente 25 pessoas,
+então,
+eu não consegue inferir muito bem,
+onde que está o z,
+dentro da população,
+mas o principal aqui,
+é que, né,
+a gente falou,
+se a média está aqui,
+nesta média está no 770,
+o 75,
+vai estar provavelmente para esse que ele, né,
+obviamente,
+mas ele consegue inferir esse z,
+basicamente,
+quantos desvios padrões ele está,
+da média esperada,
+a partir desses parâmetros,
+então, a gente de vigi,
+se também fosse mais próximo,
+se fosse aqui,
+vamos dizer,
+com um 765,
+seria 5 dividido por 4,8,
+seríamos z,
+ali de aproximadamente 1,
+então,
+esse é o que vamos dizer,
+com o 765,
+seria 5 dividido por 4,8,
+então,
+esse é o caso seria aqui,
+por exemplo,
+insano de 5 bem mais próximo,
+e também seria o z positivo,
+porque ele estaria direita,
+e não é esquerda,
+como que é o caso do insano de 5,
+então, acho que deu para relembrar,
+o z,
+e a importância da gente pegar
+a mostraza aleatórias,
+então,
+a mostraza aleatórias elas são
+subconjunts,
+retirados aleatóremamente,
+de uma população,
+e a lação é uma forma
+de estimativa da média população não,
+então,
+vamos dizer assim,
+sem esquecer uma população
+que não é a gente falou,
+da altura da população brasileira,
+e a gente não consegue de forma algum
+até a sério de distribuição
+de altura por estabe,
+então,
+não sei que a média altura do goiais
+é um em 60,
+a média autoresonpau é 180,
+e a média autoresonto catalina
+é um em 75,
+não se tem essas informações,
+então,
+qual seria a melhor solução para fazer?
+seria tentar estimar
+que, ah,
+ah, não, todo mundo tem uma
+de 70,
+ou seria tentar pegar,
+vamos dizer uma mostra
+aleatórias pegá-lo,
+e aí conseguir estimar isso,
+e também vão pensar,
+se eu pegar,
+considerando que a população brasileira
+é de 200 milhões de habitantes,
+voltando,
+200 vezes,
+da sesta,
+se eu pegar,
+mas,
+não sei que a população é
+que você vai ter,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mais,
+mas,
+mas,
+mas, mas,
+mas, mas,
+porque a população evey
+por exemplo,
+Por exemplo,
+por exemplo,
+por exemplo,
+por exemplo,
+por exemplo,
+por exemplo,
+ela tem mil pessoas e a nossa mostra B ela tem um milões pessoas.
+Se a gente for pensar, se eu quiser estimar o turo da população brasileira, qual a
+mostra eu vou estar mais perto, se eu pegar a leatória, mentira, a um milão de
+homens, ou um milhão, ou um milhão, com a mostra a leatória, ao B eu vou
+estar mais próximo a gente inferir com retamente a população de 200 milhões.
+Ou você entesa a mostra bem, né? Que ela está mais próximo.
+Isso acontece.
+Por quê ela pode variar devido a casa?
+Dentro desses mil pode ser que eu pegue, por exemplo, uma população,
+ou ali que seja especificamente muito alto. Então, posso pegar mil jogadores de
+bascades que tem dois maiores. E aí vai aparecer que a média da população
+brasileira é de dois maiores. Mas não é o caso. Então, quando a gente pegou
+milhão de pessoas, o grupo muito maior, a gente está chegando mais perto.
+Na nossa população, e a gente consegue inferir com uma qualidade maior.
+Esse é o exemplo daqui, ó, quando a gente tem, por exemplo, uma população,
+a gente quer estimar uma média de idade, então que a gente tem dois pessoas.
+E se a gente for ver, a gente tem várias pessoas, ó, desessa et,
+44, 0, 4, então, a média de idade da população deve ser bem mais baixo.
+Mas se eu pegar aqui na mostra, esse cara que tem 91, esse cara que tem 95,
+então, por um caso, o selecioné ele dentro desse 12, selecioné esses três.
+A minha média de idade vai aparecer 83,6. E esse é o motivo da gente
+precisar de muitos dados, principalmente, quando a gente quer inferir alguma coisa
+mais precisamente, né. Quando a gente tem acesso a um lugar maior,
+a gente está reduzindo a lavariancia na nossa, a mostra. Quando a gente faz isso
+aqui, pegar 3 de 12, a gente está pegando 3 de 12, eu não pensar,
+a gente está pegando 25%. Mas como 12 também é um end muito baixo,
+acontece que aqui, com certeza ele não vai estar fazendo uma boa
+referência na população dele, porque com certeza, 12 pessoas não é uma boa,
+um boa paramento, por exemplo, se estimar uma média de idade populacional.
+Mas aqui no caso deu para ver que quando a gente pega por exemplo 3 de 12,
+a gente está muito propensos, né. Sómente 3, se aquele pegado 5 pessoas,
+ele ia poder pegar o cara de desessa e a chucara de 4,
+ele ia ser aproximada a média real de esse grupo. Mas quando ele pega só 3,
+ele corre o risco, que aqui também vamos ser sério, de oazar, né.
+De pegar 91, 95 e 65, ele pegou 3 pessoas com idade mais avançada,
+né. Quira no 78, são as 3 pessoas, ele pegou 3 as 4 pessoas mais velhas
+do grupo na seleção dele. Mas isso ocorreu porque ele pegou um
+e debaixo de 3, num grupo também não é tão grande, que somente 12,
+e ele doazar, mas isso é o conto, né.
+A gente não está propensos a usar quando a gente faz se selecione,
+então principalmente aqui se a gente tem um grupo menor de 12,
+a gente tem que se aproximar bastante dele para fazer
+é uma diferença para pegar uma mostra. Então aqui nesse caso,
+ele tem que pegar pelo menos 8 ou 9 para garantir que teria uma excelente chance de
+cair 4 ou 16. E esse é a próxima mais da mais da população.
+Crenes caso que a gente está fazendo uma diferença muito errado,
+se a gente fala que a média ele tem de 3 e gostei,
+um base nesse 3 de vídeo do Zuki.
+Então agora voltamos conformalmente potas de maneira geral,
+algo que o teste pode ser deve ser formulado como a hipótese inula,
+a GZ, igual a gente falou, e a hipótese inula dá sempre a fima,
+uma igualdade, uma propriedade. E aí pode ser alternativa,
+ela é o contrário, então, se a hipótese inula,
+ela segue para esse caminho,
+a hipótese alternativa, ela segue para o caminho complementar.
+Então, ou é 1 ou é o outro,
+elas nunca têm um grupo que interagem entre ela.
+Então sempre vai ter uma barreira entre a GZ e a GZ,
+ou a Galfa também se vão ganhar alguns casos.
+Aqui a gente tem um exemplo que a gente falou,
+a preferência por os smartphones depende da fachetária,
+as variáveis são independentes, você.
+Aquele está falando que, na verdade, aqui é o contrário,
+eu acho que está errado, o pessoal deixa o errado.
+Aqui são independentes e aqui são independentes.
+Aquele está falando que depende da fachetária,
+ou seja, as variáveis preferência por marca,
+com a marca preferida do indivíduo.
+E, e dá de elas são dependentes,
+ou seja, uma tenda relação com a outra.
+E aqui nesse outro caso, ele está falando que não,
+que as variáveis são independentes,
+e elas não dependem da fachetária.
+Então, essa hipótese alternativa, igual a gente falou,
+elas, a gente pode ver aqui, que são complementares,
+complementares no sentido de 100% do grupo,
+o pão vai estar em um ou vai estar em outro.
+Vocês concordam que, ou algo dependente,
+ou não dependente, não tem como dependendo mais ou menos.
+Esse é o ponto da hipótese de hipótese.
+Então, que a gente consegue fomular,
+a gente fez uma análise, a gente viu,
+que aparentemente é uma dependência ali,
+dá fachetária para escolher a preferência no smartphone.
+E a gente quer provar isso fazendo um teste estatístico
+no nosso conjunto de dados.
+É o que a gente faz é,
+ela borar uma hipótese,
+fomular uma hipótese noro,
+como a preferência do marcas de smartphones,
+depende da fachetária.
+E aí, naturalmente, a potência alternativa vai ser
+complementar a ela,
+dizendo que a preferência por marcas de smartphones
+não depende da fachetária.
+Então, aqui, o nível de significância
+é igual a que a gente falou, pessoal.
+O nível de significância,
+ele está lá na distribuição.
+Ele é equivalente justamente a aqueles pontos extremos,
+que estão tanto para a esquerda quanto para a direita inicialmente,
+numa distribuição bicarodal.
+E aí, em jico, a probabilidade máxima da gente
+cometem o erro do tipo 1.
+Esse erro do tipo 1 é regenta e potos emula
+quando ela é de fato verdadeira.
+Então, voltando aqui no nosso caso anterior,
+seria falar não.
+A preferência por marcas de smartphones
+não depende da fachetária,
+quando realmente depende.
+Mas o que pode acontecer?
+A gente pode pegar uma amostra,
+que pode estar aqui,
+com o corno, lembro do que a gente falou da altura,
+da idade da população.
+Pode acontecer de pegar uma amostra,
+deu-se muito muito exarado
+e pegar uma amostra,
+onde, pessoal, não depende,
+totalmente distribuído,
+e as fachas de setares tem celulares,
+todo mundo prefererefônico, não dizer assim.
+Vamos dizer que a todas as fachas de setares
+prefererefônico.
+Então, ela vai caindo um grupo aqui,
+provavelmente no extremo de regenta e potos emula,
+porque ela pode estar cometerem esse erro,
+na dia, quando a gente está fazendo a nossa diferença,
+a gente pode cair nesse erro de caindo o extremo.
+Seja no extremo inferior,
+o extremo superior,
+e a nossa margem de erro,
+vamos dizer assim,
+justamente esse nível de significância,
+a probabilidade máxima que a gente está a seto,
+a esse erro ser cometido.
+Geralmente, por padrão,
+a gente usa o 5%
+a gente aceitou 5%
+aqui, esse é o padrão.
+Esse aqui é o nível de significância de 1%
+também fora de escala,
+esse aqui de baixo,
+ele também fora de escala,
+mas se eu tenho o 0.5 na esquerda,
+e 0.5 na direita de 6,5%,
+que não veja em 99% vai estar aqui no meio.
+Então, esse é o ponto, naquia aqui,
+a gente tem esses 2 pontos,
+elas vão estar justamente,
+é que seria a qual a probabilidade
+da gente afirmar,
+que a média, por exemplo, não é,
+essa vez tem 4,
+com base na nossa mostra, nos nossos exemplos,
+quando ela realmente é,
+então, nesse caso aqui,
+é o limite de aceitação,
+o nível de significância é de 1%.
+Neste outro caso aqui,
+ele é de 0.5,
+ele é de 95%.
+Então, diferente desse aqui,
+a gente joga 0.25 para a direita,
+e 0.25 para a esquerda.
+E aqui, potante ver também,
+que está botando um 0,
+de 1,96.
+E 1 aqui, 1,0, de 96.
+Esse 0 é exatamente onde a gente consegue chegar
+no nível de significância de 0.25.
+Então, isso dá,
+praticamente é o que a pessoa usa de 2 de seus padrões.
+Então, são,
+basicamente,
+a gente for pensar na distribuição normal,
+eu vou ter essa aqui, ficou ruim.
+E 2 de os padrões para a esquerda.
+Então, eu vou estar propensos a aceitar.
+Todo esse pessoal que está aqui no meio, certo?
+Sem de fom pensar,
+ou em 96,
+da prática, a mente 2,
+então, eu vou estar disposto a aceitar todo esse pessoal aqui no meio.
+Isso aqui vai dar 95% da minha mostra.
+Então, tudo que tiver,
+um z,
+menor do que eu, 96,
+ele vai estar nesse grupo em aqui,
+que tem somente 2,5,
+e tudo que tiver maior que o 96,
+vai estar nesse grupo em aqui,
+que também tem 2,5,
+22 pontos.
+Todo o restante de 95% vai estar dentro
+do menos o 96,
+a um 96 de seus padrões.
+Então, sem estenhar,
+falar com a mente de altura em uma população,
+é um e setenta.
+Seguindo aqui,
+nós caso,
+a gente só vai rejeitar isso,
+se a nossa mostra,
+cai,
+nos casos que ela caía aqui para cima,
+então, vou colocar uma média,
+e vai colocar aqui no extremo,
+pode ter muita gente que cai para o extremo de aqui,
+com o mais de 1,96,
+do z,
+ou seja,
+o pessoal que, no caso, vai ter ele,
+a 1,99,
+ou 2,5,
+em pessoal que tem um 50 de altura também.
+Então, esse caso,
+eles, como são extremos,
+pode acontecer nesse caso,
+você rejeitar,
+que a média,
+é um setenta,
+desses casos,
+vai adefear tão instante
+que vai ser maior do que o erro aceitável,
+ela é, com o dizer assim.
+O valor,
+peja justamente,
+o valor dá para o habilidade,
+da gente,
+obter esse resultado tão mais extremo,
+quando observado,
+quando é, quando é,
+quando é, ponto de inura,
+ela é verdadeiro.
+Então, o valor pele obitido,
+quando a gente faz o teste estatístico,
+quando os estátis,
+e, no caso,
+que a gente viu do 0,
+menor do que 3,25,
+ele pode ser calculado com uma probabilidade,
+do 0,99,
+que é,
+que é, em momento, menos 3,5,
+no acúlano,
+no alpatrão.
+Então, o que a gente tem é com o
+alpatrão,
+a gente tem a média,
+que a gente viu que o 0 da média é igual a 0,
+e, se eu for aqui,
+lembro do,
+o que a gente viu em caso que o 0 é,
+menos 3,5,
+e o que a gente tem de 5,
+o altura de 1,55,
+contra o altura de 1,70,
+ela vai estar exatamente aqui,
+e ela vai estar em menos 3,1,
+2,5,
+ela vai estar bem para cá,
+e o que ele quer saber é,
+qual a probabilidade
+dos vezes é menor do que
+3,5,
+no alpatrão,
+qual que é essa área dentro da curva no molho?
+Então, vou fazer de melhor aqui,
+vou dizer, ficou muito ruim.
+Mas essa aqui é a curva no alpatrão,
+a gente tem a média,
+onde dizer,
+é igual a 0,
+e ele quer saber
+aqui,
+no menos 3,5,
+o que é 25?
+Vou deixar 3,2.
+Então, o que é essa área no graf?
+É tudo que está pra cá, certo?
+Essa área, assim, aqui,
+ele quer saber qual que é o valor
+perda essa área.
+E aqui, ó,
+quando a gente faz essa conta,
+a gente tem que usar esse cor de 325,
+pode ser também aqui,
+está positivo, mas no caso negativo,
+não faz diferença.
+O valor P
+é calcular do como 2,
+porque a gente tem
+tanto de um lado,
+ponto do outro, certo?
+Os valores extremos,
+e que é qual que a probabilidade
+de cair nesses lados aqui?
+Nesse caso, ele não precisa ir do 2,
+porque ele está crençado,
+isso é o que é do menor.
+Mas quando você quer saber,
+calcular o valor P,
+você, de qual a probabilidade de cair
+nos valores extremos,
+a gente tem considerados 2 lados.
+Então, essa é a diferença.
+Quando a probabilidade cê só menor,
+a gente não precisa considerar
+esse lado aqui,
+porque, nesse caso, a probabilidade do cc
+é o maior do que 3.125.
+Quando a gente combina as duas,
+é por isso que a gente usa 2 aqui,
+porque a gente está pegando 1,
+que é o valor da área total da cúva,
+a gente considerar,
+que a área total da cúva aqui é 1.
+Agora a gente pega,
+só as pontinhas,
+ele quer saber,
+qual que eu está a mãe dessa pontinha aqui?
+E qual que eu está a mãe dessa pontinha aqui?
+Aí por isso,
+que ele multiplica 2.
+Então, aquele pegou os dois cor de 3, 120,
+multiplica o 2,
+e aqui a gente chega na probabilidade
+ainda de 0.00,
+enfim, 2,
+e esse é a probabilidade menor do
+o nível de significação.
+Então, o nível de significação espadrão
+e a gente viu as 0.05,
+que a gente vai aceitar
+para a 95% de confiança.
+Então, essa probabilidade máxima,
+que a gente vai aceitar 0.005,
+que a probabilidade máxima de ele
+cai no dia que eles limites extremos,
+é nesse caso aqui,
+é 0.001, site site.
+Então, para a gente...
+Então, a gente vai ter 0.02
+e, com isso, a gente pode se fazer esse caso de itarienos,
+considerando o nível de significação de cede.
+A 0.05,
+que é o padrão que a gente vai ver.
+Então,
+agora, vamos para a próxima...
+Antes, para fechar,
+já consolidando que a gente falou,
+é o teste pode ser o unical d'al,
+ou seja,
+maior do que alguma coisa,
+ou menor do que alguma coisa,
+ou ele pode ser picaldal.
+Quando a gente fala de bical d'al,
+está falando,
+é igual,
+ou seja, uma média,
+é igual a 74,
+ou diferente,
+74.
+E aqui,
+isso a gente está falando,
+sai, pôtes e...
+alternativa.
+É que a média, por exemplo,
+a maior do que a 74,
+a hipótesis inulano,
+naturalmente, tem que ser do que...
+que a mesa,
+mesmo, a média vai ser
+menor do que a 74.
+Então,
+é impossível,
+não é, na vida,
+alguma coisa é maior e menor
+porque se não terá,
+a outra mesma tempo,
+por exemplo,
+ou ela é maior,
+ou ela é menor.
+Então, é, por que,
+por isso que a gente tem essa diferença,
+o unical d'al,
+e bical d'al,
+a bical d'al,
+o principal ponto é,
+quando a gente fala de
+cego a outra diferença,
+ela pode estar em qualquer um
+de um dos estrenos.
+Então, a isso que acontece aqui,
+a gente tem um nível de significado
+a gente distribui ele,
+entre os dois lados,
+entre o lado esquerdo,
+que são os limites inferiores
+e os limites extremos inferiores,
+e os limites extremos superiores.
+A grande maioria do bolo,
+aqui,
+o supo pro nível de significância,
+de 5%
+a gente consegue tão nível de confiança,
+que é um menos nível de significância,
+é de 9% aqui.
+Só que a gente vai ter aqui,
+2.5 para cá,
+e 2.5 para cá,
+que são os valores extremos.
+Nesse caso, quando a nossa hipótese
+é alternativa do tipo,
+maior do que alguma coisa,
+que pode ser hipótese no lugar,
+em escasa que ele está com o onde,
+e pode ser alternativa como o referência.
+Mas, aqui, considerando que a hipótese
+no lado de um maior,
+que é uma coisa,
+a área de aceitação,
+não desculpa, está certo.
+Aqui ele falou,
+quando a hipótese alternativa é maior,
+tudo o que tiver na hipótese no lugar,
+vai ser menor,
+concordo,
+então, vai ser a área de aceitação da gasé.
+Então, aqui,
+a gente vai um nível de significado de 5%
+ele vai estar no 5%
+ou seja, tudo o que for maior,
+porque qualquer coisa que for menor
+ainda vai contar,
+ainda vai estar na nossa área de aceitação da gasé.
+Então, a gente falou,
+você aqui é uma coisa,
+foi maior do que 74 queus,
+tudo que está para a esquerda,
+tudo que está na área de aceitação,
+ou seja,
+então, eu ser muito,
+muito baixo,
+como uma média,
+por exemplo, 40 queus,
+também vai estar na área de aceitação daqui,
+por mais que ela tem uns ebaixis.
+Difference do caso do diferente,
+que a gente falou agora,
+pode ser só diferente,
+mais não,
+propriamente,
+no começo ou no final,
+ela não é exatamente maior menor,
+ela pode ser ou no começo ou no final,
+então,
+a gente falar a média,
+essa é de 4,
+a média,
+ou ela pode ser,
+também,
+55,
+ou ela pode ser 96 da sua mostra,
+e você pode acabar ainda,
+porra dessa área de aceitação.
+Mas, na grande maioria das vezes,
+vai coletar só,
+mostra só mais de vantalinho,
+e tem,
+tem vai estar 72,
+e vai acabar a inessária de aceitação,
+é,
+é hipotezinho,
+naquilo último caso,
+na época de alternativa,
+quando a hipotez alternativa menor,
+do que eu não coisa,
+é justamente potrana,
+não falar que a média menor,
+do que isso é no tempo de 64 queus,
+tudo que foi maior,
+então,
+se eu pegar uma amostra ali,
+que eu tiver um z-muito alto,
+um z-d,
+aqui, vamo os pontos de quase 4,
+e a minha amostra coletada
+foi de 100 quilos,
+então,
+isso vai 100 quilos,
+ainda assim,
+é maior do que esse é adequado,
+por mais que seja muito
+de explodante da média,
+então,
+eu te desejo de 4.
+Então,
+só leitando aqui,
+eu posso ter uns 4.
+Vou estar aqui 4z,
+e isso ainda,
+sim, vai estar na...
+A minha área de aceitação,
+seu tiver menos 4,
+quando ele vai estar muito para cá,
+ele vai estar...
+não vai estar na minha área de aceitação,
+que tudo que foi o mesmo aqui,
+menor do que o Z,
+ele está tirando fora,
+nesse caso aqui,
+ele está jogando um Z somente,
+e aqui,
+a minha área de significação,
+e nesse caso,
+aqui seria...
+Eu sim, por cento a esquerda,
+caso aqui,
+igual a gente falou,
+a gente quebraia o nosso nível...
+A gente vai usar
+a gente perguntar quando
+o Z é cada um,
+o único dão,
+a gente vai usar
+nessas situações,
+a gente fala,
+maior ou menor do que
+alguma coisa,
+sempre que a gente
+botar na minha experiência,
+maior ou menor do que alguma coisa,
+a gente vai estar usando
+o único dão,
+então,
+o único dão aqui,
+sempre maior ou menor do que
+alguma coisa,
+justamente,
+por causa de esquerda falei,
+independente de seno Z,
+muito menor do que
+a média,
+ele ainda vai estar levado de aceitarção.
+E mesmo vale pro outro,
+não é independente de seno Z,
+muito maior do que a média,
+muito distante
+do centro da nossa
+distribuição normal aqui,
+ele ainda vai estar levado de aceitarção.
+Então agora,
+vamos começar agora,
+finalmente,
+dos exemplos,
+a gente vai pegar um teste de
+pode-se para proporções,
+um primeiro exemplo,
+então a gente está creendo
+comparar,
+o sucesso de uma
+mostra de uma aúris
+esperado,
+em relação a proporção
+de sucesso entre dois grupos.
+Aqui o exemplo,
+a gente tem a proporção de
+clientes sizefades,
+é maior do que 80%.
+E aqui,
+a proporção de um outro exemplo
+é uma segunda hipótese,
+aqui,
+não é hipótese nulo,
+e pode ser alternativa,
+tá pressa,
+é um outro caso,
+aqui é hipótese,
+alternativa seria
+complementar,
+aqui a gente está falando
+é um único aldo,
+e se a gente está falando
+que a proporção de 20 sizefades
+é maior do que 80%.
+A gente tem que falar
+que a nossa hipótese,
+ao pernativo,
+é que a proporção de 20 sizefades
+é o que menor do que 80%.
+E aqui,
+se a proporção de homens
+que compro um produto,
+tá, pois,
+meu campo é de marque tinha
+maior,
+ou seja,
+ele é um
+único aldo,
+também é maior,
+ou
+é menor do que o das mulheres,
+com quando?
+Então, a gente tem dois casos,
+ou a gente quer comparar
+proporção de sucesso
+entre dois grupos,
+que é o caso que
+do exemplo,
+ou a gente quer comparar
+aqui a proporção de sucesso de
+uma mostra,
+com o valor esperado.
+Nesse segundo aqui,
+olha,
+tá falando com parando
+as duas proporções,
+a gente tem uma proporção
+observada,
+que é isso aqui,
+e a gente tem uma proporção
+esperada.
+Então, eu consigo,
+por exemplo,
+no exemplo que a gente deu
+da altura,
+eu consigo pegar a minha
+população,
+a minha mostra
+de desculpação,
+a sempre pessoas que
+entrem de stay,
+e fazer um teste de
+proporção
+para ver se ela está
+dentro da população
+brasileira,
+dentro da população
+da população brasileira,
+em uma variável,
+por exemplo,
+a idade,
+então, eu consigo fazer isso.
+Então,
+vamos botar aqui
+a mão na massa
+fazê-se testa,
+vai ficar mais
+claro agora.
+É muito muito abistado,
+fala de stay
+de poder sem ver isso na
+prática,
+então,
+aqui vamos pôr
+que a gente tem
+150 clientes
+de stay
+de 200 clientes.
+Então,
+aqui,
+a minha proporção
+é em potaística,
+naturalmente,
+é
+teria que ser
+de um
+não aqui,
+e está falando
+que a gente tem no caso
+uma proporção
+dentro da minha
+mostra de
+de 75%
+que dá
+150
+sobre 200.
+A minha proporção em potética,
+alguma proporção em potética
+que eu queria,
+é de 80%
+aqui,
+como nesse caso,
+então,
+aqui a gente está falando
+que a gente
+na nossa mostra
+por leitada de 75%
+e ele quer falar
+no caso que é 80%
+né,
+que é comparar
+que é maior do que 80%
+só que aqui,
+a importante
+zero,
+do que a gente
+é de 75%
+com o n
+de 200.
+Então, a gente tem que ver se é ser
+é suficientes
+para a gente conseguir
+bater
+e potes
+que é
+ela
+realmente
+a menor do que 80%
+é
+osculpe,
+ela é maior,
+né,
+então aqui,
+é maior,
+então,
+a gente vai testar
+e potes
+que ela é maior,
+então,
+contrário,
+né,
+a cavarça
+e também pode
+se alternativa
+e a gente
+ele também pode se lucar.
+Então,
+a gente faz a gente
+botam para poxa
+o Zetaix
+a gente chama
+a biblioteca
+do Estat's Models
+o Saipai
+também é muito bom para
+testar
+de potes,
+mas
+o Estat's Models
+e o Estat
+a classe
+estates da biblioteca
+estates modos
+já resolve muita coisa para a gente.
+Então aqui,
+ele
+tudo que a gente precisa passar,
+é o
+nosso total
+não é o calo
+de opinião,
+o número de observações,
+então a gente tem
+dosentes observações
+e sem 50 são a nossa
+contagem.
+O valor
+e potete
+o valor que a gente tem de referência
+e a gente traz como
+o valeu.
+E aqui a gente escolheu
+e malem
+porque a gente tá
+querendo comparando
+o menor,
+a gente quer
+ou desculpa,
+aqui é realmente
+se a gente quer pegar
+uma hora a gente tem que pegar
+o altena tiga,
+agora eu fiz a
+a sucessão
+o altena tiga
+ele é potes alternativa.
+Então aqui a nossa potes alternativa
+é
+a
+hipótesis inula
+é de maior
+a hipótesis alternativa
+vai ser
+menor
+do que ele tem de porcentes.
+E ela que a gente leva aqui.
+Ela é hipótesis alternativa.
+Então aqui,
+0.8
+da proporção hipótesica
+que ele quer saber
+que a gente tá levando
+na hipótesis.
+Núlo.
+O número de observações
+total dos anos
+e o número de 150.
+Então o que a gente quer saber
+é falar das contas
+se eu pegar a 150 pessoas
+de dos anos.
+Essa oficente para falar
+que enjeitar o meu pôtreis
+que a média de 80%
+e aquele fala, não é
+evidências
+oficentes para concluir
+que a proporção de 20
+de 30%
+é menor do que oito
+de 80%.
+Aqui no caso ele ainda fez
+uma comparação,
+a gente fez uma comparação
+e de vez a gente
+ali do que tava no anterior.
+Mais a gente
+a gente sente
+que fiz essa uma referência
+aqui,
+porque a equipe tá falando
+que a hipótesis nula
+é significativamente
+meu anote que eu entendo.
+E aqui,
+ele acabou caindo no else
+porque a gente tem
+uma estatística z
+de
+menos o 63,
+então ele provavelmente caiu
+um pouquinho aqui
+a quem
+do que eu
+80%
+vai tentar falar
+do que os 80%
+tá tipo aqui
+e o 75%
+tá aqui
+dentro da distribuição,
+então a gente tem um z
+que leva a menos
+um 63
+e lembro que a gente viu
+não tá de significância
+um z
+de
+quando ele chega aqui
+no 5%
+o alfo que a gente definiu
+né no nosso nível de significância
+ele é de menos 1
+96
+então como aqui ficou
+1, 63 ele acabou ficando um pouquinho
+abaixo né
+então não é ainda suficiente
+por mais que é muito próximo
+ou seja,
+quando a gente compare
+esses 0.0 5 com 2
+ele
+é levemente maior
+do que os 0.05
+no caso aqui é só comprar
+porque nossa pode
+nula acabou ficando
+maior,
+pô,
+e aqui
+a nossa hipótesis alternativa
+e mas aqui
+e a cabanecha
+e a cabaneca
+seguindo a firma
+que é de fato
+a cabaneca
+seguindo a aceitar
+e pode ser alternativa
+a gente tá querendo
+voltar aquela significância
+que tinha a mesma enorme
+a gente trocar referência
+da nossa hipótesis
+a gente botuca
+a hipótesis nula
+é que a significação
+tivermente menor
+muito menos a gente não
+seguia firma
+aquela
+o que ela é
+é
+80%
+mas nesse caso aqui
+ela ficou muito mais próximo
+principalmente por que
+nesse caso
+o z de 1,63
+ele tá bem próximo
+do z
+a 6
+do nível de significância
+de 5%
+né?
+numa distribuição bical d'al
+não, distribuição
+numa distribuição
+a unicaldal, mas então aqui
+nesse caso
+tudo o que fosse para cada
+ele seria
+a 6
+independente
+seria agitado né?
+no caso
+então
+ele acabou ficando muito próximo
+o z
+acabou ficando meio aqui
+em menos
+um ponto 63
+dentro
+do nosso
+da nossa média
+então aqui
+a média
+é que vamos
+pouca média
+que tá querendo comparar
+é o 80%
+para referência
+então no 80%
+a nossa mostra não ficaria para
+cá no 163
+e ainda não seria isso
+ficiente para
+para rejeitar, para filmar
+com o z de 1
+dos entas
+a mostra
+que é significado
+actualmente menor
+agora trazendo outro exemplo
+vamos supor que
+que a gente tem um exemplo
+que 50
+ou mês compraram
+um produto
+e a gente rodo
+esse produto para 120
+ou mês do meu campain
+e um segundo
+caso na gente rodo
+para 100 mulheres e 30
+comprado
+então com isso a gente consegue
+fazer uma pesquisa
+para saber qual é a proporção
+né?
+quem comprou mais?
+Então a gente quer comparar
+a gente tá firmando
+que é diferente
+não necessariamente
+quem comprou mais
+porque que tá na cara
+que os homens compraram mais
+mas a gente tá firmando
+que
+que
+será que esse volume
+que a gente pegou
+é suficiente para fazer um
+uma diferença significativa
+que a média é diferente
+da aceitação do produto
+e aqui quem tem rodo
+para poxa z de tétina
+a gente passa uma lista
+com o número de homens
+compraram no número de mulheres
+comprado
+e baixar as observações total
+né?
+Sem mulheres
+e 120
+muito
+é 120
+de homens
+então aqui a gente passa
+as observações
+elas vem para cá
+e na
+observações vem para cá
+e outra cor aqui
+o total
+de valores
+nas pessoas que
+compraram
+ela vem para cá no
+para o metro count
+count
+e aqui o número de observações
+vem para cá
+aqui nesse caso a gente tá falando
+larga
+porque a gente tá crendo
+comparar a nossa
+a hipótese
+nula nesse caso
+é que
+a proporção de homens
+é significativamente
+maior
+então nesse caso aqui
+quando a gente for fazer
+a hipótese alternativa
+é o larga
+então nesse caso vamos ver
+a gente tá pegando aqui
+ele tá comparando as duas medias
+a distribuição dos homens
+e das mulheres
+então vamos supor que ele tá pegando a proporção aqui
+de 50 para 120
+vamos supor que
+30%
+30% de homens
+dentro do total de mulheres
+dentro do total
+na indice
+120 e 30 mulheres
+dentro do total de 100 mulheres
+então aqui dá 30%
+aqui sem de forver dar um pouquinho mais
+ali quase 40%
+e para fechar
+a estatística Z
+então o que ele traz para a gente
+a gente está a gente está a estatística Z
+e o valor P
+aqui nesse caso a gente pode ver
+que o nosso valor está a
+T.C.A.L.T.A.
+bem próxima também
+só que
+para a direita
+então a gente vê que a
+cima de diferença dos homens
+para as mulheres
+então
+aqui
+a média esperada para os homens
+e aqui vai dar por exemplo
+a média esperada para as mulheres
+não, isso provavelmente não
+vai dar um pouquinho para a esquerda
+a média esperada das mulheres vão um pouquinho para a esquerda
+e a média esperada dos homens acaba que tá aqui
+ele quer saber
+esse Z
+de um estadentino
+óbvio
+é
+porque no caso a gente motou
+primeiro a comparação
+tão um pouco de futeio
+na proporção diferente
+na no caso aqui a das mulheres
+e aqui
+é a luz ao mês
+ele quer saber
+esse Z aqui
+ponto 03
+ele ficou
+menor do que o alfa
+então nesse caso aqui a gente comparou
+o nosso valor P foi menor
+porque o alfa então a probabilidade
+dedicar nesse valor extremo
+é menor
+e esses amostragiações
+ficientes para a gente falar isso
+aqui a gente rejeitou e pôtos inula
+a gente pode se mula proporção dos homens
+é significativamente maior
+aqui no caso ele está falando
+no
+aí pode se encontrar
+então aqui se rejeitar
+pode ser alternativa
+no exemplo com a gente trouxe lá
+esse fizeram errado também o
+pois lá
+pôtos inula
+então aqui
+é não rejeitamos a pôtos inula
+não rejeitar nos aípôtos
+ou pôtos
+ao terminar
+então beleza
+a gente não consegue não conseguiria
+é
+ver que tem um bom diferença
+mas no nosso caso aqui
+pôtos pelo
+ele foi menor do que o alfa
+ou seja, 0.03
+isso aqui é menor do que 0.05
+então nesse caso a gente consegue
+sim inferir
+que é a proporção dos homens que comprou
+é significativamente maior
+cada vez mulheres
+outra possibilidade
+é a gente consegue fazer
+e verificar se tem uma soluciação
+entre duas variáveis categorcas
+ou seja, se uma distribuição
+ou também
+se uma distribuição de frequência
+observada, ela segue uma distribuição esperada
+esse é conhecido também como
+teste que quadrado pessoal
+tiver usar ele bastante
+e aqui nesse caso por exemplo,
+a gente usa um teste que quadrado
+para ver se tem uma relação
+entre homem
+ou entre ser mais homem
+ou mulher no nível de
+educação mais alto
+ele quer saber
+aqui a gente tem um escalador
+de 100 graduação
+ou graduação
+esse aqui é com o seu
+post-gradação
+e mistrado
+e homem e mulheres, então
+que a gente tem duas categorias
+e 4 categorias
+tem 8 possibilidades
+ou 2 quebras
+ele quer saber se tem uma relação
+entre o gêner
+homem e mulher
+com o nível de educação
+mais alto
+e com isso a gente usa o teste que quadrado
+e ele também pode ser usado
+para a gente observar
+se dentro de
+uma mostra observada
+se a gente está adequada uma
+uma mostra esperada
+nesse caso aqui já está de cara
+para ver que não
+mais gente tem que fazer
+comparar
+todos esses grupos
+comparar o grupo anterior
+o grupo novo
+deve de uma um dado
+em total
+então o que quadrado a forma
+dele bem simples
+para um dos
+é só pegar os valores observados
+subtraí
+dos compos valores
+observados
+subtraí dos valores
+esperados
+ele vai ao quadrado
+e dividir pelos valores
+esperados
+e fazer a soma de
+susto tudo
+basicamente ver quanto que está
+de vergindo
+o que você observou
+do que você esperava que acontece
+nesse nosso caso aqui
+a gente toricamente
+esperaria o que
+uma distribuição
+igual a o entre o mesmo
+leirão que a gente tem que fazer
+vecia
+realmente uma de beijência
+entre o mesmo leirão
+nas categorias
+principalmente os categorias
+mais alto
+então aqui o exemplo das
+distribuições
+aqui a gente tem uma
+mostra
+satenta as proporções
+ele de satenta
+24 de satenta
+e o que a gente esperava era
+20
+aqui
+40 aqui
+60 aqui
+80 aqui
+o teste que quadrado
+quando a gente
+bota ele também
+gera um
+um valor que peja para a gente
+não a probabilidade
+mesmo coisa
+é a frequência
+aqui a gente consegue passar
+frequência observada
+e a frequência esperada
+olha o tamanho
+das estatísticas que quadrado
+na 142
+isso ocorreu
+porque a gente está
+mentindo
+a gente pegou as diferenças
+eu não vou quadrado
+isso
+eu que traiu pelo esperado
+e dividiu pelo esperado
+então
+então que quadrado
+ao tício
+é um bevalor
+aqui
+gigante
+não me escupa muito, muito menor
+muito, o seu número
+muito baixo
+oito ele vai dar
+a menos treinta
+em um
+então a probabilidade
+deu
+listo
+disso aqui
+da mostra
+realmente
+tens tribuição do esperado
+e por um acaso do destino
+esse
+esse
+simples
+é a mostra que
+a gente pegou aqui
+ser uma
+de beijência
+ela tá
+de vengente por
+por acaso
+é isso aqui
+é de 0
+oito
+oito ele vai dar
+menos treinta
+em um
+mais isso aqui
+com certeza
+é muito, muito, muito
+muito menor
+porque a gente
+gana a mega série
+então
+esse é o ponto
+que
+quando a gente
+tem uma mostra
+maior
+a gente consegue estimar
+a melhor
+mais aqui
+é muito
+o peio valor
+é muito baixo
+porque é extremamente
+provado
+que isso aqui
+é essa mostra
+ela tem
+a mesma distribuição
+do esperado
+e por um acaso do destino
+ela veio
+bem divergente
+que ela
+seria um caso dela
+tá, por exemplo,
+no outro ponto
+muito, muito extremo
+como é
+ele vai dar menos treinta
+ele que tá
+numa ponta
+muito, muito extremo
+da árvore
+ou seja, nem
+nem na parte que já começa a futuar
+é seria
+um dos casos
+bem extremos
+da distribuição normal
+e aqui
+a gente bota
+aqui uma alfa
+de 0.05
+o que o seu peio valor
+foi o fenômeno
+do que o alfa
+que é o caso
+é bem menor
+do que 0.05
+a gente consegue
+rejeitar
+e pótesis
+novo
+e a mostra
+ela de féri
+significamente
+então
+o que a
+aí pótesis
+novo
+seria que não
+há de
+bem
+gente
+e aqui
+a gente rejeita
+esse pótesis
+novo
+e
+claramente
+há de
+bem gente
+se
+sim
+porque
+esse peio
+que
+ele
+bem menor
+do que
+é
+0.05
+que é o nível de significação
+que a gente
+acentaria
+é um
+uma magia
+ainda
+considerável
+de 5%
+isso aqui
+que a gente falou
+ele
+não está dentro
+é
+do que a gente considera
+aceitar
+não
+nessa região
+essa seria uma região de aceitação
+é aqui no nosso caso
+ele poderia estar
+um pouquinho mais para a cala
+um pouquinho mais para lá
+mais é um z
+né
+basicamente
+por ser
+traduzindo
+por z
+é um
+que a gente está comparando
+grupos
+onde dá para ter uma distribuição normal
+mais seria um z
+muito muito extremo
+então a chance de acontecer
+é muito
+pouco improvisado
+e aqui nesse caso
+é a mesma coisa
+só que a gente está
+comparando
+categorias da proporção
+e o mesmo a gente pode fazer
+ele que não tiver o pro-groupo
+na idioma de mulheres
+aqui é
+os níveis de educação
+na unível mais baixo
+isso aqui é
+cengraduação
+graduação
+um pós-gaduação
+e mistrado
+sendo me engaro
+e aqui a gente chama o que
+dois que quadrado de contingência
+que é quando a gente
+quer comparar
+esses grupos que é o caso
+do que a gente quer comparar
+homem
+e contra mulheres para ver
+se tem uma indivendência no
+nível de educação
+e o que ele faz?
+então aqui ele vai fazer esse
+teste que
+quadrado de contingência
+e ele vai gerar
+um das
+dos retornos desse método
+ele gera
+uma frequência esperada
+que a gente vai conseguir ver
+justamente como que seria ele
+o ideal, como que seria
+uma distribuição esperada
+daquela mostra
+e a gente tem aqui
+graus de liberdade
+que são basicamente
+quantas
+quais as combinações possíveis
+né?
+e aqui está a gente que
+que quadrado
+nos casos dos
+eram pontos simples
+então bem, bem menor
+e aqui graus de liberdade
+e quantas combinações
+na verdade é o total de
+níveis né?
+que a gente tem quatro níveis
+menos um
+então
+o graus de liberdade
+vão ser total de categorias
+que a gente tem
+em que no caso são quatro
+menos um
+então por isso que a gente vai
+vai ter três
+que são basicamente
+as possibilidades que ela
+tem
+de ser de pergente
+né?
+Então, se eu escolhi um
+a seus coloninhos superior
+eu tenho
+três e os possíveis
+e é por isso que a gente chama
+de graus de liberdade
+três
+mais aqui
+a gente pode ver
+que o pevalor ele deu
+0.99
+0.99
+é menor do que
+0.05
+não, é bem maior
+então que acontece
+a gente rejeitou a
+pote no
+a
+desculpa a gente
+falhou e rejeitar a pote no
+não, a gente não tem a
+evidência para
+sugerir que essa emoção
+independência
+ou seja, aqui
+é
+não desculpação
+dependência
+que vai
+rapaz
+a gente não
+tem
+sugestão
+não consegue sugerir
+que essa emoção dependente
+por que
+nesse caso que o nosso
+pevalor
+0.21
+ele não permite
+que a gente
+conseguia rejeitar
+justamente por conta disso
+né? Então, aqui a gente tem
+um graus de liberdade
+de três
+e isso acaba influenciando
+no pevalor também
+quanto menor
+nosso graus de liberdade
+mais o pevalor
+ele vai
+se ajustar ali
+e aqui
+é o ponto
+né?
+sente bem aqui visualmente
+não tem nenhuma
+diferença né?
+tipo, a beleza, tem uma
+ou minha mais
+sem graduação
+três homens
+a mais
+com faculdade
+uma mulher a mais
+como
+pois a graduação
+em três homens a mais
+com
+como é estrada
+então, realmente,
+nossa taxa de pote
+e mais como que é
+consigo ver isso aqui
+e provar no
+o análise
+o que eu estou falando,
+sabe?
+E essa é a utilidade
+de um peixe de pote,
+né?
+Se eu olho aqui
+e falou,
+eu acho que não tem
+diferença
+entre uma
+ou a mesma mulher de um
+nível de educação
+mais alto, né?
+Então, tipo,
+acho que não é
+uma tendência de
+homens também de educação
+mais alto,
+não tem dependência
+entre as variáveis
+sexo
+e nível de educação.
+Então, o que a gente
+tem que fazer um
+teste
+que quadrado
+para provar a nossa análise?
+E aqui é isso que a gente faz,
+né?
+No fim das contas,
+a gente pegou
+e jogou o pevalor
+as frequentes espérias,
+né?
+É, dentro
+do uma distribuição
+normal também
+berem bem próximos
+aqui numa distribuição
+bilomial
+perna
+também
+bem próximos
+aqui deu 6.07
+6.02
+ou seja
+teria que ter 6 mulheres
+6 homens
+praticamente 7 homens, vai?
+6 mulheres 7 homens
+3 mulheres
+14.4
+e isso aqui considera no total
+não do toda nossa mostra
+de mulheres e homens
+elas teriam que
+está assim
+e as diferenças
+entre as frequências observadas
+e as frequências esperadas
+elas não foram tão grandes
+sem gente, né?
+que nem gente pode ver aqui pelo que quadrado
+lembro que o outro que quadrado
+ali da nossa deu
+sempre o ítanto
+que eram diferenças bem grandes
+aqui a diferença são bem pequenas
+entre as frequências esperadas
+e as frequências observadas
+então que a gente não consegue
+não tem evidência
+para sugerir que essas
+amostras são
+dependentes, né?
+no caso
+aqui porque
+a gente acaba caindo
+é
+aqui
+então nosso pevalor
+é bem grande
+então a gente está bem confiante, né?
+que a gente
+é
+cometeria algum erro
+do tipo um ser infisário
+essa afirmação
+então a gente não pode comer
+pelo 21% de cheio de comer
+então ele é por isso que a gente
+pale
+em cometer esse pósa
+ou seja, o pevalor de nometê
+um significa que a gente
+é comoeteria
+um erro em noventa
+em um ser das vezes a gente
+falasse que a assim independência
+não são independentes, né?
+quando a gente fala que não são independentes
+significa que a dependência
+então eu acho comoeteria um erro
+noventa em um ser das vezes
+que a gente fala
+que a diferença
+na distribuição de gêneras, né?
+a gente vai se
+e já ir dando a hipótese noventa,
+então a gente não pode
+é
+colomer o tempo
+sempre a gente está
+muito muito longe,
+na nossa limite
+assim por cento
+de poder comer esse
+então por isso a gente
+cai
+o que não importa
+de baixo,
+né?
+a gente
+fala de gente
+a gente está hipótese noventa
+a gente aceita a hipótese
+alternativa
+que
+não há evidência
+é pra sugerir
+que a
+de vengência
+em seria um livro de
+educação mais alto
+peinendo mais alto
+para o zoom mesmo
+né?
+a estatística tem
+a gente tem três
+probabilidades, né?
+então
+é...
+cri...
+então aqui
+em uma comparação de
+meides, né?
+então aqui a gente
+quer pegar
+meides ao uns
+em uma prova de
+freinça a tenta
+bem simples
+a gente tem aqui um
+conjunto de notas
+três, quatro, cinco,
+seis, sete, oito,
+nove, dez notas
+a gente quer
+fazer uma
+eferência
+que é essa média
+ela é diferente de
+satenta, né?
+Então, quando
+está falando de
+diferente,
+está falando de bicarodal
+pode ficar
+então
+para cá o tanto
+para cá
+aqui o nosso nível de significação
+é 95%
+então
+é
+pode ser menor
+então
+para cá o para cá
+e aqui a gente vai fazer
+a estatística
+para uma mostra, não
+a estatística
+o ensemble, né?
+a gente
+jogo pop-in
+né?
+a média
+potética
+na
+média
+pouco lação
+na escasa
+e as notas
+a gente passa por uma lista
+direto para cá no primeiro
+parâmetro
+e ele vai gerar
+uma estatística
+ter de 0.90
+bem alta, né?
+e um valor
+pede 0.39
+então aqui a gente
+não consegue
+não tem evidência
+suficiente para
+concluir
+que essa média
+é diferente de satenta
+que se a gente
+forhar aqui
+também próximo
+de satenta na
+câmeraagem
+então a gente
+está bem
+estante de poder
+firmar isso
+e que a gente
+rejeita
+a nossa hipóxima
+no
+a média
+não é
+não consegue
+falar
+que a gente
+se é
+tempo
+porque
+ela cai
+aqui na imposa
+alternativa
+a gente
+taria
+cometer
+não é
+o erlin
+provavelmente
+quarenta
+por centas vezes
+e quando
+a gente vê
+aqui pelo valor
+pede 0.39
+o outro caso aqui
+comparando
+duas amostras
+aqui a gente vai
+verificar
+duas amostras
+independentes
+para verificar
+essa relação
+significativamente
+diferente
+a gente tem
+que a média
+dos alunos
+que estum não é
+dele
+que é comparar
+e com a média
+de anos que tudo
+é presencial
+aqui o tempo
+dos listas de notas
+dos alunos
+e a delusão
+e
+então aqui o boto
+ttx
+do aluno
+então
+aqui inclusive
+eu tenho menos de
+tempo
+menos de
+tempo
+a amostras
+é um
+escarzo que a gente
+usa o
+tt
+além dos
+cascantes
+não tem
+a média
+popular
+no
+nesse caso
+que a gente
+tem
+mas como a gente tem
+menos de
+intervalos
+a gente vai usar
+um
+ptx
+e não
+é o tx
+z
+então
+como a gente
+só tem
+cinco
+notos
+a gente não consegue
+fazer o tx
+e é por isso que a gente
+tem
+que o tx
+tem
+e o do
+para comparar essas duas mais
+e aqui
+ou
+não foi dizer
+0.05
+o nível de significar esse padrão
+é
+aqui
+é a diferença significativa entre
+os dois grupos
+as nossas do pessoal
+é a delação
+bem maior
+e a gente
+foi ver aqui
+e a delação bem maior
+é um nível de a gente conseguir falar
+que a probabilidade de identidade
+está errado
+é de 0.00
+os anos
+7%
+ou seja
+desse grupo
+nosso presencial
+ele
+está bem
+ser um valor extremo
+no grupo dele
+não é muito provavelmente
+então por isso a gente
+está bem provável
+de
+de estar certo
+no caso aqui
+como o nosso valor
+p
+para errar na hipótese
+nula
+ele é bem baixo
+então aqui a gente
+consegue
+sim concluir
+que a gente
+é um
+de catifelidades
+mais
+a favor das notas
+é b
+e a gente falou
+também o teste
+ter parado
+ele é para antes
+e depois de um evento
+então aqui a gente tem, por exemplo,
+a medicação x
+ela reduza a pressão arterial
+dos pacientes depois
+tratamenta
+então aqui a gente tem
+cinco
+pressões
+monitoradas
+antes e cinco pressões
+monitoradas depois
+nossa mostra que também é de
+cinco
+por isso a gente não pode
+comparar esses duas mais
+usando o teste
+e então já que a nossa
+média é muito pequena
+nossa mostra é muito pequena
+para usar
+o Z
+já que o nosso NFC
+seria muito baixo
+no Z
+quando a gente
+lembra que o Z é um dos parâmetros
+do oennion
+para no Z
+mas a gente botar um
+cinco
+o Z ficaria muito grande
+ou muito baixo
+em qualquer coisa
+é por isso que a gente usa
+o teste individual
+porque aqui a gente não tem
+a gente tá só comparando com a
+média
+e aqui a gente tá comparando
+o prana
+nas redes, no caso a gente tá
+comparando a média de um
+coto
+ptx
+é o rio da gente chama
+aqui
+mas o ttx pariado
+e aqui a gente
+tá comparando o evento
+antes depois
+na pressão antes e depois
+tratamento
+aqui, aumenticamente
+e assim que ele foi ter inclusive
+o teste de avaldação de medicamentos
+da vacina, por exemplo
+então foi feito tudo isso
+foi vacinado no mundo de pessoas
+e elas são estavam as pessoas no mundo
+viam quando se afectavam
+com esse não infectavam
+comparavam o grupo que tomava assim no grupo
+porque tomou o placer
+aqui seria no caso de medicamento
+para pressão, a pressão das pessoas antes
+e a pressão das pessoas depois
+eu teria que dar para
+fazer um teste mais precisando
+dar um
+placer de pro grupo
+e não verificasse não
+também não houvesse
+essa redução para algum
+fator natural
+ou enfim, fator
+uma só choo a casa do lado
+por tipo
+então
+aqui a pressão caiu
+naquele tipo de vente
+vê claramente
+140%
+trinta e centra
+entre 2, 38, 48, 48, 48, 48
+para 23, 48, 48, 48,
+para 29
+mas será que eu suficiente
+para a gente afirma
+que ouve mesmo a queda?
+Então essa dúvida que a gente fica
+fazendo na análise
+será que a nossa análise
+é suficiente para a interface
+e o que o teste de pode ser
+isso né?
+faz isso
+então aqui o ele botou um alfo
+de 0.05
+e o alfo de 0.05
+ele é bem menor
+do que o valor pede
+scoopa de 0.04
+ele é bem menor
+do que o alfo de 0.05
+então a gente estaria
+achando a gente comitou o erro
+nesta nossa previsão aqui
+de alfalar que a gente
+rejeita e pode ser
+o que a gente tem de entrar
+em nossa probabilidade
+de comitou muito
+muito baixo
+porque assim uma relação
+clara entre os dois
+dois eventos
+entre redução
+da pressão arterial
+e o ois de depois do medicamento
+então aqui a gente está falando de comparar
+por exemplo também
+variáveis catagóricas
+mas aqui a gente pode comparar
+as medias de duas variáveis catagóricas
+aqui a gente tem
+medias
+medias no período
+e medias no período
+dois
+e aqui também
+ele quer comparar
+se a diferença de produtividade
+nos metos do sobre
+três metos de g trata
+trinamente diferentes
+né
+aqui
+ele tem duas
+duas cúvas de vendas
+né
+no período 1
+e no período 2
+ele quer comparar
+se o vivoreação
+nessas
+duas cúvas
+para passar para a nova
+a gente tem que falar da estatha de
+descerrefe
+a estatha de descerrefe
+ela a uma estatha de descerrefe
+ficar a varência
+entre grupos
+na entre o grupo a contra o grupo B
+comparando
+se o vivoreação
+se dentro do grupo A
+e dentro do grupo B
+uma é a
+é a
+grande basicamente
+iria a
+a varência
+entre os grupos na
+varência do grupo A
+o grupo B
+ela é muito grande relação
+a variação
+dentro do grupo A
+e dentro do grupo B
+logo
+ou ver uma diferença
+a uma diferença significativa
+entre as mais
+dois dois grupos
+quando a gente olha aqui na imagem
+é mais claro de entender
+são dois
+dois variações que ocorrem
+a variação
+entre os grupos que é
+essa aqui na
+a gente pode ver que pela moda
+essa aqui vai ser sempre
+a variação entre
+entre os grupos
+quando a gente pega o
+pico de um
+e copar a poupica de
+outro
+a variação
+dentro de cada grupo
+é basicamente a distância
+desse grupo para média
+então é isso aqui
+a distância dele
+para média dele
+sem folhar aqui ó
+a distância dele
+para média dele
+e aqui a distância dele para o média dele
+um grupo pode ter
+uma variação muito
+baixa dentro dele
+e um outro tem uma variação
+muito grande dentro dele
+então essa vai ser a variação
+entre os grupos
+e essa vai ser a variação
+dentro do grupo
+aqui o grupo
+esse primeiro grupo vai ter
+uma variação
+em terra muito menor
+do que esse segundo grupo
+que vai ter uma variação
+em terra muito maior
+e ele sai para acomparar
+mais quando o grupo tem uma variação
+em terra muito grande
+a média dele não é tão
+fidezigna
+igual um grupo que tem uma
+variação em terra muito baixa
+essa não lembra
+quando a gente
+pegar
+a população
+a gente tem que ter
+uma média bem próxima ali
+a uma região bem próxima da média
+de pente conseguir afirmar
+com o
+e com a fiasa
+então aqui a produtica
+e
+eu acho que eu tinha caído no pessoal
+agora para voltar
+quase fechando aqui a acabar
+a gente fizesse
+mas
+para fechar então
+aqui a gente tem basicamente
+não está este
+a nova que a gente chama de One Way
+e
+não candei
+ele não compa a espelha
+ele tá
+acho que é difícil
+aí
+então agora assim fechando
+aqui só
+então fechando aqui a gente está
+de comparar diferentes categorias
+operando aqui a variável
+categorica na região tradicional
+um a nível
+eu tenho dentro das categorias diferentes
+médios de produtividade
+então eu comparar dos agrupamentos
+dos regímes de produtividade
+né que eu vou botar
+as três não passo que os três parantes
+dentro da nova ou eu posso passar também
+dentro de uma lista no pé problema
+mas o fuma é
+basicamente a mesma coisa com a nova
+né um homem diferente para o teste
+mas aqui em breve com as com a nova também
+e ele tem traz que nem a gente falou
+está descalído então quando foi a
+está descalído vai ter uma variação grande
+e vai ter um pé mais alto também
+então nesse caso aqui a gente tem um valor
+pede 0.16
+como o 0.16
+ele
+bem maior do que o alfo
+aqui a gente não consegue
+rejectar e pôs simulante
+não tem evidência para falar que tem
+diferentes dentro desses grupos ou seja
+não consegue falar
+que o tradicional a diferente do
+online o que o online a gente
+do vivo do o que o iB da
+diferente do tradicional não é
+ou seja dentro dos três grupos a
+gente não consegue falar que a
+diferença entre eles não
+necessariamente um específico
+mas entre no total
+entre os eles entre si
+e aqui isso acontece da pra ver que
+olhando aqui de cara da flacricção bem
+próximos mas com o teste a nova a gente
+consegue provar isso né
+que não há essa diferença
+e aqui a gente tá ali cometendo
+uma probabilidade de 0.16% de
+de errar se a gente estiver
+se falar no pressão iguais
+isso é muito maior do que o nosso
+nível de significação
+essa é a cita que é de 5%
+então no fim das contas esse é toda
+ideia da gente que pode se
+aparece e bem complexa
+mas no fim das contas é só
+comparar as médias comparar valores
+e tentar provar
+está tísticamente a partir de
+testes comprovadas e validadas na
+estatística que o que a gente está falando
+é correto
+então o que o que a gente tá analisando
+a rica a gente tá vendo na tela
+correto então não se preocupe
+em pessoal próximo se dá a
+me estar fazendo mostras de
+pontos de anos projetos
+e ter próximo a gente vai
+partir
+é para fazer no tipo que fazer
+várias validações de
+diferentes testes de pontos
+dentro de notebooks que a gente
+já trabalha e as coisas vão ficar
+mais mais claras né mas
+é um pouquinho confuso realmente
+está bagaando a gente pode
+se mais depois tudo fica mais
+fácil
+e pessoal que estava vendo a
+relação chegou a até agora
+para a bem se eu estifando as
+aos mais longos realmente
+é muito conteúdo
+mas a partir do da loque
+bem no próximo laboratório
+na lootade que a gente vai
+seguir botar muita coisa na
+prática
+então
+por hoje é só só
+valeu pessoal boa noite
+até a próxima

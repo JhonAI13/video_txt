@@ -1,0 +1,1072 @@
+Gravando, certinho. Bom pessoal.
+Muito prazer estar com vocês hoje.
+E sejam todos muito bem-vindo, seu sou ouga.
+Eu seria a mentora de dormirmos de vocês, de análise e ciência de dados.
+Estamos começando hoje.
+E nessa reunião que vai durar mais ou menos uma orinha,
+é vou explicar tudo sobre nosso curso,
+nosso bootcamp, como funciona.
+Respondéssito, desde vocês.
+Tá bom? Então, vou hora começar.
+Não se introdução aqui, quem quiser por favor manter a câmera ligada.
+E me cronvone, desligado também, né?
+Pra ele estar assim, barulhos externos.
+Mas se você quiser comentar alguma coisa,
+por favor, fique a vontade da pra levantar o meu mandaço,
+ou do vio no chat.
+A gente vai ter também no final um tempo em ir pra tirar essas dúvidas de vocês,
+mas também dá pra conversar ao longo dessa nossa reunião.
+Tá bom?
+Amanhã, essa reunião será já disponível para quem quiser assistir novamente.
+Eu vou compartilhar com vocês o link no Discord, né?
+Quem não entrou no Discord, vou também explicar hoje como finalizar esse processo.
+Tá bom? Vamos conversar sobre o plataforma, tudo mais.
+Então, eu desejo uma boa reunião pra todos nós.
+Vamos para nossa agenda.
+Vou apresentar para vocês, não sei que ping,
+o pessoal que vai cuidar de vocês ao longo desses meses.
+É nosso processo educacional, medo dos de aprendizagem,
+curso de preparação de carreira.
+E claro, dicas de sucesso e nossos próximos passos, a partir de hoje.
+Com a opção, não sei que peda tripodém.
+Temos o Manolo.
+Ele é o nosso gerente de experiência de aluno.
+Eu sou a mentor da turma de vocês.
+Então, eu cuido da parte de administrativa do curso.
+E estou aqui pra ajudar se no geral o que for necessário.
+Então, a gente vai também conversar bastante quase todos os dias.
+Temos com a gente também presente nos tutores,
+estrutura e gerente de sucesso de carreira.
+Pessoal, se quiser se apresentar alguém, a Nil, Tom Alvaro, o seu favor.
+Bom, boa noite.
+A todo mundo é muito legal.
+Está aqui com vocês.
+Mais uma toma com uma comissão.
+Sempre muito impolgante, né?
+Com essa toma turma nova.
+Veja que o pessoal parece que está animado.
+Então, a pessoa já ligando a câmera, então, legal demais.
+Vocês vão ainda ver qual vai ser o meu papel, né?
+Na durante o curso de vocês.
+Mas a gente já possa te entrar aqui.
+A gente vai estar juntos aí muito durante o curso.
+Então, vamos nos ver aí bastante.
+Acho que vocês vão canção um pouquinho da minha voz.
+Mas, que isso é dizer pra vocês que, bom, primeiro bem-vindos aí,
+eu atribotendo.
+Conta em comigo, dá.
+E eu papel na verdade, ajudava vocês.
+Então, se vocês fecharem o curso, para mim é um sucesso.
+Você entra em área.
+É um sucesso maior ainda.
+Esse é meu principal objetivo.
+Então, ao longo do curso aí, meu objetivo é integrar o conteúdo que vocês estão
+ouvindo com o mercado.
+Então, vou tentar passar ao máximo que ter acontecido na industria dos últimos tempos.
+Sim, clicar os conselhos, né?
+Ententar ajudar em vocês da melhor forma possível.
+Então, quanto em comigo, eu tô aqui desde para ajudar
+pessoas a fazer o TCCFaculdade até passar no próprio curso.
+Então, não tem um vergonha de manifestar, né?
+De tirar dúvida e de me chamar aí pra qualquer coisa.
+Beleza?
+Bom, prazer aí com esse é vocês.
+Eu tô disponível no Discord.
+Novamente, vocês vão já ter acesso aos canais e tudo mais.
+A gente vai se interagir por lá.
+Então, quem quiser mandar um alôlan dos códigos,
+já tá com alguma dúvida, que é tirar alguma dúvida comigo.
+Já fiquem a vontade, beleza?
+Então, isso gente, prazer zam aí com esse é vocês.
+E eu sou o Alvaro, prazer normalizar com vocês nesse começo de curso.
+Já foi um aluno de bootcamp também.
+Então, não tô talvez no mesmo lugar aqui, vocês, mas já passei por um post-bootcamp.
+Me senti, senti esse frio na barreira de tá começando.
+Já fiquei nervoso no meio.
+E até hoje, fica nervoso, quando tem que aprender alguma coisa nova.
+Também, mas acho esse processo muito prazeroso.
+Tô com vocês também pra acompanhar todo esse processo.
+Junto com o aluno, então a gente tem um papel é um pouquinho diferente,
+mas o objetivo é o mesmo, que vocês aprendam bem, aprendam um gostoso,
+se divir, então, quando estão fazendo com isso,
+e guardem essa experiência pra vocês.
+É muito legal passar por isso.
+Eu aluniu, Tom, Aluiza, Aloga e uma no utama que pra ajudar vocês a passar por isso.
+E a gente conta também quando é de cação de vocês.
+Aproveita e mesmo, interagem ao mesmo.
+Pode pegar a vergonha que vocês algum dia se sentiram na vida e deixar fora dessas seções,
+porque não vai ajudar em nada aqui.
+O que vai ajudar muito é muito curiosidade, muito a vontade de aprender,
+muito interesse, muito a vontade de fazer a ponta esse mesmo.
+Adoro conversar sobre as experiências que eu já tive,
+sobre toda essa parte de data science, minha empolga demais,
+e de análise de dados também.
+Então, se quem é vontade pra entrar em contato comigo também,
+a parte de agora já aproveita muito, muito, muito mesmo.
+E se você avontar de procurar cada um de nós pra tornar essa experiência só dar.
+Por falta de uma palavra melhor.
+Valeu.
+E pra crana, Aluiza, esse gostarendo de acrescentar alguma coisa da safátia,
+então, um bom dia vai atrás de uma noite a todos que nos assistem,
+hoje do Zoi do Quapha, do Sol que está em áreas.
+Eu tenho pra hoje, gente, estava com a mesa, a da parada, mas resalhando aqui entre a noite daqui a pouco.
+Nunca eu vi ao Procapelois, ao vivo, parece muito com a meio do meu cara de verdade.
+Agora, realmente, sim, cristra, realmente parece muito mais infito.
+E doito que tal conta todo o visto, o algo gostei da pessoa.
+Bom, soluz a cor, já sou gerenci e se acessar a sua carreira que dá que portene.
+Se vocês têm contato comigo desde o momento 1, bem-vindado de vocês,
+onde vocês podem assistir a exávida de carreira, então, faz a voz ao vivo,
+segundo a sextas, segundo a federal hoje de carreira,
+vocês podem trazer dúvidas, o que vocês quiserem,
+se isso é feira com que o programa é tipo de habilidades com o complementar.
+No meu morário, tudo que foi feito pra crastar, grava,
+vocês têm acesso a tudo linda de maravilhoso caso queiram,
+mas dos sópices que especificamente resalhando, que em algum momento de mais barra,
+junto com essa regravar, e aí tem um conteúdo mais bonitinho.
+Quando eu fico a primeira vez, eu tava faz uma propótica,
+que bom que deu certo, mas agora tem que ficar numa versão educacional,
+padrão formal, essas coisas sim, né? Mas enfim, vou fazer um resumão do que
+a gente tem como o produto serviço, e tudo mais, da área de carreiras,
+eu sei que tem que ir lá, em desíduos momentos pra vocês,
+os vimleres e gravarem isso, mas vou dar um overview pra vocês aqui sobre o que
+tem a gente produzir esses naros que havia. Bom,
+o primeiro produto que vocês tenham acesso ao que eu estou falando em relação aos
+encontros que vocês podem ter acesso, vão vou ratificar todas as pessoas
+em todos os níveis, de todos os cursos podem participar das alas de carreira e desalas do sópice.
+Desde o momento, um até de que formada, depois de um anime, e tal,
+também tem gente assistindo até o que a esalda do sópice, todo mundo também,
+pode participar qualquer momento, sem do, algo. Bom, sei, seja sempre muito bem abraçado,
+bem vindo, e bem vindo a tudo que a área de carreira pode oferecer. Então,
+esse é o primeiro produto que vocês podem ter acesso desde o momento.
+Quando vocês atizem, se você é 100% do curso de carreira,
+do discupado do curso de vocês ajudados, seja a na área de cê-ja,
+cê-ja, você são com os dados econvidados, e aí quando você chegar
+nessa tapa, já vai tal, tomate, nada para a forma,
+a parte supada o curso de preparação de carreira. Ele não é obrigatório.
+Claro, se você pensa em peixe-me, a maneira que a gente é o povo cheguere.
+O obrigatório, a maneira que a gente se é a nossa política,
+se você não considera, entre depois de seis meses, depois, todo a parte de o curso de carreira.
+Você tem direito ao seu dinheiro de um...
+de volta, fazendo o tudo bonitinho, seguindo todos os tempos,
+as qual a aula eu vou ser teria direito caso não consideri sempre.
+Todo mundo que faz o faço todo bonitinho,
+a grande maioria das vezes, acho que no mundo consegue,
+isso é o que eu nem podia, seu funcionário,
+e aí ele dura três semanas para vocês vão durar três semanas,
+está mais curto, mais estratégico, já focado a estratégia de esconílio,
+melhores práticas de corrítico, o linker de ingue, de rub,
+cartas de apresandação, tem um ano-o-o-o-o-o comigo,
+aí, beleza, vocês formaram o curso de vocês, dados,
+e acabaram o CPC, né?
+Os preparações, podem acabar durante,
+você, o curso de dados, ou talvez você não consigo,
+não deu para conciliar,
+vocês têm 15 dias depois de formar, para acabar o curso de...
+o curso de carreira, com entregáveis e tudo mais.
+Aí, se ainda vocês podem ser confidados e confidados,
+ao programa de aceleração de carreira,
+perceba a parte, o produto, talvez,
+do centro de carreira, no qual lá vocês terão várias,
+ou é, ver os vários o ano-o-o-o-o-o-o,
+você pode intervista,
+simulada técnica, entrevista, simulada de regar,
+são fortemente indicados, quase que obriga,
+aparemente, tá? A parte se parêndia raca,
+são maratona, é onde eu junto,
+pessoas de todas as áreas dos cursos,
+para entregar a solução de um desafio pro posto,
+porque eu faço isso, isso aumenta muito entregar a habilidade de você,
+e deixe um vocês tindo com um projeto,
+o mais próximo da realidade possível,
+vale bastante afena,
+também normalmente acontece na aceleração de carreira,
+fora todos os outros eventos possíveis,
+o e-e na receita do mais,
+e eu acompanhamento de vocês,
+que, em geralmente, de aplicação de vago,
+como tudo está acontecendo.
+E, em geral, esses são os produtos,
+esses são serviços.
+Eu estou sempre disponível no Discord,
+e se mandarem uma saçada do do mesmo falaco,
+todo sempre disponível,
+é, se as mães se pio na mensagem,
+ou se não se manda a feita.
+E, na hora da conversa,
+todo sempre disponível no Discord,
+e, sento sempre muito bem vindos e bem vindos,
+vocês têm um novo desafio pela frente,
+muitas coisas aprendem,
+uma coisa aprendem a cadeia,
+ou ficar acabando branco,
+mas se vocês realmente definiram
+como objetivo que vocês querem trabalhar com dados,
+não foi só um achismo,
+não foi só para ganhar mais dinheiro,
+ou seja, eu opto for,
+vocês conseguem acabar assim,
+vocês conseguem improve vocês,
+a gente tem histórias de sucesso,
+e eu gostaria que vocês inspirassem
+desde um momento um,
+que ninguém vai trazer por vocês.
+Se vocês não definerem objetivo de vocês,
+porque vocês querem e,
+e eu estrando os e barróngulos com preciso.
+Aí, aí, aí, aí, eu trein o trein,
+ou trein, ou lá.
+Vocês estão em um namão,
+o que, ao ver o, é, a primeira vez que eu tenho acesso,
+mas ali eu contigo, já tiga acesso várias vezes,
+rádio,
+eu logia os até cansáfrecios,
+e não só só eu,
+meu digníssimo,
+a voz do além,
+vocês nas mesavas mantis que eu bricam a voz do além,
+e a voz do além,
+e a meu digníssimo,
+namorado,
+marido que foi a lúnica,
+de um alífrica,
+também rádio que assim,
+uma lista de grandes,
+de,
+de a logística,
+na minha conclusão,
+se vocês estão em boa esmãos,
+mas, ali,
+eu não faz projeto para vocês,
+não passe o entrevista,
+a da dícica,
+ensinar fazer projeto,
+da bronca,
+enfim,
+vocês estão bem amparados,
+com todas as contas,
+por vocês,
+às mais nada,
+os passam melhor de vocês,
+que o objetivo,
+falou ali,
+e a gente tá aqui pra,
+da bronca,
+chorar,
+e,
+e cantar a vitória,
+e a química a química,
+e a química,
+também,
+de ver que não quando é bom.
+Sendo o super bem-vindas,
+deixa aia aqui,
+e o boca da oc final,
+um beijo aqui,
+e uma boa etapa,
+mas,
+bem de pra vocês,
+nem,
+fio,
+fio,
+fio,
+e aí...
+e aí,
+e aí,
+e aí,
+e aí,
+e aí,
+mas,
+como entra em contato. Primeiro vocês todos têm esse chat de supporte na plataforma do curso.
+Ou também vocês conseguem entrar com o contato com a gente de supporte através do email
+www.realmear.com.
+O pessoal atende das nove da manhã até nove horas da noite ou hora de Brasil.
+E também, claro, vocês podem sempre me chamar no Discord.
+Vocês vão ver esse meu nickname, né, ouga dias.
+Sou eu que posto e formações normalmente sobre a parte de organizacional do nosso curso.
+Então, fique vontade para me enviar mensagem no privado ou marcar também nos comentários
+de algum post caso vocês tiveram algumas dúvidas, os distões perguntas, tá bom?
+Passando para parte de processo e educacional, vamos conversar com pouco sobre os modulos,
+os prinhos, capítulos, ilições, porque esses são os passos do nosso bootcamp, do nosso curso.
+A gente sempre fala que o professor de vocês será a própria plataforma da Tripolten.
+O conteúdo já está lá, 100% online disponível para vocês a qualquer momento.
+Agora vamos trabalhar com vocês sobre a sprint número 1.
+Mas, fique entre aqueles que são usais aqui, peda Tripolten, vamos auxiliar vocês ao longo dessa
+jornada, tá no caso de dúvidas, no caso de dificuldade, que é super normal, né, a gente
+todos sabemos que esse caminho de aprendizagem não é fácil, né, porém, quando você não
+está sozinho, o processo vai fluir bem melhor.
+Então, pessoal, aqui, o Nessus Light, eu trouxe, cronograma, fluxo de aprendizagem do curso,
+análise de dados, como podem ver, tem vários modulos, né, um, um, dois e três, vários
+prestas também.
+E dentro de cada sprint, a gente vai ter, lições, exercícios, capítulos, aqui vocês precisam
+fazer, né, na própria plataforma, temos também prazos para início e final de cada
+sprint, vocês podem ver que eles duram de duas a três semanas normalmente.
+Eu sempre vou avisar para vocês os prazos, mas também e vita em por favor, geral, uns
+atrasos significativos, porque nesse caso vai ser cada vez mais difícil ao cansar o resto
+da turma.
+Então, é sempre importante e interessante, termente, data de início e, de final, de cada
+muda-lo, de cada sprint.
+É também interessante saber que vocês vão ter duas semanas de descanso, depois do mundo
+1 e depois do mundo 2.
+Então, vai ter duas pausas de descanso para cada turma, cada curso, nesses lá, de aqui,
+temos fluxo de cência de dados.
+É um curso um pouco mais longo, ele vai durar 9 meses enquanto analis de dados edicete meses.
+Tá bom, mas a princípio é a mesma coisa, também temos os vários modos, os printes.
+Tá bom, aqui vocês também conseguem ver os temas que a gente vai abordar de cada sprint.
+Se alguém tiver alguma dúvida, alguma pergunta, fique a vontade de perguntar agora, ou se
+precisa deixar para depois, ou se está tudo ok, a gente pode seguir.
+Tá, tudo certo.
+Passando aqui pessoal, uma parte importante, também é sobre os sobre os projetos.
+No final de cada sprint, vocês vão ter que elaborar o projeto, cada um de vocês,
+está bom.
+Esses projetos depois foram parte de portfolio profissional de vocês.
+Então, por isso, a gente sempre recomenda caprichar, fazer o seu melhor para entregar o projeto.
+Então, como que funciona assim na prática?
+Durante primeira e segundo semana vocês vão trabalhar na parte histórica do curso.
+Ou seja, vão fazer exercícios na plataforma, aprendendo a teoria.
+Vocês não precisam baixar nenhum programa ou procurar matérias fora, porque tudo que vocês
+não precisaram já está no curso, não é a própria plataforma da tripletem.
+E depois na terceira semana, a gente recomenda iniciar o trabalho sobre o projeto.
+Aquele que sempre finaliza cada sprint.
+Depois que o projeto estiver pronto, vocês enviam ele para revisão.
+E como será feita a revisão?
+Revisão será feita sempre pelo nosso equipe de revisores.
+Então, vocês podem aguardar um feedback no máximo, 40 tos.
+Muitas vezes vocês vão receber o feedback bem antes.
+O revisor será sempre atribuído de uma forma a laatória.
+O projeto pode ser aceito de primeira.
+E vocês vão passar para a próxima parte do curso.
+Ou se precisar fazer algumas corissões, o projeto será devolvido com os comentários do revisor.
+Super normal também, isso pode acontecer.
+Mas, mesmo assim, a gente sempre recomenda, que apreixando primeiro o vio para já seguir
+para frente.
+De qualquer forma, vocês vão ter a apoio da nossa equipe de tutora, instrutor.
+Caso precisarem a ajuda com o projeto ou estiver em dúvida com a parte tônica.
+Bom, aqui também troce esse passo a passo, como funciona o projeto, o louco se eu de revisão mesmo.
+Então, passando para a próxima esprete, vocês vão, assim, seguindo no sprint de a
+postprete, também respeitando as datas de início e de final do, de cada sprint,
+é o nosso cronograma.
+Também vou passar para vocês e formação importante sobre a licença acadêmica.
+E que é isso?
+A durante o curso, o aluno pode solicitar uma pausa no trancamento que chamamos de licença acadêmica.
+Essa pausa pode durar uma mesa até o mês, normalmente.
+E eu uma opção de último caso, tá, pessoal?
+Porque nesse caso, vocês serão alocados na outra enturma e a formação de vocês vai ser,
+assim, outra data em outro momento.
+Se estão conseguindo ver minha tela.
+Ops.
+Travo, logo.
+Tchau, dado uma travada.
+E agora, se tudo trocou, o slide então não dá para ver.
+Estou agora, agora.
+Agora voltou, né?
+Sim, tá bom, pessoal.
+Beleza.
+Então, eu estou falando sobre a nossa licença acadêmica, pessoal.
+E vocês conseguiu usar essa pausa no máximo duas vezes durante o curso.
+Interessante saber que vocês serão alocados, então, na próxima turma existente, tá?
+Assim que finalizar essa pausa, o fluxo de pagamentos é mantido também.
+E sobre mais detalhes, a gente sempre recomenda acessar no sistema de uso.
+Eu passei aqui o link para vocês.
+E também vocês conseguem verificar os termos abrindo através de código que ele,
+que estão vendo na plataforma.
+Tá sempre interessante acessar a termos de uso para ver regras,
+e tudo mais, tá tem bastante informação importante,
+que a gente segue, tá, nossas instruções.
+Também pessoal, vou passar para vocês algumas regras importantes.
+A referente alocês só porta a forma de estudos.
+Então, acessam, ele será automaticamente fechado.
+No caso de falta de acês só porta a forma de estudos por duas semanas consecutivas.
+Falta de pagamento de imensalidade.
+E no caso de falta das graves, tá?
+A gente totalmente contra o clágio, não dá para compartilhar seu trabalho com os alunos.
+Então, por favor, ficar atentos.
+E também, não perseguia a sediante medalcos alunos ou membros da equipe, tá?
+Nunca aconteceu mais a gente, mesmo assim, passa essa informação.
+É, a obra o professor, você gostaria de acrescentar alguma coisa.
+Claro, claro.
+Pode falar.
+Ah, mas eu não posso compar, eu não posso compar chamar o trabalho,
+que eu decono posso ajudar o da pessoa.
+Estão duas coisas bem diferentes, tá?
+Eu e o anilto, uma gente tá aqui, para ajudar.
+E uma das cações que rola, que é que rola comigo,
+é uma cação que chama de colar em aprendizados junto.
+A ideia dessa cação, a Olga vai explicar mais para frente um pouco,
+mas só para...
+E às vezes, parece que essas regras são muito...
+Sabido, gravado em pedra e não pode mudar nada, e são meio chatas.
+Mas é que a ideia é só assim.
+Pô, se tá pagando para aprender, outra pessoa tá pagando para aprender,
+todo mundo tá adulto aqui.
+Não vai dar um trabalho para o seu copiar igual.
+Aprendi, estimulo, aprendizado.
+Na acessões de color em acontece em todo dia de manhã e a noite,
+a noite comigo.
+E nessa exceção a gente se junta para ajudar,
+para discutir, para conversar, para estimular o aprendizado.
+Então, eu vou poder deixar claro que oportunidades de aprender em conjunto.
+E de se ajudar, existem.
+E são super legais, não te visto, né, porque eu fiz boticâmico,
+que era muito atrai.
+É só uma questão aqui de tipo assim,
+não...
+Judimente, de novo, vai evitar plágio, vai evitar que...
+Ah, se fez um trabalho legal e algum pessoa só copiu aí color?
+Não, vamos aprender junto, galera.
+Tamo aqui para aprender, é massa, é gostoso.
+Vocês vão achar isso, o importante, só na frente.
+Beleza?
+É isso aí, Alvaro, muito obrigado pela seu comentário.
+Bom, pessoal, para o seguinte aqui,
+vou falar um pouco sobre a nossa plataforma,
+o Discord, e do estudante e calendário também.
+Então, primeiro, vamos dar uma olhada na plataforma de estudos,
+que é um nosso grande professor,
+e onde vocês vão achar o conteúdo do curso inteiro.
+Então, vocês já fizeram cada astron certo,
+estão já assessando a plataforma, a parte introduitoria do curso,
+que ainda não finalizou esse processo,
+temos aqui um passo a passo,
+então, primeiro, vocês precisam acessar o site,
+triple-tencom, PTB-A,
+e escolher o curso de vocês.
+Pode ser analcededados ou ciência de dados.
+E vocês serão jogados na outra, a boa, outra página,
+para fazer login,
+colocando o login e a senha,
+ou fazer aquele cadastro,
+quando a gente colocou nosso email,
+e inventa a senha que vamos usar,
+vocês vão ter acesso a parte do curso,
+vocês vão ver o cada modulo,
+todas todas as informações.
+Os prínstos, no meudo, os três,
+e, em diante, vão ficar com o cadadinho no momento,
+porque a gente está agora trabalhando na primeira sprint.
+Então, isso é feito para,
+assim, não atrapalhar o processo de vocês,
+então, vamos focar agora na sprint número 1,
+que é parte um básico.
+Agora, falando sobre o Discord,
+a gente fala muito sobre ele,
+porque eu não sou meio principal de comunicação com os alunos.
+A gente atende também vocês através do email,
+mas isso é, mais para os alunos,
+que ainda vão começar,
+naturalmente, nas turmas futuras.
+Quem já está fazendo as prínstas,
+já está seguindo a agenda,
+e tudo mais, a gente prefere falar no Discord,
+mais prático,
+vocês vão receber ajuda da nossa tina,
+também no Discord,
+você comunicar comigo com o albro,
+qual o isa, tudo no Discord.
+E vocês já estão fazendo parte dos canais,
+cada um de vocês,
+está fazendo parte do canal infô,
+onde eu,
+como um mintora, eu vou postar informações importantes sobre
+nossa agenda,
+há risos sobre os prazos,
+lembretes,
+tudo mais,
+os links importantes,
+assim, vocês nunca vão ficar perdidos,
+também no canal comim,
+se eu já percebeiro,
+eu não sou o canal de bate-papo,
+de passar uns links interessantes,
+de caslegagem, aprendizagem,
+momentos de como é moração,
+sabe?
+Vocês também fique a vontade
+para se apresentar no canal comim,
+e o canal de apoio de,
+para a gente relaxa mesmo,
+porque não é só de estudo que a gente vive,
+o canal de projeto,
+o producteno,
+vocês vão utilizar mais para frente,
+quando vão começar trabalhar sobre o projeto,
+mas neste canal a gente acostuma postar
+as dúvidas sobre a parte de projetos.
+Agora, o platform contendata,
+é um canal importante
+para vocês enviarem dúvidas sobre a teoria,
+tá bom?
+Também vocês vão participar do canal Colourning Data,
+que é um canal onde o álbum vai fazer ceções,
+teoramente nos horários diferentes,
+que vou passar para vocês também,
+é um canal de voz,
+então vocês vão conseguir conversar,
+bater papo, compartilhar tela,
+tirar as dúvidas.
+Aqui uma pergunta no chat,
+tem grupo de WhatsApp para usá-los,
+não tem.
+Assim, a gente não costuma criar grupos no WhatsApp
+para os alunos,
+porque a comunicação aconteceu no Discord mesmo,
+então para não duplicar as informações,
+a gente não costuma usar o WhatsApp muito, pessoal.
+Tá bom?
+Então, por isso é importante,
+vocês baixarem o Discord no computador,
+no celular de vocês.
+Aqui nesse slide,
+eu trouxe o código que erre,
+assim, cada um vai conseguir baixar mesmo,
+para solar,
+porque a gente mexe no celular,
+bastante tempo durante o dia,
+se quiser estiver na edificação,
+então,
+já o afunção do canal infô,
+principalmente para mim,
+porque eu passo lá,
+informações sobre a nossa jornada,
+de segunda-feira,
+vocês vão receber,
+neste canal agenda,
+então eu vou explicar a esse dia,
+vai ter,
+vibernar,
+computador,
+está a hora,
+e vamos ter,
+a sessão de colore,
+em comestrutor.
+Então,
+importante,
+vocês acompanharem este canal
+para receber os avisos.
+Tá bom?
+Sobre os prazos,
+links de gravação
+de bebernar,
+tudo mais.
+Então,
+é um canal bem interessante
+para acompanhar,
+para seguir,
+tá?
+E também a gente fede,
+que vocês verifique os
+os canais no Discord,
+de era mente,
+né?
+Na伸ista seria um,
+um caso ideal,
+mas cada dois,
+três dias,
+é importante você se verificarem,
+porque eu também
+posso entrar em contato com vocês no
+deeme,
+para perguntar se está tudo certo,
+se você precisa de ajuda,
+ofereciar alguma solução personalizada,
+tudo isso é feito no Discord.
+Agora falando sobre o guia do estudante,
+eu vamos dizer,
+uma biblioteca,
+hoje a gente guarda informações importantes,
+por exemplo,
+neste canal,
+não é o canal,
+é um site do nochão,
+né?
+Hoje vamos guardar as gravações
+de todos os webinars,
+com o tutor,
+então o qual falou,
+ele fique a vontade,
+também de acessar,
+esse,
+em seguida do estudante,
+o link,
+já está disponível no canal infô.
+Lemmo,
+se você não está vendo o canal infô,
+eu acho que vou ter que verificar
+seu usuário,
+tá?
+Se você já está com a 6,
+então,
+se você pode me passar seu usuário,
+vou verificar para você,
+tá?
+E tão quem,
+agora consegue verificar também
+seu acesso,
+ao Discord,
+aos canais,
+por favor,
+faça um isso.
+É importante,
+a gente já alinhar tudo,
+a partir de hoje,
+tá?
+Pra ninguém tiver nenhuma dúvida.
+Então, pessoal falando do Guia do estudante,
+o link,
+para estigir,
+fica disponível no canal,
+e do mundo discord.
+Então, agora,
+neste momento,
+a gente está fazendo essa reunião,
+estamos gravando,
+ela.
+E assim que a gente finalizar,
+eu vou receber no meio,
+no meio,
+a gravação,
+tá?
+E vou disponibilizar essa gravação,
+pra vocês,
+nesse guia do estudante,
+amanhã de manhã,
+vocês já vão ver,
+essa gravação disponível para vocês.
+Tá bom?
+Vou avisar também no Discord.
+Falando sobre o calendário,
+pessoal, no assagenda,
+eu gostaria de chamar atenção de você,
+porque o calendário é super importante,
+não se rotina.
+Como sabe,
+isso é um bústicamp,
+então, esse significa que a gente
+tem prazo de início e de final,
+para cada sprint,
+é bem corrido,
+falando honestamente,
+o tem bastante conteúdo.
+Então, a gente precisa estudar,
+de acordo com os prazos suggeridos.
+Tá, pessoal?
+Então, por exemplo, agora,
+a gente começa a sprint um paito
+básico e já no dia 1 de maio,
+a gente vai finalizar essas prites.
+E no dia 2, vamos começar a segunda sprint.
+Tá bom?
+Então, falando sobre o calendário,
+como vocês conseguem visualizar
+nossa agenda, nossa rotina,
+na própria plataforma,
+da tripotem,
+na distilada se esquerdo,
+da plataforma,
+clicando na palavra calendário,
+vai abrir nossa agenda.
+Por exemplo,
+vocês estão vendo lá,
+onboarding,
+o reunião de boas vintas.
+E se você clicar nessa mensagem,
+nesse evento,
+vai já aparecer o link
+para participar.
+Por exemplo, daqui a pouco,
+eu vou falar sobre o VBNARC,
+Manaul Contutor,
+que vai acontecer toda terça-feira.
+Então, o link já está disponível
+para vocês neste calendário.
+Tá?
+Mas se que entrecunhas que no canal
+e eu vou falar sobre,
+vou lembrar para vocês sobre o VBNARC,
+passar o link também.
+Tá?
+Pessoas, estou vendo aqui,
+vocês me passando seus usuários.
+Eu estou notando para verificar
+daqui a pouco,
+que entreoculhas.
+A gente vai colocar vocês nos canais hoje mesmo.
+Passando agora parte de preparação de carreira.
+Bom, a Luisa já falou um pouco,
+no início.
+Vocês vão ter encontro semanas com ela.
+E também esses encontros ficam todos gravados.
+Vocês vão ter acesso a essa parte,
+que ainda conseguem participar.
+Também são encontros muito válidosos.
+É um ponto diferenciado da tripotem.
+Por favor, fica a vontade para participar ao vivo,
+ou assistir as carabações mais tarde.
+Bom,
+Luisa, você está por aqui?
+Não sei se é Luisa,
+está aqui, mais bom.
+Eu vou falar para vocês sobre nosso curso de preparação de carreira.
+Luisa já comentou que é um curso opcional.
+E vocês vão receber o convite para começar esse curso,
+assim que completarem 60% do curso principal de vocês.
+No caso,
+análise ou ciência de dados.
+Esse curso vai durar 5 semanas.
+Ele já está em curso no pacote de vocês.
+Não tem nenhum valor adicional.
+É só vocês precisam estudar agora,
+a parte principal do curso de análise de ciência de dados.
+Chegar 60% e bom conseguir ter acesso a curso de preparação de carreira.
+Que também é muito bacana.
+E a gente recomenda que vocês façam isso,
+porque vai acrescentar bastante na vida na carreira de cada um de vocês.
+Então,
+e depois de finalizar o curso de concluir o projeto final,
+cada um será convidado para programar a saleração de carreira.
+Também com a Luisa,
+então vamos agora ficar focados no curso principal,
+para depois aproveitar essa parte de carreira.
+Bom, pessoal.
+Dicas de sucesso, nos próximos passos, vamos agora ver como a gente vai conseguir
+encaixar os estudos no subúdiquempos na vida de cada um de vocês.
+A gente sabe que não é fácil,
+muitas pessoas trabalham,
+estuda, também tem família,
+tudo mais.
+Mas resumindo o botiquempos de análise,
+eu disse em cede dados,
+exigir dedicação de cerca 20 h de semana para o curso.
+O que dá, mais ou menos 4 h por dia.
+E a gente encomenda que vocês aproveitam os próximos dias,
+amanhã, final de semana,
+para se organizar e pensar como de acordo de
+vocês, do dia a dia de vocês, vocês vão fazer o curso.
+É bastante coisa, porém, com organização,
+constância e plano, plano em de ação, tudo é super possível,
+porque recapitolando a partir de hoje,
+a gente já precisa seguir por calendário
+e começar os estudos, começar a primeira sprint, que é
+paitombásico.
+Outra coisa, pessoal, por favor,
+sempre participem dos webinars com o tutor
+e das pessoas de complemento teórico,
+e colarning com o estrutur.
+Dá são os encontros que a gente faz uma vez por semana,
+são online, ao vivo,
+e é um grande diferencial da tripotem.
+Esses eventos são complementares,
+tá? A gente sabe que a plataforma é o nosso
+professor principal, porém esses eventos,
+ajuda bastante para tirar as dúvidas,
+para conhecer melhor a área de vocês,
+tá? Como os eventos serão gravados,
+quem não está no Brasil no momento, por exemplo,
+ou não consegue participar, por conta de outros compromissos.
+No dia seguinte, vocês vão conseguir ver a gravação
+hospedada no guia do estudante.
+Bom,
+eu quero também passar para vocês, nossa agenda semanal,
+fique tranquilos que toda essa informação,
+eu vou passar para vocês também no canal Info,
+Múdios Courts,
+toda a segunda feira, vocês vão receber a agenda
+com a atividade da semana.
+Mas já temos os dias definidos para o webinar
+que vai acontecer toda a terça feira,
+o eutora da noite horário de Brasilia.
+Então,
+isso significa que o primeiro webinar será no dia 23 de abril.
+A momento de colorne, com o instrutor,
+vou já partir de amanhã,
+é uma emcesta feira.
+Então, 5 e meia,
+a sete hora da noite horário de Brasilia,
+vocês vão ter um encontro com a Álvaro,
+no canal colorne.
+Então,
+é uma oportunidade muito bacana para tirar as dúvidas sobre a parte de teórica,
+como falei vocês conseguem conversar,
+porque o canal de voz mesmo,
+não será necessário escrever,
+mandar mensagem,
+vai ser bem mais fácil,
+acredito eu compartilhando a tela,
+vai ter outros colegos também.
+Então, é sempre bom essa troca de experiência,
+um vai ajudar o outro.
+E assim, a gente vai seguindo na nossa jornada.
+Bom, pessoal,
+agora vamos passar para vocês nos próximos passos,
+o resumo de tudo isso,
+que não falei.
+Então, se vocês tiveram alguma dificuldade para
+acessar a plataforma ou discorte,
+por favor, fálico,
+está, eu estou vendo aqui o pessoal com as dúvidas sobre os canais,
+então, a gente já vai fazer isso.
+Também, por favor,
+aproveita nos próximos dias para
+criar o grão de estudos e compromissos
+para encaixar o botiquem na routina de vocês.
+Tá, lembrando que a gente recomenda
+de indicar 20 horas por semana,
+não é um pouco coisa,
+porém, com organização é possível,
+também, pessoal.
+A verificência estão conseguindo acessar
+calendário de estudos,
+que fica na plataforma do curso.
+Se conseguem achar o link para a guia do estudante no noxão,
+e também,
+a dica que a gente passou antes,
+nos dias um pouco antes dessa nossa reunião de hoje,
+é finalizar o curso demonstrativo.
+Então, quem conseguiu finalizar muito bom para a bem,
+quem não conseguiu ainda no tempo problema,
+qualquer momento vocês conseguem voltar para rever essas matérias.
+Agora, a dica é focar na sprint número 1,
+que é Python básico.
+Asprejá começou hoje, já está disponível para vocês,
+e vai terminar no dia primeiro de maio.
+Vamos lá, pessoal, aqui, estou vendo algumas dúvidas no chat.
+O color e em pessoas eventos de color em não serão gravados,
+tá? O que será gravado? Eu os bebenas,
+e vocês são as suas complementares de teoria,
+tá? Quando vocês vão conseguir fazer uma reunião,
+assim como se fosse essa, agora, através do Google Meet com o instrutor.
+É velho em pergunta sobre o computador sim,
+é necessário ter um computador para fazer os exercícios,
+porque não é muito prático,
+não é estudar, não é celular.
+Então, o curso exige o uso de computador do laptop.
+Bom, para bem, isso é isso que conseguiu finalizar o acessor
+e já está no discórter, muito bom, muito bom visual.
+E, no que pergunta, o color e o computador instrutor
+serão contordaturma, sim, sim, claro, a gente convida todos vocês,
+a durma toda para participar, que a gente vê a disponibilidade.
+Luceando, você consegue, se você está na plataforma já,
+e já inscremeu para o curso,
+não se estenálise, eu sinto editados, do lado esquerdo,
+na plataforma, deve aparecer a palavra calendário,
+e que, quando nela, você vai conseguir acessar a plataforma
+e ver o calendário mesmo.
+Padric, como é feito hoje em davendo para tirar dúvidas,
+então, para tirar dúvidas sobre exercícios,
+tem vários versos, primeiro você pode enviar sua dúvida
+no discórde, por escrito no canal, platform com tentada,
+ou participar também das assessores de color,
+em construtor, para assinar suas dúvidas ao vim.
+Então, o pessoal, quem não está no Brasil, quem está no horário diferente,
+se você não conseguir participar das dos eventos online,
+a gente recomenda em ver sua dúvida por escrito no discórde,
+no canal, platform com tentada, deixou voltar para vocês,
+vamos mostrar, voltando aqui para um discórde,
+então, o canal aqui, o platform com tentadas,
+print um Python básico, esse canal dedicado para as dúvidas sobre a teoria.
+Então, a gente convida todo mundo e vier as suas dúvidas por escrito,
+você pode também colocar o print da tela onde está com dúvida,
+o link da plataforma, e, assim, nossos tutores, estrutores terão acesso,
+essa informação e vão conseguir ajudar vocês.
+Dentro da plataforma, a plata forma é única para cada luna,
+se você está falando sobre o discórde, no discórde,
+se você tem a luna da turma de vocês.
+Eu acho que nunca nos canais que são administratos pelo luaiza de carreira,
+vocês conseguem encontrar o alunos de outras turmas,
+e de outras profissões também.
+Mas, a gente sempre, assim, recomenda focar mais dos canais da turma de vocês,
+porque vocês, assim, vão acompanhar a agenda da turma de vocês,
+os lembrentes específicos para essa turma.
+No caso, é data de a 13 ou de a 13.
+Deixa eu contar aqui.
+Então, pessoal, passei para vocês no espaço a passo.
+E, é só isso que eu queria passear para vocês hoje.
+A gente deseja muito boa sorte para todos vocês,
+muito obrigado por escolher a triple time.
+Vou reforçar novamente, que no caso de dúvidas,
+vocês precisam ir procurar.
+Eu estou disponível no discórde, no horário comercial.
+Então, eu vou falar o fiquem a vontade de mandar um oito,
+porque assim, eu vou conseguir ajudar vocês,
+vamos pensar juntos se tiver alguma dúvida alguma pergunta.
+Muito obrigado pelo tempo de vocês,
+por ficar com a gente sobre durante essa hora.
+A pausa de duas semanas, bom brunas.
+Se você não precisa tirar pausa de uma semana durante o custo,
+não tem problema, então você vai conseguir prosseguir.
+E, talvez, finalizar o custo pouco antes ainda.
+Então, depende de você.
+Também se precisarem tirar a licença acadêmica,
+você precisa falar comigo pessoal.
+A gente entende que, né, a vida acontecia e hoje aconteceu alguns imprevistas,
+e tudo mais.
+Porém, a gente recomenda se organizar para finalizar o custo em 6 meses,
+para a naje de dados, ou em 9 meses para sim em 7 dados.
+Tá idário, por favor, fica a vontade para falar.
+Comiou, Gabanote?
+Oi.
+Eu queria saber em relação a essa pausa de duas semanas.
+Ela é encada, exprinte,
+é de bucada, tá errando, exprinte, como é que ela funciona?
+Ela vai funcionar duas vezes, né, a gente vai tirar a massa de pausa, de descanso,
+depois de cada mundo.
+Então, depois do primeiro mundo,
+depois do segundo mundo.
+Então, durante esses 7 meses,
+esse é o custo é a naje de dados, vai ter duas semanas de descanso.
+Tá, é feito.
+E esse lado que você passou vai ficar disponível,
+depois de um descórdino.
+Sim, sim, se quiser, eu vou conseguir compartilhar com vocês essa apresentação.
+Também, a gravação do vídeo mesmo, de agora,
+será disponível a parte de amanhã.
+Se quiser rever, tal, sabe?
+Vai ser interessante também.
+Boa vez, a vocês.
+Era somente isso, meu obrigado.
+Pagina.
+Isso, algumas dúvidas, aproveita o momento,
+aí aqui, toda tá aqui.
+Bom, sim, ninguém tiver a fátima, por favor.
+Olá, meu noite.
+Então, antes tinha uma lá na introdução,
+tinha alguns informações,
+e alguns exercícios, né, para fazer.
+É, os printes, o, acho que na segunda lição,
+eu não conseguir fazer o print, lá, resolver.
+Mas aí, então, eu vi que tem outros colégas também,
+que perguntaram aí na plataforma,
+mas eu não via a resposta ainda,
+dizendo que tá dando o eva, a gente fazia.
+Eu particularmente tava fazendo tudo certinho conforme,
+as orientações, mas tava dando o eru.
+E o rapaza, eu não lembro nome dele, mas ele colocou,
+inclusive, é um print do eru na plataforma.
+E não via a resposta.
+Essa introdução, a gente vai ter que finalizar,
+ou é a partir de hoje com a disponibilidade que está.
+Bom, Fatima, agora vocês já conseguem prosseguir
+para primeiras print.
+Então, se você quiser finalizar a parte
+em tradutória que quer vontade,
+porém, não é obrigatório,
+só se você tiver disponibilidade.
+Quando a sua dúvida, se você expostaram,
+lá no Discord, marcaram dúvidados,
+eu acho que o eeu também passei lá, é marquido pessoal.
+Eu acredito que, até o maelho de manhã, a gente
+já vai ter a resposta dando nos inquipe dos estrutores,
+e eles vão conseguir ajudar com essa dúvida.
+Tá bom?
+OK, obrigada, hein.
+Imagina.
+Acho que foi luciando que levantou a mão também.
+Pode falar por favor?
+Bom, boa noite a todos.
+Eu tinha uma certa dificuldade também.
+Em relação ao tablo, tinha um exercício,
+que precisava ser feito algumas atividades ali.
+Eu não consegui concluir,
+aí eu entrei em contato com o suporte.
+Falando que minha tela estava diferente do exercício,
+não estava conseguindo também,
+só se na ativa da multônoma.
+E aí ele falou, não avança,
+e lá na frente, você tirou dúvida com profissor.
+E aí depois, eu não sei como vai fazer essa parte,
+porque eu queria achar interessante,
+concluir aquela parte do tablo,
+porque é uma ferramenta muito, muito na outra.
+Sim, entendido isso, a dúvida você postou ela no discorso também, né?
+Acredito que não, desculpa de acho que eu comecei a explorar ele hoje,
+mas não é?
+Tá, eu não posso, porém, também, de um.
+Eu também tive a cheia essa diferença no tablo.
+Pô, na gente foi fazer exercício.
+Eu tenho uma parte lá que eu não estava conseguindo avançar, não.
+Eu consegui avançar, mas o meu gráfico ele ficou um pouquinho diferente do gráfico,
+que ele colocou, que eles colocaram no...
+Na plataforma pra gente.
+Mas pouca coisa de diferentes.
+Mas tem dentro diferentes, assim, do conteúdo postado,
+contra o que o tablo tem hoje.
+Eu nem consegui avançar, fichá-la, verdade.
+Consegui ali, em serias duas, as duas,
+duas, dois arquivos, só listava, mas dá sequência não conseguir.
+Ah, Luciano, entendindo, então neste caso, você pode usar o canal de
+de platform contentata, né?
+Aquele gente usa para, para enviar nossas dúvidas.
+Ou você também pode me chamar no Discord no DM,
+da falar-se que tá com um problema enelar,
+que não tá conseguindo prosseguir, que eu também consegui ajudar vocês.
+Tá, vou acionar nossa, nosso time de tutores,
+se estertores pra gente resolver isso.
+O quanto antes você ir pra vocês não perder em tempo.
+Tá bom?
+Que muito obrigado.
+Imagina.
+Bruna, pode falar bruna.
+Oi, Olga, boa noite, boa noite pessoal, prazer.
+Eu mando em lá minha dúvida no Discord,
+a respeito do curso de Excel.
+Acredito que você viu, porque você marcou lá,
+mas ainda não obtive nenhuma resposta de ninguém.
+E eu vivo você falando pra gente agora focar no sprint Juan,
+que é pra aprender Python, o básico.
+Mas eu queria pelo menos terminar essa tarefa.
+Já que eu já comecei,
+e tu mesmo menos na metade, eu queria pelo menos finalizar
+ela antes de sequência pro próximo step.
+Será que eu consigo fazer um ao alguém,
+ou que alguém possa me responder isso até amanhã,
+para eu finalizar com Excel?
+Tá bruna.
+Eu acho que vou ver também daqui a pouco.
+Essa questão, a gente vai passar então pro próximo,
+eu vou reforçar essa espetalha,
+pra você também conseguir finalizar e já focar nas 20 no número 1.
+Tá, mas antes de eu focar nesse sprint número 1,
+eu queria pelo menos terminar esse modo
+entre o tutorial do Excel no qual eu já comecei.
+E eu só não terminei, eu só não continuei
+e por causa dessa minha dúvida,
+que eu tocha um pouco confuso,
+eu especificei bem lá na minha pergunta,
+mandei bem exatamente qual é a tarefa.
+Daí você atrapa, consigo um com alguns professores,
+ou eles vão me responder lá mesmo na...
+É no meu pulso.
+É normalmente a gente consegue resposta
+dos tutores, os estrutores mesmo no Discord.
+Tá bom?
+Então, fica tranquila, acredito que a manhã a gente já
+vai conseguir resolver isso,
+e você vai conseguir para seguir então,
+para outra parte do curso.
+Tá bom?
+Tá bom, muito obrigada.
+Mas gila.
+Um bom pessoal, alguma dúvida,
+a mais.
+Então, eu acho que vamos finalizar por aqui.
+A partir de amanhã, então,
+fica a vontade de entrar em contato,
+também com a gente comigo,
+vamos seguir como a plataforma um discord,
+são ferramentas novas para a maioria,
+super normal, que a gente possa ter algumas dificuldades
+deste primeiro momento,
+então, que tranquilos,
+tá, a gente sabe,
+o mesmo pôde acontecer,
+e a gente está aqui para ajudar vocês.
+Tá?
+Ai, mas uma vez desejamos muito boa sorte,
+e vamos, então, seguir a partir de amanhã no nosso curso,
+fazendo a primeira sprint.
+Bom, eu fico a disposição,
+e desejo um modos cancel,
+e bons estudos para todos vocês.
+Bom, não é o que você quer,
+porque é muito bom, não é o que você quer.
+Bano, é o que você quer.
+Bano, é o que você quer.

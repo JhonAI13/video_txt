@@ -1,0 +1,3064 @@
+start	end	text
+0	6000	Então, vamos começar aqui.
+6000	11000	Então, essa é a nossa primeira aula, pessoal.
+11000	14000	As primeira uma abinar, que eu já treijo o turro.
+14000	17000	2 de outro turro na verdade, na treijo programa, hein?
+17000	20000	A gente vai falar o trocosivo 6 no botiquem,
+20000	22000	e a gente vai estar na essa jornada de juntos.
+22000	28000	Eu acho que vocês vão ter certeza no final de um jornada que vai ver a pena.
+28000	32000	Eu já tive na situação também, já fiz um botiquem em 16 de dados,
+32000	39000	em 2020, em 2021, já fiz outro botiquem em inglês também em 2023.
+39000	43000	Então, ação é uma experiência imestiva, assim,
+43000	47000	vocês vão ver que realmente vai impactar na rotina de vocês.
+47000	49000	Não é algo que dá para deixar assim,
+49000	53000	vai em paralelo, é algo que vai ter impacto direto na rotina de vocês
+53000	54000	por um período ali.
+54000	58000	Então, esses 7, 9 meses dependendo de um data science ou data analytics,
+58000	64000	mas, no final, vai valer a pena, e vocês vão ver hoje aqui um pouquinho do por-de.
+64000	66000	Então, primeiro passo, pessoal, vou me apresentar.
+66000	69000	Eu sou Bruno, eu sou de Brasilia, moro em Brasilia.
+69000	72000	Eu tenho 8 anos, os peninsifundados,
+72000	75000	eu trabalho com dados diferente de muita gente,
+75000	80000	que é a extremo minoria da área que não fez transição de carreira.
+80000	82000	Eu sempre trabalho com dados.
+82000	86000	Então, eu fiz em gery de produção, então, a universidade de Brasilia
+86000	88000	e, desde o começo, com o Brasilia,
+88000	90000	acho que, praticamente, não tem fábrico a cabeça,
+90000	93000	entrando por ser todos serviços.
+93000	97000	E, tive muito contato com dados desde o meu primeiro momento,
+97000	100000	então, como eu sei como está já, o analista de dados junho,
+100000	103000	foi a narragidade plano, foi na cidade senha,
+103000	107000	depois, coordenador de um equip de engenharia de dados
+107000	109000	e a narragidade, e também depois,
+109000	113000	eu fumo bem a área de sensitados na empresa que eu trabalhei
+113000	115000	por mais tempo, trabalhei na o escor,
+115000	118000	então, ao escor, foi a minha empresa que está ali no base doido,
+118000	120000	do sistema financeiro nacional,
+120000	123000	então, quando entrei, era uma parceira que vendiu os seguros,
+123000	125000	começaram a deslávar os seguros da caixa de seguradora,
+125000	127000	então, acho que colocou federal,
+127000	129000	trabalhei projetos com banco em interbéng,
+129000	133000	em berbeca, oura, promotiva, que é a rede de crédito,
+133000	135000	uma rede de crédito indireta do banco no Brasil,
+135000	138000	e o poli-shop, homenim, e o grupa-ribui,
+138000	141000	então, trabalhei bem somente no seu tofu financeiro,
+141000	144000	na minha carreira, então, desde agora, tem dois meses,
+144000	147000	eu estou numa aventura, comecei no vocalo,
+147000	150000	de engenheiro de Machinilano, no grupa-ribu,
+150000	153000	então, estou envolvido com sensitados diretamente pelo menos
+153000	158000	eleia três anos, com a gente com a narragidade aos quase oito anos,
+158000	160000	hoje em dia também, então, projetos, por fora,
+160000	163000	com com colegas que eu tive na época da Ui,
+163000	165000	principalmente, então, então, em São a coisa muito oral,
+165000	167000	que vocês vão ver pela carreira de vocês,
+167000	169000	que até que dentro do bootcamp mesmo,
+169000	172000	então, o que a gente sentiu bastante vocês,
+172000	174000	que já deu uma passeiria mesmo,
+174000	176000	então, vocês todos aqui estão no mesmo banco,
+176000	178000	enfim, data science, data analytics,
+178000	181000	mas, em geral, estão todos com os o mesmo do objetivo,
+181000	183000	tentando fazer a se transição e lá na frente,
+183000	186000	vocês vão ver que fazer esses láços vale a pena,
+186000	189000	e, para mim, tem uma vida, consigo, enfim,
+189000	192000	hoje em dia, graças a Deus do nível de conseguir
+192000	195000	rejeitar o ponto e da rádio porque não tem mais tempo,
+195000	200000	e consegue vocês vão ver que a rejeitidade do Brasil
+200000	202000	não é tão grande quando parece,
+202000	204000	então, a gente vê que tem muita gente ingressando
+204000	207000	mais o volume de posições também acompanham,
+207000	209000	então, quando vocês conseguem entregar,
+209000	211000	fazer uma coisa bem acaba criando,
+211000	214000	é uma rejeitidade, muito interessante que vocês vão usar
+214000	216000	por toda sua carreira.
+216000	221000	De Robes, já eu sou o Xbox, já fiz quase tudo nessa vida,
+221000	223000	já sou faixa preta e ajudou,
+223000	225000	já eu vou ver muito basket,
+225000	227000	agora eu gosto de velejar,
+227000	230000	o velejio aqui em Brasil e no lado para a mãe,
+230000	233000	então, é um Robe que meu pai tinha, e me passou,
+233000	236000	e gosto muito de história também,
+236000	239000	sou o corpo por história que é uma forma
+239000	242000	da esse contato com dados e a história tem como
+242000	245000	uma que a gente consegue aprender muito com o passado,
+245000	248000	então, uma China, a navegidade,
+248000	249000	sempre olha muito com o passado,
+249000	252000	para sair desistóricas e entender o que está conversando
+252000	255000	para prever o futuro ou fazer inferências aí sobre o presente,
+255000	259000	e acho que a história é um jeito muito legal também,
+259000	262000	da gente ver isso, só que em outro verente.
+262000	265000	E vamos falar um pouco então dos objetivos,
+265000	267000	vamos falar sobre as interessões que a gente vai ter,
+267000	269000	o longo aqui do Bustic Games,
+269000	273000	a gente vai passar sobre como tiradou e desigui as boas praias,
+273000	275000	então, pessoal que já estava perguntando
+275000	279000	como que a gente faz para tirar do ou desigui na aula,
+279000	282000	se é, enfim, pelo chai, então, a gente vai passar para tudo isso,
+282000	285000	vamos falar um pouco sobre o porquê o mercado de trabalhos
+285000	288000	crescitando e como está o cenário atual,
+288000	293000	só mensagem aqui para gravar, já estão gravando,
+293000	296000	e, entender também a diferença de habilidades
+296000	298000	que terá menos necessárias entre dados saem,
+298000	300000	se vê para a lística, então,
+300000	302000	então, entendo que para alguns esportos está muito claro,
+302000	306000	mas é importante a gente nivelado do mundo, deixar bem claro para que
+306000	308000	lá do lugar da taçã, e para a clave da ta' a liga,
+308000	310000	de descommoda-se complemento.
+310000	313000	E, por fim, vamos passar um pouco sobre as ferraments de aprendizado
+313000	316000	para que aqui a partir dessa primeira semana se eles consigam
+316000	321000	otimizar o tempo de estudo de vocês, então, vamos lá.
+321000	325000	É, é, a corno cronograma, que tem a gente falou o tipo de junho online,
+325000	328000	definição de expectativas, pros ou avenários,
+328000	330000	as boas praias que nos nos coste,
+330000	334000	a gente vai explicar como chegamos aqui,
+334000	337000	porque aqui, na estedidados e senticilação,
+337000	339000	estão valorizados hoje, e depois,
+339000	342000	a gente vai explicar um detalhe à diferença de ferramentas,
+342000	346000	de competências, de rotina, de uns senticidades,
+346000	349000	para não ajudar, vamos falar sobre a experiência aprendizado
+349000	352000	aqui na tripletem, como que vocês podam utilizar,
+352000	355000	e vamos entrar num top com que esse é um ponto novo,
+355000	358000	a primeira turma que a gente vai falar sobre isso,
+358000	361000	mas como usar aí, nos estudos,
+361000	363000	a gente sabe que já te apetem uma realidade,
+363000	366000	e é importante vocês saiba um comosá-lo,
+366000	368000	então, é um ferramentro incrível, você sabe,
+368000	371000	os amens ela, então, a gente vai falar um pouco disso aqui,
+371000	375000	e, por fim, vamos passar um pouco nas ferramentas do bootcamp,
+375000	380000	como que quais ferramentos vocês vão usar também
+380000	382000	para utilizar esse tempo de tudo de vocês,
+382000	384000	então, vamos passar em vídeo Hürby,
+384000	387000	que que eu jupter no tipo o que quais são as tarefas lá no o D&H,
+387000	390000	dentro da plataforma da tripletem.
+390000	391000	Então, vamos lá pessoal,
+391000	394000	o Partium tipo de reunião online.
+394000	396000	Hoje a gente está no aminário,
+396000	400000	os aminários aqui na turma de vocês vão acontecer toda a quarta-feira,
+400000	402000	aszenove horas, então,
+402000	404000	hoje, este problema é o link, mas esse poder,
+404000	406000	que está tranquilo, vamos começar azenove,
+406000	409000	aqui a gente vai trazer casos reais com a aplicação de conteúdo,
+409000	412000	então, a gente vai, a partir do conteúdo que vocês estão vendo,
+412000	416000	se é uma análise nos printes na plataforma da tripletem,
+416000	418000	a gente vai trazer aqui aplicação reais,
+418000	419000	então, mais legal,
+419000	421000	a gente vai se preparar para projetos,
+421000	423000	a gente vai falar claro sobre a impregabilidade,
+423000	424000	de mercados de trabalho,
+424000	427000	trocar a cidade também em momentos pontuais,
+427000	429000	vamos avançar em todos os detalhes,
+429000	433000	então, de repente, se a domota alguma dúvida popular,
+433000	436000	se a gente tem algo que a gente tem que aprofundar,
+436000	438000	a gente está sentindo algum defis que vocês têm,
+438000	441000	temos de conteúdo, e a gente vai fazer isso.
+441000	443000	E, por fim, também, se necessário,
+443000	445000	se a gente vê que está,
+445000	447000	esses precisos de um de um refus,
+447000	449000	a gente vai fazer uma prática adicional,
+449000	451000	então, que se for necessariamente,
+451000	453000	vai marcar mais de um webinar,
+453000	455000	por semana também.
+455000	457000	Esse são as um, o Ariel,
+457000	461000	já mandou o link para vocês no grupo,
+461000	464000	eu vou mandar que depois de novo um chat,
+464000	465000	mas se já podem mandar,
+465000	467000	marcando comigo, alguns já marcaram,
+467000	469000	antes já fiz alguns reuniões,
+470000	473000	e vamos, se vai ser um momento que nesse primeiro,
+473000	474000	não é que a gente vai se conhecer,
+474000	476000	eu vou ver um pouco mais sobre a carreira de vocês,
+476000	478000	em orar fixos que seves,
+478000	481000	eu hoje no dia não tenho alguns projetos,
+481000	483000	trabalho também, no carinho for,
+483000	484000	mas meu orar é bem flexível,
+484000	486000	eu tenho algumas ruas ao longo de dia,
+486000	487000	mas em geral,
+487000	489000	pode ficar no orar,
+489000	490000	mas flexível, lá para vocês,
+490000	493000	então, acho que dentro aqui dos tutores da tipotem,
+493000	496000	eu sou um dos que vocês contaguem o orar mais flexível,
+496000	498000	ali para vocês, então,
+499000	500000	fica em amontat,
+500000	502000	vamos falar sobre, posso falar bastante sobre carreira,
+502000	503000	entregar a vida às coisas,
+503000	505000	então, eu tenho bastante experiência,
+505000	507000	e, em tempos carreira,
+507000	508000	mas principalmente,
+508000	509000	acho que diferentes,
+509000	512000	muitos pessoas que sempre ficaram focadas
+512000	513000	e sem os sonalhos,
+513000	515000	eu te, por todo lado,
+515000	518000	então, com isso bem as competências de um profissional,
+518000	520000	e o aparte se pegue em vários bolsos aceletivos,
+520000	522000	contratando, e sempre contratado,
+522000	524000	também, então, vamos trocar esse daiva,
+524000	525000	é ser muito legal,
+526000	527000	e, também,
+527000	528000	tirado,
+528000	529000	esses de conteúdo e do projeto,
+529000	530000	porque, mais pra frente,
+530000	531000	a gente vai ter esse momento,
+531000	532000	também,
+532000	533000	sem te quiser entrar no detalhe,
+533000	534000	em alguns pós-pecísicos,
+534000	535000	como um ouro,
+535000	536000	e,
+536000	537000	pessoal, outra coisa que você,
+537000	538000	em sentido muito,
+538000	539000	vocês aproveitaram,
+539000	540000	são as salas de estudo,
+540000	542000	com colando, né,
+542000	544000	então, lá no discóxito,
+544000	546000	existem a sala de colando,
+546000	547000	que é um canal de áudio,
+547000	548000	então, não se preocupam,
+548000	550000	não, não precisa nos tracarinhas,
+550000	551000	o canal de áudio,
+551000	554000	é fundamental para o trapaçado o queis,
+554000	555000	então, às vezes,
+555000	556000	você está estudando,
+556000	557000	que nenhum pessoal
+557000	558000	fez já falou,
+558000	559000	hoje, que ficou travado,
+559000	560000	o último atenativo,
+560000	562000	é você entrar lá no canal de colando,
+562000	563000	geralmente,
+563000	564000	vai ter alguém,
+564000	565000	algo,
+565000	566000	profissional,
+566000	567000	muito capastáveis,
+567000	568000	todos aqui,
+568000	569000	o que eu te potei também,
+569000	570000	é um lugar incrível,
+570000	572000	que vão estar para um froteir ajudar.
+572000	573000	E, quando você está lá,
+573000	574000	também,
+574000	575000	você abre espaço,
+575000	576000	para alguma outra pessoa entrar,
+576000	577000	tirar uma dúvida,
+577000	578000	você pode entender,
+578000	579000	quando o dúvida dela,
+579000	580000	então,
+580000	581000	fica algo muito interessante,
+581000	582000	também,
+582000	583000	pessoal,
+583000	585000	de ter alguém,
+585000	587000	você vai acabar aproveitando muito o colo.
+587000	589000	Então,
+589000	590000	quando você decide,
+599800	601000	vai ver no qual ele vai estar acontecendo.
+601000	602000	E, ali fica mais fácil,
+602000	604000	até essa troca.
+604000	606000	Parte dois,
+606000	607000	vamos lá,
+607000	609000	definição das expectativas do
+609000	611000	dúvida é binários,
+611000	612000	como que está acontecendo,
+612000	614000	É o ano, pessoal.
+614000	617000	Oi, eu ia no deslubei.
+617000	621000	Não, eu ia justamente jogar até o pra cá quando eu tô conseguindo eu chat.
+621000	626000	E a perguntação é colonica, é colonita lá no Discord.
+626000	628000	E aí, o grupo.
+628000	630000	Vamos mostrar aqui para vocês agora.
+630000	633000	Deixa eu abrir que não é Discord.
+633000	635000	Ah, aqui pessoal.
+635000	640000	Aqui no Discord, então aqui aparece muita coisa.
+640000	642000	Não, eu não vou falar isso em um fotele pra nós.
+642000	646000	Não, vou paticar o baixo que eu tô assistindo aqui, obrigado.
+652000	654000	Então, agora vai.
+657000	659000	Exatamente, mandaram aqui em chance.
+661000	663000	Estou vendo agora?
+668000	669000	Sim.
+669000	671000	Vou. Vou mostrar.
+671000	676000	Então aqui, pessoal, eu recomendo aqui tem muita informação até as vezes pra chaves, o alto,
+676000	680000	porque ele fica lá embaixo que eu colorne em data.
+680000	683000	Mas o que eu recomendo para vocês?
+683000	685000	É só bem aqui, eu conferir que canais.
+685000	688000	Então já tem esse buscador aqui, fica muito mais fácil.
+688000	693000	Se eu sou de procurar data, já provavelmente vai aparecer para vocês.
+693000	695000	Aqui tem mais coisa para mim.
+695000	696000	Mas ele tá aqui.
+696000	700000	Se pesquisar colorne, então, mais fácil ainda.
+700000	706000	Então, a sovinha aqui, conferir que canais no Discord e procurar colorne,
+706000	711000	então quando vocês entraram lá aqui, então agora tem um pedro,
+711000	715000	tem a Stefan de deftalatia numa dúvida, se você pode ver, tá rouando lá.
+715000	716000	Então, é o canal de áudio.
+716000	718000	Uma teus outros que você contala também.
+718000	722000	Então, se tem a vontade pra entrar lá, como quiser tirar dúvida,
+722000	725000	vocês podem ver os horários de estrutores também,
+725000	728000	que vocês conseguem pegar um tempinho de retirar a dúvida,
+728000	731000	tem uma teus mais muitas vezes até um aluno, não é personalizado.
+731000	734000	Então, é uma boa, aproveita esse recurso também.
+736000	739000	E voltando aqui para a apresentação,
+741000	743000	falar que agora o dos ordinários,
+743000	747000	dos ordinários, a gente vai durar aqui 45, 90 minutos,
+747000	750000	pode ser que a gente passa também, não tem problema.
+750000	753000	Vamos ser dois vinares por esse print, então,
+753000	756000	nessa primeira esprente que a gente vai dar essa introdução,
+756000	761000	e na semana que vem a gente vai passar mais no conteúdo,
+761000	765000	vou metrar realmente botar a mão na massa, vou estar no pai,
+765000	768000	e o acesso vai ser link do Google Misch,
+768000	772000	enviado pelo Code, pode ficar para com os que eu acaso do site,
+772000	774000	uma gravação e materiais também,
+774000	776000	vou compartilhar tudo lá,
+776000	778000	por uma atalviva, 4 tereas,
+778000	780000	às 8, 30,
+780000	782000	aqui, está 8, 30, vamos definir,
+782000	784000	seja 8, 3 é 9, mas se inscreve tranquilos,
+784000	786000	que também vai lá no invio do ariel,
+786000	789000	semana que vem, e vamos passar por isso,
+789000	791000	contém o do extra, live code,
+791000	794000	de exemplos e dúvidas sobre o tema da esprente também,
+794000	796000	quem falo, tudo será grava.
+796000	798000	E, participação pessoal,
+798000	800000	fica em avontais para levantar a mão,
+800000	802000	então acho que chegou esse momento,
+802000	804000	não existe em levantar a mão,
+804000	806000	eu vou estar que focado na tela da pentação,
+806000	807000	e quando eu virar a cabeça,
+807000	810000	é que eu estou olhando aqui para o chat,
+810000	812000	então, fica em avontais,
+812000	813000	só levantar a mão,
+813000	814000	porque quiser mandar,
+814000	815000	mensagem no chat também,
+815000	817000	agora eu já estou coilhando a beta aqui do ar,
+817000	820000	e se você também não puder entrar na seção,
+820000	821000	em algum avionário futuro,
+821000	822000	mas quiser,
+822000	824000	e já tem alguma dúvida estrutural,
+824000	825000	é sobre o tema,
+825000	826000	hoje vêm para mim,
+826000	827000	no privado,
+827000	828000	ou bem-fim,
+828000	830000	lá no mesmo grupo,
+830000	832000	do datumas de você,
+832000	835000	é isso que eu consigo pegar e trazer aqui,
+835000	837000	tranquilamente para nossa aula.
+837000	839000	E não existe pergunta ruim,
+839000	840000	por favor, não perguntar.
+840000	842000	Então, não existe pergunta boa,
+842000	843000	igual pessoal falava,
+843000	845000	não existe, tem perguntar,
+845000	846000	pode ficar tranquilos,
+846000	847000	não existe, não existe,
+847000	848000	o básico,
+848000	850000	é importante que a gente construa
+850000	851000	nosso básico conhecimento bem,
+851000	852000	e lá embaixo,
+852000	854000	para que quando a gente for crescer,
+854000	855000	chegarmos,
+855000	856000	mas com o blacks,
+856000	857000	a gente tem já tudo estruturado.
+857000	858000	Então, fica a avontais,
+858000	859000	bem-vindo,
+859000	861000	se não for aqui,
+861000	864000	se não está a vontade no meio do outro pessoal,
+864000	866000	entra no canal de áudio,
+866000	868000	manda mensagem para mim,
+868000	869000	na mensagem para o alieo,
+869000	870000	a gente marcou,
+870000	872000	então, aproveitem os recursos,
+872000	875000	e isso consegue ter algo que é diferente
+875000	877000	em algum de game de uma base à doação,
+877000	879000	a adulta e com essa proximidade,
+879000	880000	que vocês conseguem ter,
+880000	881000	com quem está junto ali,
+881000	883000	vai se quando processe do caçou no ar,
+883000	884000	vocês.
+885000	887000	É próximo ponto,
+887000	889000	vamos lá falar de discóloga.
+894000	896000	Um discólogo pessoal,
+896000	898000	não discólogo,
+898000	900000	sempre vocês foram levando a dúvida
+900000	901000	por discóloga,
+901000	903000	seja lá no chat do vídeo,
+903000	905000	ou no próprio color,
+905000	907000	é importante vocês terem algumas coisas
+907000	909000	claras que é qual esse print você estão,
+909000	910000	no caso agora,
+910000	911000	que está aqui na primeira print,
+911000	912000	para ir tombássico,
+912000	915000	e de qual capítulo eles são é a dúvida de vocês,
+915000	917000	então é o capítulo aqui,
+917000	918000	esse ponto,
+918000	920000	1, 2, 3, 4 e a lisa,
+920000	921000	é uma homie,
+921000	923000	então é a seleção de modificação de listas,
+923000	926000	eu for um da print,
+926000	928000	vocês podem usar para as dúvidas a 5 anos,
+928000	931000	e o color não crenhe de falou para as dúvidas ao vivo,
+931000	933000	então aproveitar de um momento,
+933000	934000	com estrutores,
+934000	936000	às vezes, vocês conseguem entender no tema,
+936000	938000	e nas dúvidas a 5 anos,
+938000	939000	vocês também as estão com uma dúvida,
+939000	940000	ponto lá,
+940000	941000	ou não é na do gente,
+941000	943000	nada que vai te bloquear,
+943000	946000	então você manda ali que a gente responde depois,
+946000	948000	boas práticas do discog,
+948000	949000	aqui,
+949000	952000	a gente é exatamente que a gente falou,
+952000	954000	aqui é o print,
+954000	956000	aqui é o plataforma de conteúdo,
+956000	957000	e cada esse print,
+957000	959000	a gente consegue enviar as dúvidas lá,
+959000	961000	então os 21, os 22,
+961000	962000	e aqui a gente vai,
+962000	963000	e em cada uma modelas,
+963000	965000	a gente vai construir uma nova postagem,
+965000	967000	aqui também o areal,
+967000	968000	o joga,
+968000	969000	no chat,
+969000	970000	tem uma bem claro,
+970000	971000	como tirar dúvidas,
+971000	972000	e vocês nem aqui,
+972000	974000	mas o nova postagem,
+974000	975000	e aí é aquilo que a gente falou,
+975000	976000	aqui no último slide,
+976000	977000	só lá,
+977000	979000	com a gente de vocês,
+979000	981000	que, naturalmente, a gente vai ser aqui,
+981000	983000	onde vocês, em qual foram vocês no botar,
+983000	984000	e aí,
+984000	986000	o capítulo e a lição,
+986000	987000	para que fique claro,
+987000	989000	ou se vão em casa de um notebook,
+989000	991000	só botar o código,
+991000	993000	o que teve de errado,
+993000	995000	e boas de ter sido o caso de resiste,
+995000	996000	e a gente vai ver o botão,
+996000	997000	ao arrelele,
+997000	999000	o caminho e o link dos exercícios,
+999000	1000000	e,
+1000000	1001000	outro ponto também bem legal,
+1001000	1003000	marketing dúvidados,
+1003000	1005000	esse nomezinho muito bom,
+1005000	1006000	que a gente consegue,
+1006000	1007000	todo mundo,
+1007000	1009000	todos os estrutores e tutores vão conseguir,
+1009000	1010000	vai aparecer no ficaçãozinho,
+1010000	1011000	então, as vezes,
+1011000	1012000	a gente está lá,
+1012000	1014000	e consegue responder ele na hora,
+1014000	1015000	então,
+1015000	1016000	esse algo bem prático também,
+1016000	1018000	vai que está se ele estar vira de vocês,
+1018000	1020000	parte 4,
+1020000	1022000	vai metrar um pouco aqui,
+1022000	1024000	na tempestade perfeita de dados,
+1024000	1026000	e vamos entender como eu vim para aqui,
+1026000	1028000	como vocês vieram para aqui,
+1028000	1030000	por que a gente vai entrar
+1030000	1032000	avar com essa loucura que é dados?
+1032000	1033000	Então, pessoal,
+1033000	1035000	muita coisa que a gente vai usar
+1035000	1036000	o longo do esse bootcamp,
+1036000	1037000	e não é novidade,
+1037000	1038000	as ferramentas,
+1038000	1039000	para a sensibilidade de dados,
+1039000	1040000	praticamente todos,
+1040000	1042000	tirando algo que é mais ali,
+1042000	1043000	topo da arte,
+1043000	1046000	existem a mais de 50, 70.
+1046000	1047000	Então,
+1047000	1049000	tiver a estatística do século XVII,
+1049000	1051000	primeiro a regressão linear,
+1051000	1053000	foi do começo do século XVII,
+1053000	1054000	foi o 185,
+1054000	1056000	a teoria das redes-neurais,
+1056000	1058000	desde a digno guerra mundial,
+1058000	1059000	o meu nome é X43,
+1059000	1060000	então,
+1060000	1061000	redes-neurais,
+1061000	1064000	tudo que alimenta as LNMs,
+1064000	1065000	a IAR,
+1065000	1066000	a gente chama de origenquiação
+1066000	1068000	redes-neurais no fundo,
+1068000	1069000	na base,
+1069000	1070000	então,
+1070000	1071000	essa tecnologia existe,
+1071000	1072000	ele é praticamente o 80 anos,
+1072000	1073000	a árvore de decisão,
+1073000	1075000	de 1953,
+1075000	1076000	e a arvore de decisão também,
+1076000	1077000	todos os algoritmos,
+1077000	1079000	de previsão hoje,
+1079000	1080000	está-lo da arte,
+1080000	1082000	são basegados na árvore de decisão,
+1082000	1085000	e também existe a mais de 70 anos,
+1085000	1086000	então,
+1086000	1087000	de poder ver como
+1087000	1089000	essa tecnologia existe
+1089000	1091000	muito tempo, e isso tem um tombro,
+1091000	1093000	porque que não existe
+1093000	1094000	sensibilidade,
+1094000	1095000	é analidade,
+1095000	1097000	não é uma profissão do que o momento
+1097000	1099000	desde a década de ser sempre,
+1099000	1101000	e a verdade é que não havia
+1101000	1102000	um dado para isso,
+1102000	1103000	então,
+1103000	1104000	a gente tem essa tecnologia
+1104000	1105000	mais a gente não tinha dado,
+1105000	1106000	a computação
+1106000	1107000	em servidor físico,
+1107000	1109000	a restriamento cara e complexa
+1109000	1110000	no século XX,
+1110000	1112000	e neste século XX,
+1112000	1113000	então,
+1113000	1115000	eu tive uma espelha de
+1115000	1116000	portundar de trabalhos,
+1116000	1117000	sindas,
+1117000	1118000	mequinhos e do linkatose,
+1118000	1119000	e eu lembro que,
+1119000	1121000	isso dá exergando da trás,
+1121000	1123000	ainda tinha o senhor verores físicos,
+1123000	1125000	então, e sem eu existi muito lugar,
+1125000	1126000	então,
+1126000	1128000	sei lá no escritoro,
+1128000	1129000	ou de ser trabalhável,
+1129000	1131000	tinha uma sada que era o seu
+1131000	1132000	do físico,
+1132000	1133000	para armazenar todo o dado,
+1133000	1134000	não é empresa,
+1134000	1135000	e sendo físico,
+1135000	1136000	obviamente,
+1136000	1137000	muito caro,
+1137000	1139000	para manter algo muito complexo,
+1139000	1140000	e as companhias não
+1140000	1141000	colocavam tão sada,
+1141000	1143000	que armazenar era caro e complexo,
+1143000	1144000	então,
+1144000	1145000	se queria aumentar a servidor,
+1145000	1146000	que custos gigantesca,
+1146000	1148000	como se fosse investir uma obra,
+1148000	1149000	então,
+1149000	1151000	era algo muito complexo,
+1151000	1153000	e as empresas não tinham também
+1153000	1154000	pontos de contato,
+1154000	1155000	então,
+1155000	1156000	não era tudo digitalizado,
+1156000	1157000	igual a eu,
+1157000	1158000	hoje em dia,
+1158000	1159000	você consegue ter esses vários momentos
+1159000	1161000	para cartausos pontos de contato.
+1161000	1162000	Mas, mesmo a partir do momento,
+1162000	1164000	a gente conseguiu ter esse ponto de contato,
+1164000	1166000	como se a gente for pegar nenhuma referência,
+1166000	1167000	para quando Facebook,
+1167000	1169000	ou que começou a galera do o Rucult,
+1169000	1170000	por exemplo,
+1170000	1171000	pegou essa época,
+1171000	1173000	o Rucult não armazenava,
+1173000	1175000	tudo o que você fazia,
+1175000	1176000	então,
+1176000	1177000	quando você jogava,
+1177000	1178000	clicava naquela comunidade,
+1178000	1180000	ele não armazenava simplesmente,
+1180000	1181000	porque sempre fosse fazer isso
+1181000	1182000	naquela época,
+1182000	1183000	o custo seria,
+1183000	1184000	imagina,
+1184000	1187000	o Facebook começou a fazer isso,
+1187000	1188000	não tem ideia ali,
+1188000	1189000	exatamente no tempo,
+1189000	1190000	mas ele começou a fazer isso,
+1190000	1191000	a partir ali,
+1191000	1193000	eu diria pelo menos de 2010,
+1193000	1194000	pode ser que,
+1194000	1195000	antes,
+1195000	1196000	então hoje em dia,
+1196000	1198000	todas as movimentações que você faz
+1198000	1199000	não fez se book,
+1199000	1200000	ele dá armazenava
+1200000	1202000	e guardam em bancos de dados,
+1202000	1204000	para utilizar algo no fogo.
+1204000	1205000	Então,
+1205000	1206000	digamos, isso não existe,
+1206000	1207000	porque era caro e complexo,
+1207000	1209000	as empresas não faziam.
+1209000	1211000	O que aconteceu de lá para cá,
+1211000	1213000	a computação em movem,
+1213000	1215000	foi ganhando potencial,
+1215000	1216000	e expandindo,
+1216000	1218000	porque obviamente não faz sentido,
+1218000	1220000	a gente tem servo físico,
+1220000	1221000	esse trampor aqui dentro,
+1221000	1223000	se alguém pode ter esse em lugar
+1223000	1224000	para a gente e eu posso,
+1224000	1226000	pagar só pelo que eu uso,
+1226000	1227000	então,
+1227000	1228000	é isso que aconteceu,
+1228000	1229000	essa movimentação,
+1229000	1230000	concentra o servidor,
+1230000	1231000	tirar,
+1231000	1233000	ser do físico e jogar para tal da movement,
+1233000	1234000	a gente vai entender também
+1234000	1235000	que aqui é a movement,
+1235000	1238000	mas essa foi a ideia da das componícias,
+1238000	1240000	a fazer isso e alguns componícias
+1240000	1242000	a nós um Google e uma Christophia
+1242000	1244000	investindo pesado nisso,
+1244000	1247000	e isso fez com que o nosso potencial
+1247000	1249000	de processados escalasse,
+1249000	1250000	então,
+1250000	1252000	essa é a tempestade perfecto
+1252000	1254000	para a gente chegar como a gente chegou aqui,
+1254000	1256000	a outro volão de dados,
+1256000	1257000	hoje tudo é rastrado,
+1257000	1259000	porque a gente consegue amazer
+1259000	1260000	na tudo em mando de dados,
+1260000	1263000	como a computação muito performática,
+1263000	1264000	e barato,
+1267000	1269000	pente um core 3,
+1269000	1271000	então era com que os processadores
+1271000	1272000	com um 2 cores,
+1272000	1274000	quando saiu o processador do core,
+1274000	1275000	foi uma novidade hoje,
+1275000	1278000	com o core processador 10, 6, 8 cores,
+1278000	1279000	então,
+1279000	1280000	e inclusive,
+1280000	1281000	quando vocês vão,
+1281000	1283000	vocês vão conhecer esses podem trabalhar hoje,
+1283000	1284000	hoje eu já usei,
+1284000	1286000	é 128 gigas de memória,
+1286000	1287000	ao podão um porjo,
+1287000	1289000	então quando você vai trabalhar no vinguece
+1289000	1291000	consegue escolher,
+1291000	1293000	de acordo com o que você precisa,
+1293000	1295000	o computador que você causar,
+1295000	1296000	então, isso é incrível,
+1296000	1298000	a movementa parece a responsabilidade,
+1298000	1301000	então ela traz essa computação econômica e barato,
+1301000	1303000	e as ferramentas que a gente trouxe no ano comércio,
+1303000	1304000	que já existem,
+1304000	1308000	a mais de 50, 60,
+1308000	1309000	ou menos,
+1309000	1310000	praticamente,
+1310000	1311000	as rede neurais,
+1311000	1312000	ou a bori time já existia,
+1312000	1315000	mas como fazer um algoritmo de rede neurual,
+1315000	1316000	por exemplo,
+1316000	1317000	sem minha base de dados,
+1317000	1319000	é um conjunto de maros tritos físicos,
+1319000	1320000	o planilha,
+1320000	1322000	planilhas dos últimos 20 anos,
+1322000	1323000	então,
+1323000	1324000	então,
+1324000	1326000	precisava a mais é na cidade digitalmente,
+1326000	1328000	para ter a capacidade de fazer
+1328000	1330000	esse processamento,
+1330000	1332000	e necessidade,
+1332000	1333000	e foi isso que aconteceu,
+1333000	1334000	então aqui,
+1334000	1335000	muito interessante,
+1335000	1337000	se eu quer basicamente a revolução
+1337000	1338000	vai ter net para mim,
+1338000	1339000	a maior revolução da internet
+1339000	1341000	já compreceu na última década,
+1341000	1343000	a mais uma conversão,
+1343000	1344000	investindo a AWS,
+1344000	1345000	que a Amazon WebSives,
+1345000	1347000	para quem não conhece a uma movement,
+1347000	1348000	é uma das três movements,
+1348000	1350000	tem o Microsoft Azure,
+1350000	1353000	Google Cloud Platform,
+1353000	1354000	de CP,
+1354000	1355000	e a AWS,
+1355000	1356000	Amazon WebSives,
+1356000	1358000	a Amazon Amazon começou a investir nisso,
+1358000	1359000	2006,
+1359000	1360000	então,
+1360000	1361000	eles eram gigantes,
+1361000	1362000	no estado de nele,
+1362000	1363000	no Valejo,
+1363000	1365000	e começaram a investir em movement,
+1365000	1366000	no mesmo em seis,
+1366000	1367000	esse carão,
+1367000	1368000	onde,
+1368000	1369000	de assim,
+1369000	1370000	ele é o GIC,
+1370000	1371000	ou da Amazon,
+1371000	1372000	no lugar do diafveses,
+1372000	1373000	então esse caro aqui,
+1373000	1376000	ele é fundador da AWS,
+1376000	1377000	e pelo visto,
+1377000	1378000	acho que ele foi,
+1378000	1379000	ele conseguiu,
+1379000	1381000	tem mais ou menos bem aqui,
+1381000	1383000	no plano da AWS,
+1383000	1384000	eles saiam de zero,
+1384000	1385000	em 2006,
+1385000	1386000	para setem-te milhões,
+1386000	1387000	de faturamento,
+1387000	1389000	que se não era de 2012,
+1389000	1390000	não sei exatamente hoje,
+1390000	1393000	mas imagina que só tem um crescido,
+1393000	1394000	e esse crescimento,
+1394000	1395000	não é,
+1395000	1396000	se por isso,
+1396000	1397000	por isso,
+1397000	1398000	todo mundo,
+1398000	1399000	a AWS,
+1399000	1400000	pelo básico,
+1400000	1402000	a minha estrutura,
+1402000	1403000	um oço da coluna,
+1403000	1404000	a vertebral,
+1404000	1406000	de todo sistema bancário,
+1406000	1407000	financeiro mundial,
+1407000	1408000	hoje,
+1408000	1409000	assim,
+1409000	1410000	tem contrato com AWS,
+1410000	1411000	ou a minha europeia,
+1411000	1413000	tem contrato com AWS,
+1413000	1414000	as maiores industrires do mundo,
+1414000	1415000	tem contrato com AWS,
+1415000	1417000	então eles conseguem,
+1417000	1419000	centralizar em muita coisa,
+1419000	1420000	e hoje,
+1420000	1422000	50% deles,
+1422000	1423000	e, basicamente,
+1423000	1424000	a macroso software,
+1424000	1425000	um pouquinho maior,
+1425000	1426000	tal,
+1426000	1427000	às vezes,
+1427000	1428000	ele tem sempre de 30,
+1428000	1429000	de tempo,
+1429000	1430000	e o GCP,
+1430000	1432000	cresceu um pouco dos meus anos,
+1432000	1434000	tem 20% e o interessante,
+1434000	1435000	a gente vê isso na pressicação,
+1435000	1436000	ou a GCP,
+1436000	1437000	que tem menos usuários,
+1437000	1438000	é mais barata,
+1438000	1439000	e a AWS,
+1439000	1440000	que tem mais usuários,
+1440000	1441000	é mais robusta,
+1441000	1443000	é mais cara também.
+1443000	1444000	E aqui,
+1444000	1445000	para vocês,
+1445000	1446000	tem verestina,
+1446000	1447000	como funciona,
+1447000	1448000	e porque,
+1448000	1450000	que ele domina o mundo,
+1450000	1452000	a AWS tem 34,
+1452000	1453000	e os mais grandes,
+1453000	1454000	então,
+1454000	1455000	datacentes,
+1455000	1457000	espalhados ao ador do mundo,
+1457000	1459000	a gente tem um servidor aqui no Brasil,
+1459000	1460000	em São Paulo,
+1460000	1461000	é um que servido da América Latina,
+1461000	1462000	por enquanto,
+1462000	1464000	eles estão fazendo servidor no México,
+1464000	1465000	também,
+1465000	1466000	mas isso faz com que as empresas
+1466000	1468000	conseguem usar a tecnologia da Múve,
+1468000	1470000	e aí você vai perguntar,
+1470000	1471000	a grona,
+1471000	1472000	e,
+1472000	1473000	e se um dia o Brasil,
+1473000	1475000	vamos para o que vai ver entreguer,
+1475000	1476000	com a Argentina,
+1476000	1477000	a Argentina,
+1477000	1479000	aos aplicações,
+1479000	1481000	todos os aplicações da Argentina,
+1481000	1483000	são as empresas no datacentes de São Paulo,
+1483000	1485000	porque tem a questão de proximidade,
+1485000	1486000	por ser mais próximo,
+1486000	1488000	acaba sendo mais barato.
+1488000	1489000	Não tem problema,
+1489000	1490000	mas o,
+1490000	1491000	é tudo redundante,
+1491000	1493000	eles só tinham seus dados de São Paulo e
+1493000	1495000	jogam para outra empresa,
+1495000	1497000	para outros sendidores,
+1497000	1498000	todos os datacentes,
+1498000	1499000	então,
+1499000	1500000	hoje em dia,
+1500000	1502000	eles já têm tudo isso pensado,
+1502000	1503000	mas não tem que entrar nesse nível,
+1503000	1504000	de pensar o que acontece,
+1504000	1506000	no caso de um conflito global,
+1506000	1508000	porque eles domine o tanto a informação,
+1508000	1509000	e a gente vê aqui,
+1509000	1511000	e tem dois milhões de cidades
+1511000	1513000	sem três exécutas no Brasil,
+1513000	1514000	e aqui,
+1514000	1515000	muito interessante,
+1515000	1517000	eu fui pesquisar para a vongera,
+1517000	1518000	é a nebeto de,
+1518000	1519000	de os ásco,
+1519000	1520000	o número ele,
+1520000	1522000	a gente não falou no rodonel,
+1522000	1524000	e a gente vê aqui,
+1524000	1526000	esse é o datacentes de escala,
+1526000	1527000	então,
+1527000	1529000	o interessante é sempre hoje tem o tubarão,
+1529000	1531000	tem alguém por trás,
+1531000	1532000	a escala,
+1532000	1533000	eles formais,
+1533000	1535000	e os datacentes para a azul,
+1535000	1536000	a AWS,
+1536000	1537000	e GCP,
+1537000	1538000	junto ao da infraestrutura,
+1538000	1539000	por aí,
+1539000	1540000	das estalações,
+1540000	1541000	e meio que a lúgone,
+1541000	1542000	para as três,
+1542000	1543000	e aqui,
+1543000	1544000	muito interessante,
+1544000	1545000	vocês veem,
+1545000	1546000	tem um prédio,
+1546000	1547000	dois prédios,
+1547000	1549000	e tem mais quatro prédios contra o uso,
+1549000	1550000	então,
+1550000	1551000	isso aqui dá para ter uma ideia,
+1551000	1552000	às vezes,
+1552000	1554000	a gente me ensurar em um entamã,
+1554000	1556000	mas tudo isso são servidores,
+1556000	1558000	extremamente performais,
+1558000	1560000	e que,
+1560000	1561000	armazeno,
+1561000	1562000	basicamente,
+1562000	1564000	todo o conteúdo,
+1564000	1566000	e dados do seto público e privado,
+1566000	1567000	e que é uma equilatina,
+1567000	1569000	esse é um nível que consegue ser
+1569000	1571000	armazenado dentro desses dois
+1571000	1572000	datacentes,
+1572000	1573000	e até se vocês ganem,
+1573000	1575000	é por isso que tem essa segurança toda,
+1575000	1576000	algo muito,
+1576000	1577000	muito sensível,
+1577000	1578000	e eles estão construindo mais três
+1578000	1579000	ou quatro prédios desses,
+1579000	1581000	estão investindo pesado,
+1581000	1582000	o volume de dados cresces,
+1582000	1583000	principalmente,
+1583000	1584000	isso aqui é de junho,
+1584000	1585000	então,
+1585000	1587000	ainda é a gente está construindo agora,
+1587000	1589000	mais o Brasil é um,
+1589000	1591000	é bastante interessante de dados na América Latina,
+1591000	1593000	e essas empresas estão investindo
+1593000	1595000	pesado para aumentar infraestrutura,
+1595000	1597000	e que vai acontecer com um
+1597000	1598000	com dados nos próximos anos,
+1598000	1600000	que é continuar escredimentos
+1600000	1601000	por nesses se alves,
+1601000	1603000	então, aqui vão falar um pouco de posição,
+1603000	1604000	mercados de trabalho,
+1604000	1606000	como isso se convertiu,
+1606000	1608000	e antes de 2010,
+1608000	1610000	era algo muito abstrato,
+1610000	1612000	então, existe ali o estatístico,
+1612000	1613000	mas esse pouco a gente trabalha
+1613000	1615000	com dados mesmo,
+1615000	1617000	a partir de 2010,
+1617000	1620000	ele começou a se falar muito em análise dados,
+1620000	1621000	então, business,
+1621000	1622000	e daqui a data,
+1622000	1623000	a gente começou a ir,
+1623000	1624000	desde 2012,
+1624000	1625000	2014,
+1625000	1627000	eu entrei mais uns uns por aqui,
+1627000	1629000	é um nestava um bom muito grande,
+1629000	1631000	e a partir ali de 2015,
+1631000	1632000	e de seis começam muito grande,
+1632000	1634000	e se a gente está em ser de dados,
+1634000	1637000	aqui a gente vê como que praticamente,
+1637000	1638000	só cresceu,
+1638000	1639000	essa é a queda aqui de 2020,
+1639000	1640000	a importância mencionar aqui,
+1640000	1643000	provavelmente foi por causa da pandemia,
+1643000	1645000	porque a gente não tem como inferir,
+1645000	1646000	né,
+1646000	1647000	a gente não tem por causa de dados,
+1647000	1649000	mas muito normalmente foi por causa da pandemia,
+1649000	1651000	mas a gente vê que mesmo para na vista de dados,
+1651000	1653000	mas a gente não crescendo para,
+1653000	1654000	mesmo a energia de dados,
+1654000	1656000	a gente de um acaligno,
+1656000	1657000	mas a gente,
+1657000	1659000	desde considera o tamanho do bolutório,
+1659000	1661000	como que de 2014,
+1661000	1663000	saiu daqui,
+1663000	1664000	para cá,
+1664000	1665000	então,
+1665000	1666000	uns seis anos,
+1666000	1668000	praticamente triplicou o número de vagas,
+1668000	1670000	a gente vê também a data engineer,
+1670000	1672000	crescendo muito a posição que,
+1672000	1674000	especialmente depois de 2020,
+1674000	1676000	que estão no muito valorizada,
+1676000	1678000	e a gente vai entrar um pouco no detalhe aqui,
+1678000	1680000	exatamente disso agora,
+1680000	1682000	e quais são as esquios que diferenciam
+1682000	1685000	o cientista de dados de um analisto de dados?
+1685000	1687000	A pessoa,
+1687000	1688000	competência de dados,
+1688000	1691000	que a gente precisa para trabalhar com dados,
+1691000	1692000	é,
+1692000	1693000	e aqui,
+1693000	1694000	se está voltando,
+1694000	1695000	se encaram com alguma dúvida,
+1695000	1696000	tranquilo,
+1696000	1698000	se quiserem perguntar alguma coisa também,
+1698000	1700000	sobre escrecimento,
+1700000	1701000	exponencial que teve de dados,
+1701000	1703000	alguma coisa que eu falei sobre a nuva,
+1703000	1704000	também,
+1704000	1706000	se se alimentar não,
+1706000	1707000	por aí,
+1707000	1709000	já está planeando um amigo aqui,
+1709000	1710000	e,
+1714000	1715000	e,
+1715000	1717000	em seguindo, então,
+1717000	1718000	pessoal,
+1718000	1719000	vamos lá,
+1719000	1721000	de intermungir habilidades,
+1721000	1722000	para você trabalhar com dados,
+1722000	1723000	ou ver,
+1723000	1724000	estão três freens,
+1724000	1725000	então,
+1725000	1726000	a gente tem a frente,
+1726000	1727000	a habilidade de técnica,
+1727000	1729000	só as esquios técnicos que a gente tem,
+1729000	1731000	e vai ser o,
+1731000	1732000	a grande parte de escursa,
+1732000	1734000	vão ser as habilidades técnicos,
+1734000	1735000	que vocês vão evoluir,
+1735000	1736000	então,
+1736000	1738000	a gente está falando de diferentes,
+1739000	1739020	salon,
+1739020	1741380	casi normalidade do homem VIP,
+1741380	1742280	a blog,
+1742280	1743480	e aqui vivo, então,
+1743480	1744680	o feramento de visualização,
+1744680	1746680	feramento das dimonci Ming Pensado de dados,
+1746680	1748120	são coisas que não extinct,
+1748120	1748880	você aguantam com os recursos,
+1748880	1751120	tem que dúmminar os claramente,
+1751120	1753780	elestatístico,
+1753780	1755860	elestatística que ajuda muito,
+1755860	1756840	para você não,
+1756840	1757640	você pegatários,
+1757640	1758440	quando vocês sabem elestatística,
+1758440	1759960	então você consegue fazer
+1759960	1760240	infraestras,
+1760240	1760660	às vezes,
+1760660	1761660	só de observar o data savage.
+1761660	1762680	Você sabe a coisa,
+1762680	1765000	quais utilizem uma forma gezacohz rectilidade,
+1765000	1765920	então,
+1765920	1768720	que você sabe o estatístico, porque não é exatamente o bloquear,
+1768720	1773360	mas você consegue cortar caminhos e falar com mais segurança do que você está analisando,
+1773360	1775120	do que você está tentando prever.
+1775120	1778160	E por fim, mais importante para mim,
+1778160	1783160	e mais suguar lorizado, porque é o que hoje a maioria dos cientistas
+1783160	1785760	das não conhece tanto em formação.
+1785760	1788760	O que diferenciar a gente ir em uma interagência oficial,
+1788760	1790400	isso aqui, tá pessoal.
+1790400	1793560	O interagência artificial tem formação, mas ele não consegue conectar
+1793560	1795680	a informação, como é emoção.
+1795680	1797680	E a gente consegue, como ser humano,
+1797680	1801160	a gente consegue entender o que é o negócio,
+1801160	1804640	a gente consegue entender, basicamente, as novas vezes,
+1804640	1808080	né, gosto, quais fatores podem influenciar como que,
+1808080	1812200	e conectar, o melhor de fatores externos que o interagência artificial
+1812200	1814280	não vai conseguir, se a gente não passar.
+1814280	1817200	Então, a gente tem conhecimento de economia externa,
+1817200	1821640	do que acontece no preço das nossas vidas, da inflação,
+1821640	1823040	às vezes, de um modelo de negócio,
+1823040	1825600	então, pode estar fazendo um projeto de posicionário,
+1825600	1829120	é muito importante, você conhece a esse tablo no mercado de veículos.
+1829120	1832280	Então, saber, onde você está precisando é fundamental
+1832280	1835520	ao trabalhar com dados, porque ninguém quer virar,
+1835520	1839920	é tirar luz pastel e capazendo a painel, fazer um modelo,
+1839920	1842120	sem entender de fato que está acontecendo, né?
+1842120	1844360	Então, é muito fácil fazer um painel,
+1844360	1846080	vocês vão conseguir tranquilamente,
+1846080	1848560	é depois de rapidamente aqui,
+1848560	1851600	na伸ha semana, vocês vão conseguir fazer um painel de visualização,
+1851600	1857000	de dar-los tranquilamente, mas o que vai faltar é vocês em formação,
+1857000	1858080	experiência.
+1858080	1859280	É saber como analista é isso,
+1859280	1860120	a gente se identitidade,
+1860120	1862640	vocês vão conseguir entregar a louco, né, gosto?
+1862640	1864840	E é isso, muitas vezes, você só consegue
+1864840	1867480	experiência de você que quando chegar no oposição,
+1867480	1871360	às vezes não conhece do segmento, mas chegar ali, estudar,
+1871360	1874880	tentar fazer uma imensão para de fato entender onde você está
+1874880	1876360	precisando é fundamental,
+1876360	1879920	ao tentar prever e analisar dados.
+1879920	1882040	Então, vamos falar agora de competências técnicas,
+1882040	1884800	então, a gente tem muito medo ali do Python,
+1884800	1887760	mas eu já entrou aqui, eu acho um Python,
+1887760	1889240	não foi há muito incrível,
+1889240	1894240	ela é utilizada, por basicamente, nas três grandes espérias de quem trabalha com dados hoje,
+1894240	1897960	seja analista de dados, cientistas de dados, em dinheiro de dados,
+1897960	1900560	então, tem um trabalho muito grande de Python,
+1900560	1904560	uma população data-visc, que é a visualização de dados,
+1904560	1906040	e trabalho com a nuva também,
+1906120	1909200	aqui nós preocupamos, mas,
+1909200	1911640	hoje, a realidade é essa,
+1911640	1914280	e principalmente com a estápôndia cientista,
+1914280	1917360	e analista de dados, a entesismo,
+1917360	1919280	no basic estatístico, maior,
+1919280	1920560	a gente está meio chequilo que a gente falou,
+1920560	1922080	quando a gente está querendo fazer uma análise,
+1922080	1923560	ou prever alguma coisa,
+1923560	1926680	a gente tem uma controle, uma consciência,
+1926680	1929200	do que está acontecendo naquele dados, é fundamental,
+1929200	1930720	e é isso que a estatística traz,
+1930720	1931680	a gente consegue prever ali,
+1931680	1932160	ou te lá,
+1932160	1934800	é isso que são aqueles pontos fora da cúva,
+1934800	1936480	a gente consegue entender uma distribuição,
+1936480	1938480	ou se ela se aproxima em distribuição normal,
+1938480	1940240	a distribuição exponencial,
+1940240	1943960	a gente consegue ter toda essa visão com a estatística.
+1943960	1946160	Em conto isso, um aralista de dados,
+1946160	1948520	ele vai ser uma pessoa muito mais focada,
+1948520	1950680	ajudar a a outra gestão,
+1950680	1953240	com ferramentas já puha tomar a decisão,
+1953240	1954920	ou seja, a gente,
+1954920	1957960	através do que a gente tem hoje de dados,
+1957960	1961080	forcer para os tomadores de decisão,
+1961080	1964120	é ferramentas para aqueles sigam o caminho certo.
+1964120	1967360	Então, é isso que a diferença hoje,
+1967360	1970760	um profissional de gestão eficiente,
+1970760	1973560	de profissional não-ocente,
+1973560	1974720	isso é uma das maiores coisas,
+1974720	1977040	alguém que é capaz de analisar os dados
+1977040	1980520	e dos dados como insum para tomar a edição,
+1980520	1982400	e é isso que vocês vão fazer.
+1982400	1984160	Além de gerar a insights,
+1984160	1985480	então a gente vai ver como fazer isso,
+1985480	1987200	o panel é um das formas,
+1987200	1988560	mas não é estar a gente panel,
+1988560	1990880	se pode fazer um modelo que gera uma saída,
+1990880	1993920	que gera uma previsão mesmo com mais estes dados,
+1993920	1996400	pode gera um relatório que facilite a vida,
+1996400	1998960	que, enfim, com a gente argumentar da arma no al,
+1998960	2001480	você pode fazer, enfim,
+2001480	2005880	modelos de checks para verificar leicondições
+2005880	2009960	e chegar numa resposta final para algum tema,
+2009960	2012160	e o grande ponto é geração de sites.
+2012160	2013720	Então, independência que você vai fazer isso
+2013720	2015560	com o panel de parbear,
+2015560	2017560	com o código Python,
+2017560	2019160	e uma consulta SQL,
+2019160	2021760	o que você tem que fazer para a sua empresa
+2021760	2023360	vai ser gerais sites,
+2023360	2028240	que vão justamente fonecer esse apoio para tomar a edição.
+2028240	2032800	Então, aqui existe um conhecimento muito, muito, muito profundo, no negócio.
+2032800	2034880	Em possível a seleção de dar os dados,
+2034880	2038320	de algum tempo, se você não conhecei muito a fulgo,
+2038320	2042080	esse não é, obviamente, vai acabar falando deste tempo.
+2042080	2044080	Como sentiste de dados,
+2044080	2046560	o trabalho e a rotinão pouco diferente.
+2046560	2050960	O trabalho de vocês vai evoluir muito mais e olhar para a frente,
+2050960	2052400	então, construir modelos,
+2052400	2054280	botar esses modelos da prática,
+2054280	2055280	e ao depoio,
+2055280	2056920	e hoje em dia, de um ano para cá,
+2056920	2060560	trabalhar com modelos de linguagem.
+2060560	2062200	Então, eu utilizar as carramentas,
+2062200	2063520	eu preia ainda,
+2063520	2067520	eu não acompanho os os os os os ferramentas disponíveis e integrar isso,
+2067520	2070120	onde fulcigo dentro das organizações.
+2070120	2072560	Mas principalmente, então, aqui é o ferrimótiperem-se
+2072560	2074560	para mim, que o aeste de dados,
+2074560	2076760	é quando aeste de dados ele vai principalmente olhar
+2076760	2078760	para o passado e para o presente,
+2078840	2082760	onde cadores, números, painéis, códigos,
+2082760	2086000	para fornecer essa apoia à uma direcção,
+2086000	2088040	enquanto sentiste de dados,
+2088040	2090400	ele vai te dizer o que vai acontecer para a frente.
+2090400	2092680	Não é fazer modelos de previsão.
+2092680	2094920	Então, enquanto eu estou olhando por presente
+2094920	2096520	e para trás, outro,
+2096520	2097960	estou olhando para a frente,
+2097960	2101640	e é importante dizer que,
+2101640	2103320	o analista de dados consegue existir,
+2103320	2104680	se não sentiste de dados,
+2104680	2106560	então, hoje muitas organizações,
+2106560	2107920	só tem a identidade,
+2107920	2109680	mas não sentiste de dados,
+2109680	2111560	não consegue existir,
+2111560	2113280	se você é um trabalho de uma analista de dados,
+2113280	2114480	que acontece na prática,
+2114480	2117480	muitas vezes o analista é oralista, e sentiste também.
+2117480	2119080	E o sentista é muitas vezes também,
+2119080	2120560	tem que ser um pouco de analista.
+2120560	2122880	O mundo real não tem essas caixinhas,
+2122880	2125480	não tem essas caixinhas para dividir
+2125480	2126600	ele é posição de cada um.
+2126600	2128440	As sistemas analistas de dados que vai trabalhar
+2128440	2130080	mais como manipulação de dados,
+2130080	2132360	tem uma analidade com a trabalhar mais acompanhê-lo,
+2132360	2134840	tem uma analidade de dados que vai trabalhar mais com a automação,
+2134840	2136200	é por isso que é importante,
+2136200	2141160	tem esse generalismo saber quais são os seus habilidades
+2141160	2144520	que você pode ter no seu arsenal para trabalhar com dados.
+2144520	2147160	E por fim, tem um engenheiro de dados.
+2147160	2150040	Um engenheiro de dados é a pessoa que vai fazer os tartalais dados,
+2150040	2151920	enfim, pegar o tartalais na fonte,
+2151920	2154440	seja um aqui vexé, um e-mail,
+2154440	2158760	um servidor, um banco de dados,
+2158760	2160760	essa pessoa vai fazer essa fonte,
+2160760	2164840	e vai disponibilizar com a analista de que eu sentissei dados.
+2165000	2168400	Então, assim, já uma dica para vocês analiscentes de dados.
+2168400	2170280	Esse aqui é a verdade, viu?
+2170280	2172920	Fiquei a amiga do engenheiro de dados.
+2172920	2175280	Fiquei a amiga do engenheiro, porque ele vai estar aquela pessoa
+2175280	2178000	que vai salvar a vida de vocês, quando vocês precisaram,
+2178000	2180000	ou se vocês não precisaram ficar amigos,
+2180000	2182520	aprendam muito sobre uma população de dados.
+2182520	2183760	Porque esse é o trabalho deles,
+2183760	2186240	nem entregar o dado mais chegado para vocês,
+2186240	2189640	entregar ali para que você consiga como analista,
+2189640	2192680	confirmir gerar inteligência e como sentista,
+2192680	2195000	fazemos previsões a partir deles.
+2195000	2196800	Então, aqui, muito legal também,
+2196800	2199440	essa integração, o engenheiro de dados,
+2199440	2201680	ele não vive sem o analista de sentista,
+2201680	2205560	porque, basicamente, ele estaria entregando o dado para ninguém, né?
+2205560	2209000	Seria de eu lugar só o que o dia está o último ásio.
+2209000	2213120	O sentista e o analista são com som meu trabalho dele,
+2213120	2215080	e também precisam dele.
+2215080	2216720	Então, esse que é legal aqui em dados,
+2216720	2218440	é meio que o sistema,
+2218440	2221360	o engenheiro ajuda o analista de sentista,
+2221360	2225560	e pro gerar inteligente que o o analista entiz tem os dados mais chegados
+2225560	2227320	para fazer um bom trabalho,
+2227320	2229760	porque o engenheiro de�as vezes se queriam baixidômas,
+2229760	2233680	quando, da certo, ele acaba sendo recompensado também.
+2233680	2237000	E, por o sentista, ele é o cara que vai precisar do analista,
+2237000	2240720	e do engenheiro para que eu trabalho dele mais fácil.
+2240720	2243200	Então, ser ativeus dados todos preparados,
+2243200	2246800	encaminhados, e uma análise estatística avançada,
+2246800	2248960	já feita por um analista de dados,
+2248960	2251360	tudo que ele precisa fazer é sentar e fazer o modelo.
+2251360	2254760	Então, facilita muito o trabalho dos sentistas de dados,
+2254760	2259440	quando ele está em um ambiente e passeiria como analista e com engenheiro de dados.
+2259440	2262800	O que acontece no mundo real, é nem todos são fors.
+2262800	2264120	Então,
+2265400	2268000	com a extelidade que vai precisar fazer pagoagens,
+2268000	2270720	com engenheiro às vezes vai estar em outra demanda mais um engenheiro.
+2270720	2275000	Você vai fazer toda parte de análise de dados,
+2275000	2277520	e você é como analistidades também,
+2277520	2279320	às vezes não vermo no real, vai ser a aguarda,
+2279320	2281600	chegar a ser a falar o fulano.
+2281600	2283040	Bruno, preciso de ir,
+2283040	2285440	e você com uma lendidade,
+2285440	2288480	você vai ter que dar um jeito de saber conversar com aquilo,
+2288480	2291600	porque você às vezes é o ponto focal de dados na empresa.
+2291600	2294320	Então, é importante saber conversar,
+2294320	2296480	saber caminhar para os emails,
+2296480	2298480	saber o que cada um faz,
+2298480	2299320	e,
+2299320	2303840	essa onde cada um se encaixa nesse sistema de dados.
+2303840	2305280	Competências técnicos,
+2305360	2307600	então, vamos lá, pessoal, o Pai,
+2307600	2308000	o Pai,
+2308000	2310000	você que é para muita gente,
+2310000	2310720	para alguns não,
+2310720	2311360	mas para muita gente,
+2311360	2313120	a gente vai ajudar o ponto mais na computador,
+2313120	2314480	não inicio dessa jornada,
+2314480	2315840	que no bootcamp,
+2315840	2317520	eu já estiver aqui também,
+2317520	2320160	eu comecei a programar um conceito
+2320160	2322320	em 2013,
+2322320	2322960	e,
+2322960	2323520	você falou,
+2323520	2325360	não foi uma experiência legal,
+2325360	2327920	não foi uma coisa assim,
+2327920	2328400	que eu falei,
+2328400	2328880	nossa,
+2328880	2329360	sentei,
+2329360	2331760	estou apaixonado com programação,
+2331760	2332960	não foi.
+2333920	2335920	Eu me apaixonei para programação,
+2335920	2336720	assim, vamos dizer,
+2336720	2338400	quando você tem mais contato com o Pai,
+2338400	2340400	estão em 2019,
+2340400	2341120	e eu me apaixonei,
+2341120	2342000	não pela ferramenta,
+2342000	2343120	mas para o que ela oferece.
+2343120	2344480	Então, pela facilidade,
+2344480	2347440	conseguir manipular um conjunto de dados,
+2347440	2348960	poder consultar,
+2348960	2351360	bibliotecas de fontes externas,
+2351360	2353440	fazer um bântico de leitura,
+2353440	2354240	de PDF,
+2354240	2355680	transformar a aula de um fim.
+2355680	2357280	O Pai está muito flexível,
+2357280	2358640	e eu fiquei apaixonado,
+2358640	2359840	quando disse que eu apaixonado,
+2359840	2361680	pelo que a entrega não pela ferramenta.
+2361840	2362800	E aqui,
+2362800	2364400	a gente pode ver exatamente isso,
+2364400	2365360	pessoal que já está,
+2365360	2366240	já foi enjava,
+2366240	2367280	já me escripte,
+2367280	2368720	galera do C,
+2368720	2369440	se achar,
+2369440	2370800	se é mais mais,
+2371200	2371840	gente,
+2371840	2373520	vocês estão começando hoje no Pai,
+2374080	2374320	mas,
+2374320	2375840	que vocês começaram a dirigir no
+2375840	2377200	na época que já tem
+2377200	2378560	todo o carro de segurança,
+2378560	2380160	essa galera aqui começou na época,
+2380160	2381520	que era carroso.
+2381520	2382400	Então,
+2382400	2385200	essa galera pegou uma época que o fóxico
+2385200	2385920	arraído,
+2385920	2386960	pode se precisar não entender
+2386960	2388400	muito mais programação,
+2388400	2389600	hoje a gente está caminhando
+2389600	2390240	com o nível,
+2390240	2391760	que cada vez menos você vai precisar,
+2392800	2393840	entender dos detalhes,
+2393840	2394880	técnicos da noância,
+2395600	2396480	e fazer,
+2396480	2398000	e você vai precisar cada vez mais,
+2398560	2399680	tem a capacidade de ter que
+2399680	2400480	que ele entrega com a gente,
+2400480	2401280	tá pegindo,
+2401680	2402480	que é basicamente
+2402480	2403680	organizar suas ideias.
+2403680	2404640	E a gente ainda mais
+2404640	2405520	condimento na
+2405520	2406880	bêteria de gente artificial,
+2407280	2408400	virou cada vez menos
+2408400	2409040	importante,
+2409040	2410320	como você vai fazer,
+2410720	2411600	e cada vez mais
+2411600	2413840	importante o que você vai fazer.
+2413840	2414240	Então,
+2414240	2414560	por exemplo,
+2414560	2415520	tem o caminho certo,
+2415520	2417120	porque como você vai chegar
+2417120	2417600	lá,
+2417600	2418480	provavelmente,
+2418480	2419440	hoje no dia não é o ponto
+2419440	2420080	principal.
+2420560	2421280	E é isso aqui,
+2421280	2422320	o pai estão amalingagem
+2422320	2423360	extremamente simples,
+2424000	2425840	ela meio que,
+2425840	2426880	para bem entendendo inglês,
+2426880	2427200	então,
+2427200	2427920	mais fácil ainda,
+2427920	2428880	porque ela tem
+2429280	2430720	os objetos fixos dela
+2430720	2431280	inglês,
+2431280	2431520	então,
+2431520	2432720	eu for o alho,
+2433360	2434480	o enf,
+2435280	2435920	é você,
+2435920	2436480	então,
+2436480	2437520	fazendo essas conversas,
+2437520	2438000	esse tratudo
+2438560	2439360	muito mais fácil,
+2439360	2440080	às vezes,
+2440080	2441680	você parece que está conversando
+2441680	2442560	com o bójono,
+2442560	2444240	diferente desses
+2444240	2445200	lugares aqui,
+2445440	2446160	que a linguagem
+2446160	2447120	justamente em coisas
+2447120	2447520	pontos aqui,
+2447520	2448080	assustador,
+2448080	2448720	você não pode
+2448720	2449280	de jágonha,
+2449280	2449920	é igual a cara
+2449920	2451440	desse lugar não aqui,
+2451440	2453280	você viveira assustado.
+2455040	2456720	E passando um pouco
+2456720	2456960	aqui,
+2456960	2457920	e o bójono de jágonha,
+2458960	2459760	falando aqui,
+2459760	2460640	primeiro sobre o
+2460640	2461360	arregidados,
+2461840	2462160	aqui,
+2462160	2463360	eu só vou ter em uma,
+2463360	2464000	mas,
+2465040	2465520	na verdade,
+2465520	2465840	eu vou falar aqui no
+2465840	2467040	primeiro sobre as 3C entrar,
+2467680	2468720	pão das mate colachilíb
+2468720	2469520	e num pai.
+2470080	2471360	Essas são as 3C
+2471360	2474000	pais de jágonha de jágonha
+2474000	2474880	para ficar um chefe
+2474880	2475200	o direto,
+2475200	2476000	praticamente,
+2476000	2476880	toda a habilidade,
+2477520	2478560	o pai, o pão das
+2478560	2479200	é um
+2479200	2480720	biblioteca para manipulação de
+2480720	2481200	dados,
+2481200	2481760	então,
+2481760	2484000	é o Excel do pai,
+2484000	2484160	então,
+2484160	2484960	onde você consegue
+2484960	2486640	encargar os dados,
+2486640	2488000	fiar por umas,
+2488000	2489280	selecionar as como as
+2489280	2490080	vocês querem,
+2490080	2491440	fio para valores,
+2491440	2492160	enfim,
+2492160	2493760	para encher valores nulos,
+2493760	2494720	vocês não sabem fazer
+2494720	2495600	tudo no pão das
+2495600	2496880	é uma pena de ter a
+2496880	2498000	universidade,
+2498000	2498640	no começo,
+2498640	2500240	pode ser um pouquinho acestador,
+2500240	2500960	mas o pão das
+2500960	2502640	ele é muito intuitivo
+2502640	2503600	e simples,
+2503600	2504400	depois que você pega o
+2504400	2505280	gente um deiro e bia,
+2505280	2506080	ele vai começar
+2506080	2506240	e,
+2506240	2507120	também na,
+2507120	2508080	na próxima aula,
+2508080	2509840	meu feramento incrível,
+2510800	2511520	é meio que pode
+2511520	2511840	livre,
+2511840	2513200	e para a visualização,
+2513200	2514160	então,
+2514160	2514720	o mais que pode ser
+2514720	2515280	ele não é nenhum,
+2515280	2515920	pode beirreir,
+2515920	2517360	o tempo de
+2517360	2519280	qualidade de visualização,
+2519280	2519760	mas ele é
+2519760	2521120	extremamente flexível,
+2521120	2521520	então,
+2521520	2522400	você consegue fazer
+2522400	2523680	a visualização
+2523680	2524800	do jeito que você quiser,
+2524800	2526160	em companhia de detalhes,
+2526160	2527680	tem muitos parâmetros,
+2527680	2528320	então,
+2528320	2528960	você consegue integrar
+2528960	2529760	ele com a matemia,
+2529760	2529920	é,
+2529920	2531360	tem várias sonalidades,
+2531360	2531680	como a gente pode
+2531680	2532400	devender uma pena
+2532400	2533520	um extremamente versátilha,
+2533520	2534400	e recomendo ser de
+2534400	2534960	para vocês,
+2534960	2535600	é de,
+2535600	2536560	a primeira opção,
+2536560	2538160	tem um de visualização de dados,
+2539120	2540320	um Python,
+2540320	2540560	é,
+2540560	2541280	num Python,
+2541280	2542480	num Python,
+2542480	2542560	é,
+2542560	2543520	há somente um
+2543520	2544160	looteiro,
+2544160	2545440	aqui eu pedação de matemática,
+2545440	2546160	então,
+2546160	2546960	ali se você quer fazer
+2546960	2548560	uma raiz quadrada,
+2548560	2549920	uma exponencial,
+2549920	2550960	se quer fazer
+2550960	2552160	uma função beta,
+2552160	2552480	enfim,
+2552480	2553600	uma coisa de tipo,
+2553600	2554400	você não vai lá,
+2554400	2555600	e vai definir a função,
+2555600	2557600	como um Python já tem esses,
+2557600	2558400	esses,
+2558400	2558800	esses,
+2558800	2560640	esses funções dentro dele,
+2560640	2560800	né,
+2560800	2561920	então ele tem a biblioteca,
+2561920	2562960	tem as funções,
+2562960	2564640	tem os métodos e classes,
+2564640	2565200	então você era
+2565200	2566240	dentro de,
+2566240	2566960	do meu Python,
+2566960	2568320	consegue usar os métodos
+2568320	2569280	para fazer o operativo
+2569280	2569840	em matemática,
+2569840	2571840	e ganhar tempo.
+2573040	2573600	Seborn,
+2573600	2574640	é uma fechamento,
+2574640	2575680	mais estatística,
+2575680	2576160	por isso,
+2576160	2576720	vou bloquear que
+2576720	2577200	entre analistos
+2577200	2578480	indiscitidades,
+2578480	2579200	o seborn
+2579200	2579840	é construído
+2579840	2580320	em cima do mais
+2580320	2581440	ponto de libero,
+2581440	2583120	fazer muito legal para visualização
+2583120	2584240	enganalistatística,
+2585360	2588320	então na parte de pet potas,
+2588320	2588960	sendo me dando,
+2588960	2589760	é na explenci 2,
+2589760	2591200	a gente vai começar os aos seborn,
+2591200	2591760	ele é uma feira
+2591760	2592560	amistatística,
+2594320	2595520	mais voltada para analista
+2595520	2596560	e sentisse de dados,
+2597760	2599200	na visão de pacificidade,
+2599200	2600560	todos os as biblioteques
+2600560	2601760	são bibliotecas
+2601760	2604800	específicas de machine learning
+2604800	2607200	e LLMS,
+2607200	2608320	então o que a gente tem um site
+2608320	2609280	que te learning,
+2609280	2610880	que a principal biblioteca
+2610880	2611920	de machine learning
+2611920	2613360	então lá você se tem um usadoritimo
+2613360	2614640	de principais algoritmos,
+2614640	2615840	a originalização,
+2615840	2617360	a Rainbow Forest,
+2617360	2618320	a Negração Uninear,
+2618320	2619840	a Negração Logista,
+2619840	2621360	então todos esses principais algoritmos
+2621360	2621760	estão lá,
+2621760	2623360	a Amazonas do site de learn,
+2623360	2624560	então é muito prática,
+2624560	2625920	você não precisa
+2625920	2627040	criar o algoritmo,
+2627040	2627920	então isso é muito legal com
+2627920	2629360	2,3 dias de código,
+2629360	2630160	você consegue usar
+2630160	2631360	tudo que o site tem
+2631360	2633200	para o Thereseno um nível
+2633200	2634400	muito complexo,
+2634400	2635520	então ele amistraima
+2635520	2637840	também, ele pega ele um algoritmo gigante
+2637840	2640080	e complexo com um algoritmo
+2640080	2641600	com o Rainbow Forest,
+2641600	2643920	ele concentra de 2 de nisso de código
+2643920	2645680	e ele está mistrado em muito prosoal,
+2645680	2647040	facilita a vida,
+2647040	2651520	porque ele é uma construção
+2651520	2653920	para a extrair rede neurais,
+2653920	2655680	então ele está em seu flow
+2655680	2656880	que é a base de
+2656880	2658240	que são tempestores,
+2658240	2660080	é a base das redes neurais do
+2660080	2661040	de energia
+2661040	2662960	e construir ele
+2662960	2665440	basicamente em interface
+2665440	2666160	que você consegue
+2666160	2667840	poder estar mais quase construído
+2667840	2668960	a rede neurais,
+2668960	2669680	tradicionales,
+2669680	2671360	nós adicionar conexões
+2671360	2673040	mais básico que elas,
+2673040	2674720	o LinkedIn é um feramento
+2674720	2676400	sim instado da arte
+2676400	2678000	de 2 anos para a cada um dos
+2678000	2679600	que espalhe com o meu atécoles,
+2679600	2681920	temos de integração
+2681920	2683600	de modelas de linguagem
+2683600	2684800	gigantes,
+2684800	2686080	com fútres
+2686080	2687040	informações,
+2687040	2688240	de populistas,
+2688240	2689680	então o lentilhão ferramenta
+2689680	2691040	que serve para integrar,
+2691040	2691760	por exemplo,
+2691760	2693680	aí a o chat IPT
+2693680	2696080	com o seu banco de dados entérios,
+2696080	2697280	então esse é um projeto que eu já
+2697280	2698640	passe a IPT também,
+2698640	2700640	é para o jeito de chat bot,
+2700640	2702720	então a gente botou o GPT,
+2702720	2704480	a GPT4,
+2704480	2706880	como um chat bot de uma Copaníria,
+2706880	2708320	e o contexto que for nesse
+2708320	2710640	o praeve foi o Lamed Chenhante,
+2710640	2712160	fez do Lamed Chenhante,
+2712160	2713520	então a gente fez uma consulta
+2713520	2715280	no banco de dados da empresa,
+2715280	2716560	jogou esse contexto de
+2716560	2718240	quenharo clientes de cada
+2718240	2719360	conversa,
+2719360	2721120	para o Apeido GPT,
+2721120	2722400	então ele chegava a
+2722400	2723520	antes de conversar com o Bruno,
+2723520	2725120	já sabia que o Bruno
+2725120	2726400	tem 30 anos que o Bruno
+2726400	2727840	é de Brasil, que o Bruno fez
+2727840	2729440	em jéria de produção no NB,
+2729440	2730800	que o Bruno trabalha agora no Bruno
+2730800	2731440	para refugar,
+2731440	2732960	então ele sabia tudo isso
+2732960	2735040	antes de conversar com um
+2735040	2736160	um cliente,
+2736160	2737440	e o Apebústio também,
+2737440	2739040	porque hoje em termos de
+2739040	2740400	classificação a regressão
+2740400	2741280	dos modelos mais,
+2741280	2742960	mais tem forma mágicos que existe,
+2742960	2744480	mas também é uma
+2744480	2746720	construção em cima do marro de decisão,
+2746720	2747760	então sem de forder,
+2747760	2749440	coisa de mais de 70 anos atrás.
+2750640	2752000	Os jéus dados aqui,
+2752000	2753680	é muito interessante a mineração de dados,
+2753680	2755040	e que a gente não vai entrar no detalhe,
+2755040	2756560	mas em geração de dados
+2756560	2757440	não tem muito legal,
+2757440	2759440	principalmente para um analisto
+2759440	2760400	e cientista que está querendo
+2760400	2761600	confrir o boste folho,
+2761600	2762880	e existem escodades,
+2762880	2764480	e que conseguiram dataça
+2764480	2765680	sobre um termo específico
+2765680	2766720	que interesse,
+2766720	2767520	então às vezes vocês vão
+2767520	2768880	ter que votar nozinho aqui,
+2768880	2771360	é muito difícil sobre seu lênio,
+2771360	2774720	e para sentir se ditados,
+2774720	2776560	como é se trabalhar,
+2776560	2778080	em conjuntos de dados no Apeores,
+2778080	2779360	a encher entre no Bíguida,
+2779360	2780560	então aqui a gente,
+2780560	2782000	o pôr das eleastralmente
+2782000	2783120	perform mais,
+2783120	2784720	quando está falando de,
+2784720	2786400	é usar CPU,
+2786400	2787840	que é isso que a maioria dos computadores
+2787840	2791280	tem é o 7 e 5 e se é o CPU,
+2791280	2793120	então o pôr nos elebe muito bem feito,
+2793120	2793920	muito bem organizado
+2793920	2795920	para fazer as operações ali,
+2795920	2797200	no CPU,
+2797200	2798400	mas quando a gente passa
+2798400	2800160	para com rio de dados de piquetata,
+2800160	2802880	então ali mais de 3, 4 milhões de dados,
+2802880	2804320	fomos muitas columnas,
+2804320	2806160	o pôr nos elecado não tem performance,
+2806160	2807200	por sificiente,
+2807200	2809120	então vai demorar
+2809120	2811120	meses para você fazer
+2811120	2812560	operação que quiser,
+2812560	2813120	e por isso,
+2813120	2814000	o pais parte,
+2814000	2814640	o pais parte,
+2814640	2816160	o diferente do pôr nos elem,
+2816160	2816960	não usa CPU,
+2816960	2818560	e usa GPU,
+2818560	2820320	então ali usar um idade de processamento
+2820320	2822080	o gráfico do seu computador,
+2822080	2823440	se focazo,
+2823440	2824640	ou da lube,
+2824640	2825200	também,
+2825200	2826560	não já existe,
+2826560	2828560	mas ele usa a unidade de processamento gráfico,
+2828560	2829200	porque o diferente
+2829200	2830160	da CPU,
+2830160	2832320	ela não processa das tarefas em série,
+2832320	2832800	a CPU,
+2832800	2834400	ela vai dizer que o tomomo
+2834400	2835920	tem o inôr com a mais saluta,
+2835920	2836800	a GPU,
+2836800	2837600	ela consegue
+2837600	2840480	executar para ela as tarefas,
+2840480	2841280	então, por isso,
+2841280	2842080	para a conjuntidade
+2842080	2842880	muito grande,
+2842880	2843600	é necessário
+2843600	2845040	para a gente usar a GPU,
+2845040	2846400	e o pais parte
+2846400	2847440	é uma construção,
+2847440	2848240	mas o que eu cheio
+2848240	2849920	é o pais parte,
+2849920	2851200	é o pão das
+2851200	2852720	tonadas,
+2852720	2853440	porque ele é um
+2853440	2854480	muito similar ao pão,
+2854480	2855200	vocês vão ver,
+2855200	2856320	mas ele
+2856320	2857760	é muito mais rápido,
+2857760	2858880	justamente para ele fazer
+2858880	2861520	uso da unidade de processamento gráfico,
+2861520	2862480	mas também,
+2862480	2863520	muitas vezes,
+2863520	2864720	é muito custoso,
+2864720	2865200	é difícil,
+2865200	2865920	você está lá mais
+2865920	2866720	para o localmente
+2866720	2867920	nossa máquina,
+2867920	2869360	porque tem que acensar
+2869360	2871520	a liga de população GPU e tal,
+2871520	2871920	então,
+2871920	2872720	hoje em dia principal,
+2872720	2874640	hoje dia utilizado,
+2874640	2875680	é em ferramentas
+2875680	2876720	como da tabricas,
+2876720	2877760	como o colábica,
+2877760	2878560	oferece em ele,
+2878560	2879040	também lá,
+2879040	2880560	nativamente,
+2880560	2882000	e o flask,
+2882000	2883600	o flask é uma,
+2883600	2884400	a pressão,
+2884400	2885520	a pessoa já trabalhou
+2885520	2886320	com o fronchei,
+2886320	2887360	e bem quem
+2887360	2889520	é programar o web,
+2889520	2890080	o flask,
+2890080	2891040	ele é uma
+2891040	2892640	biblioteca para servir
+2892640	2893440	o nosso modelo,
+2893440	2894640	o impacto,
+2894640	2895280	então,
+2895280	2896080	que vão ser a digital,
+2896080	2897040	você vai criar o seu modelo,
+2897040	2897600	e você vai querer
+2897600	2899040	que ela não confuma ele,
+2899440	2900800	pode ser um lado da forma,
+2900800	2901760	pode ser um aplicativo,
+2902800	2904000	ou pode ser direta,
+2904000	2905280	que eu vou usar,
+2905280	2905600	então,
+2905600	2906800	a gente faz um em de ponto,
+2906800	2908320	que como se fosse,
+2908320	2910080	um perrindo do modelo,
+2910080	2911120	e alguma região,
+2911120	2912480	um site,
+2912480	2914400	e o flask é que a gente proporciona
+2914400	2914800	isso,
+2914800	2916080	então, deixa aquela,
+2916080	2917520	é portinha bem,
+2917520	2918720	para receber uma chamada
+2918720	2920160	e fornecer a resposta,
+2920160	2920960	dando um supril Google
+2920960	2922160	e você tem uma lá para frente.
+2924160	2924720	Vamos lá,
+2924720	2926320	tipo de análise de dados,
+2926320	2927600	quais são hoje os principais
+2927600	2928880	tipos de análise de dados?
+2929360	2930160	E aqui,
+2930160	2931360	a gente vai entrar com a gente
+2931360	2932880	de diferenciar um análista
+2932880	2934000	de uns cientificidades.
+2934800	2936000	Um análista pessoal,
+2936000	2936960	vai estar focado
+2936960	2938880	muito nesses dois primeiros pontos,
+2939280	2940640	o que aconteceu
+2940640	2942000	e por que aconteceu?
+2942400	2943600	E sendo bem sincero,
+2943600	2944400	hoje,
+2944400	2945680	quase todo empreendedor,
+2945680	2946880	praticamente todo empreendedor,
+2946880	2948400	ele consegue chegar a esses dois níveis.
+2949040	2949600	Não,
+2949600	2951120	e o que vocês vão chegar
+2951120	2951920	é que podem terminar em que
+2951920	2952800	você tem.
+2952800	2953440	Mas hoje,
+2953440	2954960	e todo mundo tem uma noção,
+2954960	2955760	do que aconteceu
+2955760	2956320	com o negócio dele,
+2956320	2957120	é semana,
+2957120	2957920	vem demais,
+2957920	2958880	vem de menos,
+2959600	2960640	é chuveu,
+2960640	2962160	e por que aconteceu?
+2962160	2963760	Vende mais que
+2963760	2964800	chuveu muito,
+2964800	2965760	então pessoal,
+2965760	2967520	pediu pela fúdia,
+2967520	2968720	é vende de menos,
+2968720	2970160	porque está afinal de
+2970160	2970480	mês,
+2970480	2972000	e pessoal não crescui o dinheiro,
+2972000	2973600	então o empresário tem essa noção.
+2974320	2975280	Bom, sem ter esse nome
+2975280	2976640	no nível de administração,
+2976640	2978080	mas ele tem essa noção.
+2978400	2979840	E o próximo passo aqui,
+2980240	2981760	que quase ninguém tem,
+2982800	2984320	prevê o que vai acontecer,
+2984800	2985920	porque geralmente é isso.
+2985920	2987120	É muito pequeno,
+2987120	2987920	ele está entendendo o que está
+2987920	2989280	acontecendo, mas muitas vezes
+2989280	2990560	ele está correndo atrás do próprio
+2990560	2991360	rabo.
+2991360	2992560	E não consegue prever quando
+2992560	2993200	quando o rabo tem
+2993200	2994000	seja novo,
+2994000	2994960	não sabe quais são os
+2994960	2996480	fatores que causaram aqui,
+2996480	2998080	às vezes ele sabe o que aconteceu,
+2998080	2999360	ele sabe o poupê aconteceu,
+2999360	3000560	mas ele não sabe.
+3000560	3002560	Quando quer provável de acontecer de novo.
+3002960	3004560	Então aqui, quem começa a entrar
+3004560	3006000	a análise de essência de dados,
+3006000	3008160	principalmente a essência de dados aqui,
+3008160	3010240	como um análise de dados
+3010240	3011200	dando esse instrumento,
+3011200	3012080	o que aconteceu,
+3012080	3013200	porque aconteceu
+3013200	3014480	e quais são a principais
+3014480	3016320	fatores que levaram aqui?
+3016320	3017280	Então,
+3017360	3018400	a gente sabe que na testa
+3018400	3018880	é verdade,
+3018880	3019040	é verdade,
+3019040	3019600	é verdade,
+3019600	3021360	porque, final de mês,
+3021360	3022720	porque é chuveu,
+3022720	3023680	e porque,
+3023680	3024560	se é uma na passada,
+3024560	3026160	a gente teve 5 avaliações
+3026160	3026720	ruins,
+3026720	3028720	e isso está gerando um
+3028720	3030560	bèfio de pra gente na plataforma.
+3030960	3032400	O que é provável de acontecer?
+3032400	3033680	A gente seguir esse fluxo,
+3033680	3034400	você é uma hora que vem,
+3034400	3035440	a gente está prevendo
+3035440	3037200	uma redução no número de pedido,
+3037200	3038400	aqui, 10%
+3038400	3040880	pouca uso de decidez e desse patou.
+3040880	3042000	Então, esse é um exemplo
+3042000	3043360	de uma integração ali,
+3043360	3044240	não trabalho
+3044240	3046720	do sentilidade com a na lista de dados.
+3047040	3048080	E, por fim,
+3048480	3050000	é, qual decidão tomar,
+3050000	3050800	então,
+3050800	3051440	ele
+3052000	3053920	o trabalho do analista de dados,
+3053920	3055440	com centilitividade,
+3055440	3056800	contando toda esse história,
+3056800	3057600	do que aconteceu?
+3057600	3058800	Porque aconteceu?
+3058800	3060800	Onde é provável de acontecer?
+3060800	3062000	O gestor,
+3062000	3062560	a pessoa ali,
+3062560	3064720	que vai estar na posição de tomar decidão,
+3064720	3066160	vai ter todos os ensinos
+3066160	3067440	para saber que ele está tomando
+3067440	3068640	a decição certa.
+3068640	3069440	E novamente,
+3069440	3070080	pessoal,
+3070080	3071440	a principal habilidade
+3071440	3072160	de progestor,
+3072160	3073040	e qualquer posição,
+3073040	3074400	não sei que o mentir humém,
+3074400	3076000	saber que tomar decidão
+3076000	3077680	baseada em dados.
+3077680	3078880	Acabou que ele é negócio de
+3078880	3080240	film, de mercado,
+3080240	3081600	experiência.
+3081600	3082880	Não, hoje eu estou aqui,
+3082880	3084560	não estou uma decição basear em dados,
+3084560	3087360	ele tem um de chino certo,
+3087360	3088640	que é o disempreio.
+3090080	3091120	Vamos lá.
+3091120	3092400	É metodologia,
+3092400	3093760	Cristin,
+3093760	3095840	é isso que é principal metodologia,
+3095840	3096560	que a gente usa
+3096560	3097520	para trabalhar com dados,
+3097520	3097840	aí, então,
+3097840	3098960	para narres e quanto para a
+3098960	3100320	cência de dados.
+3100320	3101280	Então,
+3101280	3102240	a modelinha,
+3102240	3103040	meio confuso,
+3103040	3104000	mas vamos começar
+3104000	3104880	por aqui,
+3105040	3106960	é o entendimento do negócio.
+3106960	3107200	Então,
+3107200	3108160	que na gente já falou
+3108160	3109920	que está trabalhando com dados,
+3109920	3110960	é importante,
+3110960	3111760	por sentista,
+3111760	3113360	por jornalista,
+3113360	3113920	e às vezes,
+3113920	3114720	até por um dinheiro,
+3114720	3116080	mesmo que menos,
+3116080	3116800	entendeu,
+3116800	3118640	do negócio que ele está trabalhando,
+3118640	3119760	você vai cortar caminhos,
+3119760	3120960	e você vai ter
+3120960	3121760	insais,
+3121760	3122880	você vai ter
+3122880	3124400	ideias que você não teria,
+3124400	3126240	se você interesse com a negócio a fome,
+3126240	3127200	então, esse é o primeiro base,
+3127200	3128400	qualquer projeto,
+3128400	3128960	qualquer vai,
+3128960	3130000	o queuriesse interessar para
+3130000	3131440	essa esse sentido,
+3131440	3132320	tem entender esse
+3132320	3133040	o que é bom por aí,
+3133040	3134160	é isso que o negócio
+3134160	3135920	tem onde você poderia ajudar,
+3136960	3137440	e,
+3137440	3138080	segundo passo,
+3138080	3139440	tem entender com que são os dados
+3139440	3140240	dessa empresa,
+3140240	3140640	né?
+3140640	3142000	É como que é o
+3142000	3143200	o vem de dados hoje?
+3143200	3145040	Eu tenho um data warehouse
+3145600	3146320	que é um
+3146320	3148080	estados organizados na
+3148080	3148960	Nouve,
+3148960	3150640	eu tenho um banco de dados
+3150640	3152320	bocar a ONU,
+3152320	3154640	eu tenho o palírias de Excel,
+3154640	3155760	eu tenho pessoal receber
+3155760	3156800	dados por e-mail,
+3156800	3158400	eu tenho esse FTP que
+3158400	3159360	ao servidor
+3159360	3160640	a STR,
+3160640	3161440	enfim,
+3161440	3163040	dentro de tudo isso,
+3163120	3164160	onde que estão os dados,
+3164160	3165440	como são os dados?
+3165440	3166960	São variáveis no méricas,
+3166960	3168640	o que são as colunas?
+3168640	3170080	O que é cada valor?
+3170080	3171120	Então, é um trabalho
+3171120	3171840	chistato,
+3171840	3172640	sinceramente,
+3172640	3173840	muitas vezes,
+3173840	3174880	porque os seus
+3174880	3175840	vezes já cai em promodeu,
+3175840	3177440	já tem que construir o painel
+3177440	3178880	para ter os sites não,
+3178880	3179600	às vezes,
+3179600	3181280	se vai perder uma parte do seu trabalho,
+3181280	3181840	às vezes, dois,
+3181840	3182880	três dias,
+3182880	3184640	tem também tendo o dado,
+3184640	3186240	tem certeza daquilo,
+3186240	3187300	tem como são
+3187300	3188240	distribuições das suas
+3188240	3189920	variáveis no méricas,
+3189920	3191200	tem entender o que
+3191200	3192720	pode ser feito para o que ele dá,
+3192720	3193920	o que ele gera,
+3193920	3194960	se hoje em dia,
+3194960	3196320	é o pessoal monitor,
+3196320	3199040	é o que são os principais indicadores,
+3199040	3199200	então,
+3199200	3200640	é um trabalho muito bem-isso,
+3200640	3201600	de entender tudo aquele
+3201600	3202560	elemento de dados,
+3202560	3203680	e do negócio,
+3203680	3204240	para que é isso,
+3204240	3205280	a gente conseguir botar
+3205280	3206240	no ar,
+3206240	3208480	que é preparar os dados,
+3208480	3209760	os dados no mundo real não,
+3209760	3210400	que só não chega
+3210400	3210880	o britinho,
+3210880	3211600	pessoal,
+3211600	3212800	vai vir muito dado
+3212800	3213360	quebrado,
+3213360	3214960	muito ele ainda faltando
+3214960	3215840	colônia,
+3215840	3216640	com o nome errado,
+3216640	3217280	o que a gente vai ter que
+3217280	3218080	de estar,
+3218080	3218480	então,
+3218480	3218880	estúvia,
+3218880	3219920	que a gente vai ver o almo do custo,
+3219920	3220240	também,
+3220240	3220640	por isso que é
+3220640	3221120	importante,
+3221120	3222160	você saiba um mâneico
+3222160	3223200	los dados,
+3223200	3224720	porque o mundo real não
+3224720	3225200	é,
+3225200	3227120	como na maioria dos cursos,
+3227120	3227840	se você vai pegar de
+3227840	3229600	o pojo de dados do itinho,
+3229600	3231040	e conseguir construir,
+3231040	3231840	se vai ter que juntar
+3231840	3232880	coisas de muito lado,
+3232880	3233920	você vai ter que
+3233920	3236160	trabalhar para igarantir,
+3236160	3236880	se que o final
+3236880	3237680	é o dificil bonito,
+3237680	3238080	então,
+3238080	3239120	é um trabalho de benghe,
+3239120	3239920	botar monamassa,
+3239920	3240400	mesmo,
+3240400	3241440	limpar,
+3241440	3242480	tirar a poeira
+3242480	3243040	dos dados,
+3243040	3243840	garantir o que ele fique
+3243840	3244880	inteiro,
+3244880	3245440	modelar,
+3245440	3246960	e assim,
+3246960	3247840	tanto para a na escola de
+3247840	3249440	placenta idade,
+3249440	3251360	para a na realidade relacionar
+3251360	3252560	diferentes tabelas,
+3252560	3253920	diferentes cosos de dados,
+3253920	3255840	os já usam a chave iprimária,
+3255840	3257440	para criar o seu modelo de dados,
+3257440	3258560	que você vai levar em fim,
+3258560	3259520	para o par de aéprote,
+3259520	3261760	para fazer as suas análises,
+3262720	3264160	ou também pode modelar em pai,
+3264160	3265360	então a gente pode juntar
+3265360	3267520	vários conjuntos de dados
+3267520	3268560	e o que só nos pando,
+3268560	3270320	então a límica vem a critério
+3270320	3271280	do oral de cidados,
+3271280	3272720	como o modelo dados,
+3272720	3274560	mas para o sentido de dados a
+3274560	3275200	modelagem,
+3275200	3276320	é basicamente escolher,
+3276320	3277760	que o algoritmo ele vai usar,
+3277840	3279600	qual previsão ele vai tentar fazer,
+3279600	3282400	qual conjunto garantir o pojuto de treino,
+3282400	3284880	não está vazando o pojuto de teste,
+3284880	3286320	então todos esses detalhes,
+3286320	3288480	ele é um sentido de dados,
+3288480	3291360	ele vai ter que tomar na modelagem,
+3291360	3293680	também vai entrar a forma longo do curso,
+3293680	3295200	e depois, no que a gente faz
+3295200	3295840	conosco modelo,
+3295840	3297200	vamos ter que avaliar,
+3297200	3298480	trô uma analisidade de forma
+3298480	3299600	muito listo sobre o leaco,
+3299600	3300240	o panel,
+3300240	3302240	garantir que ele está com os indicadores,
+3302240	3304160	é muito o vêm vai com a alta gestão,
+3304160	3305440	que ele vai estar consumindo,
+3305440	3306080	aquele panel,
+3306080	3306720	propriamente,
+3306720	3308000	ou com a operação,
+3308000	3308960	então,
+3308960	3310160	é você levar por cliente,
+3310160	3311440	garantir que ele está entregando o valor
+3311440	3312400	por cliente,
+3312400	3313680	porque,
+3313680	3315200	que nem a gente sempre fala o panel,
+3315200	3316480	o panel não entrega nada,
+3316480	3318080	o que entrega o valor,
+3318080	3320160	que você agrega um que está construindo
+3320160	3320640	ali,
+3320640	3322240	pois vão as suas torre,
+3322240	3323200	então,
+3323200	3324720	é um trabalho também muito de tal,
+3324720	3326080	com com um cliente,
+3326080	3328160	com o empasseiro com o cliente
+3328160	3329600	do projeto,
+3329600	3331840	garantir que ele
+3331840	3333280	esteja sendo ouvido,
+3333280	3334160	porque se gostei,
+3334160	3335120	se ficaria no seu mundo,
+3335120	3335920	posto-e no panel,
+3335920	3336880	chegue no fiburgênio,
+3336880	3338160	entrega nada de valor,
+3338160	3339440	pode ser o panel mais bonito,
+3339440	3340000	do mundo,
+3340000	3341840	se o cara não veio valor
+3341840	3342800	naquilo,
+3342800	3344160	não tem nenhum ponto,
+3344160	3345200	né, pessoal?
+3345200	3346400	E por fim,
+3346400	3347760	botar para produção,
+3347760	3348400	que é,
+3348400	3351040	justamente isso que eu falei,
+3351040	3353440	muitos projetos de senhora
+3353440	3355680	se já lives dados a cabo aqui,
+3355680	3357280	pessoal consegue rodar tudo,
+3357280	3358480	avali, beleza?
+3358480	3359280	Tem um ok,
+3359280	3361280	chega na hora de botar em produção,
+3361280	3362080	ou ninguém ver,
+3362080	3363600	ou ninguém usa.
+3363600	3364720	Então esse é o ponto,
+3365600	3366880	ao longo de cada detalhe,
+3367520	3369040	vocês têm que ir a perfilção
+3369040	3370240	a abrir a primorano
+3370240	3371280	para garantir que quando chegar
+3371280	3372240	aqui vai ter valor,
+3372640	3373680	e a isso que a gente vai tentar
+3373680	3374080	transmitir,
+3374080	3374800	também é que ao longo do
+3374800	3375680	Budcamp,
+3375680	3377520	como sair do nível de
+3377520	3379040	só escrever,
+3379040	3381280	e entregar no panel,
+3381280	3382400	escritem de código,
+3382400	3383360	para chegar no nível de
+3383360	3384320	entregar valor
+3384320	3386240	com um entrega de um modelo de dados,
+3386240	3387440	na ibota em produção,
+3387440	3388400	então você tem o modelo
+3388400	3390080	que gera previdores por retas,
+3390080	3391040	é empresa consegue
+3391040	3392320	retabilizar em cima,
+3392400	3395440	ou você tem um rotina de análises
+3395440	3397040	de dados que consegue
+3397040	3398000	gerar valor,
+3398000	3399760	para a autojetão e apoiar na
+3399760	3402960	tomarei desses partes seis,
+3402960	3403760	pessoal,
+3403760	3405520	a experiência aprendizado
+3405520	3406720	aqui na tripletem,
+3406720	3407760	vamos lá.
+3407760	3408720	Então,
+3409360	3410880	para estar fundamental,
+3410880	3412400	não tem outro jeito de aprender
+3412400	3412720	pai,
+3412720	3413920	porque não
+3413920	3415600	é rodando,
+3415600	3416640	como vocês têm que botar
+3416640	3417600	uma namassa,
+3417600	3419680	as resistivas,
+3419680	3420640	lá no chat PT,
+3420640	3421600	os camas bolas,
+3421600	3423600	mas não em comendo,
+3423600	3425200	não lá na plataforma,
+3425200	3426560	façam a estar eifas,
+3426560	3427600	então, a gente tem
+3427600	3429280	duas grandes formas de praticar,
+3429280	3430320	na tripletem que são os
+3430320	3431040	blocos de cores,
+3431040	3432240	que isso que quizes,
+3432240	3433200	que são incorporados nas
+3433200	3434160	distões,
+3434160	3434560	e também,
+3434560	3435600	hoje o jogo tem o
+3435600	3436400	tipo de múxico que você
+3436400	3436960	desenvolveu aqui,
+3436960	3438480	pessoal que já está chegando,
+3438480	3439440	é, no final desse que
+3439440	3440000	vamos ver,
+3440000	3440720	como que é o jogo tem
+3440720	3442640	o tipo de múxico de projeto,
+3442640	3443040	e aí,
+3443040	3443360	sim,
+3443360	3444400	você desenvolvei essa
+3444400	3445840	noção de
+3445840	3446720	como que é um
+3446720	3447680	a vida de um sento
+3447680	3449120	invedidas na prática,
+3449120	3449600	é isso,
+3449600	3449920	pessoal,
+3449920	3451040	não sai muito daqui,
+3451040	3451520	é,
+3451520	3453040	veja agora aqui no português,
+3453040	3454400	tem até o mundo real,
+3454400	3455200	é isso aqui que a gente
+3455200	3455840	utiliza,
+3455840	3457360	tem a gente tudo visual estúdio,
+3457360	3459200	eu acho que realmente prefiro,
+3459200	3460720	mas não vai estar muito disto,
+3460720	3462240	se vai ser o ambiente
+3462240	3464080	que vocês vão ter
+3464080	3465360	trabalhando com dados,
+3466640	3467360	pode ser,
+3467360	3468320	como usar
+3468320	3469120	ali anos,
+3469120	3470320	tudo pessoal,
+3470320	3471120	você aqui em ponto
+3471120	3472320	muito interessante,
+3473600	3475040	quem já teve mais
+3475040	3476240	contato com programação,
+3476240	3477680	ali é mais tempo,
+3477680	3479040	já parecem bem de dar
+3479040	3480400	mais tempo,
+3480400	3481440	vai lembrar,
+3481440	3483280	do stack overflow,
+3483280	3485280	o stack overflow foi o meu melhor amigo,
+3485280	3485600	assim,
+3485600	3487600	por anos,
+3487600	3489280	e ele era uma ferramenta de
+3489280	3490320	pegou tenhas postas,
+3490320	3491280	então ele um paralelo,
+3491280	3492000	acho que dá pra fazer
+3492000	3493280	o Yahoo Repostas,
+3493280	3493920	era muito famoso,
+3493920	3495120	primeiro Brasil,
+3495120	3496640	então ele era o Yahoo Repostas,
+3496640	3497600	pra programação,
+3497600	3498800	então ali o pessoal de
+3498800	3499440	front-end,
+3499440	3500800	de bequeende,
+3500800	3501840	de engenhariedar
+3501840	3503040	no sense de dados,
+3503040	3504720	exceu,
+3504720	3505920	da Axe,
+3505920	3506640	então ele é
+3506640	3508160	mais do Parbeiro,
+3508160	3509760	então ele sempre foi
+3509760	3510960	a referência,
+3510960	3511520	é,
+3511520	3512880	papo que de
+3512880	3513760	20 milhões,
+3513760	3515040	aqui no seu
+3515040	3515600	o volô,
+3515600	3517040	mineixo por dia,
+3517040	3518400	então aqui 20 milhões de
+3518400	3519040	vizalidades do
+3519040	3519920	explodidas,
+3519920	3520640	não está com o EFflow,
+3520640	3521600	eles se eram mais ou menos o volô
+3521600	3523600	me mede deles,
+3523600	3525600	aqui o Shadipet foi lançado,
+3526880	3527440	e,
+3527440	3528000	basicamente,
+3528000	3528560	a lógica,
+3528560	3530400	Gustavo Vemflow era,
+3530400	3532080	se eu estou tendo esse problema,
+3532080	3533040	alguém já passou pelo
+3533040	3534080	mesmo problema,
+3534080	3535440	então eu ia rodar um cojo
+3535440	3536160	ali no par,
+3536160	3537360	então se eu tinha aquele problema,
+3537360	3538480	eu ia querer,
+3538480	3540000	eu ia lá no Stacober Floco,
+3540000	3540640	piorava,
+3540640	3541440	o Lava no Google,
+3541440	3542480	e a primeira opção
+3542480	3543440	era estar com o EFflow
+3543440	3544080	e lá,
+3544080	3545520	e vieram esse cara
+3545520	3547120	que passou pelo problema,
+3547120	3548000	se me lá,
+3548000	3548320	então,
+3548320	3548720	beleza,
+3548720	3549840	aí alguém respondia,
+3549840	3550640	não é o X-Pencha
+3550640	3551920	respondia embaixo,
+3551920	3552720	e,
+3552720	3553280	e,
+3553280	3554320	geralmente,
+3554320	3555280	a solução mais votada
+3555280	3556880	era solução resolvido,
+3556880	3558480	então você conseguia pelo
+3558480	3559760	e arrogar expostas,
+3559760	3560560	e vê alguém que passou
+3560560	3561120	pelo problema,
+3561120	3561840	se me laram seu
+3561840	3562960	e respondei,
+3562960	3563760	então diferente do
+3563760	3564880	que muita gente acha,
+3564880	3565840	pessoal,
+3565840	3566880	não existe
+3566880	3567760	programador,
+3567760	3568720	não existe,
+3568720	3569680	quer dizer,
+3569680	3570400	pode existir,
+3570400	3571520	eu não conheço,
+3571520	3572800	que centa,
+3572800	3573760	começa a programar,
+3573760	3574400	igual no filme,
+3574400	3575360	se fica lá,
+3575360	3576400	três horas programando,
+3576400	3578080	sem irrá um movegula,
+3578080	3579520	não existe, pessoal.
+3579520	3580560	Arrotina de um
+3580560	3581680	de alguém trabalha com um
+3581680	3582480	qualquer tipo de
+3582480	3583280	programação,
+3583280	3585040	é muito iterativo.
+3585040	3585920	Vocês vão errar,
+3585920	3586960	vocês vão esquecer o
+3586960	3588000	bálico,
+3588000	3589600	e vocês vão
+3589600	3590160	simplesmente
+3590160	3591600	incrementar nesse conhecimento,
+3591600	3592160	quanto mais
+3592160	3593600	vocês vão usando,
+3593600	3595200	mas não existe ninguém
+3595200	3596160	que centa,
+3596160	3597360	desde como um mundo é mundo,
+3597360	3598640	escreve um código inteiro,
+3598640	3600000	de ponta ponta,
+3600000	3601200	sem parar
+3601200	3602720	e comer de primeira,
+3602720	3603600	ser a.
+3603600	3604640	Quando ele rodar aquele código
+3604640	3605040	de gigante,
+3605040	3605760	vai dar um errinho,
+3605760	3606800	vai ter o bambigo,
+3606800	3607600	vai ter alguma coisa
+3607600	3609200	algum lugar que ele cresceu,
+3609200	3610320	e é mais ou menos isso.
+3610320	3611360	O está com o reflou,
+3611360	3612640	ele servir para dar
+3612640	3613440	suporte nesse
+3613440	3615200	perguntas e respostas.
+3615200	3616240	A partir do lançamento
+3616240	3616560	de o chat,
+3616560	3617040	é PD,
+3617040	3618800	ele começa em 22,
+3618800	3620480	a queda foi exponencial,
+3620480	3621600	porque,
+3621600	3623040	para que eu vou perguntar,
+3623040	3624160	vou estar com o reflou,
+3624160	3625040	se o chat é PD,
+3625040	3625520	com o som,
+3625520	3626200	tudo o que tem no
+3626200	3626880	está com o reflou,
+3626880	3627920	e mais.
+3627920	3628880	Então,
+3628880	3629280	é isso,
+3629280	3629840	é o está aqui,
+3629840	3630560	o gente PT
+3630560	3631600	e consegue centralizar
+3631600	3632160	informações
+3632160	3633200	da internet,
+3633200	3634560	especialmente nesse caso
+3634560	3634960	onde ele foi a
+3634960	3636240	ações de texto,
+3636240	3636800	porque as
+3636800	3637520	programas eram feitas
+3637520	3638720	por texto,
+3638720	3639840	como muito fácil.
+3639840	3640080	Então,
+3640080	3641120	ali, no primeiro momento,
+3641120	3641760	já,
+3641760	3643520	que está aqui de,
+3643520	3643760	é,
+3643760	3644800	menos de um ano,
+3644800	3646240	o está com o reflou,
+3646240	3647520	foi engulido.
+3647520	3649520	E essa foi uma realidade
+3649520	3650400	que eu guina minha prática.
+3650400	3651120	Hoje em dia,
+3651120	3651600	eu,
+3651600	3652400	desde o 14,
+3652400	3652880	eu acho que eu não
+3652880	3654080	entrei no está com o reflou.
+3654720	3655120	E,
+3655120	3655200	e,
+3655200	3655840	em dia,
+3655840	3656000	é,
+3656000	3656480	realmente,
+3656480	3657520	no chat PT,
+3657520	3658720	pra resolver
+3658720	3661520	os meus problemas no trabalho.
+3661520	3662000	Então, assim,
+3662000	3662880	não adianta,
+3662880	3664160	a gente negar a existência
+3664160	3665120	afirmamente existe,
+3665120	3666080	e ela está aí.
+3666080	3666960	Ela vai existir
+3666960	3668000	daqui pra frente.
+3668000	3669840	Só vai evoluir.
+3669840	3671200	E a gente tem que tratar,
+3671200	3671840	ele vai
+3671840	3672240	aí,
+3672240	3673440	como um piluto,
+3673440	3674640	não como passager.
+3674640	3675520	Então, você tem muito legal
+3675520	3676400	a tá na foto do
+3676400	3676800	vai então,
+3676800	3677600	cena,
+3677600	3679200	para a gente ter essa noção.
+3679200	3680400	A gente tem que ser o piloto,
+3680400	3681520	a gente tem um,
+3681520	3682720	uma Ferrari aqui no
+3682720	3683360	caso do motor,
+3683360	3683680	então,
+3683680	3684640	cê era uma clara,
+3686080	3686560	mas,
+3687600	3688240	se a gente,
+3688240	3688640	o que tá aqui,
+3688640	3689840	eu to tem um carro tão bom,
+3690480	3691680	se a gente notiveu
+3691680	3692320	um item,
+3692320	3693120	sem me trotando,
+3693120	3694000	a gente não vai ser campeão.
+3694800	3695040	Então,
+3696080	3696800	a gente tem que saber
+3696800	3697680	como usar entre a gente
+3697680	3698160	é artificial,
+3698800	3699920	como fazer
+3699920	3700880	o melhor uso dela,
+3700880	3701680	pra conseguir
+3701680	3702800	realmente aprender,
+3702800	3704400	e não restombe.
+3704720	3704960	Então,
+3704960	3705280	é isso,
+3705280	3706000	a gente não pode usar
+3706000	3707120	ela como ferramenta de
+3707120	3707920	cola.
+3707920	3708160	Então,
+3708160	3708640	se eu quiser,
+3708640	3709600	a fazer um projeto
+3709600	3710240	muito legal,
+3710240	3710960	aqui naquele ponto,
+3710960	3711040	aí,
+3711040	3712240	conseguiu um projeto em piva.
+3712720	3713840	Você pode lá no GPT
+3713840	3715200	e fazer me deu um projeto,
+3715200	3717360	o feito por um gênero ganarza
+3717360	3718640	para um,
+3719840	3721120	um sprint de paitombásico
+3721120	3721600	e um botiquei,
+3721600	3722800	e de sense de dados.
+3722800	3724080	Ele vai ajudar a solução incrível,
+3724080	3725680	mas você vai aprender disso,
+3725680	3726000	né?
+3726000	3726640	Então,
+3726640	3727360	muitas vezes,
+3727360	3727840	ele na vida,
+3727840	3728400	a gente já presta
+3728400	3730160	bem que o legal não,
+3730160	3730960	não é?
+3731440	3732640	Onde a gente chega,
+3732640	3733920	mas como a gente chega,
+3733920	3734720	o legal muitas vezes
+3734720	3735280	não é o destino,
+3735280	3736560	mas do caminho,
+3736560	3738320	e na educação exatamente
+3738320	3739360	estes vão ver que o
+3739360	3740400	processo aí de aprendizado,
+3740400	3740880	muitas vezes,
+3740880	3742400	vale muito mais do que,
+3742560	3744160	tem um projeto lá que vai receber
+3744160	3745440	um 10 aqui da tripotenta,
+3745440	3746960	e aí,
+3746960	3748480	eu pelo menos vejo dessa forma,
+3750000	3750800	então,
+3751440	3752800	e aqui eu já vou entrar
+3752800	3753680	em outro ponto,
+3755040	3756800	e eu vou compartilhar esse link depois
+3756800	3759120	lá no discólogo,
+3759120	3761280	que é como usar a IAR.
+3761280	3762880	Então, esse aqui é um,
+3762880	3763600	é uma
+3764240	3764880	publicação,
+3764880	3767120	na documentação do próprio GPT,
+3767120	3768480	que ensina algumas gicas
+3768480	3769920	para vocês usarem aí a melhor.
+3770560	3771040	Então,
+3771040	3772400	aqui ele fala
+3773840	3775120	da texto de referência,
+3775680	3777920	quebrar tarefas complexas,
+3777920	3779440	em tarefas menores,
+3779440	3780560	isso aqui eu uso em bastante,
+3780560	3781280	essa semana,
+3781680	3782800	eu estou trabalhando um código
+3782800	3784160	lá no carrer fúdio,
+3784160	3785600	mas eu está com ninguém que
+3785600	3786320	é tudo linhas agora.
+3786960	3787920	Então,
+3787920	3789920	toda vez que eu jogava lá no GPT,
+3789920	3791280	o mil queitas dinhas,
+3791280	3792800	e aí eu cheguei no ponto de
+3793200	3793600	tava em,
+3793600	3794720	eu mesmo tava em perdendo,
+3794720	3796320	nas as postas do GPT,
+3796640	3797280	e e falem,
+3797280	3798640	não, vamos resolver aqui parte
+3798640	3799200	a parte,
+3799200	3799680	então,
+3799840	3800960	o motorularizar ali,
+3802480	3803440	por maior que ser de motoré
+3803440	3804320	foi motorularizar.
+3805680	3807040	Dá tempo para o modelo pensar,
+3807680	3808240	então,
+3808240	3809280	às vezes eu já tava instalando
+3809280	3810240	esse é um ponto muito legal,
+3810240	3811760	você tem uma tarefa muito complexa,
+3811760	3813120	você pode chegar para ele falar,
+3813680	3814960	e o que esteue o work
+3814960	3816160	e dá outro com o Instagram,
+3816160	3816480	então,
+3816480	3817680	se não precisa ir com pressa,
+3817680	3818400	não estou com pressa,
+3818400	3819360	pode demorar um pouquinho,
+3819360	3819600	então,
+3819600	3820160	o seu tempo,
+3820800	3821760	ele tem também,
+3822960	3824080	ferramentas externas,
+3824640	3826160	justamente aqui o que a gente falou,
+3826480	3827280	link flow,
+3828240	3829600	um pai que eu nesse caso,
+3829600	3830560	foi esse,
+3830560	3831600	e foi uma ações ali,
+3831600	3832960	sobre o conjunto de dados
+3832960	3833360	próbamos,
+3833360	3833760	mas aqui,
+3833760	3834720	a gente já tá entrando
+3835040	3836400	em coisas mais complexos,
+3837040	3838880	mas aqui tem alguns exemplos,
+3838880	3839040	não é?
+3839040	3839520	Então,
+3839520	3841040	essa mistratagem muito legal,
+3841040	3841600	tá pessoal.
+3842800	3844160	Deze pro GPT
+3845360	3846560	adotar uma persona,
+3847520	3848240	então,
+3848240	3849120	aqui, por exemplo,
+3849120	3850240	se eu quero fazer um projeto
+3850240	3851120	sem cidades,
+3851120	3851840	posso falar,
+3851840	3852400	e eu quero,
+3852400	3852720	às vezes,
+3852720	3853520	tomar referência do que
+3853520	3854480	seria um projeto de dados,
+3855440	3856400	você fala a faça,
+3856400	3857840	essa é esse projeto aqui,
+3857840	3859840	da atrapotem,
+3860320	3862640	no nível de um sentícilidade do junho,
+3862640	3864560	e no nível de um sentícilidade do senha.
+3864880	3866480	Então, ele vai assumir essas duas pressas
+3866480	3867200	nas ali,
+3867200	3868800	e vai fazer duas caminhos diferentes,
+3868800	3870720	com base em que tipo de pressa
+3870720	3872400	ou não você video para lear assumir,
+3874560	3875760	outro ponto também,
+3875760	3877760	quando você fazer algo uma referência,
+3878720	3879920	é um texto,
+3879920	3880800	enfim,
+3881280	3881840	no meu caso,
+3881840	3882160	por exemplo,
+3882160	3883440	quando eu digito o código,
+3883440	3884640	o boto código,
+3884640	3886560	entre as pastas,
+3886560	3888000	para ficar bem claro,
+3888000	3889680	para aí o que eu cojo,
+3889680	3891680	você pode botar também
+3891680	3894000	em deixar-vos aqui no lugar de até mesmo,
+3894000	3895120	você pode botar,
+3895120	3896400	eu vou fazer aqui,
+3896400	3897760	e eu vou se ir lá no pronto,
+3897760	3898320	te falar,
+3898320	3901440	eu vou falar aqui sobre esse artigo,
+3901440	3903920	eu vou em boto sobre chaves artigo,
+3903920	3904720	como é esse artigo,
+3904720	3905840	tem minatigo,
+3905840	3907680	e eu colo tudo que tá no artigo aqui,
+3907680	3908400	então,
+3908400	3910240	é gostar de dizer,
+3910240	3911760	de para o GPT,
+3911760	3912800	o que é cada coisa,
+3912800	3913920	acho que tá ali,
+3913920	3915360	é a informação que você tá passando
+3915360	3916560	para ele,
+3916560	3918800	e tem várias outras
+3918800	3920880	outras dicas que ele vai dando aqui,
+3920880	3923120	passar, passar passo,
+3923120	3924320	fornecer exemplos,
+3924320	3926080	então às vezes você quer,
+3926080	3926960	quer mais e-bund,
+3926960	3927520	de alguma coisa,
+3927520	3929600	você tem que dizer para eles,
+3929600	3932160	onde você quer,
+3932160	3934640	ah, quero um fórmido de,
+3934640	3936800	então já é que o dia é um sentido de idade,
+3936800	3938720	começa dessa forma,
+3938720	3940800	e você já colo lá na lhesidade,
+3940800	3941600	então já vai saber
+3941600	3942960	que tem que começar na,
+3942960	3944880	naquele tipo de generalidade,
+3944880	3947920	então você passar exemplos para ele,
+3947920	3948720	tá muito também,
+3948720	3949920	então eu não tenho tudo isso,
+3949920	3951760	eu quero resposta em 50 palavras,
+3951760	3952640	em dois parágros,
+3952640	3953840	eu fiz em cima,
+3953840	3955280	é que era o código completo,
+3955280	3957440	que era o código resumido,
+3957440	3958480	e tudo isso,
+3958480	3961440	depois eu vou passar aqui para vocês,
+3961440	3963040	mas aqui também,
+3963040	3964240	é um bom exemplo de,
+3964240	3964880	de como quebrar,
+3964880	3965120	que tá lá,
+3965120	3966640	é fazer menores.
+3966640	3967360	E em geral,
+3967360	3968000	é isso, pessoal,
+3968000	3968960	vocês vão ver,
+3968960	3970560	como que essas ferramentas,
+3970640	3971920	como que ela ajuda,
+3971920	3973840	mas no fim do dia,
+3973840	3976240	o que mais importa é você saber usar,
+3976240	3978320	e tem que entender as limitações da auto-taminha,
+3978320	3982240	hoje a grande limitação de,
+3982240	3983040	é ele,
+3983040	3984480	principalmente já de repente,
+3984480	3986960	que é a melhor disparado hoje em dia,
+3986960	3989280	é a questão de memória,
+3989280	3992320	então se você tem uma conversa muito longo,
+3992320	3992880	com ele,
+3992880	3994080	ele vai se perder,
+3994080	3994560	que é,
+3994560	3995280	não sei o humano,
+3995280	3997680	ele não consegue voltar
+3997680	3999520	em mais de 5, 6, 7,
+4000480	4002720	e completar a informação,
+4002720	4005520	e muitas vezes ele não consegue realizar as tarefas,
+4005520	4006480	mas populaics, assim,
+4006480	4007920	eu te li aqui,
+4008080	4010040	num momento que hoje a 2 de
+4010040	4010520	auturo,
+4010520	4011520	que a gente tá gravando esse toz,
+4011520	4012320	que acha a IA ainda,
+4012320	4014240	tá muito mais no muito longe de
+4014240	4016000	robar em pregunte alguém.
+4016800	4018800	Isso fala nem parte técnica,
+4019040	4021120	porque se você ele joga,
+4021120	4022800	uma tarefa específica para ele,
+4022800	4024000	ele consegue entegar,
+4024000	4024800	tranquilo,
+4024800	4026800	ele vai fazer para o volado do item,
+4026800	4027280	do item,
+4027280	4029200	vai ser bem,
+4029200	4035040	mais por a gente pegue para ele fazer um projeto de ponta conta por essa questão da memória
+4035040	4040640	ele vai acabar e do contexto ele vai acabar a ser nendo pouco e mais importante na
+4040640	4046440	pesaço sempre lembrata meio que no fim do dia nós somos humanos nós e nós como
+4046440	4052200	humanos não somos só o que a gente estuda né então nós somos só nossa habilidade
+4052200	4056000	de tempo que você é a minha opinião pessoal a gente também leva o junto de
+4056000	4060560	experiências as emoções as relações que a gente tem na vida a tudo isso é um
+4060560	4065280	conjunto que que forma em nós somos como seres humanos e isso é inteligência a
+4065280	4069160	especial nunca vai ter e não vai conseguir ter uma experiência de saber como
+4069160	4073680	conversar com o cliente para o maior momento qual caminho seguindo um projeto qual
+4073680	4078440	a melhor um site para fornesse ser como analista como se existir dados é enfim
+4078440	4083680	essas coisas ainda a entregisar especial está muito mais muito distante do mundo real
+4083680	4088320	e para a minha essa é a maior limitação da ferramenta hoje
+4088320	4095440	parte hoje pessoal já estão finalizando aqui e agora vamos realmente entender no
+4095440	4102920	detalhe quais que são as ferramentas já aprendizado aqui do bootcamp primeiro
+4102920	4108720	a gente tem as tarefas então aqui nas tarefas dentro de cada tarefa a gente
+4108720	4117280	tem que né a gente falou o sprint o capítulo e as leções dentro de cada
+4117280	4124520	a lição tem um bloquinho de código específico então deprenela no bloco vai ter
+4124520	4130200	só uma pergunta teórica ou vai ter um bloquinho de código mesmo para
+4130200	4136800	para vocês fazer então é um aprendizado gratinho você não tá ali ao longo das
+4136800	4144400	falas esconderas perguntas fazendo código e usando também os blocos de
+4144400	4151200	de paito que a gente tem aqui então aqui eu vou pegar um exemplo esse aqui que a
+4151200	4157520	gente consegue ter uma mini mini paitos e aqui não mini no tipo quezinho aqui é uma
+4157520	4163600	idézinha pequena aqui ele consegue dar uma dica sobre que a gente tem que fazer a
+4163600	4170880	gente pega a nossa nossa o nosso objeto aqui aqui dá falando para usar o
+4170880	4177760	método sorte analis de móvios tiver aqui vamos aplicar e depois para a
+4177760	4185160	primeira lista vamos ver se a gente tá fazendo sé então aqui a gente ordenou
+4185160	4190600	aqui a gente vai primeiro e pra conferir pessoal é só vem aqui e apertar o
+4190600	4198880	plei aqui vai lidar a resultado tudo certo então aqui eu ordenou um é um
+4198880	4203760	de alfaretica os nossos fios e aqui eu vou validar para a gente ver se tá
+4203760	4214880	saco que exatamente é isso infelizmente ele se apode eu vou denar em orden léxico
+4214880	4218240	gráfico não sabia que não saber as estendes das palavras para ver que eu
+4218240	4224240	prender mas é o aze léxico gráfica e ele não tem mais para ela
+4224240	4229000	bem consideração quanto você gosta então aqui show mostra solução
+4229000	4233160	vocês validos e você ele então aqui são bocos emos de código então
+4233160	4241480	pirolas emas de conhecimento e também lá para frente vocês vão chegar na parte do
+4241480	4245800	projeto na pessoal então aqui no final da experiência a gente tem o projeto e aí
+4245800	4251360	sim vocês vão conhecer o juteiro atibugio o juteiro ele é uma forma de se pegar um
+4251360	4256800	módulo de um calco um código de Python o módulo a risa ele impequer os bocos exatamente
+4256800	4263160	aqui eles bocinhos que a gente viu ali então cada boco de código a gente chama de
+4263160	4269560	célula e dentro das celas elas vão seguir em uma hora bem natural né então
+4269560	4276360	se você se eu vou estar aqui e ele vai executar célula célula de cima para baixo
+4276360	4283000	é esses objetos aqui comentado também são celas então aqui eu posso criar um
+4283000	4291560	subtítulo eu posso criar um subtítulo e eu posso criar um subestúdito então
+4291560	4299760	aqui eu posso ordenar então criar estrutura de índices o notivo que a gente
+4299760	4304280	oferece toda essa facilidade ele você pode fazer as credentes funções aqui
+4304280	4309040	também você pode levar tabelas então esse é o fomatinho de levando a tabela
+4309040	4316720	e você coloca o que os e-fans e essas bars para consolidar a tabela então você
+4316720	4320760	consegue levar tudo no tibu que é onde vocês vão apresentar para a gente você
+4320760	4325880	onde vocês vão ser apalhados pelos monitores de projeto para os avaliadores de
+4325880	4331920	projeto e aqui onde vocês também vão basicamente criar o código de vocês no
+4331920	4338600	fim do dia se vai ser um arquivo no tibu que se vai ser um arquivo.py então
+4338600	4342600	vocês não vai ser mais ponta.py botanche aqui você consiga de ponta ponta garante
+4342600	4346880	que eu pode gorrojo e essa é a estrutura que deu no tibu que então aqui a
+4346880	4354360	gente pode criar um novo tibu que brincar no gêner de quiseana então aqui
+4354360	4359200	interessante é que o no tibu que já vem com tudo estalado então a gente não
+4359200	4366100	precisa estalar no biblioteco ele já vem com tudo estalado para descerar o
+4366100	4374180	tibu e ele já vem com as principais notas estaladas então aqui sem
+4374180	4381100	gente tem o pandoas é eu vou criar um gêner que é isso a frente
+4384100	4390940	o pão pelo web e aqui já está tudo estalado então o legal é isso então
+4390940	4394820	está a frente para tá em bravo.pente me vou poner um dado mas aqui a gente
+4394820	4399060	já consegue fazer tudo dentro dessa própria estrutura né então aqui é
+4399060	4405780	caminhando andassella sela aqui se consegue o que é o que é o basicamente o
+4405780	4409780	python que está rodando por trás então aqui você pode só ter opção do
+4409780	4415820	python 3 mas aqui você pode iniciar e salva e todos os arquivos que
+4415820	4421100	vão dar suporte eles também vão tá aqui então se você quiser adicionar por
+4421100	4426660	fazer um arquivo ccv você vai ter que voltar aqui e adicionar na
+4426660	4431060	sua estrutura então você vai decontar aqui no open e aqui vai ser esse
+4431060	4435180	estrutura de pastas essa é a mistura de pastas então esse aqui são os
+4435180	4440020	notibubes que eu cria e todos os embrando funcionaram e se eu quiser subir
+4440020	4446820	alguma imagem minha pessoal eu veia aqui eu soubeia aqui minha fortinha e vou
+4446820	4451500	fazer o outro pronto tá no youtube tem no tipo no meu ambiente do jogo
+4451500	4456060	desse eu quiser fazer importar a imagem para algum no tipo que pai
+4456060	4460060	então por exemplo aqui não eu consigo simplesmente porque ela já tá na
+4460060	4464060	mesma pasta né então é com os photos que são ambientes que vocês conseguem
+4464060	4467520	para fazer o projeto vocês então vocês vão poder adicionar ali o
+4467520	4472740	júctido a dos imagens que vocês realizar em gráficos salvar então um
+4472740	4476100	pouco é o vídeo é funcionário se quiser salvar a repente você vai
+4476100	4483060	fazer tudo aqui na pasta é voltando Google Colab
+4483060	4488140	então Google Colab ele é anferramento incrível que o Google entregou para a gente
+4488140	4493540	é principalmente cientistas de dados mas como analis também vocês vão usar
+4493540	4497420	bastante o Google Colab o o colab eu recomendo muito para fazer os
+4497420	4500660	projetos aqui do curso
+4501660	4512860	realmente incrível que é que além de CPU vocês conseguem também usar GPU
+4512860	4517640	e o GPU é justamente a unidade do pessoal meto grafica a gente falou a
+4517640	4523500	Google oferece um GPU gratuito eu vou para o ali são terminando o
+4523500	4529580	estou aqui na chat pessoal esse júcte rub e usamos no dia de no trabalho sim
+4529580	4534380	a maioria da pessoa trabalha com cincidados para é feriosar o júcte
+4534380	4538140	rub o júcte no tipo o que tem o que terão o que terão a baseca
+4538140	4541620	o que é basicamente ele é central do do nosso ebook mas muita gente para
+4541620	4546700	feriosar o nosso ebook mesmo eu basicamente prefiro usar o ves com o
+4546700	4552540	que é esse bichinho aqui é esse que é um código meu mesmo do meu trabalho
+4552740	4556860	eu prefiro o ves com o de bichinho que estão em andes mas
+4556860	4561300	de tempo de funcionalidade eles são bem parecidos aí em fim trazemos uma coisa
+4561300	4566260	não de boque o júcte rub pra mim é um pouquinho mais visual mais antigo ali
+4566260	4572140	mas temos performance não impacta nada então voltando aqui para o
+4572140	4575880	o Google Colab e o Google Colab também é mais um desses então se tem um
+4575880	4581240	o colab tem o júcte no júcte no júcte a grande vantagem do
+4581240	4586880	Google Colab é aquele online então aqui qualquer uma conta Google
+4586880	4590960	chega entre aqui você vai fazer sua conta e consegue inclusive usar uma
+4590960	4594380	GPU então pra você que não tem uma placa de vídeo
+4594380	4597720	então se o computador não tem uma placa de vídeo você consegue usar
+4597720	4602760	a placa de vídeo da Google ou porém e aqui também eles tem TPU
+4602840	4605400	TPU é tensor processing unit
+4605400	4609000	a galera usa TPU porque ele é uma umidade de
+4609000	4615640	possamento especializada para atensores que são a base do
+4615640	4620160	do de redes ter o raiz então modelos de linguagem grandes
+4620160	4624440	ele é a M, a toda base deles é comprodedem ter pêlust também então
+4624440	4627160	o que a diferença não ter pêl com o júcte P, o TPU é que o TPU
+4627160	4632360	é utilizado ali pra fazer esses grandes volôms de calco específico de
+4632360	4637000	redes não erais enquanto o j pêl por exemplo é muito muito bom
+4637000	4641000	para redes não erais com o volosso é mais por exemplo então processamento de
+4641000	4647960	magia e tudo o j pêl e aqui como funciona ele é muito similar
+4647960	4653560	ao um último aqui de o peterrabe de o peterrabe no
+4653560	4657400	o que normal ao que a gente tem lá no escoge aqui a diferença aqui
+4657400	4661000	tem algumas ferramentas até mais fáceis do Google então que se consegue
+4661000	4664040	botar o ímice se consegue botar em migrito e tá
+4664040	4668200	ali com a gente consegue botar algum código a gente consegue botar
+4668200	4673320	uma imagem se eu quiser subir aqui qualquer imagem eu consigo
+4673320	4676760	ele já faz todo caminho né
+4676760	4679560	ele tá aqui ele fez um bichinho meu grande
+4679560	4683560	mais deu certo então eu vou tirar aqui
+4683560	4692560	não estou atrás três três Madison e então
+4692560	4698040	Kera através o algum bogue pessoal à minha cara lá
+4698040	4699880	botar
+4701560	4704560	então
+4706680	4708640	esse é o um o bolário
+4708640	4710320	que você não usar um colário de forma do
+4710320	4715880	assim, claro que vocês usam um jogo que tem no último oque ou no próprio VSC Coach,
+4715880	4719620	mas a grande vantagem do colabo, então é que a gente consegue usar uma maior
+4719620	4723080	de pressamento gráfico, então vem pra gente trabalhando com projetos de dados,
+4723080	4727560	mas a maior é uma boa solução parte aqui pro colabo e a maior no segundo,
+4727560	4733200	você consegue integrar também aqui diferente do no último do jogo PT.
+4733200	4741080	E do próprio VSC Coach, você tem tudo no Drive, então se você quiser dar um suporte,
+4741080	4747600	subir um aqui, subir algum imagem, você vem aqui e bota o seu Google Drive,
+4747600	4753080	então você com o Nike tá aqui, o seu Google Drive, você vai conseguir puxar diretamente
+4753080	4757440	da sua pasta pessoal, da sua pasta trabalho, então não precisa se preocupar,
+4757440	4760680	aqui você vem aqui, a monta a Drive vai lá, só ver tudo que você precisou.
+4760880	4765320	E o de aula vai ficar gravada, ela tá sendo gravada, pode ficar tranquilo.
+4766520	4769000	Pode terminar depois.
+4770120	4774840	E aqui é isso pessoal, então que é essa lógica mais do Google Colabo consegue usar então como
+4774840	4779000	o jogo que tem no Tribunque consegue subir qualquer aqui o Tribunque que você precisar,
+4780000	4784760	aqui a gente consegue rodar o código, ele já vem com as bibliotecas importadas também,
+4784760	4790120	então aqui a gente consegue ler um data frame de exemplo,
+4790120	4793800	que ele tem aqui, ou para não ser a gente não importar o Pandas antes,
+4795480	4799400	e ele também é muito rápido de processamento, então que a gente já consegue
+4801560	4806400	não dar, então aqui eu não tenho esse arquivo, não dá para o que você é se ver,
+4806960	4810080	se não mostraria para vocês, mas aqui dá para ter um gostinho, né?
+4811280	4815720	Funciona a gente vai se se dar de sair se ver, a gente só subir aqui,
+4816960	4819720	e naturalmente já consegue consumir de inocolable.
+4820120	4825080	Não fique a estados aí de marcar,
+4825800	4828280	isso aqui se você for olhar um planexão, né?
+4829080	4833440	É um excelo mais bonitinho, mas está tudo aqui,
+4833840	4838720	a partir da semana que vem, a gente vai entrar no detalhe, mas se vocês quiserem
+4838720	4842400	já dando uma conhecida no Polabe, é uma ferramenta muito bacana,
+4843080	4850080	também tem essa capacidade de poder compartilhar um código com colega,
+4850480	4853080	simplesmente aparentando parte de ela, é muito legal,
+4854040	4857560	porque esse é um problema, né, quando a gente está trabalhando com dados,
+4857560	4861360	às vezes eu tenho a bibliotepe no versão tal, você está na versão diferente,
+4861360	4864760	então se eu te mandar, você é cansado, abre de algum conflito,
+4864760	4867080	e aqui não, tá, tá todo mundo na mesma página,
+4867520	4869520	o insta-me é muito legal, eu recomendo, viu,
+4869520	4873520	que vocês usem no projeto o Google Colab, então,
+4873520	4877760	o controle aqui no colabe, é o Bineum Brunho, tá?
+4877760	4883400	Eu acho uma coisa bacana que vocês usem o colab,
+4883960	4887400	chega aqui, quando fosse o Bí lá para o projeto,
+4888720	4891400	aí, mesmo usar o notivo que você consegue subir,
+4891920	4893760	o próprio arquivo, né?
+4893760	4895760	Então, aí, estudo de fazer lá,
+4896520	4898320	você, o próprio peixe de daqui,
+4899840	4901480	vamos botar aqui, ó, em vez de botar aqui,
+4901480	4905120	e via para revisão, você consegue botar
+4907120	4910320	o arquivo que você fez lá no Google Colab, né?
+4910560	4913160	Você vem aqui, projetad final,
+4913160	4914800	se você não disse que isso é um projeto,
+4916760	4918880	e tem opção de subir o notivo, né?
+4920480	4921600	Então aqui, vamos lá,
+4922840	4925600	ou faço o projeto, o projeto em seu computador,
+4925600	4928000	que faço o oplôs quando finalizar.
+4928000	4931880	Então, tem gente que preferem vescog,
+4932400	4935440	tem gente que preferem o Júcteno Tibuque,
+4935680	4939960	tem gente que preferem colab, então, fica a vontade, pessoal.
+4939960	4941240	Comem eles são as ferramentas,
+4941240	4943360	vejam, em vocês, sessentes mais avontagem,
+4944920	4948440	onde vocês, aqui, avisou, o mais agradável para você,
+4948440	4950680	tem gente que acha o Júcteno Tibuque mais limpo,
+4950880	4952880	eu gosto do vescog de pilião um pouquinho,
+4953640	4955000	ele deixa que as coisas brilhantes,
+4955000	4957320	e para isso que a gente mais inteligente, né?
+4957320	4958320	Não, obrigadeiro.
+4958320	4960880	Eu gosto porque é bastante visual,
+4960880	4963520	tem várias opções de distanções também,
+4963520	4965640	então é bem interessante também,
+4965640	4968200	se vocês precisarem é uma, é bem interessante.
+4969000	4973360	E agora, vamos voltar para o nosso último ponto,
+4973760	4974920	se é o Github,
+4975360	4978680	então, para quem não tem Github, eu recomendo,
+4979120	4981720	talvez vocês não vão usar logo de cara ainda,
+4981720	4984040	mas o Github, ele funciona,
+4984040	4986320	vamos dizer assim como um Google Drive,
+4986320	4987400	no seus poesios,
+4987800	4990480	é onde você vai compartilhar os seus notibus,
+4990480	4992520	que os seus códigos ali, ponto pai,
+4993080	4994640	e mandar pessoas bolegas,
+4994640	4996680	não dá para mim, para tirar dúvida,
+4996680	4998880	repente, para um estrutur,
+4999760	5001720	é onde quando vocês vão estar trabalhando,
+5001720	5002560	no mundo real,
+5003120	5004680	vocês vão tocar os projetos,
+5004680	5006360	então, no projeto no real,
+5006360	5008800	ele tem ali uma pasta no Github,
+5009160	5011920	onde cada um das pessoas que estão trabalhando,
+5011920	5013920	ele vai todo dia atualizando essa pasta
+5013920	5015760	com que for relativo seu trabalho.
+5016080	5017800	Então, é algo que garante a Lixha,
+5017800	5020120	a gente conseguir tocar os projetos em paralelo.
+5020520	5023240	Ele é algo que também eu consigo pegar aqui,
+5023560	5025560	esse notebook,
+5025560	5028240	eu decupense esse Github, esse repositorio,
+5028720	5029800	com esse link aqui,
+5029800	5032440	eu vou lá no meu computador com dois comandos,
+5032440	5036240	eu consigo opiato do isso, essa pasta joga para o meu computador.
+5036240	5038440	Claro, poderia vir aqui, baixar o Zip,
+5038800	5042400	mas também tem outros canos para a gente fazer isso,
+5042400	5043240	que te reberia,
+5043240	5046840	permite a gente conseguir tocar os projetos em paralelo,
+5046840	5048000	compartilhar com o teu,
+5048000	5049040	o do hospedar,
+5049040	5051360	pode-nos como a facilidade maior,
+5051840	5054560	esse é o Github do Anilton,
+5054560	5056040	ele é um estrutur aqui,
+5056040	5057440	nada de repos tempo,
+5057440	5059040	ele é o que está mais tempo,
+5059040	5060680	então ele foi virando,
+5060680	5062080	vem que a memória é viva,
+5062080	5064160	o Github,
+5064400	5068680	e aqui a gente tem vários laboratores que a gente vai passar,
+5069200	5071160	é um longo do das aulas,
+5071160	5073640	então que você vai começar a notorar,
+5073640	5075000	dá uma olhada laboratores de pai,
+5075000	5076760	então depois para que para o tratamento,
+5076760	5078080	analis dados,
+5078080	5079560	analisizportórios,
+5079560	5081240	desculpas, distribuições,
+5081240	5082760	até a gente chegar na frente,
+5082760	5085480	tanto em machine learning,
+5085480	5086080	seja dados,
+5086080	5088040	contém analisidades.
+5088400	5090520	Então, Github no geral,
+5090520	5091960	esse não precisa se preocupar,
+5091960	5093560	mas nesse primeiro momento,
+5093560	5095880	é mais temorução do que a ferramenta,
+5095880	5098640	que ele vai ser mais ou menos nosso Google Drive,
+5098640	5100080	dos corgos ali,
+5100080	5101440	onde a gente vai as verdade,
+5101440	5102640	então que tranquilo,
+5102640	5106680	você subir um notebook aqui,
+5106680	5109440	a gente consegue inclusive dentro do Github,
+5109440	5111120	abrir um código do Polave,
+5111120	5113280	eles têm essa parceria,
+5113280	5116440	então o Github,
+5116440	5118040	como o medar de do mundo live,
+5118040	5119000	Google também,
+5119000	5121600	então eles com peste,
+5121600	5122720	e a gente tem gração,
+5122720	5125920	aqui a gente consegue fazer tudo
+5125920	5127080	dentro do colave,
+5127080	5129040	então esse é o legal,
+5129040	5130480	a parxida semana que vem,
+5130480	5133040	esse vai ser o nosso ponto de parxida,
+5133040	5134560	vai ser o nosso laboratório,
+5134560	5135480	parxida semana que vem,
+5135480	5138520	e vai começar a botar em mão na massa.
+5138520	5140240	E pessoal,
+5140240	5142040	chegamos ao fim,
+5142040	5145080	acho que conseguimos
+5145080	5147040	ter uma boa introdução,
+5147040	5149040	e terão botando a mão na massa,
+5149040	5150160	vamos com calma,
+5150160	5152040	pega em o final de semana,
+5152040	5153200	para olhar com calma,
+5153200	5154640	o boterudo,
+5154640	5155440	nesse primeiro momento,
+5155440	5156680	a importante não se tem,
+5156680	5158040	uma boa noção do Python,
+5158040	5158440	ali,
+5158440	5161040	não precisa ser meio-mestre,
+5161040	5161920	mas é legal,
+5161920	5162640	semana que vem,
+5162640	5164160	a gente tem uma noção
+5164160	5165360	em mais profundo,
+5165360	5167480	que a gente vai começar a olhar,
+5167480	5169800	e vamos agora responder os dúvidos,
+5169800	5172600	vamos dar pra aprender isso tudo zero,
+5172600	5173880	sim,
+5173880	5175600	eu acredito que sim,
+5175600	5176600	cara,
+5176600	5178120	eu acredito muito no conteúdo
+5178120	5178960	de que,
+5178960	5180160	numa linha de pensamento,
+5180160	5182760	que a gente consegue aprender qualquer coisa,
+5182760	5185760	no nome de que a gente dedicada.
+5185760	5186560	Então,
+5186560	5188360	eu acredito que uma pessoa de satenta anos,
+5188360	5189520	consegue aprender a sufalar,
+5189520	5191280	se ela quiser se dedicar.
+5191280	5192680	E eu acredito que você é um dreto,
+5192680	5194080	também consegue
+5194080	5195720	ter total capacidade de aprender
+5195720	5196720	na lista de dados,
+5196720	5198040	principalmente no ambiente,
+5198040	5200440	como você já está aqui no botercamp,
+5200440	5201200	com os trutores,
+5201200	5202320	com os tutores,
+5202320	5204360	numa comunidade,
+5204360	5205400	e com o curso,
+5205400	5207520	esse é a gente como a espelha frente,
+5207520	5209360	não tem um puker,
+5209360	5211640	você não aprender, claro.
+5211640	5213840	A gente não está falando com você vai sair daqui,
+5213840	5215000	um mestre,
+5215000	5217240	um espelho sentido de dados cêniro,
+5217240	5218720	um étio da adcênia,
+5218720	5220200	a vida que traz esse pra gente,
+5220200	5222600	não é ninguém vai virar cêniro em 16 meses,
+5222600	5223440	7 meses,
+5223440	5225280	é isso que é a experiência,
+5225280	5227840	mas aqui vocês não têm toda,
+5227840	5229880	toda material e toda o suporte,
+5229880	5231000	para chegar lá.
+5231000	5233280	E o legal é que aqui vocês não criam a comunidade,
+5233280	5235360	que vocês não levaram por resto da vida.
+5235360	5236160	Então,
+5236160	5237920	é contente também da isso.
+5237920	5239960	O primeiro passo é o que mais fície,
+5239960	5241720	e o primeiro passo já deram, galera.
+5241720	5244440	Vocês estão aqui, primeiro passo já deram,
+5244440	5247120	e não tem por quem voltar atrás.
+5249840	5253000	Agora vamos ver a próxima dúvida,
+5253600	5254640	da mistelha,
+5254640	5255920	que estão aqui até o novo escoujo,
+5255920	5257120	e percebe de uma tela preta,
+5257120	5258080	já no colabe,
+5258080	5259760	e jupiter telas claras.
+5259760	5261960	Pra visão, acho a tela preta melhor.
+5261960	5263200	Por legal, meu chele,
+5263200	5264120	eu também acho isso.
+5264120	5266600	Eu sempre que a minha vista fica menos cansada,
+5266600	5267960	pessoal, eu acho que não é o dia.
+5267960	5271240	Tem possibilidade de configurar isso nos outros laboratórios.
+5271240	5272640	Vou perguntar.
+5272640	5275240	E no colabe, eu sei que tem.
+5275240	5277040	Então aqui no colabe,
+5277040	5278880	a gente tem aqui,
+5278880	5281200	se eu amiganei aqui,
+5281200	5283880	ele de torna o necessário,
+5283880	5286320	tem uma adapta de darts.
+5286320	5287480	Então aqui,
+5287480	5289200	você tem aqui,
+5289200	5291400	na engrenagem,
+5291400	5293920	e senti muda que eu tenho a pra dar.
+5295640	5297280	E eu já vou deixar aqui, né?
+5297280	5298360	Pronto, nossa,
+5298360	5300280	muito melhor, por exemplo.
+5300760	5303720	E no colabe,
+5303720	5306720	que aqui eu confesso que eu acho que não tenho.
+5307880	5309240	Eu nunca vi,
+5310240	5311440	pelo menos,
+5312280	5314800	um dupteno colabe,
+5315400	5316400	não como lembro.
+5319080	5320360	Mas,
+5320440	5321760	eu vou ter de descobrir também
+5321760	5325040	seu descobriu alguma coisa sobre o notivo feedback.
+5326440	5327920	A gente passa para vocês.
+5327920	5329520	É o sede falou que ele usa tudo da,
+5329520	5333960	que eu também uso no YouTube da que tem uma extensão do pronto.
+5333960	5335040	Só para isso, né?
+5336560	5338040	Mas, eu não tenho de ter de descobrir
+5338040	5343960	que o teu vendo realmente não tem a questão de opção no juo,
+5343960	5344680	por ter lá,
+5344680	5346720	mas eu vou tentar descobrir
+5346720	5348160	sobre alguma forma,
+5348160	5349680	eu passo para vocês lá no chat,
+5349680	5352680	mas aqui no labo,
+5352680	5354240	que é onde, enfim,
+5354240	5355480	como acaba sendo opção
+5355480	5356280	na seu usario ou juo,
+5356280	5357360	tem no Timugue,
+5357360	5358200	ou o bit labo,
+5358200	5359680	então eu recomendo ter pra
+5359680	5360680	fazer o da ar que,
+5360680	5362840	ficar aqui no,
+5362840	5364040	no colabe mesmo.
+5366000	5366480	É,
+5366480	5367440	só voltar daqui,
+5367440	5368400	então, pessoal,
+5369400	5371360	a gente falou sobre as interessões,
+5371360	5372920	a gente sabe agora como tiradou,
+5372920	5373920	e da,
+5373920	5375720	o que dá da tempestade perfeita,
+5375720	5377920	e como que a gente veio para aqui,
+5378440	5378680	então,
+5378680	5379160	pense lá,
+5379160	5379880	a mulher diferente,
+5379880	5380760	no data science,
+5380760	5381720	pro data na lítica,
+5381720	5382440	que sabe o idade,
+5382440	5383440	experimentas,
+5383800	5385400	e entraram aqui nas ferramentas,
+5385400	5386040	de apensado,
+5386040	5386280	então,
+5386280	5387840	a gente entrou no botão de burro,
+5387840	5389200	que são de vescou,
+5389200	5391520	de goro colabe,
+5391520	5393280	apresentava o GitHub,
+5393280	5393520	então,
+5393520	5395520	a gente passou por todos esses pontos.
+5395520	5396440	E,
+5396440	5396840	por hoje,
+5396840	5397520	só, pessoal,
+5397520	5399160	acho que já foi muita coisa
+5399160	5399760	para vocês,
+5399760	5400000	né,
+5400000	5401200	ontem hoje,
+5401200	5402200	começando os eventos
+5402200	5403480	da Iessa Semana,
+5403480	5404320	pessoal também,
+5404320	5405440	a lova ficar gravada,
+5405440	5406440	então,
+5406440	5408560	se alguma coisa não ficou claro,
+5408560	5409840	só voltar atrás,
+5409840	5411200	olhá com calma,
+5411200	5412240	e,
+5412240	5413720	se tiver alguma dúvida também,
+5413720	5414080	pessoal,
+5414080	5414800	esse é um momento,
+5414800	5416200	estou aqui,
+5416200	5418280	aproveitar esse finalzinho de aula.
+5422760	5424200	Alguma dúvida,
+5427560	5428280	você não é pessoal,
+5428280	5429080	beleza,
+5429080	5430080	é,
+5430080	5431280	estamos juntos na esta jornada,
+5431280	5432560	vai ser muito legal aprender
+5432560	5433280	com vocês,
+5433280	5433880	ou pra,
+5433880	5434560	se aí está,
+5434560	5435360	é vendo aqui,
+5436440	5437440	não vê,
+5444720	5445720	aproveitar a vergonha,
+5447560	5448000	eu sabe,
+5448000	5448920	trabalha agora,
+5448920	5450560	por conta do reskriado,
+5451240	5453080	e não terá qual,
+5453080	5454800	que horas será disponibilizado.
+5454800	5456480	Eu acho que demora,
+5456480	5457120	uma melhorinha,
+5457120	5457280	né,
+5457280	5457680	só por Google,
+5457680	5458560	subiu link,
+5458560	5459320	assim que,
+5459320	5459880	e eu geralinho,
+5459880	5460880	que aqui é o mando,
+5462880	5463880	no,
+5464880	5465880	é o mando,
+5465880	5466880	aqui,
+5466880	5469000	com a Claudia falou,
+5469000	5469520	Bruno,
+5469520	5471160	não estava conseguindo,
+5471160	5472640	ver o coge no,
+5472640	5474160	naquela branca,
+5474160	5475160	ó, legal,
+5475160	5475680	realmente,
+5475680	5476680	agora que estou olhando aqui
+5476680	5477720	para o outro tela,
+5477720	5479000	mas fica tranquila,
+5479000	5479640	está com a ógina,
+5479640	5480520	a gente não fez nenhum coge
+5480520	5481040	no portante,
+5481040	5481200	não,
+5481200	5482200	a gente só estava dando uma
+5482200	5483120	uma pizza lá,
+5483120	5484600	e bom que você falou isso,
+5484600	5485560	que a partir da próxima
+5485560	5485920	aumenta,
+5485920	5487520	então a gente só vai levar,
+5487520	5488200	no,
+5488200	5489160	no darte,
+5489160	5490560	eu prefiro,
+5490560	5492160	acho que fica melhor para todo mundo,
+5492160	5493760	então combinada
+5493760	5494960	que a gente vai levar no,
+5494960	5495760	no darte,
+5496320	5497720	para o se mostrar a aula de tema,
+5498720	5499360	me lembra,
+5499360	5499840	brilhou,
+5499840	5501520	eu falo com a coisa,
+5502720	5503440	ah não,
+5504160	5504960	não deixou,
+5506640	5507800	só vai ouvir o banco,
+5507800	5508520	e não calma,
+5508520	5509160	não,
+5509160	5510360	não,
+5510360	5511320	naquela da bano,
+5511320	5512080	não,
+5512560	5513160	aí é isso,
+5513160	5513880	então pessoal,
+5513880	5515200	a história deixa dar no ero,
+5515200	5516840	a gente acabou aqui,
+5516840	5518080	boa noite,
+5518080	5519040	semana que vem,
+5519040	5520200	a gente volta aqui,
+5520200	5520840	quatro aferes,
+5520840	5521840	e dezenove horas,
+5521840	5523440	vai ficar aqui gravado,
+5524080	5524680	podem marcar
+5524680	5525800	um álbum comigo,
+5526440	5527280	fica em avantagens
+5527280	5528640	do dourar as estão lá disponíveis
+5528640	5529960	no calenho de
+5529960	5530760	o bom mandalho de novo,
+5531480	5532440	no Discord,
+5532760	5533720	fixo para vocês,
+5533720	5535080	quero ter o prazer de conhecer
+5535080	5535720	um álbum,
+5536040	5536880	e boa sorte na
+5536880	5537720	sessão de honravas,
+5537720	5539800	aproveitem o bootcamp,
+5539800	5541240	vai ser incrível para vocês,
+5541400	5542440	valeu, pessoal, bono,
+5545080	5545600	bono,
+5545600	5546360	e tinto.
+5547240	5547960	bono,
+5584680	5585680	bono,

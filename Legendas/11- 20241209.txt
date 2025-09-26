@@ -1,0 +1,1176 @@
+a ideia para o JTM na pra que nós,
+que a gente conseguiu avançar já no STM também,
+sem certeza que vocês estão avançando o projeto,
+que muita gente me procurando também,
+e aí reforçando o Governo entre contato,
+ou seja, pelo Discord, qualquer fonte de comunicação,
+tem o color, e também não deixe reforçante de
+exaltar o qual o importante é o color,
+muito fácil na canal de áudio,
+sem entrar lá, para só para ser disponível,
+quase todo dia, é a primeira opção,
+assim na hora de tirar dúvida,
+de ter um contato mais próximo,
+agora, enfim, dica de projeto, carrer,
+tudo isso, eu estou disponível também,
+e estamos chamando no Discord,
+e hoje vamos seguir aqui,
+a gente está construindo toda nossa base,
+muito conhecendo,
+mas funcionando a edadas do Python,
+já começando a pegar aqui um projeto pouco mais real,
+começar realmente botar a mão na massa,
+e vamos dar uma repisada, então,
+no que a gente viu a lopaçada,
+a gente fez na quinta,
+a gente já avançou, a gente tinha chegado a de,
+até a parte do,
+sendo me ingrindo das classes,
+mas aqui eu vou dar uma repisada,
+não vou passar tanto no detalhe,
+quanto eu passei na quinta,
+mas, o nosso data set,
+é o data set,
+como os passagers do Titanic,
+esse é o data set muito,
+muito famoso, enfim, todo mundo que trabalha com dados e o momento,
+o já trombou, ainda vai trombar com o data set,
+ele é muito, enfim, direto,
+ele tem características dos passagers do Titanic,
+só revisando,
+vamos passar muito por elas hoje,
+o me de,
+que é só uma chave,
+que registra de cada passageiro único,
+o survival,
+que é uma variabilidade,
+assim, o não,
+o zero,
+se as pessoas sobrevivem o não,
+a classe,
+primeira segunda terceira classe,
+o nome do passageiro,
+sexo,
+aí,
+com os filhos tínhamos,
+familiares,
+o pais ali,
+o nome da digerética,
+o novo,
+parche, que eu não lembro,
+acho que eu não lembro que é parche,
+ticket,
+o ticket número do,
+do,
+da passageiro da pessoa,
+fer,
+que é o valor,
+enfim,
+quanto ela paga em dólares,
+na Valaem Dois,
+a cabine,
+e o porto,
+que ela embarco,
+então esses foram os nossos nais,
+a gente deu uma esforada,
+tive que são mil e nove de toitô linhas
+e dos colunas,
+a gente falou muito sobre o describe,
+que eu não vou analisar no detalhe de novo,
+mas a gente passou bem no detalhe,
+que é cada uma dessas coisas,
+então,
+vale a pena ver isso,
+que eu describe a pena muito útil,
+para a gente ver se a carinha do lado a sate,
+sem abrir linha,
+a gente consegue ter muita uma informação sobre ele,
+falou sobre os valores faltantes,
+que a gente consegue ver que,
+por exemplo, a Ígina,
+tem em 1998,
+que é o total de linhas,
+que a gente viu aqui,
+então,
+a gente consegue ver a média aqui do Ígina,
+que é só uma xavi humano,
+que a gente consegue ver,
+o survival está mais próximo do zero,
+então,
+de que mais a gente morreu,
+o peclasse está mais próximo do treiz,
+então,
+a gente não tem sido a classe,
+a medida a média da passagem,
+a gente falou sobre o padrão,
+sobre os valores máscimos,
+que vai lá pena ver,
+ali o detalheamento que a gente fez do describe,
+que pegou uma mostra,
+não sempre,
+então,
+o tempo,
+então,
+o tempo diferente do rei de do teio,
+que pega ali porções em cima,
+embaixo do data set,
+o tempo ele pega ao longo de todos os conjuntidades,
+na ele pega ali,
+distribuver linhas,
+aleatórias,
+ao longo do data set,
+para a gente dar a amolada,
+então,
+o hotel de gau aqui já,
+mas o tempo ele é legal,
+porque a gente pode enfim,
+roda duas,
+três vezes ali,
+você vai ver,
+ele vai sempre mudar,
+então,
+a amolada está saindo,
+então,
+forma,
+tem gente que consegue
+de cara quando viu,
+de describe,
+já,
+já intendetuda,
+às vezes também,
+solendido pouco do tempo,
+e tem gente que,
+gostamos de tomar forma mais visual,
+então,
+talvez se botar um número alto aqui,
+talvez trinta,
+e ficar rodando uma vez,
+você rodar,
+aqui a gente não canha e gona,
+vamos carregar tudo o que está aqui,
+cima, eu vi aqui executar o do antes, mas vão pensar que são milinhas,
+a gente rodar o 100. 3 vezes 4 vezes, ele já vai trazer aqui 120 linhas,
+tudo bem que pode repetir, mas não botar aqui 100, 100 e 10,
+e já é uma mostra boa, ainda, é isso, 100% da taxa, e toda a pratainda é boa,
+aqui a gente consegue ver vários, enfim, vários ajustes, que a gente pode fazer.
+Alguns ajustam que a gente fez, então a gente viu que no sexo tinha maiúsculos em minúsculos,
+então a gente padrões o bototô do minúsculo através do matrilo,
+a gente usou também o no embarque, a gente viu que tinha portos que estavam portes e esse,
+e a mesma mesma informação, só escrita de duas maneiras diferentes,
+então a gente editou aqui, a gente tirou portos com espaço, enfim,
+rodamos de novo as amostras para ver como é que estava, tratamos valores novos,
+o que a gente viu em infone, a gente consegue ver mais no detalhe, e sim, todos os colunas não são as numericas,
+então a gente describe, a gente que não funciona assim, para não funciona a gente,
+foi fazendo aplicando método aqui no data frame para chegar nas concentagens de valores missos,
+aqui a gente construiu, a gente viu aqui, que o cabine tinha um 80% dos valores missos,
+então não faz sentido, porque a gente está fazendo um salto de inferência de muitos grandes,
+que ele prevê o 80% dos valores faltantes com base só ali em 23,
+diferente do age, né, que a gente tenta por cento e falta só 20 e então a gente pode criar algumas
+estratégias para tentar tratar esses valores missos, mas para a classe, passagem,
+então vamos lá, o que a gente vai tirar a cabine, que a gente falou,
+não vou normalizar ela, e agora a gente vai dar uma olhada em uma cada uma das colunas
+tratais, aí a gente viu, né, que tinha 123 valores novos,
+então vou tomar 2,5 depois do salto, aqui agrupamos e a gente novamente tem que começar
+no estratégia para preencher os valores missos, então a gente foi muito daquela linha de que
+eu posso tentar inferir esse valor que está faltando com base em outras características
+da conhecidas da pessoa, né, então as vezes eu não sei, a idade da pessoa, mas é seu século
+então, se, de repente, eu tenho um grande diferença entre o mesmo leores, faz sentido usar a idade
+ao século de que o próprio pra preencher, é o valor falta a gente da idade, mas, nesse caso,
+aqui a gente viu que está muito próximo, é 28 e 30, então no fim do dia não não faz sentido,
+porque, é, se eu usar o mulher homem, tudo bem, posso estar próximo a dar um pouco, mas no geral
+minha previsão não vai ser muito diferente para o tal, os anos, eu não a gente eu estou treinta,
+e aí, então a gente tem que buscar alguma característica que diferenciasse a idade para
+isso, e a gente poder usar para preencher o valor falta, então aqui a gente viu que pelo porto de embarque
+também não teve nenhum motivo muito diferente significativo de idade, a gente viu também,
+sobri no chate, aqui também, pessoal, aqui também a gente viu, finalmente chegando na classe,
+que aí sim tinha uma diferença significativa de idade, a gente viu que o pessoal da terceira
+classe tinha uma média, de 24 anos enquanto o pessoal 25, vai, enquanto o pessoal da segunda classe
+tinha uma média 30 e o pessoal da primeira classe, uma média de 38, então a gente vê ali,
+foi então escadinha, a medida que a classe era mais alta, as pessoas tinham uma idade maior,
+e faz sentido, não, eu vou dar uma volta, pessoal geralmente vai com uma lequeza longa da vida,
+então faz todo sentido que de fato a primeira classe tem uma média de idade superior,
+e também lembrando que a gente está tratando de um cogido de dados de...
+eu não sei o nome, isso é no milano, então, enfim, 120, 120, 130 anos atrás,
+quase, então a perspectiva de vida da população também era menor, no pessoal de 40 anos,
+naquela época eu tinha vivido a boa parte de sua vida, enfim, então também as pessoas
+jovens viajavam também, tinha um menos ainda, porque estavam ali muitas vezes viajando,
+buscando uma oportunidade na vida, postadendo também que a gente está enriqueira na
+vida que saía da linguagem até a gente está adorado, então, tipo de pensar assim,
+dois perfis diferentes, pessoal estava a primeira classe, um viagem de pessoa em estourismo,
+as vezes viajindo e gosto, enquanto o pessoal até se era classe, muitas vezes estava
+migrando por o estado de origem em boos coiginhos de oportunidades.
+Aqui a gente criou três variáveis, mas a imóidade média para classe, não é?
+Aqueles que a gente viu a insima, 38, 35, chamase no elas e usando o loque, a gente encontrou,
+justamente onde que no eige era um valorista autóntesis e classe 1, e preenchemos justamente
+a colona eige também com esses valores maiores, então basicamente a gente tratou esses valores
+no uso com base na classe, ficar a falta no vinte e três, e aí, a gente não tem muito mais
+que fazer, enfim, a gente viu ali, não tem muito mais nada de diferenciando, então faz
+que a gente usava média, porque qualquer coisa que daria mais trabalho do que resultado.
+Então não faz sentido a gente deixar nosso código mais complexos, se não vai agregar muito
+para nossos análises, então a gente vai simplesmente tira mando o eige embora.
+Então aqui, beleza, pessoal, é alguma dúvida ainda sobre o que a gente viu na passada,
+alguma coisa se não ter dê, eu daria 7 de esteníquito, o sério, então beleza, vamos seguir
+aqui, a gente tem agora, vamos passar pela classe, né?
+Contrar, a gente também tem que preencher algumas pela classe, e vamos tentar identificar
+o que faz mais sentido no opinião de vocês, se eu não tenho o valor da classe qual
+outra variável de todo o nosso data frame, vamos olhar de novo aqui todas as colomas, se eu
+não tenho a classe qual dessas colomas se as acham que é mais importante para eu preencher, então
+vamos ver o que não é importante viu que lá no sério, não é uma espada, é para a idade, a
+classe era uma boa variável, boa coloma para a gente usar para prevesse as valores soltantes,
+mas vamos pensar agora aqui para justamente para a classe, né? Então a gente preencher
+tudo, da idade agora para a classe, se a gente não tenha a classe, qual dessas outras
+colomas se as acham que a gente pode usar como a maior eficaz e sim, então seria mais
+interessante para a gente usar para preveir a classe se a gente não tem esses outras colomas,
+alguma dessas outras colomas, teria a atarifa, exatamente boa do meu, atarifa, porque aí
+é uma sociedade só um dia na atarifa, preço, qualidade do da uma de você vai, então a taxa
+faça a seção hoje, classe econômica, classe executiva, classe primeira classe, então é mais
+menos isso que também não tem a classe, então bom exemplo aqui, ou se eu não ter a classe,
+mas se eu sei que a pessoa pagou 3 dólares muito provavelmente, ela se esconcola no
+que ela vai estar numa classe de alguém que pagou 10 dólares, de 11 dólares ou 14,
+então é mais ou menos por aí, e vamos ver isso agora no detalhe, voltando lá embaixo,
+a gente vai dar um grupo e baia aqui agora justamente na classe, e vamos pegar os dados do valor da tarifa,
+então um grupo e baia em um agrupamento, a gente vai pegar e jogar aqui a classe no estes primeiros
+seguintos terceira e classe, então a gente está agrupando, a gente está separando as três classes e vamos
+olhar os dados dos números para eu, a gente tem que eu fer que é o valor da passagem, então vamos
+olhar aqui, justamente o fair, né, que a gente que é olhar, a gente vai ter a mediana, a média,
+o desvio padrão é contar, gente, é isso que a gente escolheu aqui, então a gente vai olhar só esses
+quatro coisas, a mediana, 57, o que que a mediana é, só lembrando também, a gente viu na
+alapassada, que a mediana é a estatística que divide o nosso conjunto de dados em dois, ou seja, se metade das
+pessoas na primeira classe pagaram até 57 reais e é outra metade pagou mais dólares, o grupo e
+é outra metade pagou mais de 57 dólares, pra segunda classe, a mesma coisa, metade pagou até
+três dólares e a outra metade pagou mais de três dólares, pra terceira classe é oito dólares,
+então vocês veem que vai baixando, né, e faz sentido, a gente vê aqui metade das pessoas pagou até oito
+dólares e a outra metade pagou mais de oito dólares, aqui na média, a gente vê na primeira classe,
+a média é bem mais alta, então a talismo, 76 e por que a média mais alta, que mais, o mais
+se que o tessade seja o número que divide em dois, tem um pessoal que pagou, pode ter pagado bem mais
+caro, né, a gente viu isso também, tem um pessoal que pagou acho que quente do dois, então isso
+é calma puxando a média assim, e é o mesmo aqui, pra segunda classe, pra terceira, porém,
+proporções bem menores, né, que deze oito dólares e aqui, dos dólares, o desvio padrão na
+peraclacia é muito maior justamente, porque, na do desvio padrão, é basicamente, a está a gente
+que diz quanto que está fugindo da média, os elementos daquele grupo, né, então aqui na primeira
+classe, tem o desvio padrão bem mais alto, porque a gente tem algumas pessoas que pagaram muito
+caro, não quem é do $600, isso acaba fugindo muito da média, aqui, no caso, essa é 96, então como
+fógeno muito da média de desvio padrão mais alto, aqui não aqui 15 $ e $, então também teve um pessoal
+pagou mais caro na terceira e na segunda também, em proporções menores, e justamente
+quem tiver, tem 230 pessoas, então, dos uns 30 linhas na primeira classe, cento e 95 na segunda
+e quem é 142 na terceira, então aqui, como desvio padrão é mais alto, então, nesse caso
+e como desvio padrão é alta, a média acaba ficando distorcida, justamente diz que por causa
+diz que a gente falou, então como desvio padrão é muito alto nesse caso aqui, por causa da
+que ele é caso extreme, de pessoas pagaram que é em esses classes $, a média, ela
+acaba ficando um pouco distorcida, e nesse caso, é melhor a gente usar a média, e justamente
+por causa disso, então as médias, a gente vai usar as mesmas, e outros grupos, aqui a gente
+falou, a gente vai usar as médias pra preencher a classe de férula, não, desculpa
+porque a gente falou como desvio padrão é alto, e mesmo que a gente se casou
+a média, hoje se usa as médias deixarem os muitos valores no que não são, como desvio padrão,
+estou pensando aqui, se isso faz sentido, como desvio padrão é alto, beleza, é mais
+coerente nesse caso, era a média, tá falando para o contrário que eu falei, mas por que?
+Por isso se usá se usar a média, deixaremos muitos valores de classe 1, que não são realmente
+1, por conta do outro desvio padrão, faz sentido, então um bom exemplo, vamos pegar aqui
+isso por, então vamos usar, vamos usar agora 18, 12, 18 ou 75, que a gente vai preencher
+os que estão faltando, pois se a gente usar a se a mediana, a gente ia botar no que vai
+a lorizum, que não são realmente 1, não é isso aqui não está fazendo muito sentido não, vamos ver
+que os valores, a gente é visto também, outra coisa que a gente viu olhando a mostre, que
+tinham valores negativos, então isso aqui também acaba influenciando na mediana também negativamente,
+não é isso, tem um pessoal muito alto, quem pagou que é de $600, puxando para cima, se tem valores negativos
+também acabou influenciando, puxando a média para baixo, então antes de olhar qualquer coisa,
+no caso, a gente vai ter que ver justamente essa galera que esse pessoal que está com o valor de
+passagem negativo ao zero, concorda-se ser tazerado, enfim, não acontece muito real, eu seria,
+eu faria sentir entendendo esse realmente, faz alguns sentidos que eu está zerado, né?
+A passagem está zerado para esse pessoal, porque ela ganhou a passagem, tirou em milhas, tirou em
+milhas no títenique, mas pensar em um contexto para não pagar a passagem, e aí ela vai encerado, tudo bem,
+então nesse caso não está errado, mas enfim, vamos tentar uma boa alternativa, seria
+preencher com o valor no caso de valor zero, e considerar isso quando for calcula uma média tirar
+esse pessoal, porque esse pessoal vai influenciar aí e no caso eles foram uma gravatividade, então
+isso é um grupo diferente, e mais negativo, a menos que seja um rimboso, algo do tipo,
+que pode ocorrer algumas bases também, e tipo, bem bom pensando a pessoa pagou, mas aqui, enfim,
+ela recebeu dinheiro, não faz sentido da verdade, né? Porque aqui é uma gente passagem, vamos uma
+lista de venas passagem, então a pessoa que é uma gente estava lá, então não faz sentido ele tem,
+recebido para viajar, sabe? E aqui no caso, então a gente pode pensar num tratamento que vai ser
+primeiro, vamos botar agora como valores novos, e depois vamos analisar de novo, né? Porque no caso,
+a gente viu que é o zero, no nosso caso aqui no nosso contexto, não faz sentido, não vai considerar
+que foram gratuitidades, e os negativos a gente vai considerar que foram errados, então isso que a gente
+vai fazer, que a gente vai localizar, no nosso data frame, no nosso, vamos usar o método do lock, vai
+pegar a coluna f, e vai pegar o que foram melhor do que zero, e de novo, vamos meditar na coluna
+f, vamos abrir o e, na coluna f, o que foram melhor do que zero, a gente vai atribuir o
+Np ponto não, a gente vai chamar que o método para botar esse nano, né? Usando a biblioteca do
+num pai, e que se dê um ano, o que é na pincelada sobre ela na primeira semana, depois a gente vai
+se familiarizar mais, mas é um biblioteca que traz metos matemáticos, né? Pro o propósito.
+E aqui a gente bota a Np, na pra botar justamente esse valor no, vamos botar ele no
+que é o nosso caso, a gente viu que o negativo é errado e o zero não faz sentido. Então,
+é que a gente também tinha falado isso, aqui é um exemplo que a gente precisa necessita
+definir a flícia onde não é igual, se o zero fosse em contéria, protezias, a gente poderia
+criar uma coluna com flague de protezia, e aí quando eu for analisar a média, eu tiro as
+coisas isso, por exemplo. E agora vamos agora sim, eu vou olhar como é que tá o nosso conjunto
+de dados. Pronto, agora a ferna, agora tá ali, foi não ser a enviazada pelos valores
+que estavam aprendizos. Então, aqui a gente tem uma mediana de 8, a mediana, agora se
+se perceber, a mediana não altera o tanto, mas a média acabou subindo bastante, então
+eu vou sair aqui de 8, vamos ver a mediana, ela saiu de 57, isso é a de 16 na primeira classe pra 67
+e eu ele tem 4, então ela subiu porque os valores negativos estavam puxando pra baixo, saiu de 13,
+e foi pra 13 e 20, saindo de 13, 18, então a segunda classe não mudou tanto, e aqui na terceira
+classe ela saiu de 8, e 12, para 1,2, 8, e 13, então a média pra extremitinho, dou pra ter
+ser a classe. Então, é isso, vamos usar a média justamente aqui agora, faz sentido que
+ele falou ali, e a gente vai botar muito valorizum que não som realmente um pouco do doze
+de padrão, então a gente vai usar as medias de ferna para preencher os valores missos, então
+o que a gente vai fazer, vai delimitar em tervalos, e olha aqui, a gente vai pegar as medias
+para a primeira classe, a média para a segunda classe é a média para ter ser a classe, e a
+gente vai criar uma lista de proporções, a gente consegue pegar da classe e saber
+usando o metro normalize e goutro, ou desculpa o parâmetro normalize goutro do metro do
+valeu, e o count, a gente consegue pegar justamente isso aqui, ó, você consegue saber
+em cor de pessoas, estão a ter ser a classe, proporção, né, se foi até 6%, 20%, 30% na primeira,
+e 20% tá na segunda, isso está do mais é o count que a gente viu aqui, por exemplo,
+você quer só proporção, das classe, e porquê a gente vai precisar dessa proporção?
+Vamos ver aqui já já,
+eu te pregou aqui, levantou a proporção, e vou normalizar justamente agora as comunas,
+a colona de ferna, e vamos botar um describo para ela, ou onde a classe é nula, então
+são 105 valores que a classe é nula e a gente tem o ferna, a média para elas é 38,
+o desvi padrão é os que eu tenho dois, a gente tem um 16, a vez de 55, a gente tem até
+dos 16, a vez de 65, e então o que a gente vai fazer? A gente vai botar em tervalos,
+por
+não botar aqui,
+ou se, a gente já definiu as médias, não é, vamos me executar tudo aqui para cima,
+a gente tem a média, até 3, e a classe é a média da segunda classe e a média da
+primeira classe, pefeito? Então aqui, vou entender 4, 24, 23, o que a gente vai fazer agora,
+a lógica, menos de 13, primeiro ter será classe entre 13 e 20, segura classe, mais de 20,
+no geral, não precisa, a primeira média mais de 20 vai ser, a primeira classe.
+E a gente falou justamente que faz isso, né?
+A gente usa a medida, seria mais de 13, tudo que fosse mais de 13 seria a primeira classe.
+Então eu acho que estava mais escrita ali, mas é isso que ele estava querendo falar.
+Que aos altos intervalos da medida, a gente acaba sendo deixando de pegar a faixa ficar ruim,
+no geral, é isso.
+Então a gente usa essa faixa aqui, a gente vai estender para o 20, que vai ser a próxima mais da média.
+Então a gente vai considerar essas três faixes, tudo que é menos de 13, 17,
+vai ser ter será classe, e principalmente porque ter será classe é maioria também, né?
+Então, isso é também uma boa.
+Então aqui, a gente está metido.
+Vamos botar aqui, um print para ficar mais claro, o print do measure.
+P2.
+Médio, pelo?
+Médio do pé, um a gente nem vai precisar, né?
+A gente viu ali porque é a faixa lá de cima.
+O botar só o measure do pé 2 e o measure do pé 3.
+Agora, justamente isso, 20 e 3 são as faixes que a gente viu.
+Se for menor do que 13, e o valor for novo, que a gente vai fazer, terceira classe, que eu cante falou.
+Se for menor do que 20, e o valor for novo, segundo a classe.
+E porque que eu não preciso me preocupar e botar menor do que 20 e maior do que 13?
+Porque pela ordem de execução do pódigo,
+a gente tem que considerar que depois que tudo que for menor do que 13,
+vocês vão colocar o que também é menor do que 20, tudo.
+O outro lado é uma até mais.
+Tudo que a menor do que 13 é menor do que 20.
+Então, quando eu tratar esses valores aqui, tudo que for menor do que 13 e novo,
+eu já vou ter resolvido boa parte dos valores novos.
+E agora, daquele que soubrar, que vai ser basicamente agora,
+tudo que é, agora eu sou vou ter novos maiores do que 13.
+Agora que eu vou dar um outro porche, tudo que a menor do que 20,
+ponto fica a 9 é 2.
+E agora, o que sobrá, né?
+O que for maior do que o 20, ponto se que eu tenho 9, vai ser, primeira classe.
+E é isso, a gente já vai conseguir matar boas.
+Boa parte dos nossos valores saltantes para a classe, vai faltar o que?
+O que não tiverem o valor da tarifa.
+E aí, é isso que a gente vai olhar agora.
+Tá vendo, esse pessoal aqui são poucas ninhas, né?
+Tipo, três, quatro, cinco, seis, sete, oito, nove, dez, onze, dos.
+São 12 ninhas que a gente não tem nem, é tarifa, né?
+É a classe.
+E aí, o que a gente faz?
+É difícil fazer falar, né?
+É, a gente também não tem muita informação, além disso, não tem em um fim.
+É, a gente poderia olhar ali, mas já deandando, não tem diferença
+para o significativo, além da idade.
+Então, a idade poderia ser, a gente tem esse pessoal aqui.
+E a gente poderia inferir pela idade, mas está vendo que todo mundo tem um fim,
+basicamente, todo mundo tem menos de 39 anos.
+Então, a gente fiz também, porque, agora, a gente, a idade, eu vou falar que,
+a primeira pessoa de um ano tá na segunda classe, só por causa da idade, a gente fiz.
+Agora, por exemplo, vou tal que é a edificação a gente ferir para essas ninhas que estão faltando.
+Então, o que a gente vai fazer é o jeito mais fácil de preencher, que é basicamente manter a
+proporção.
+A gente viu o nosso proporção, a gente conhece, né?
+Que estão quem não eu dei três na terceira classe, nos 182, na primeira, agora, né?
+Depois de nossos tratamentos e dos anos e três, e na segunda.
+Então, agora, a gente vai preencher.
+Vai criar aqui o metro, não se preocupe com esses metros, por enquanto,
+aqui o mais importante é a idade, e a nossa idade, que está criando os anos, funcionos e,
+para escolher, aleatoriamente, ele fica qualquer um desses três, usando a proporção
+delas mesmo, usando a proporção delas.
+Então, ele vai fazer essa proporção, ele vai escolher, se ele se roda mil vezes,
+ele vai escolher, 1593, o três, nos entretenduas, vezes ele vai escolher, um, e dos
+três vezes ele vai escolher, o que é?
+Se eu seja, ele preencher os valores no uso com base na proporção, que essas variáveis
+acontecem na, na, na, na, na, o resto da mostre.
+Então, esse é só um jeito para, enfim, completar esses valores estão faltando, sem alterar
+a limuita distribuição, né?
+Sem alterar muito o resto dos, dos dados.
+Então, a gente, a soldar uma, um padronizado nos dados e quando a gente olha aqui no final,
+agora sim, a gente não tem nada.
+Pufim, é interessante a gente botar também, não valor o inteiro, né?
+Porque o mais que tivesse ele em ponto zero, três pontos aero e dois pontos aero, esse
+ponto desse mal não faz nem sentido.
+A classe é, poderia isso, é inclusive uma variável de texto, né?
+Então, essa é primeira, segundo terceiro.
+Então, aqui no caso, o número é muito mais para ser uma variável que está temgora, que não
+não é o número, não é que ele precisa, que eles comporjam, vão variar no número.
+As que a gente botou o instruções, só para não ficar ali o ponto, né?
+Agora, beleza, pessoal, alguma dúvida sobre o Plus, sobre a estratégia que a gente fez,
+das faixas, né?
+Quebrar para faixas, beleza?
+Então, passando aqui, agora olhando o ferre, a gente tem 999 e sim, que tem algumas
+ninhas faltando, a média de 32 dólares, então, por isso mais de $32, por passarem,
+uns viupadrão de 49, né?
+A pessoa mais barra, o passarem mais barra de $2, que foi 4 dólares, até 25%, né?
+Até um quarto das pessoas pagaram, $8, metagem das pessoas pagaram até, 14, 45 dólares,
+com a traumatidade para a bomba mais, 14,95%, 75% das pessoas pagaram até, 32,2, e que nem a gente vê
+que ele vai caminhando em passos cultos, né?
+E do 75% para o máximo ele pula, justamente, por causa desses valores tremos,
+o pessoal pagou muito caro.
+Então, essa foi só mais assim, passando em faça, em geral, mas nosso objetivo aqui mesmo é
+o leal os valores novos, né?
+Então, beleza, vamos aqui, primeira coisa, não, né?
+O que ele tem no seu loque, na coluna de fera onde ela falou?
+Bom, beleza, vamos olhar, nós tiver que não tem um...
+Aparentemente nem um padrão, né?
+E pessoal, é o somcente, 3 linhas, então, ainda tem bastante coisa, e vamos pensar agora com um preencheiço.
+E aí, não tem muito para uns correndo, é pessoal, voltando, mas tem com relação
+na, se a gente não tem o valor da tarifa, mas a gente tem a classe, é o mais óbvio seria usar,
+obviamente, ali, o valor da classe, então, o seu não tem o...
+Se eu vou prevenir ali o preço de uma passagem de alguém na vião, e eu não sei qual onde ela
+tá na vião.
+A partir do momento que eu tenho essa informação, minha previsão vai ser muito mais concreto,
+né?
+Então, se eu sei que uma pessoa...
+Se eu quero prevenir o preço de uma passagem, eu sei que é da primeira classe, eu consigo prevenir
+o preço mais alto, você vai criar a classe colonando, que eu consigo prevenir o preço
+mais baixo.
+Então, essa é a mesma lógica aqui, eu não tenho o preço das passagens, mas eu sei
+que tá na primeira, nós segramos na terceira passagem, então, quem vai fazer,
+tiver usar a média da primeira classe, a média da segunda classe, e a média da terceira
+passagem para preencher esses valores novos.
+E agora, morreu tudo preenchido, também.
+Agora, em barca de, né, a gente viu do porto, te viu os 169, 189, 183.
+E aqui, não tem segredo, vamos fazer da mesma forma, e aqui eu usei uma preenchificada
+para confusionar os variables em partum.
+Então, aqui a gente tem a proporções que a gente ia pegar das classe, mas agora o que a gente
+pode fazer, vai se sobre escrever essa proporções, como
+a nova proporção, que vai ser a proporção do embarque de, então, o que a gente
+vai pegar a proporção de pontos por cento de das pessoas, né, da nossa mostra, embarcar
+uma encada por diferente aqui da classe.
+Normalais igual a trilupra justamente normalais e de bota em porcentagem, né, se não for
+normalais, ele vai só trazer a contagem normal.
+E pronto, agora aqui, ó, vamos ver como é que ela ficou agora, mesmo se eu voltar, ela
+sempre nos costa, ela agora vai ser a proporção dos corpos, só tem que 2% em chefe,
+20% em ser ele, não lembre, e 8% em que?
+E a gente vai usar justamente a proporção para fazer um escolho usando esses valores,
+se for no, se não, vai ser o mesmo valor.
+Não se preocupa então, com a sintáxica, que, acho que vale mais, me tendeu que a gente
+está fazendo, né, que a gente está preenchendo os valores nulos do nosso data frame,
+está deixando de complet e aqui a gente não adima estar fazendo, que eu me escolhe,
+não, a gente está usando um método do num pai para fazer um escolho usando a proporção dos
+valores que já existem naquela corona.
+Então a gente está só não operando, a gente tá, se eu não sei e não quero deixar
+no, eu vou botar ali com base, na proporção.
+E por fim, agora vai chegar a parte mais interessante, vamos começar, analisar a probabilidade
+sobrevência dos grupos.
+Então a gente tem 674 pessoas que não sobreverem, a gente tem 424 pessoas que sobreverem.
+Suva e vez, né, ninguém vai sobreverem, então a gente tem que, porque nem a gente viu,
+quando a gente pegou a média, a gente viu que um pouco, a gente tá mais próximo do zero,
+ela era ponta em tem um no mingano, então o sulvive de é um pouco maior aqui, normalmente,
+eu tinha rodando aqui a média, e veio que o sulvive, ele tá, mas próximo do zero.
+E agora, pessoal, vamos tentar.
+E agora, primeiro, primeiro coisa, vamos ver, acho que pela classe, será que teve diferença,
+de quem sobreviveu pelas classes?
+Olha aqui, 60% das pessoas da primeira classe sobreviveu, então você estiver se na primeira
+classe do que você tinha 60% de xia sobreviveu.
+Se você tivesse na segunda classe, ou por favor, ligado aqui.
+Se você tivesse na segunda classe, você tinha 50% xia sobreviveu.
+Se você tivesse na terceira classe, você tinha 25% xia sobreviveu.
+E eu estou falando em nível de xia sobreviveu, com base, que a gente tem ali no conjunto de dados,
+com base na aelisidade da mostra, né, da nossa mostra.
+E aqui justamente isso, que é interessante.
+Eu queria perguntar isso aqui, faz todo sentido, né, porque se a gente pensar no navio, e até
+eu vido depois naquela filmagem do... eu lembro disso, da filmagem naquele pessoal que
+estava agora com o sulmarino, o esteníque, que estava aí, vendo os vídeos do esteníque.
+E a terceira classe, ela é lá embaixo do navio, né, faz todo sentido.
+No navio diferente, de outros...
+Posso oniz o trabalho no meu pior, né, porque diferente da praia, né, se não quer
+estar na próxima água no navio, porque lá é um de...
+Mas...
+Não balança, mas é um de mais batha água, né, também.
+Se não tem vista, tá mais longe do Converse, que é onde tinha um restaurante, enfim.
+Até quem... sei se alguém já teve a oportunidade de fazer, inclusive.
+Eu fiz, inclusive, já, com a minha família, foi no nome, é meio feio de 60 anos.
+Aí ela... e ela... enfim, ela, e minha tefe,
+que era no... um quartinho lá com vista, lá em cima, perto dos coisas, né.
+E eu e minha irmã ficamos lá no... lá embaixo, quase no deposto, junto com as malas,
+quando deu ali com o espaço, basico, começou a balançar.
+É terrível, né.
+Mas... e se faz todos os indídeis que com o têníque, né, da maioria do pessoal
+estava na terceira classe, porque é maior também, né, tem mais cabins.
+E eu queria perguntar pra vocês, vocês, acho que além disso,
+teve algum outro fator que influencia muito desse cantiveu, né, das com as cantiveu,
+pessoal que tá no... leito, quer eu vim se quiser ir mandar uma palpita, né,
+pra gente olhar aqui, que vocês acham que pensei assim,
+que eu não espero gente vira de vocês, mesmo em influencia,
+numa situação de poessa, né, não traz a plante por bater no ICB,
+que tá carindo... é... que vocês acham que mais a influencia e pensei assim,
+né, no que a gente tem disponível, né, dos dados.
+É o que disse o seu lado, é que mais a influencia, além do Antivulca,
+a classe influencia, né, onde a pessoa estava no navio.
+Vem aqui, nas columnas de novo.
+Então a gente tem aqui, a classe,
+acho que o nome, por exemplo, vai influenciar, faz sentido, né,
+o sexo vai influenciar.
+E eu sei assim, e também faz sentido, né,
+aí tá, é, é, tá, é, é, é, quando a vinha, né,
+ela vem o tapacar, e eles falam, primeiro, a juge e mulheres crianças,
+melhor crianças, né, melhor crianças, depois mulheres depois dos homens e filhos.
+Olha, eu não sei se na vião, tem distituição,
+o meu mulher, mas, primeiro, a criança de faram.
+E depois, na época, com certeza, tinha a verdade para ajudar as mulheres,
+porque os homens e filhos estão fazendo ali o trabalho de resgate, né, tá...
+Páximo, faz sentido, né, com a quantidade de familiares,
+pode ser que influencii, é, eu sei, a gente,
+às vezes ali eu pensou que estava com famílias grandes, acabaram,
+não podemos resgatar, os pintos tinta-me esperar alguém em um avutivo,
+vai sentir, preço da passagem, com certeza, influencii, né,
+porque tá relacionado a pasta também, então, que a gente tá,
+ele tá falando de correlação que variáveis, né, como a passagem,
+o preço da passagem está muito conselhacionado com a classe,
+se a classe influencia muito na chance de alguém sobreviver,
+o preço da passagem também vai influenciar, né,
+e o pôrdo canhbarco aí, que a gente não tem muita folnação, né,
+antes, por pode ser que às vezes o pessoal que marcou no pôrdo tal,
+então, uma boa chance, ter, ter, ter, ter, ter,
+por exemplo, por usar o pôrdo com a classe,
+para ver se mais gente, por exemplo, da primeira classe,
+em barco, no pôrdo de seis vezes,
+para alguma, alguma, alguma motivo do distinto,
+ou alguma organização ali da, da empresa, era,
+da, que fazia o transporte,
+mas no fim das contas, é, nós pautos, então, são a classe,
+e dá de o sexo, né, de olhar o meu a classe,
+e vamos olhar agora o sexo.
+Tiveu aqui que a média no geral, né, 40% então,
+olhando independente de sexo, e dá de tal chance de gerar o
+40%?
+Se a gente sabe que é, da, alguém da primeira classe,
+às vezes, chance sobre o preço de 70%.
+Se, na segunda classe, sou para 47,
+mas se está na terceira, já cai para 25.
+E aí, seja a parte, para a inferência, porque,
+porque a terceira classe, provavelmente,
+está embaixo, na view, tem que se locomover mais,
+o impacto da esse baguet foi na parte de filha da view,
+também aí, enfim, vários naturres, podem ter influenciados.
+E o sexo, olha aqui a diferença gritante, 75% das mulheres sobre o governo,
+e só desanolvo por 100% dos homens.
+E porque, isto está relacionado à protocolo,
+justamente, protocolo de accidentes, na época,
+enfim, era algo muito sepiaende, mas já havia esproto a colo.
+Então, a ideia, tem no número correto de barcos,
+e essa foi a grande motivo de tanta gente tem morrendo de tênig,
+não foi o tempo, não foi algo rápido, não foi o bater o quebrou e
+caiu da segunda-segulho, não, mas tiveram muito tempo.
+Problema foi que não tinha um barco para todo mundo.
+Então, depois de um tempo, foi,
+isso que a gente viu no filme, no dia aqui na rua,
+a gente sabe bem.
+Então, é só que foi, provavelmente foi mesmo dramático,
+então acabaram os baques, quem saiu os baques,
+poucos baques foram rotados, quem não saiu,
+não fazia.
+E a prioridade dos baques eram mulheres que ensam.
+Se a gente for ver aqui,
+o mulher e sobreviveram 75%,
+o homem sobreviveram 20%.
+Então, pelo menos, nisso, o tênig foi ele fidegindo, não.
+O...
+Agora, o befe criança, então, vamos ver agora, vamos criar um
+no flegue, e tiver os aidade,
+tiver os aque um idade, tudo que foi o menor do que 18.
+A gente vai botar como uma colandes crianças.
+Então, vamos criar uma flegue, um ozer,
+tudo que foi o menor do que 18.
+A gente vai ser verdadeiro,
+e tudo que foi o maior do que 18 vai ser falso, perfeito.
+E a gente pode ver a mesma coisa domina.
+Então, o leandamento, a medida está mais...
+A gente vê o sul vibe, analisando o sul vibe de agora,
+a gente está um grupi vibe,
+o criança se sim ou não.
+A gente vai olhar agora o sul vibe,
+que também é uma variabilidade.
+Está olhando os aireáveis binários,
+trova o falso um ouzero, o mesmo coisa.
+E vamos pegar a média.
+Então, aqui a gente está olhando a criança,
+se é falso, ou seja,
+o produzador, que eu acho é sobreviver,
+37%.
+Pra as crianças, eu acho sobreviver é 50%.
+E aí, vocês, também tem uma tendência,
+não é? Dá criança sobreviver, mas muito,
+muito menos de tio do que,
+da idade do que do sexo,
+e também da classe,
+aqui a gente vê bem mais gritante.
+E aí, eu quero ouvir de vocês estão aqui,
+também, pessoal, um palpid.
+Por que vocês acham que a idade,
+aqui, no nosso caso, não é a idade,
+mas não via a flea sequenência ou não,
+não influenciou tanto,
+quanto as outras variáveis do sexo,
+idade,
+classe.
+Ok, então, o palpid.
+A estareu alguma coisa relacionada
+pela resistência corporal,
+de aguentar o frio,
+então adultos, algum interior, mas tem,
+mas tem, por não.
+Qualquer estareu, estareu,
+estareu.
+É filho, foi malculhado, não discurta a idade.
+Filhos, talvez filhos, da...
+da...
+Pode ser filhos das mulheres, pode ser...
+Mas eu vou propor que eu mô outra coisa,
+a gente viu a líquida na terceira classe,
+e morreu muita gente, né?
+E se tiver muita criança na terceira classe,
+então, chegou num nível que pessoal não respeitou,
+mas pessoal percebeu que o bote acaba,
+aí cara, foi indo.
+E... E isso que aconteceu tinha muitas crianças na terceira classe.
+A maioria... E vamos analisar isso agora,
+porque a gente vai olhar a criança,
+por classe.
+E agora, vamos analisar para ver se eu me diferenciam,
+na taxa de sobrevivência, das crianças,
+da entre asplaz, na primeira, segunda terceira classe.
+Olha aqui.
+Se fosse adulto, 60% de chance sobreviver,
+na primeira classe, 40% na segunda,
+e, solamente, 22 na terceira classe.
+No tru, se fosse criança, e da primeira classe,
+a chance sobreviver sobre a pra quase 80%.
+Na segunda, enfim, por um acaso ali é um pouquinho mais alto,
+mas também eu 80%.
+Primeira segunda classe é com as todas as crianças sobreviveram.
+Quais todas não, mas vai, mais 80%.
+Na terceira classe, olha só, subiu mais ainda continuar baixo.
+Então, saiu de 22, mas pra 35.
+E justamente, eles que eu falei muita gente,
+da primeira e da segunda classe, chegou a tempo ali.
+E...
+Aqui foi respeitar as praelidades.
+Quais todas as crianças foram.
+Mas chegou no nível que o pessoal, por exemplo,
+dá a primeira classe, um homem da primeira classe,
+vendo ali todo mundo embora,
+e ele sabe que muita gente ainda não chegou.
+Ele vem nos barcos da cabandas,
+eles começaram a pessoa dar a primeira e da segunda classe,
+já estava ali antes, começou a ser só também.
+Enquanto as crianças da terceira classe,
+não mais que elas tivessem, então,oricamente,
+a prioridade, a situação de sobreviverência,
+quem viu, bote ali, não pensa em um jogo natural.
+Então, muita gente dá a primeira e da segunda classe a caboinha,
+por mais que fosse, eu adulto, e aumenta-me.
+A gente depois olha a pulsex,
+mas aqui agora, olhando a quantidade,
+vamos olhar as quantidades,
+e isso que a gente tinha falado.
+Olha o que a gente falou,
+de crianças foram 17,
+com mais 35, com mais 22, então, da 50,
+e 17, 57, 17, 17, 17, 74, 17, 74,
+e 17, 17, 74, 74, 74, 74,
+e a prioridade estava na terceira classe.
+E aí, já relacionamos de novo,
+o que o que a gente falou,
+a terceira classe era,
+foi me desmajor, me estavam buscando mudança,
+enquanto, o primeiro e segunda classe era,
+pessoas estavam mais, já já não é gosto,
+me dá de mais avançada,
+então, a gente vê que,
+daqui o importante é a grande maioria das crianças,
+estava na terceira classe,
+e a terceira classe acabou sendo um fato,
+no que foi ensinado,
+muito na chance, alguém sobreviver.
+Então, por mais que fosse crianças,
+na terurete vai ser a probabilidade,
+mas agora estava na terceira classe,
+então, o peso da terceira classe acabou sendo
+uma autocopesa de sequerias.
+E agora, vamos analisar aqui,
+num grupo de idade,
+a gente pode usar aqui um métodozinho do Pondos,
+se chama do K-Cut,
+que ele quebra em 4,4,
+exatos, então ele quebra em 4,5,
+vamos ter uso 4, ele vai quebrar num 20,5%,
+25% a 50%,
+50%, a 75%, a 75%,
+a 35%, igual,
+ou a describe, né, basicamente,
+mas ele vai quebrar 4 grupos.
+E vamos olhar,
+se teve influencia também,
+o grupo de idade.
+Olha aqui,
+o pessoal de 0,22 sobreviver
+42%,
+o pessoal de 22,26 sobreviver 30%.
+O pessoal de 26,
+é 36 sobreviver 41,
+e o pessoal de 36,
+a 80 sobreviver 40%.
+Algum palpista,
+porque do 22,
+ao 26 morreu,
+mas a gente
+tipo, dá pra ver,
+claro,
+mas a única que distou aqui,
+eu estaria também
+com a entidade de pessoas
+dessa igraucodidade,
+na crescer da classe.
+Peixeira classe
+e além de soma, né,
+também,
+e é mais ainda,
+é, ao mês de 22,26,
+vamos fazer a gente,
+está em si agora.
+Vamos olhar a divisão
+por aqui, por classe.
+E dade,
+não é, pode ir ao agrupar.
+Espego a agrupar aqui,
+por grupos de idades,
+por classe por sexto.
+Então, a gente está pegando
+os dados, a gente está botando vários níveis.
+A gente está pegando,
+vamos olhar a grupos de idades,
+por classe por sexto.
+E vamos agregar ele,
+ou pelo pelo coluna de
+sobreviver,
+né,
+pela nossa variable binária.
+E vamos pegar a média e acontece.
+Então, a gente vai conseguir ver
+a porcentar e que pessoas
+precisam abrir veram para cada um
+desses grupos.
+E quantas pessoas eram?
+Para cada um desses grupos.
+Perfeito.
+Vamos lá.
+Mulheres.
+Jovem,
+ou seja,
+de zero a 22 anos,
+dá a primeira classe.
+Era um 25,
+96% de sobreviver.
+Então, esse é o grupo
+que mais de essa gente sobreviver.
+Tirando também aqui,
+né, segunda classe.
+Então, a gente vê que,
+com o outro comportamento que
+a gente já percebe,
+da primeira para a segunda classe,
+não tem tanto a diferença
+na sobreviver,
+né,
+é muito mais cara,
+terceira.
+Pegu.
+Isso também está na
+posição do caso da posição das
+cabinhas do bar.
+Tem de algum problema de
+acessibilidade,
+nada da terceira classe,
+para o convérs.
+É que era onde estava sendo
+evacuados,
+os baços a lovidas.
+Então, por isso,
+que a terceira classe
+acabou sendo muito prejudicado,
+também.
+Então aqui,
+o homem da primeira classe,
+por mais fosse jovem,
+a gente tinha só 35%
+sobreviver.
+Zessite,
+é no Zessite.
+Isso aqui, claro,
+eles acabaram,
+também respeita na
+priorização.
+Mulheres também,
+primeiro,
+mas alguns
+jovens acabaram em.
+Mulheres da segunda classe
+eram 23,
+todas sobreviveram.
+Acho que é um grupo
+que sobreviveram todas.
+Ah, não,
+Mulheres aqui também
+em Gib,
+Vix-9,
+36.
+Mulheres de 36,
+80, as mais velhas também
+sobreviveram
+quase todos.
+Então,
+tivemos que,
+o Mulheres da primeira
+classe, quase
+todos,
+tiveram ali uma
+uma excelenteia sobreviveram.
+Mulheres da segunda classe,
+também.
+87,
+um,
+então,
+independente da idade,
+as mulheres da
+primeira
+segunda classe,
+que uma excelenteia sobreviveram.
+Apesar de não ser
+muito,
+né,
+pessoal?
+Está vendo aqui,
+ouvir,
+3,
+em 5,
+a maioria no pessoal,
+está de fato na terceira classe.
+Então,
+aqui,
+se você fosse um homem
+jovem,
+e tivesse na terceira classe,
+era 17% de ansomeviveram.
+E era 130,
+eu oupeçoso,
+nessa classe,
+nessa categoria.
+Se você fosse
+isso aqui,
+considerando
+crianças também,
+que estão no esse grupo de 0,
+22.
+Agora,
+quando a gente já sai desse grupo de
+crianças,
+22,
+29,
+e terceira classe
+de 190,
+homens,
+só 11% sobreviveram.
+Então,
+do ele,
+desse 190,
+provavelmente só 20 sobreviveram.
+No 190,
+17,
+tem tempo um reiro,
+que era um homem,
+que não tinha um
+infiltrodade nenhuma,
+né,
+não eram crianças.
+Era um homem,
+e ainda estava na terceira classe.
+Então,
+esse sobreviveram muito pouco.
+Igualmente,
+que para a segunda classe,
+nos homens da segunda classe,
+também,
+porque esse aqui provavelmente
+também estava empenhado
+ali,
+e ajudaram a resgar.
+Mulheres da primeira classe,
+segunda classe,
+e aí,
+muito boa,
+tinha sobreviveram
+da terceira classe
+pouco menos.
+Mas ainda alta,
+para os homens,
+dependente da classe era
+mais baixa,
+né,
+então,
+a gente vê que o homulé
+da terceira classe,
+e,
+em aqui,
+da de,
+compensação,
+aquela idade
+que está mais concentrada
+na 22,
+a 29,
+o amulé da terceira classe,
+que é mais
+chance sobreviver
+que é o homem da
+primeira classe,
+que esse a gente
+foi pensar
+esses homens de 22,
+29 anos,
+foram provavelmente que
+tiver mais que a gente
+estava no resgat,
+e também eles não tinham
+que verdadeiro.
+Agora,
+a gente vê que é
+também a mesma coisa,
+homens,
+segunda classe,
+terceira,
+só 10 e 15%
+já sobreviver.
+Na primeira classe
+pulo,
+para 47,
+porque mais alto,
+mais as mulheres
+ao necessidade
+aqui,
+29, 36,
+sobreviveram 100%
+no grupo,
+na primeira e segunda classe,
+e se se tem um
+por sempre,
+na terceira classe.
+Então,
+cai um pouquinho,
+mas as mulheres ainda acabaram
+sobreviveram bastante
+independente da idade,
+da classe também,
+por mais que a classe
+foi um pouco mais a idade,
+não foi um ansiepo,
+a gente viu aqui.
+E agora,
+pessoal,
+para partir do
+20% ali,
+os últimos 25%
+mais
+velhos no nosso grupo.
+As mulheres sobreviveram 92%
+92%.
+E aqui a gente
+começa a entrar em problema de la promoção,
+também,
+pessoal,
+que é bem mais velho.
+Então,
+por isso aqui,
+faz sentido
+talvez ter caiu um pouquinho
+para a primeira e
+para a segunda classe.
+Agora,
+mulheres
+com idade
+mais amançado
+da terceira classe,
+12%
+só sobreviveram.
+E homens,
+menos de 10%,
+então,
+homens idade
+avanzada da terceira classe,
+eram 52,
+e só,
+provavelmente,
+e 6 sobreviveram.
+5.
+sobreviveram,
+não, 4,
+não,
+se o 4,
+não,
+não,
+5,
+5,
+5,
+de 52,
+de cidade
+em
+no nosso processo.
+Primeira classe,
+de 53,
+de 53,
+mulheres
+das quais no meu
+de 82% sobreviveram.
+E os homens
+da primeira classe,
+também,
+de dade mais avançada,
+só 30% sobreviveram.
+Então,
+o que a gente vê aqui,
+moral da história?
+O que mais influencia
+para alguém sobreviveram
+estenique?
+Sex.
+Os homens
+sobreviveram
+muito menos do que as mulheres,
+depois do sexo,
+eu diria,
+que a classe onde a pessoa estava,
+então,
+a classe que foi bastante,
+também,
+em primeira segunda terceira classe,
+principalmente porque
+os homens da primeira segunda classe,
+tiveram que ajudar também no resgate,
+então acabaram,
+falecendo bastante.
+E,
+a idade,
+acaba não influenciendo tanto.
+O que a gente vê aqui,
+que não há tanto a diferença
+no grupo,
+aqui,
+entre a idade,
+a gente vê
+principalmente
+que nas idades mais baixas,
+aqui,
+que tem uma taxa sobreviveram
+esse pouco maior.
+E que nas idades do meio,
+pessoal de 22,
+36,
+e esses dois grupos,
+elas têm uma taxa sobreviveram
+esse pouco menor,
+promenciendo porque
+são essas as pessoas que
+também estavam ajudando no resgate.
+Pessoa,
+acabamos,
+então,
+acho que conseguimos analisar
+bem detalhe assim,
+nosso primeiro leve,
+acho que muita coisa nova,
+deve ter gente que está pensando
+caraca,
+não tem internet nada,
+mas,
+pessoal,
+fica tranquilo,
+é um processo,
+se não precisam sair desse
+leve,
+olá,
+é um momento que a gente
+dá um pouco avançado
+a gente dá um puxado
+realmente você,
+mas,
+importante a gente
+entendeu que a gente
+está fazendo aqui,
+entendeu todo esse processo
+que a gente fez
+para chegar aqui no final da aula,
+e conseguimos analisar
+com tranquilidade,
+entendeu de fato
+o que que influenciou
+em uma pessoa sobreviver
+no nome de Tenege.
+O que no fim de dia
+é isso que a gente vai fazer
+como analista,
+e sentisse de idade,
+a gente vai ter o pego
+que a gente vai ter que
+expomber,
+então,
+o nosso pego
+tá aqui,
+era
+porque influenciou o
+pessoa
+a pessoa
+bem-vido a
+não a gente não
+tem aqui.
+Isso traz
+eleções de
+temos que a gente
+pode já acionar com
+o caviar,
+com as nens de ônibus,
+enfim,
+tudo tipo,
+então,
+situação de GSC,
+que a gente falou,
+tudo.
+É,
+então,
+por hoje é só,
+quem ta feira
+a gente volta
+com a parte
+teórico,
+depois eu vou desponibilizar
+um muchcoj,
+também o link do
+do colab
+e é especial,
+boa noite para vocês,
+qualquer coisa,
+só me chamar também
+lá no escójio,
+a gente se vê,
+que não tá feira,
+tchau tchau.
+Valeu Bruno,
+tá aqui.
+Valeu tchau tchau.

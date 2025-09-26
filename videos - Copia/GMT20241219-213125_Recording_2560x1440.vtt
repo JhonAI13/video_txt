@@ -1,0 +1,6407 @@
+WEBVTT
+
+05:00.000 --> 05:05.000
+Ainda não é a forma de fazer o que você tem.
+
+05:05.000 --> 05:10.000
+Não é a forma de fazer o que você tem.
+
+05:10.000 --> 05:15.000
+Não é a forma de fazer o que você tem.
+
+05:15.000 --> 05:20.000
+Não é a forma de fazer o que você tem.
+
+05:20.000 --> 05:25.000
+Não é a forma de fazer o que você tem.
+
+05:25.000 --> 05:30.000
+Não é a forma de fazer o que você tem.
+
+05:55.000 --> 06:00.000
+Não é a forma de fazer o que você tem.
+
+06:00.000 --> 06:05.000
+Não é a forma de fazer o que você tem.
+
+06:05.000 --> 06:10.000
+Não é a forma de fazer o que você tem.
+
+06:10.000 --> 06:15.000
+Não é a forma de fazer o que você tem.
+
+06:15.000 --> 06:20.000
+Não é a forma de fazer o que você tem.
+
+06:20.000 --> 06:25.000
+Não é a forma de fazer o que você tem.
+
+06:25.000 --> 06:30.000
+Não é a forma de fazer o que você tem.
+
+06:30.000 --> 06:35.000
+Não é a forma de fazer o que você tem.
+
+06:35.000 --> 06:40.000
+Não é a forma de fazer o que você tem.
+
+06:40.000 --> 06:45.000
+Não é a forma de fazer o que você tem.
+
+06:45.000 --> 06:49.000
+Não é a forma de fazer o que você tem.
+
+06:49.000 --> 06:54.000
+Não é a forma de fazer o que você tem.
+
+06:54.000 --> 06:59.000
+Não é a forma de fazer o que você tem.
+
+06:59.000 --> 07:04.000
+Não é a forma de fazer o que você tem.
+
+07:04.000 --> 07:09.000
+Não é a forma de fazer o que você tem.
+
+07:09.000 --> 07:14.000
+Não é a forma de fazer o que você tem.
+
+07:14.000 --> 07:19.000
+Não é a forma de fazer o que você tem.
+
+07:19.000 --> 07:24.000
+Não é a forma de fazer o que você tem.
+
+07:24.000 --> 07:29.000
+Não é a forma de fazer o que você tem.
+
+07:29.000 --> 07:34.000
+Não é a forma de fazer o que você tem.
+
+07:34.000 --> 07:39.000
+Não é a forma de fazer o que você tem.
+
+07:39.000 --> 07:43.000
+Não é a forma de fazer o que você tem.
+
+07:43.000 --> 07:48.000
+Não é a forma de fazer o que você tem.
+
+07:48.000 --> 07:53.000
+Não é a forma de fazer o que você tem.
+
+07:53.000 --> 07:58.000
+Não é a forma de fazer o que você tem.
+
+07:58.000 --> 08:03.000
+Não é a forma de fazer o que você tem.
+
+08:03.000 --> 08:08.000
+Não é a forma de fazer o que você tem.
+
+08:08.000 --> 08:12.000
+Não é a forma de fazer o que você tem.
+
+08:13.000 --> 08:22.000
+Não é a forma de fazer o que você tem.
+
+08:22.000 --> 08:27.040
+Você pode hockey, Nana, CНB,
+
+08:27.040 --> 08:35.000
+weights 7x6,14円as dos La structura e eu vou usar 2 estades de casa.
+
+08:35.000 --> 08:52.000
+E hoje, pessoal, dia 19 de desembro, menos de semana que estava na tal, está chegando.
+
+08:52.000 --> 08:55.920
+A gente estava lançando bem aqui no botiquem, porque já estamos pedindo de terminar as
+
+08:55.920 --> 09:03.500
+23, a gente passou muito o paito, o até agora, o paito começou a pegar a parte de uma
+
+09:03.500 --> 09:09.340
+situação de dados, o dos últimos últimos últimos últimos aos práticas que tenham estes teve.
+
+09:09.340 --> 09:13.780
+A gente fez um pouco mais voltado para dados do que, propriamente, só batendo na técnica do
+
+09:13.780 --> 09:18.960
+paito, do paito, do paito, o que a gente sempre fala, o paito é a ferramenta, mas o que
+
+09:18.960 --> 09:23.960
+o botiquem é a dia análise e esse estidado. Então, esse é a nossa objetivo, a gente tem que aprender
+
+09:23.960 --> 09:29.460
+sobre as ferramentas, mas o foco é a gente tendeu que a gente está fazendo.
+
+09:29.460 --> 09:34.360
+Então, hoje vamos começar a pegar uma parte de um pouquinho mais avançada de manipulação de
+
+09:34.360 --> 09:38.960
+dados. São manipulações de dados um pouco mais complexas que a gente vai ver hoje. Então,
+
+09:38.960 --> 09:43.700
+a gente vai precisar disso para trabalhar com os conjuntos de dados, para fazer os
+
+09:43.700 --> 09:48.520
+nossos análises, para fazer as nossas previsões. Então, dependente do que a gente
+
+09:48.520 --> 09:52.840
+foi fazendo, dependente por onde a gente foi passar trabalhando com dados, isso aqui é fundamental,
+
+09:52.840 --> 09:58.620
+que a gente vai ver hoje. Então, vamos lá, primeiro a gente vai começar revisando ali os
+
+09:58.620 --> 10:04.700
+principais conceitos da última aula teórica, então a gente vai passar ali principalmente na parte
+
+10:04.700 --> 10:10.060
+dos mesos, dos joens, que isso acaba sendo conceitou fundamental para quem trabalha com dados,
+
+10:10.060 --> 10:15.060
+ela é uma coisa que a gente faz muito no dia de dia. A gente vai conhecer a utilização
+
+10:15.060 --> 10:20.520
+de funções para manipulações de dados. Então, a gente vai conhecer a utilidade, as funções
+
+10:20.520 --> 10:24.780
+para que elas facilitaram nossas vidas e como a gente pode usar, principalmente no dia de
+
+10:24.780 --> 10:30.320
+dia de dia, para ganhar tempo. A gente conheceu o indoofanxão e também vamos revisar as
+
+10:30.320 --> 10:35.280
+lá em um da fantasia, a gente já falou, né, elas brevemente, na em algum momento aqui do
+
+10:35.280 --> 10:39.480
+do bochiquei, pelo lembrazar também de onde, mas a gente vai revisar também. A gente vai falar sobre
+
+10:39.480 --> 10:46.600
+da ter o englind, que é basicamente organizar com juntos de dados, as comunas de data
+
+10:46.600 --> 10:50.720
+e hora. Então, esse é um trabalho em um pouco chato, principalmente com a gente pega as
+
+10:50.720 --> 10:57.480
+conjuntos de dados, porque cada país, cada região tem um trabalho com formatos de data diferente,
+
+10:57.480 --> 11:01.000
+cada conjuntos de dados, às vezes, vai ter o conjuntos de dados que chega no nível de segundo,
+
+11:01.000 --> 11:05.620
+às vezes, um que chega no nível de minuto, só. Então, é importante entender como que a gente
+
+11:05.620 --> 11:10.860
+trabalha com esses diferentes formatações de data. Temos a aprender, a reorganizar os
+
+11:10.860 --> 11:16.840
+data frames em questão de formato, os recheips, não a gente vai aprender o pivot, o leute, o
+
+11:16.840 --> 11:21.880
+steck, então como organizar é um data frame de acordo com quem a gente precisa de, na,
+
+11:21.880 --> 11:27.620
+ver a informação, então isso aqui é bem legal também, acaba aqui, é uma ferramenta útil para
+
+11:27.620 --> 11:32.940
+a gente ganhar tempo ali nas análises, expressões reculares, então isso aqui é muito legal,
+
+11:32.940 --> 11:38.660
+isso é muito trabalhando com esses termos, expressões reculares são, enfim, todo uma área de pesquisa,
+
+11:38.660 --> 11:43.860
+de conhecimento para identificar padrões em estrenos, então a gente vai passar um pouco em
+
+11:43.860 --> 11:49.540
+por elas também, da uma introdução, e no fim a gente vai ver como que a gente consegue
+
+11:49.540 --> 11:54.980
+utilizar a performance em operações complexas, né? Porque muito do que a gente vem fazendo aqui,
+
+11:54.980 --> 11:59.700
+são em cogentos de dados, até que em cogentos de dados grandes, mas não são em cogentos de dados
+
+11:59.700 --> 12:04.940
+gigantes e quando a gente faz esses operações e cogentos de dados muito grandes, ou muitas
+
+12:04.940 --> 12:10.060
+operações, a gente acaba entrando uma limitação de tempo, então a gente vai entender como a gente
+
+12:10.060 --> 12:14.780
+ganha tempo, quando a gente faz as operações, o que realmente importa quando a gente está fazendo ali,
+
+12:14.780 --> 12:21.460
+as manipulações, então eu queria começar aqui com a pergunta para vocês, vamos pensar que a gente
+
+12:21.460 --> 12:25.420
+vai aplicar a mesma manipulação, a mesma transformação, então vamos porque a gente quer
+
+12:25.420 --> 12:30.500
+acessorar uma coluna, é para muito de posto da tafrente, então eu suponei que a gente tem uma coluna
+
+12:30.500 --> 12:35.580
+coluna de faturamento para cada mês do ano, então a gente tem de arduza da tafrente, e a gente
+
+12:35.580 --> 12:40.020
+quer fazer a mesma transformação para os dos, são iguais, né? Só que nunca a diferença são os
+
+12:40.020 --> 12:44.180
+meses, então a gente quer fazer isso para a dose da tafrente, o que a gente pode fazer para
+
+12:44.180 --> 12:48.380
+fazer de tal nossa vida que me escasa, a gente vai lá nos dos e da tafrente, e vai fazer uma
+
+12:48.380 --> 12:52.420
+manipulação passa passo, o que a gente tem uma sugestão melhor?
+
+13:01.460 --> 13:07.100
+Aí eu pensar, não fazer um l, fazer um tratamento, não tem l, que não é conformo, olha, eu
+
+13:08.100 --> 13:14.720
+teri bem da quantidade, né? Então, bom começo, que contratamento, você começa, é golúpe,
+
+13:14.720 --> 13:19.660
+você começa a ir terato pelos da tafrente, certo? Então, se a pensiona a primeira hoje,
+
+13:19.660 --> 13:25.080
+mas aí pensar na manipulação, então vamos pouco você tem que adicionar duas colunas,
+
+13:25.080 --> 13:29.440
+remove uma, multiplicar uma ou pela outra, então, se vai fazer ele em fim, quatro ou cinco
+
+13:29.440 --> 13:35.440
+manipulações básicas, mas como que você pode fazer isso, no menor, no, no, no,
+
+13:35.440 --> 13:38.940
+no, no, a maneira mais fácil, é organizada e com menor número de cois do possível.
+
+13:39.900 --> 13:49.420
+O l, já o o que a início, o mal função, exato, então, é mais ou menos essa lógica que a gente vai
+
+13:49.420 --> 13:55.060
+evoluir em uma função, ela é perfeita para esse exemplo de padrões, algo que a gente tem que fazer
+
+13:55.060 --> 13:59.280
+várias vezes. Então, aqui a gente tem uma manipulação que a gente tem que fazer cinco, seis vezes,
+
+13:59.280 --> 14:03.800
+não, desculpa 12 vezes, uma manipulação que a gente faz é de cinco, seis operações.
+
+14:03.800 --> 14:07.360
+Então, imagina a gente, para a gente faz o l, mas aí a gente ainda tem que escrever as cinco,
+
+14:07.360 --> 14:13.000
+seis operações dentro do l, se a gente faz a função, a gente define a função uma vez e
+
+14:13.000 --> 14:19.320
+aplica ela dos vezes. Então, e uma linha gente consegue matar tudo. Então, essa ideia da
+
+14:19.320 --> 14:25.120
+começar a pensar uma estratégia pouco mais avançada para a manipulação, e que está uma
+
+14:25.120 --> 14:28.920
+estratégia de organização de cois, não? Fica mais fácil, fica menos estêncio, quando a gente
+
+14:28.920 --> 14:36.920
+tem ele, tudo, separa a gente. Aí, começando aqui uma revisão da alapassada, a gente tem
+
+14:36.920 --> 14:41.880
+o grupa e baia, o grupa e baia vai ser um das funções provavelmente que a gente mais
+
+14:41.880 --> 14:46.240
+arusar, na nossa experiência trabalha com dados em pai, então assim, meu, falamos, meu dia a dia,
+
+14:46.240 --> 14:53.040
+o grupa e a raro de acocábulosando. E o grupa e baia ele pode ser escrito de duas formas.
+
+14:53.040 --> 14:59.320
+Então, aqui a gente chama geralmente um data frame, um data frame, então, que a gente tem um data
+
+14:59.320 --> 15:05.240
+frame, por exemplo, o zooma e a gente agrupa ele, então a gente chama o grupa e baia depois
+
+15:05.240 --> 15:12.120
+de um data frame. O parametro baia, ele é opcional. Então, eu posso passar o parametro baia e passar
+
+15:12.120 --> 15:19.520
+uma lista de colunas dentro do baia. Correcto? Então, quando eu quero agrupa por mais de uma
+
+15:19.520 --> 15:25.680
+coluna, eu posso passar uma lista aqui no baia. Mas, se eu quero agrupa só por uma, eu não preciso
+
+15:25.680 --> 15:32.320
+do baia. Eu posso simplesmente botar um nome da coluna aqui. Então, na maioria das vezes,
+
+15:32.320 --> 15:36.320
+eu vai acabar que você só quer agrupa por uma coluna. Então, aqui, no caso, é por exemplo,
+
+15:36.320 --> 15:41.800
+a gente tem uma base dados de consumo de água, por animais de uso hoje. Então, a gente quer
+
+15:41.800 --> 15:46.600
+agrupa por animal para ver o consumo de água. Simples. Então, eu não quero agrupa com mais de uma
+
+15:46.600 --> 15:51.240
+coluna. Eu só posso passar o parametro animal, direto no grupa e baia sem o baia. Mas,
+
+15:51.240 --> 15:56.560
+quando eu quero passar uma lista, eu posso passar também a lista, diretamente aqui. Eu
+
+15:56.560 --> 16:02.480
+quero agrupa por mais de uma coluna. Eu posso, então, simplesmente passar a lista, eu quero
+
+16:02.480 --> 16:13.840
+agrupa por animal, enfim, tartagurinha, enfim. E das, então, eu posso passar também a lista dentro do
+
+16:13.840 --> 16:21.880
+grupa e baia. Então, eu posso passar a grupa e baia. Assim, essa é outra possibilidade,
+
+16:21.880 --> 16:28.600
+também, por exemplo, a gente quer passar por mais de um parametro. Mas, o padrão é assim,
+
+16:28.600 --> 16:32.840
+em seguida, quando a gente quer agrupa a mente, a gente ainda não tem o que a gente precisa.
+
+16:32.840 --> 16:37.440
+A gente tem que dizer, qual medida a gente quer partir daquele agrupa a mente. E aí,
+
+16:37.440 --> 16:42.200
+você vai funcionar agregador. Então, a gente pode passar a função agregadora de duas formas.
+
+16:42.200 --> 16:48.160
+A gente pode passar ela simplesmente chamando o ponto e aí, dizendo a função agregadora,
+
+16:48.160 --> 16:52.760
+agora a gente faz aqui, então aqui no caso, eu quero a mente, quero pegar a média do consumo
+
+16:52.760 --> 16:57.960
+de água, aqui eu nem vou ter o consumo de água. Então, a gente pode reparar, e se eu nomear
+
+16:57.960 --> 17:10.780
+a ace aqui depois do grupa e baia o ateníde, botar aqui, aí eu teria que chamar o ponto
+
+17:10.780 --> 17:19.500
+minho depois. Aí eu que ia acontecer. Eu sempre as mães, não ia ter a coluna e unica de aqui,
+
+17:19.500 --> 17:25.860
+certo? Eu teria só a coluna que eu vou ter aqui, que é o ateníde. Então, vou limpar aqui.
+
+17:28.500 --> 17:34.660
+Então, só para deixar certinho, eu poderia fazer o ponto grupa e baia. Animal,
+
+17:35.660 --> 17:41.220
+do grupa e branimal, se eu quero pegar só o que eu que com qual o da coluna de água não faz muito sentido,
+
+17:41.220 --> 17:44.620
+eu sempre que eu falo, quando a gente vai fazer um grupamento, eu não quero fazer muito sentido,
+
+17:44.620 --> 17:49.820
+porque lembrando de sempre a água e de não faz sentido, porque é com o seu sucesso do CPF, e não faz sentido
+
+17:49.820 --> 17:54.180
+até a média do CPF, não é não tem valor para a gente. Então, aqui eu só quero a única coluna
+
+17:54.180 --> 18:01.180
+que porta o ateníde. Então, posso fazer o ateníde. E em seguida, a gente já selecionou o som ateníde,
+
+18:01.180 --> 18:07.340
+a gente já quero pegar a média, aí sim, eu aplicamente. E outra possibilidade é eu chamar o
+
+18:07.340 --> 18:14.740
+âmbio agregador e passar a média. Então, eu chamo o ponto a GG e passar a média. Essa é outra possibilidade,
+
+18:14.740 --> 18:25.060
+também. Uma terceira possibilidade é, eu posso passar um exigcionário dentro do agregador,
+
+18:25.060 --> 18:38.020
+então, eu abre e faz funcionar, e eu falo, ah, eu quero para o ateníde, essa vai ser achável,
+
+18:38.020 --> 18:46.900
+eu quero a média. Então, aqui é uma forma, enfim, no caso aqui só tem uma ateníde,
+
+18:46.900 --> 18:51.980
+mas quando tem mais de uma coluna, você consegue atribuir o que você quer para cada uma. E além disso,
+
+18:51.980 --> 18:58.060
+eu não preciso ser necessariamente uma média aqui. Eu posso passar por exemplo, só a média,
+
+18:58.060 --> 19:05.860
+posso passar por exemplo a max e o minuto. Então, ele vai pegar essa outras métricas aqui,
+
+19:05.860 --> 19:11.820
+também. Então, ele vai pegar por exemplo lá qual o consumo máximo de água do elefante de cada
+
+19:11.820 --> 19:18.700
+elefante, qual o consumo mínimo de água de cada elefante. Então, é de cada que agurou, de cada
+
+19:18.700 --> 19:25.820
+água de não. Então, ele vai pegar dentro dos agropamentos um mínimo de cada categoria. Outra possibilidade,
+
+19:25.820 --> 19:31.460
+também, que seria, no caso aqui, a gente não precisa do ateníde, eu poderia simplesmente deixar assim.
+
+19:31.460 --> 19:38.500
+Então, aqui, além da média, aqui no caso a gente só tem a média, de quanto cada elefante,
+
+19:38.500 --> 19:46.020
+cada que agurou, cada leão, cada tigre, cada zebra, consumo. Se eu botasse dessa forma aqui, eu
+
+19:46.020 --> 19:51.700
+pegaria o tamanho máximo o mínimo que cada elefante, cada que agurou, cada leão, cada tigre, cada zebra,
+
+19:51.700 --> 19:59.300
+consumiriam também. Aí eles viriam para cá. Então, o grupo vai ele para assim, dá um pouquinho
+
+19:59.300 --> 20:04.100
+de medo, mas ele não tem muito segredo não, pessoal. Essa é só você entender, no primeiro, no grupo
+
+20:04.100 --> 20:09.100
+bairro, o qual o colôno você vai querer agrupar, qual o colôno você vai querer levar na visão aqui,
+
+20:09.100 --> 20:17.860
+detalhado, em seguida, escolher, se for o caso, quais colônas você precisa, aqui no caso, por exemplo,
+
+20:17.860 --> 20:24.720
+o ateníde, a gente não precisa ir a do ateníde, e em seguida qual função agregador, então, no caso
+
+20:24.720 --> 20:28.960
+que a gente quer média, isso vai ser levado em os valores.
+
+20:28.960 --> 20:43.060
+Perfeito, a mão do desobragultamento, pessoal. Então, agora, outra coisa que é, sempre
+
+20:43.060 --> 20:48.840
+monte, revisar, a gente acaba usando muito também é quando usar o merge e o concate apende e
+
+20:48.840 --> 20:58.140
+joga. O concate acaba sendo usado quando a gente quer unir da ateníde, seja pro lado,
+
+20:58.140 --> 21:03.300
+ou seja, para baixo. Então, a gente tem dois conjuntidades, que as joga eles juntos,
+
+21:03.300 --> 21:09.580
+seja um em cima do outro, seja um lado, ou seja, espanho de unir, seja nas linhas ou nas
+
+21:09.580 --> 21:15.000
+colunas. Perfeito, então quando a gente bota a exescer, a gente está falando que a gente quer unir nas
+
+21:15.000 --> 21:19.820
+linhas, a gente quer jogar o data frame 2, e embaixo o data frame 1, quando a gente bota a
+
+21:19.820 --> 21:25.240
+exescer um em que a joga unir nas colunas, e aí percebe o que tem a diferença entre unir e
+
+21:25.240 --> 21:29.400
+cruzar, certo? Então, quando a gente quer cruzar, a gente precisa de uma chave para ver o que
+
+21:29.400 --> 21:34.720
+de um, tem outro, quando a gente quer unir não, a gente bota pegas colunas de um em jogo,
+
+21:34.720 --> 21:39.720
+bolado aqui na direita, mas colunas de outro. Então, concate, permite isso, para a gente,
+
+21:39.720 --> 21:47.320
+permite essa flexibilidade de open, de unir com base no eixo, todos os linhas ou todos as comunas.
+
+21:47.320 --> 21:53.920
+O appende, ele não vale muito a gente conhecer no detalhe, porque ele é um caso específico de um
+
+21:53.920 --> 21:59.320
+concate. Então, ele é um concate com um padrão, a que se zero, ou seja, ele é para as linhas,
+
+21:59.320 --> 22:05.320
+e o join é alto. Então, é importante dizer que tem um outro tipo de parametro no concate,
+
+22:05.320 --> 22:10.760
+porque é o tipo de join, como o padrão, ou seja, se você não botar nada, ele vai ser o alto.
+
+22:10.760 --> 22:15.800
+Mas você pode escolher também o iner, que o inerão de join que ele faz basicamente um confere
+
+22:15.800 --> 22:21.080
+para ver o que já existe, ou seja, ele pega a voidronas em as embaixas, mas antes ele vê se
+
+22:21.080 --> 22:25.080
+já tem alguma linha do aplicada. Então, essa é o que é diferença, os dois, o outro ele
+
+22:25.080 --> 22:29.840
+coloca tudo, então, com a outra hipódenia, a condensilinhas do aplicados, com o inerão, ele
+
+22:29.840 --> 22:35.200
+vê ele fica o que já tem, e ele cola embaixo só o que não tem, ou na direita.
+
+22:35.200 --> 22:42.760
+Então, ele está sendo depreciada, justamente porque o concate, ele oferece exatamente
+
+22:42.760 --> 22:47.160
+isso através desse parametro. Então, quando a gente usa um concate com o parametro a
+
+22:47.160 --> 22:51.600
+que se zero, isso é que serve para as linhas, e o alto é esse caso que a gente falou,
+
+22:51.600 --> 22:58.600
+que ele junta tudo. Ele faz literalmente uma união sem olhar nada diferente do iner,
+
+22:58.600 --> 23:07.600
+porque a gente poderia botar a iner e olhar se já existe ou não aquela linha ocoluna. E aqui,
+
+23:07.600 --> 23:12.880
+o potante não confundir com o método a pende do pando também, né? Porque a gente está falando
+
+23:12.880 --> 23:16.480
+ou, desculpe a gente não confundiu a pende do pando, mas que é o que a gente está
+
+23:16.480 --> 23:21.320
+bem agora, o método apenas que a gente usa para listas, que a gente viu bastante lá no
+
+23:21.320 --> 23:25.000
+modo 2 que é quando a gente quer jogar alguma coisa dentro de uma lista. Então, na
+
+23:25.000 --> 23:29.160
+quilo a gente tem uma lista, pode ser me branco, pode ser uma lista que já existe. E quando a gente
+
+23:29.160 --> 23:33.760
+quer jogar algum objeto, a gente chamou nome daquela lista, ponto a pende e o objeto,
+
+23:33.760 --> 23:37.880
+a gente está jogando o objeto em delista. Nesse caso aqui é diferente, nesse caso é o
+
+23:37.880 --> 23:43.480
+apende do pando, então, é uma confusão que às vezes acontece. Esse são dois maiores salvo
+
+23:43.480 --> 23:48.440
+em escondor iguais, vamos desiguais, mas ele está em funcionar em dados diferentes, né? Porque
+
+23:48.440 --> 23:54.800
+eu apende do paitonativo, ele serve das listas, é do paitonativo, ele serve para as listas,
+
+23:54.800 --> 24:04.360
+e o apende do pando, ele serve para trabalhar com data frames. O joie, ele é exatamente diferente
+
+24:04.360 --> 24:09.520
+do que a gente falou aqui, não é o nenhum, o joie ele é para cruzamento, só com joie ele é
+
+24:09.520 --> 24:14.600
+cruzamento baseado no índice. Então, se vocês perceberam em mim, todo está abelando
+
+24:14.600 --> 24:18.520
+pando, as todas data frames no pando, eles têm um índice, que ele fica fora, da
+
+24:18.520 --> 24:22.040
+lhão na região onde está a tabela, ele tem um índice que fica ali na esquerda, e aqui
+
+24:22.040 --> 24:28.800
+não é uma chave para identificar cada linha, inclusive, não pode ter um índice do aplicado,
+
+24:28.800 --> 24:35.400
+tal, eu tenho que acropeitar, é para ser a chave, é para ser um identificador único de cada
+
+24:35.400 --> 24:41.520
+linha. Então, a gente pode definir qualquer condona como um índice, inclusive, se você
+
+24:41.520 --> 24:46.120
+tentar botar uma corona, que tem valores do aplicados para a ciência, ela não vai dar,
+
+24:46.120 --> 24:50.200
+vai dar aí. Então, tem que ser o pelo que não tem valores do aplicado, e a gente pode
+
+24:50.200 --> 24:55.000
+definir qualquer condona usando o Parámetro 7 índice, e ele pode ser feitiando
+
+24:55.000 --> 24:59.480
+a curta com as variáveis. Então, quando a gente está falando de cruzamento, esse cruzamento
+
+24:59.480 --> 25:05.960
+é baseado nas variáveis. Então, a gente pode fazer o cruzamento, lembra que a gente
+
+25:05.960 --> 25:10.680
+viu os tipos de cruzamentos, pode fazer aquele cruzamento da esquerda, para a direita,
+
+25:10.680 --> 25:15.480
+a gente pode pegar exatamente o que tem os dois e o que tem tudo o que tem os dois. Então,
+
+25:15.480 --> 25:22.360
+a gente vai ver essa revisão aqui, mas é o tipo de cruzamento. E o merge também é o cruzamento
+
+25:22.360 --> 25:29.240
+assim como John, porém, diferente do John, que é só para índices, o merge é para qualquer
+
+25:29.240 --> 25:34.200
+columno. Então, ele é uma versão, vamos dizer assim, evoluída do merge on John, porque a gente
+
+25:34.200 --> 25:40.760
+não precisa daquela columna através do índice, né? Você está adorquido. Então, o merge
+
+25:40.760 --> 25:44.440
+vai ser para qualquer columno dos dois da tafrems, ele é muito versátil, ele vai acabar sendo
+
+25:44.440 --> 25:50.120
+que a gente vai mais usar. E ele serve a gente pode definir, a gente pode definir o índice,
+
+25:50.120 --> 25:57.480
+de transformo, de duas formas, quando as comunas são iguais no dois da tafrems, quando a esquerda
+
+25:57.480 --> 26:01.400
+dá direita, vamos supor que a gente tem uma columno índima na esquerda e na direita. A gente
+
+26:01.400 --> 26:09.000
+pode usar só um para dizer que só aquela columna, é mais seu nosso, nosso columno cruzamento,
+
+26:09.000 --> 26:23.720
+etc. Mas se a gente tem, por exemplo, na esquerda, a índice, a índice, uma índice, v, a gente tem que fazer
+
+26:23.720 --> 26:30.840
+uma tribuição. Então, quando a gente usa a ON, elas não vai identificar por porça da vontade dele,
+
+26:30.840 --> 26:35.240
+que o merge tem que ser feito naquelas columnos, aí disso. Então, você tem que atribuir,
+
+26:35.240 --> 26:40.920
+não, na esquerda, lefte-on, dentro do merge, não, para a um entre a gente vai passar lefte-on,
+
+26:40.920 --> 26:47.880
+e da, righte-on, e de bebe. Então, é isso é uma juxtapente tem que fazer quando os nomes das colvonas
+
+26:47.880 --> 26:51.960
+não são iguais nos dois da tafrems. Então, você tem outra solução também, que é aí lá no
+
+26:51.960 --> 26:56.600
+da tafrems, mas que é não mudar o nome pra id, e lá no da tafrems, da direita, o nome da
+
+26:56.600 --> 27:01.320
+columno pra id, e aí, se não precisas ao lefte, ON, righte-on, porque aí já vai ter o mesmo nome,
+
+27:01.320 --> 27:13.480
+você consegue usar simplesmente o 1. Então, agora que, a mais uns exemplos, a gente tem um merge,
+
+27:13.480 --> 27:18.120
+lembra o que a gente falou do merge, aqui a gente passou os dois parâmetros, lefte-rite,
+
+27:18.120 --> 27:23.560
+então a gente tem que dar tafrema da esquerda, e o da tafrema da direita, a gente vai unir,
+
+27:23.560 --> 27:29.480
+eles na que, ou, está vendo que esse é o nosso índice, dos nossos da tafrems,
+
+27:29.480 --> 27:34.600
+e o que ele é simplesmente uma columno, então a gente escolheu a columna aqui,
+
+27:34.600 --> 27:41.800
+aqui, usando o 1, porque o nome é aqui, tanto na esquerda pode dar direita, então,
+
+27:41.800 --> 27:46.360
+aí, a gente consegue, e no nosso caso a gente vai fazer um minhas idiões, o minédio,
+
+27:46.360 --> 27:52.440
+ele é esse caso aqui, que a gente vai pegar o que tem nos dois da tafrems,
+
+27:52.760 --> 27:59.080
+e, então, nesse caso, com ele são identificos, vai dar tudo certo, então, completou aqui,
+
+27:59.080 --> 28:08.280
+a gente tem ascolonas a e b, que vieram, do lefte e ascolonas cd que vieram do righte,
+
+28:08.280 --> 28:17.000
+unidos aqui pela esta chave, casérica, 1,2,3. Então, só vou revisando também aqui os tipos de join,
+
+28:17.240 --> 28:25.720
+o tipo, aqui, pode ser pra join, mas vale pra mergita também, a gente tem o lefte,
+
+28:25.720 --> 28:30.680
+quando a gente quer pegar tudo que tá na esquerda, a gente quer manter todas ascolonas da esquerda,
+
+28:31.880 --> 28:40.120
+e fazer o cruzamento, quase da direita, trazendo só o que faz o cruzamento,
+
+28:40.120 --> 28:45.080
+quando a esquerda, da esquerda, a gente traz tudo, da direita, a gente traz só o que foi encontrado.
+
+28:45.160 --> 28:50.760
+No righte, é o contrário, a gente traz tudo da direita, e do da esquerda, a gente traz só o que foi encontrado.
+
+28:50.760 --> 28:58.520
+No ino, a gente traz só o que foi encontrado, o que não tiver nos dois não é levado,
+
+28:58.520 --> 29:03.640
+e no alto, terão contrário, a gente traz tudo dos dois, o que não tiver em um e outra, a gente volta
+
+29:03.640 --> 29:09.000
+ali, o nano, o valor do, então, vamos ver mais alguns exemplos aqui, onde a gente vai fazer
+
+29:09.240 --> 29:14.760
+esses meus amens, aqui a gente tem o exemplo do concate que a gente falou pra fazer o nião.
+
+29:16.600 --> 29:23.960
+Então, aqui, a gente tem 3 data frames, data frame 1, data frame 2, e data frame 3,
+
+29:23.960 --> 29:30.200
+então aqui, a linha vai do zero a outra, e a linha vai do 4,7, aqui vai do 8,8, o concate,
+
+29:30.200 --> 29:34.840
+como a gente falou, quando a gente usa o Axis zero, ele serve pra um nha, ali, o gilinho,
+
+29:35.160 --> 29:39.960
+e aqui, no nosso caso, a gente vai usar o alto, e nem precisava, porque eu padrão de jaya,
+
+29:41.160 --> 29:48.680
+e a gente quer um nima, os objetos, aqui, os objetos, no caso, pode ser uma lista, onde a gente vai passar,
+
+29:49.640 --> 29:56.520
+da f1, nós está muito rondescriver, o botáquimas,
+
+29:57.240 --> 30:04.760
+a gente passa em principalmente uma lista da f1, da f2, da f3, então,
+
+30:05.960 --> 30:11.480
+a gente poderia criar os objetos e a triboir isso, a gente pode passar uma lista aqui direto mesmo.
+
+30:13.160 --> 30:20.280
+Então, o isso, a gente consegue fazer o concate, e a gente consegue ter um data frame só,
+
+30:20.280 --> 30:28.520
+a linha dos 3, se a gente quiser atribuir, e são o novo data frame, a gente simplesmente faz
+
+30:28.520 --> 30:38.360
+df igual e aí, a operação, então, isso aqui, se você não efetivar através do f igual,
+
+30:38.360 --> 30:43.240
+ele vai ser só temporário, certo? Você pode fazer isso aqui, se você não efetivar, ele não vai ser,
+
+30:43.240 --> 30:49.800
+a más enar num garinho, então, quando quiser más enar tem que usar um da f igual, a aplicação desse meta.
+
+30:54.280 --> 30:59.160
+Beleza, o join aqui, a gente tem um exemplo de Inerjoy, vai dar para entender melhor.
+
+31:00.840 --> 31:05.880
+Aqui, alguém que falou, a gente tem os íntices, e agora, a gente vai usar os íntices para fazer esse ognão.
+
+31:05.880 --> 31:08.920
+Tem o caseroca 1, 2, 1, a lhe o caseroca 2, 3.
+
+31:08.920 --> 31:15.480
+Então, perceba o que o caú, ele não tem aqui, e o c₂, ele não tem aqui.
+
+31:17.480 --> 31:24.360
+Então, o que vai acontecer? Quando a gente está falando de Iner, a gente vai levar aqui,
+
+31:25.960 --> 31:34.360
+e quando não, ou ver, o valor nulo, não vai no valor da ta frame da direita, por exemplo, a gente leva como valores nulos.
+
+31:34.680 --> 31:40.440
+Então, aqui, no exemplo, na coluna, com o join de c₂, a gente não tem nada do raiz, certo? Então,
+
+31:40.440 --> 31:49.480
+a gente traz aqui, valores nulos. Na coluna, no que no c₂, nas coluna vai ver, a gente não tem o join de c₂,
+
+31:50.280 --> 31:55.320
+então, a gente leva, o back, como a gente não tem os valores nulos para cá.
+
+31:55.320 --> 32:02.840
+Se a gente fizer assim, lefte, em que que ia acontecer, e eu ficar sós da esquerda, então,
+
+32:02.840 --> 32:12.200
+eu ficar só esses íntices. E o c₂ e a 6 cuida, se a gente fizer assim, righte, quem é 6 cuida,
+
+32:12.200 --> 32:19.400
+e a c₂, o caú, se a gente fizer isso um fú ao trade-on, também, e a das c₂.
+
+32:19.400 --> 32:32.120
+Então, esses são os casos que a revisão. E agora, finalmente, a gente vai começar a falar de manipulações
+
+32:32.120 --> 32:37.880
+mais avançados. Então, toda vez que a gente vai fazer uma manipulação mais de uma vez, a gente está evitando
+
+32:37.880 --> 32:43.160
+trabalho repetindo, aquilo que a gente falou de não ter que passar ali em 12 data frames, por exemplo,
+
+32:43.160 --> 32:50.440
+para fazer algo que é exatamente igual para os dois. Então, esse é o trabalho, evitado,
+
+32:50.440 --> 32:57.320
+trabalho repetivo, e além disso, a gente optimismo coche. Algunas principais coisas que a gente pode
+
+32:57.320 --> 33:04.920
+fazer em funções, filtragem, ordenação, agrupamento, em pesa dos dados, em remoção de valores
+
+33:04.920 --> 33:12.040
+e no Routes, transformação de valores errados, e também, entre as solas sombras.
+
+33:12.040 --> 33:18.520
+A gente pode criar novas colunas, a gente pode multiplicar colunas, a gente pode fazer medidas.
+
+33:18.520 --> 33:23.320
+Então, tudo isso pode ser feita através de funções, principalmente para se tossonos,
+
+33:23.320 --> 33:27.960
+onde a gente precisa repetir para vários datacetes. Então, essa é a ideia.
+
+33:27.960 --> 33:32.200
+Eu vou fom com uma mesma função, pode aplicar para diferentes datacetes.
+
+33:32.200 --> 33:37.640
+Desde aqui, eles mantêm um estrutura que é respeitada aqui na função.
+
+33:39.880 --> 33:44.440
+Então, é bom, também, a gente relebra a sintaxis da função.
+
+33:44.440 --> 33:47.960
+Sempre que a gente foi, escreveu a função, a gente vai voltar para a lavinha de defe.
+
+33:47.960 --> 33:51.560
+Então, quando a gente usa o defe, a gente está.
+
+33:51.560 --> 33:55.000
+É uma palavra reservada para a gente escrever a função.
+
+33:55.000 --> 33:58.040
+Então, o pai está já na identifica, ele bota ele até muda a cor.
+
+33:58.040 --> 34:01.560
+Em seguida, depois da defe, a gente dá um espaço e escreve o nome da função.
+
+34:01.560 --> 34:07.320
+Esse nome aqui, ele é flexible, a sua escolha, e geralmente, a gente já comeira alguma coisa para se sentindo.
+
+34:07.320 --> 34:10.760
+E ela ativa a operação, o que a função vai fazer.
+
+34:10.760 --> 34:13.640
+Em seguida, a gente vai passar os parâmetros.
+
+34:13.640 --> 34:17.800
+Os parâmetros da função, eles podem ser, eles são uma túpula.
+
+34:17.800 --> 34:22.840
+E o interessante é que essa túpula, ela pode ter uma lista, pode ter edicionar,
+
+34:22.840 --> 34:26.520
+e pode ter um data frame, pode ter...
+
+34:26.520 --> 34:29.720
+Ele é flexible, você já está aí, com o quete-te de entrada.
+
+34:29.720 --> 34:31.960
+Inclusive, ela pode ter nada.
+
+34:31.960 --> 34:34.840
+A gente fala o público no nome, então, é como a função que não tem parâmetro.
+
+34:34.840 --> 34:37.400
+Uma função que vocês usam toda a hora, o descraime.
+
+34:37.400 --> 34:40.920
+O descraime tem parâmetros, mas quando a gente usa o descraime,
+
+34:40.920 --> 34:45.560
+a gente nunca bota nada, a gente bota um descraime, abre fecha e a gente haver análise.
+
+34:45.560 --> 34:49.000
+Porque a gente não está chamando nenhum parâmetro dele.
+
+34:49.000 --> 34:52.520
+Então, o que ele faz é organizar todos os dados,
+
+34:52.520 --> 34:55.640
+ele faz manipulações, pega a média, faz os equipamentos corredes,
+
+34:55.640 --> 34:59.000
+ele leva toda aquela análise para a gente.
+
+34:59.000 --> 35:05.400
+E ele retorna o data frame manipulado para fazer casanais.
+
+35:05.400 --> 35:09.240
+Então, é isso que um descraime faz.
+
+35:09.240 --> 35:11.160
+Aqui, por exemplo, a gente tem dois parâmetros,
+
+35:11.720 --> 35:14.600
+os parâmetros deles são como se fosse os ingredientes.
+
+35:14.600 --> 35:20.040
+E aqui, o bloco da função, a gente tem o que a gente faz com esses ingredientes.
+
+35:20.040 --> 35:22.600
+Então, aqui, por exemplo, a gente vai sair doito para a doze u e 2.
+
+35:22.600 --> 35:24.600
+A gente está multiplicando um pelo outro.
+
+35:24.600 --> 35:27.800
+E armarzenando, uma variável total.
+
+35:28.680 --> 35:34.040
+Eu poderia muito bem preentar esse total também, depois calcular ele, concordo.
+
+35:34.040 --> 35:36.520
+Então, se eu quiser estar vendo a tela, ele vai dar um print.
+
+35:36.520 --> 35:39.080
+Depois do total, ele vai aparecer na tela.
+
+35:39.080 --> 35:41.800
+Se eu quiser armarzenar em outra variável,
+
+35:41.800 --> 35:45.800
+eu preciso criar essa dedicação de retorno aqui.
+
+35:45.800 --> 35:47.160
+Por quê?
+
+35:47.160 --> 35:49.080
+Quando eu quiser fazer uma operação, por exemplo,
+
+35:49.080 --> 35:51.480
+para chamar essa função aqui, que faz a multiplicação,
+
+35:51.480 --> 35:52.920
+eu vou comparar a minha total outra.
+
+35:52.920 --> 35:55.000
+Se eu chamar a ela,
+
+35:55.000 --> 35:57.480
+como se são 3, 5,
+
+35:57.480 --> 35:59.720
+então, vamos explicar aqui 3 por 5.
+
+35:59.720 --> 36:01.240
+Ele vai me retorner o total.
+
+36:01.240 --> 36:03.880
+Então, eu vou ter 15, mas eu vou ter 15,
+
+36:03.880 --> 36:05.080
+sem nada.
+
+36:05.080 --> 36:06.520
+Então, que eu tenho que fazer,
+
+36:06.520 --> 36:08.120
+se eu quiser armarzenar em algum lugar,
+
+36:08.120 --> 36:12.920
+eu tenho que fazer, resultado igual a função 3, 5.
+
+36:12.920 --> 36:17.000
+Porque aqui ela tem o retorno.
+
+36:17.000 --> 36:21.320
+Então, ela retora e ao retorno dela, aqui vai pro resultado.
+
+36:22.440 --> 36:25.880
+Se eu não botar um retorno, a próxima vez que o executar a função,
+
+36:25.880 --> 36:28.920
+ela vai, se você vai continuar a luz, ela vai retornar outra coisa.
+
+36:28.920 --> 36:30.920
+Então, ela vai fazer só o que ela está opinando.
+
+36:30.920 --> 36:33.080
+Mas, seu boto, para armarzenar aqui no lugar,
+
+36:34.360 --> 36:36.280
+eu preciso também do retorno.
+
+36:36.360 --> 36:38.280
+O retorno que vai atribuir,
+
+36:38.280 --> 36:39.160
+lá do outro lado,
+
+36:39.160 --> 36:41.960
+eu avoreava que a gente está definido.
+
+36:44.200 --> 36:47.160
+Então, aqui um exemplo, mas, prático,
+
+36:48.040 --> 36:50.200
+criar uma colona de risco de crédito,
+
+36:50.200 --> 36:51.080
+a aplicando a função,
+
+36:51.080 --> 36:53.720
+classificos os clientes, como o baixo risco,
+
+36:53.720 --> 36:55.720
+o médio risco, o alto risco,
+
+36:56.760 --> 36:58.360
+com base variáveis como renda,
+
+36:58.360 --> 36:59.480
+histórico de pagamentos.
+
+36:59.480 --> 37:01.240
+Então, que a gente tem duas variáveis, renda,
+
+37:01.240 --> 37:03.000
+histórico de pagamentos.
+
+37:03.000 --> 37:04.440
+E a gente quer definir esse cliente,
+
+37:04.440 --> 37:05.880
+é de alto baixo risco.
+
+37:06.120 --> 37:09.320
+Então, o primeiro passo é o cliente,
+
+37:09.320 --> 37:11.320
+o que é o cliente aqui?
+
+37:11.320 --> 37:14.120
+A gente tem um palpete, pode mandar no chá,
+
+37:14.120 --> 37:15.640
+também, é isso.
+
+37:15.640 --> 37:19.160
+Olha, lembro que a gente falou que dentro da tupa,
+
+37:19.160 --> 37:20.680
+aqui a gente só tem uma lamentação tupa,
+
+37:20.680 --> 37:21.800
+sabe?
+
+37:21.800 --> 37:24.200
+E é lista?
+
+37:24.200 --> 37:26.360
+Então, não é uma lista.
+
+37:26.360 --> 37:28.760
+Olha que a gente está fazendo com cliente.
+
+37:28.760 --> 37:31.560
+Olha isso, tratamento que a gente está fazendo aqui.
+
+37:32.520 --> 37:33.960
+E parece o que para vocês?
+
+37:36.120 --> 37:38.520
+Que a gente renda maior do que o mil.
+
+37:43.080 --> 37:44.680
+A gente é um data de frame.
+
+37:44.680 --> 37:46.280
+É.
+
+37:46.280 --> 37:48.040
+É isso, é um data frame.
+
+37:48.040 --> 37:50.520
+Então, simplesmente, eu posso criar a função.
+
+37:50.520 --> 37:52.600
+O boto aqui, cliente, mas ele poderia ser,
+
+37:52.600 --> 37:54.920
+geralmente, eu quando vou definir uma função,
+
+37:54.920 --> 37:56.520
+que em volta um data frame,
+
+37:56.520 --> 37:58.440
+eu sempre volto a dash para ficar bem claro.
+
+37:58.440 --> 37:59.440
+O boto é o boto,
+
+37:59.440 --> 38:01.440
+bf, classificar risco.
+
+38:02.800 --> 38:04.760
+Bf, por quê?
+
+38:04.760 --> 38:07.480
+Porque depois, todos as manipulações que você fizeram em baixo,
+
+38:07.480 --> 38:09.480
+vão ser em cima de bf, né?
+
+38:09.480 --> 38:12.280
+vão ser como se a tivesse manipulando ele lá mesmo, né?
+
+38:12.280 --> 38:17.120
+Então, você vai botar e f, bf, renda, e assim, vai.
+
+38:17.120 --> 38:18.840
+Então, acaba ficando mais fácil,
+
+38:18.840 --> 38:20.520
+que é um da gel da tta frame.
+
+38:20.520 --> 38:22.440
+Mas, cliente, falou um nome não importante, né?
+
+38:22.440 --> 38:24.520
+O que bota o formato.
+
+38:24.520 --> 38:26.600
+Então, essa é a mobsão,
+
+38:26.600 --> 38:29.680
+mas aqui a gente vai estar com o nome cliente.
+
+38:29.680 --> 38:31.400
+Então, a gente vai pegar a coluna renda,
+
+38:31.400 --> 38:34.680
+e o que for maior do que 10 mil.
+
+38:34.680 --> 38:36.240
+E com o histórico de pagamento,
+
+38:36.240 --> 38:37.680
+sempre o estringo de bom,
+
+38:37.680 --> 38:41.000
+então, quando é comparação em tilos a dois iguais, né?
+
+38:41.000 --> 38:43.240
+Ele vai retornar abaixo.
+
+38:44.360 --> 38:47.160
+Sim, ele, enfim, né?
+
+38:47.160 --> 38:50.080
+O histórico, o arrêndo foi entre 5 mil.
+
+38:50.080 --> 38:53.160
+Aqui, ó, a gente passa 5 mil, menor,
+
+38:53.160 --> 38:55.000
+do que a renda,
+
+38:55.080 --> 38:56.680
+menor igual a 10 mil.
+
+38:56.680 --> 38:59.800
+Ou seja, a gente crome o grupo intermediário, né?
+
+38:59.800 --> 39:02.600
+E se o histórico de pagamento estiver em bom ou regular,
+
+39:02.600 --> 39:04.760
+percebeu que aqui é ou não, é mais uma estringa única,
+
+39:04.760 --> 39:06.520
+aqui é uma lista estringes, né?
+
+39:06.520 --> 39:07.920
+Um dois.
+
+39:07.920 --> 39:10.120
+Então, aqui a gente vai retornar a meso.
+
+39:10.120 --> 39:11.960
+Sim, não, ele vai ser alto, né?
+
+39:11.960 --> 39:14.360
+Porque esse aqui, se não, ele vai ter...
+
+39:14.360 --> 39:16.360
+É...
+
+39:17.480 --> 39:19.200
+Uma renda menor, né?
+
+39:19.200 --> 39:21.000
+Uma renda...
+
+39:21.000 --> 39:23.560
+Pensar aqui, ó, enfim, cliente, não.
+
+39:23.640 --> 39:26.360
+É, que era para ser a outra para ser aqui, né?
+
+39:26.360 --> 39:27.760
+Agora, eu tô vendo para só fazer errado.
+
+39:27.760 --> 39:28.720
+Eu bacharia para ser no final,
+
+39:28.720 --> 39:31.120
+porque esse o cara tem mais 10 mil históricos pagamentos bom,
+
+39:31.120 --> 39:32.160
+e bem alto.
+
+39:32.160 --> 39:34.160
+O retorno tem que ser alto.
+
+39:34.160 --> 39:37.160
+Então, vamos agentar aqui.
+
+39:41.160 --> 39:42.960
+Vai ser alto.
+
+39:44.360 --> 39:46.360
+Agora, foi difícil.
+
+39:46.360 --> 39:50.120
+Por último, mas aí, nesse caso, eu risco...
+
+39:50.120 --> 39:52.120
+O risco é baixo.
+
+39:52.320 --> 39:54.400
+O risco tá entendido.
+
+39:54.400 --> 39:55.120
+É referência, né?
+
+39:55.120 --> 39:55.880
+Verdad.
+
+39:55.880 --> 39:57.080
+Então, o risco é baixo.
+
+39:57.080 --> 39:58.360
+Agora, ele tem que estar certo.
+
+39:58.360 --> 40:00.320
+Vai dar um jogo obrigado, né, razão?
+
+40:00.320 --> 40:02.280
+Então, o risco é baixo, tá certo.
+
+40:02.800 --> 40:04.880
+Então, aqui o risco é baixo, o cara tem...
+
+40:04.880 --> 40:08.080
+O ganha mais 10 mil históricos pagamentos, é bom.
+
+40:08.080 --> 40:09.040
+Se ele ganha...
+
+40:09.040 --> 40:13.200
+E tem 5 mil históricos pagamentos, se vai ir bom, regular,
+
+40:13.200 --> 40:14.760
+aí, o risco vai ser mais 10 mil.
+
+40:14.760 --> 40:15.480
+Se não, né?
+
+40:15.480 --> 40:18.080
+Se ele ganha menos de 5 mil.
+
+40:18.080 --> 40:20.000
+Ou, independente de ganha menos de 5 mil,
+
+40:20.000 --> 40:22.000
+o seu histórico dele for ruim, provavelmente, né?
+
+40:22.000 --> 40:25.480
+Que deve ser outra opção ruim, ou muito ruim.
+
+40:25.480 --> 40:26.960
+Ele vai cair no risco alto.
+
+40:28.080 --> 40:30.160
+Então, essa é que a nossa função é um perfeto.
+
+40:30.160 --> 40:33.080
+E quando a gente vai atribuir a uma nova coluna,
+
+40:33.080 --> 40:35.280
+basta a gente criar essa nova coluna.
+
+40:35.280 --> 40:37.840
+Então, a gente tá criando uma nova coluna que a risco de cresce.
+
+40:37.840 --> 40:39.840
+E a gente usa o método a plai.
+
+40:39.840 --> 40:41.680
+Então, essa é uma ótima combinação.
+
+40:41.680 --> 40:43.720
+Você se define ir uma função,
+
+40:43.720 --> 40:46.400
+se você se define no retorno que você se quer.
+
+40:46.400 --> 40:47.760
+E no a plai,
+
+40:47.760 --> 40:51.000
+você simplesmente bota essa função aqui,
+
+40:51.640 --> 40:55.040
+para explicar isso, usando o data frame.
+
+40:55.040 --> 40:57.320
+Então, aqui, o data frame no PDF,
+
+40:57.800 --> 41:00.080
+mas aí, ele que vai no lugar do cliente.
+
+41:00.080 --> 41:02.480
+Então, tudo que a gente faz aqui no cliente é o PDF,
+
+41:02.480 --> 41:04.080
+renda maior do que 10 mil.
+
+41:05.040 --> 41:06.600
+E aqui a gente tá falando de axis,
+
+41:06.600 --> 41:08.000
+porque a gente tá falando de coluna, né?
+
+41:08.000 --> 41:11.040
+A gente tá aplicando a manipulação em uma coluna.
+
+41:11.040 --> 41:12.480
+Então, a gente vai criar uma coluna,
+
+41:13.440 --> 41:14.240
+a que se zoon,
+
+41:14.800 --> 41:16.880
+usando a manipulação.
+
+41:17.440 --> 41:18.840
+A aplicação da função,
+
+41:18.840 --> 41:20.040
+clasificar risco,
+
+41:20.040 --> 41:21.320
+no data frame,
+
+41:21.320 --> 41:24.680
+vai tirar o chamado do apply do panas,
+
+41:24.680 --> 41:27.080
+para jogar a função clasificar risco,
+
+41:27.080 --> 41:28.360
+numa coluna.
+
+41:30.160 --> 41:32.400
+E com isso a gente consegue, por exemplo, imagina.
+
+41:32.400 --> 41:34.280
+Vai ter o data frame de todo mês,
+
+41:34.280 --> 41:37.240
+recebeu o data frame com a lista de clientes.
+
+41:37.240 --> 41:39.880
+A gente define a função aqui em uma vez.
+
+41:39.880 --> 41:41.600
+E agora, toda vez que a gente fizemos,
+
+41:41.600 --> 41:42.920
+já que ele não coge ozinho,
+
+41:42.920 --> 41:45.040
+só tem que mandar isso aqui,
+
+41:45.040 --> 41:46.320
+e ele já vai aplicar.
+
+41:46.480 --> 41:47.680
+A manipulação.
+
+41:50.080 --> 41:51.600
+Então, beleza.
+
+41:52.480 --> 41:55.320
+Agora, passando para a lâmbua da fã que já aconçou,
+
+41:55.320 --> 41:58.520
+as sonções lâmbadas são muito práticas,
+
+41:58.520 --> 42:01.000
+porque elas permitem definir uma função em uma linha de código.
+
+42:01.000 --> 42:02.880
+Então, geralmente também, né?
+
+42:02.880 --> 42:05.480
+A gente não vai querer fazer uma função muito complexa.
+
+42:05.480 --> 42:09.840
+Mas elas são muito boas para quando a gente quer fazer uma operação muito simples.
+
+42:09.840 --> 42:12.920
+Então aqui, crenche falou em uma linha de código.
+
+42:12.920 --> 42:14.440
+Sem necessidade de definir isso,
+
+42:14.440 --> 42:15.840
+principalmente o déficit, também.
+
+42:16.320 --> 42:17.760
+Então, quando a gente tem o zão lámido da fã,
+
+42:17.760 --> 42:19.400
+que a gente não precisa do déficit.
+
+42:19.400 --> 42:20.960
+Geralmente a gente se usa o zão lámido da fã,
+
+42:20.960 --> 42:23.520
+que o crenche quer trebuir uma variável.
+
+42:23.520 --> 42:25.960
+Então aqui, no caso, por exemplo, x,
+
+42:25.960 --> 42:28.360
+eu vou pegar o zão lámido,
+
+42:28.360 --> 42:29.440
+então, percebe o clandão,
+
+42:29.440 --> 42:31.120
+a palavra descarga de 100,000 da tecouro,
+
+42:31.120 --> 42:33.200
+quando se inscreverem.
+
+42:33.200 --> 42:34.640
+E aqui, eu tenho duas entradas.
+
+42:34.640 --> 42:35.960
+A imbe.
+
+42:35.960 --> 42:39.440
+Então, eu quero fazer...
+
+42:39.440 --> 42:43.080
+A imbe é só as entradas, né, como se fossem uns parâmetros.
+
+42:43.080 --> 42:45.160
+E eu dou dois pontos e seguido,
+
+42:45.160 --> 42:46.240
+e eu passo por car fazer isso.
+
+42:46.240 --> 42:47.960
+Aqui, como se fosse o bloco da função,
+
+42:47.960 --> 42:50.040
+isso aqui é com as suas parâmetros.
+
+42:50.040 --> 42:52.640
+E eu atribu a amazena, como se fosse a amazena,
+
+42:52.640 --> 42:54.760
+essa função ima variável.
+
+42:54.760 --> 42:56.440
+Então, depois, quando eu dou aqui,
+
+42:56.440 --> 43:01.360
+a um x, 3,4, ele faz a soma.
+
+43:01.360 --> 43:03.080
+Ele vai pegar e vai somar 3,4.
+
+43:03.080 --> 43:05.640
+E aí, eu vou prender ele não vai dar o prende do x,
+
+43:05.640 --> 43:07.480
+e vai dar o prende, 3,4,
+
+43:07.480 --> 43:09.640
+e vai dar a preta de 7.
+
+43:09.640 --> 43:11.240
+E o mesmo vai para outras operações, né,
+
+43:11.240 --> 43:13.520
+aqui, diferente, e fez uma multiplicação.
+
+43:13.520 --> 43:15.560
+Então, aqui, considera se o bloco da função,
+
+43:15.560 --> 43:17.200
+os parâmetros se mantem o mesmo.
+
+43:17.200 --> 43:18.680
+A gente ainda armasa nx,
+
+43:18.680 --> 43:21.960
+e aqui, a gente goto 3,4 para fazer a multiplicação,
+
+43:21.960 --> 43:23.960
+no parâmetro, pelo parâmetro b.
+
+43:23.960 --> 43:26.880
+Então, aqui, acaba sendo a, aqui, acaba sendo b.
+
+43:26.880 --> 43:29.320
+Então, aqui, eu exemplo de uma fissãozinho,
+
+43:29.320 --> 43:32.080
+que a gente consegue fazer muito fácil, né, então, por exemplo,
+
+43:32.080 --> 43:35.200
+mas a gente tem que fazer uma função para somar duas comuns.
+
+43:35.200 --> 43:37.200
+Ou, para a multiplicação duas comuns.
+
+43:37.200 --> 43:40.960
+Então, aqui, com o logo, a gente consegue muito mais fácil.
+
+43:40.960 --> 43:44.360
+E aqui, eu escorre falar de consegue aplicar também muito facilmente
+
+43:44.360 --> 43:46.160
+em data frames.
+
+43:46.160 --> 43:49.160
+Aqui, um exemplo, padrões álmã com o nome de cliente
+
+43:49.160 --> 43:52.200
+se atirando os passos em branco e deixando no formato correto, né,
+
+43:52.200 --> 43:54.640
+formato correto é com o maiúsculo,
+
+43:54.640 --> 43:58.640
+na primeira letra do nome sobre o nome, né, então aqui, João Silva.
+
+43:58.640 --> 44:01.080
+Então, isso é um trabalho muito, muito normal.
+
+44:01.080 --> 44:03.600
+Então, imagine a gente que você tem que querer criar um gráfico
+
+44:03.600 --> 44:05.280
+dos clientes que mais compro.
+
+44:05.280 --> 44:07.360
+E, às vezes, o nome do cliente está despado noizado,
+
+44:07.360 --> 44:08.560
+igual ao vendedores cremeu.
+
+44:08.560 --> 44:10.240
+Aí, um vendedores creve, João Silva,
+
+44:10.240 --> 44:11.240
+todo o mundo do meu uso.
+
+44:11.240 --> 44:13.760
+O outro escreve, João Silva, todo junto.
+
+44:13.760 --> 44:15.840
+O outro escreve, todo o minúsculo, o outro escreve certinho,
+
+44:15.840 --> 44:18.080
+o outro escreve com o uncle, o outro escreve sempre.
+
+44:18.080 --> 44:20.040
+Então, geralmente, a gente tem que fazer a espada,
+
+44:20.040 --> 44:22.320
+para usar a espada da organização para garantir que os nomes
+
+44:22.320 --> 44:25.040
+vão ficar, por exemplo, aqui, tudo certo.
+
+44:25.040 --> 44:28.840
+É, então, aqui, olha, o que a gente está fazendo a mesma coisa,
+
+44:28.840 --> 44:31.320
+a gente está querendo macar uma norma padrões,
+
+44:31.320 --> 44:33.880
+só que agora a gente vai aplicar diretamente,
+
+44:33.880 --> 44:35.520
+a gente vai já aplicar na data frame todo,
+
+44:35.520 --> 44:38.800
+a gente vai aplicar na coluna.
+
+44:38.800 --> 44:40.160
+Por quê?
+
+44:40.160 --> 44:47.800
+A gente vai usar o x, a coluna, como se fosse um parâmetro pro x, certo?
+
+44:47.800 --> 44:49.800
+Então, o que a gente vai fazer a coluna,
+
+44:49.800 --> 44:52.960
+o nome é com os fússos, um parâmetro pro x.
+
+44:52.960 --> 44:55.760
+E a gente vai aplicar o strip,
+
+44:55.760 --> 44:57.840
+que é justamente para dividir,
+
+44:57.840 --> 45:00.640
+então, ele vai atinar os pasímbram,
+
+45:00.640 --> 45:02.480
+perda um, ou foi de fússos, perdi um strip,
+
+45:02.480 --> 45:04.480
+o strip é atirado os pasímbram.
+
+45:04.480 --> 45:07.040
+E, quando a gente a seorece segundo metro, não é?
+
+45:07.040 --> 45:09.680
+Lembra que a gente pode ser pressionais no Zincadei,
+
+45:09.680 --> 45:11.200
+a gente é seu no time,
+
+45:11.200 --> 45:12.960
+que é ele já bota nesse pomato,
+
+45:12.960 --> 45:14.800
+e eu ouço o meu maio os columinusco,
+
+45:14.800 --> 45:16.240
+então, se o que a gente sai,
+
+45:16.240 --> 45:18.280
+então, esse pessoal vai enxerar muito bom para a mão,
+
+45:18.280 --> 45:19.800
+a gente perigar o ganhiza,
+
+45:19.800 --> 45:23.240
+ele identifica que cada palavra é para ter a maior uso
+
+45:23.240 --> 45:25.520
+na primeira letra.
+
+45:25.520 --> 45:28.120
+Então, aqui, uma boa aplicação do Lambi,
+
+45:28.120 --> 45:29.760
+então, aqui a gente simplesmente uma coluna,
+
+45:29.760 --> 45:32.200
+que a gente nem precisa chamar o def,
+
+45:32.200 --> 45:35.280
+porque em uma linha, a gente consegue fazer essa manipulação.
+
+45:35.280 --> 45:38.080
+A gente chamou o nome da coluna,
+
+45:38.080 --> 45:40.240
+e joga ela para o paramento do Lambi,
+
+45:40.240 --> 45:42.080
+e aqui dentro do bloco,
+
+45:42.080 --> 45:45.360
+a gente faz as manipulações que a gente quer.
+
+45:50.640 --> 45:54.160
+Então, agora, a próxima passa, as Minda o Fanchos,
+
+45:54.160 --> 45:57.200
+a gente já conhece bastante, as Minda o Fanchos,
+
+45:57.200 --> 46:02.320
+mas acaba que o Teino o Minda o Fanchos não é muito conhecido,
+
+46:02.640 --> 46:05.200
+com elas a gente já prica cá o Clos Agregados,
+
+46:05.200 --> 46:07.920
+então, a gente consegue organizar a rankings,
+
+46:07.920 --> 46:11.760
+ou até comparações com notilhas relacionadas a uma inspecífica.
+
+46:11.760 --> 46:14.600
+Então, o que a gente consegue é manter cada linha,
+
+46:14.600 --> 46:16.880
+individualmente do restado.
+
+46:16.880 --> 46:18.520
+Então, o que a gente faz?
+
+46:18.520 --> 46:21.360
+A gente pode criar, por exemplo, funções de agregação.
+
+46:21.360 --> 46:22.960
+A gente pode tirar medias,
+
+46:22.960 --> 46:24.800
+a gente pode pegar o máximo,
+
+46:24.800 --> 46:28.800
+o mínimo, fazer soma ou contagens.
+
+46:28.800 --> 46:30.600
+Então, essa aqui, são as que a gente mais conhece,
+
+46:30.600 --> 46:33.080
+principalmente pelo amor no describe,
+
+46:33.080 --> 46:35.880
+a gente usa no grupo depois do grupo B.
+
+46:35.880 --> 46:37.920
+A gente tem também o hand,
+
+46:37.920 --> 46:39.960
+então o hand que a gente tem roumba,
+
+46:39.960 --> 46:42.800
+a gente tem hand, bem se hand que peça a gente hand que é no time,
+
+46:42.800 --> 46:44.280
+a gente já vai ver os exépes,
+
+46:44.280 --> 46:46.800
+mas pode ser que, por exemplo, para dizer o número
+
+46:46.800 --> 46:49.720
+qual o linhas é aquela dentro da fatra-freem,
+
+46:49.720 --> 46:52.520
+então, isso acaba sendo útil para mostrarções,
+
+46:52.520 --> 46:53.880
+rã que a gente pode dizer,
+
+46:53.880 --> 46:56.440
+dentro de todos as vendas,
+
+46:56.440 --> 46:58.440
+é uma muda da fatra-freem de vendas,
+
+46:58.440 --> 47:01.160
+nós vamos poder ser linha 120 aqui,
+
+47:01.160 --> 47:03.560
+ela é convendo, então,
+
+47:03.560 --> 47:05.160
+que mais é deu, até 3,
+
+47:05.160 --> 47:06.760
+é que mais é deu, ela é que menos vendeu,
+
+47:06.760 --> 47:07.800
+então, ela começa a honrar aqui,
+
+47:07.800 --> 47:11.600
+é 1, 2, 3, de valores.
+
+47:11.600 --> 47:13.800
+Aqui a gente consegue ver leg e liche,
+
+47:13.800 --> 47:15.400
+também são funções para ver,
+
+47:15.400 --> 47:18.040
+por exemplo, valor de cima ou de baixo.
+
+47:18.040 --> 47:19.480
+Isso é o último em uma mostuações,
+
+47:19.480 --> 47:21.800
+ou seja, a gente consegue pegar e ver a liche cima,
+
+47:21.800 --> 47:23.080
+ou a liche baixo.
+
+47:23.080 --> 47:24.280
+Tinha que ver a primeira linha,
+
+47:24.280 --> 47:27.080
+a última linha, ou alguma liche específica.
+
+47:27.240 --> 47:30.280
+Então, agora eu vejo os exemplos das Windows Fonts.
+
+47:31.480 --> 47:34.040
+Então, em um contexto de barrigo,
+
+47:34.440 --> 47:35.880
+a gente vai criar,
+
+47:36.920 --> 47:39.640
+para cada dia de vendas, então, a gente tem uma base de vendas,
+
+47:39.640 --> 47:42.280
+a gente quer criar uma poluna com a média a movo de vendas,
+
+47:42.280 --> 47:44.200
+para 3 dias, tanto tipo,
+
+47:44.200 --> 47:46.440
+Windows Fonts, agreguei-te,
+
+47:46.680 --> 47:48.760
+a gente quer criar um rânguete de vendas,
+
+47:48.760 --> 47:49.960
+é um rânguete,
+
+47:49.960 --> 47:51.400
+e as vendas do dia anterior,
+
+47:51.400 --> 47:52.520
+a gente quer pegar um barrio.
+
+47:53.480 --> 47:54.840
+Então, por exemplo, aqui,
+
+47:54.840 --> 47:56.920
+para pegar a média a movo de 3 dias,
+
+47:56.920 --> 47:59.240
+a gente vai acionar o método Rooley,
+
+48:00.200 --> 48:04.520
+que é uma função de agregação, também.
+
+48:05.160 --> 48:07.880
+Então, a gente vai pegar as vendas,
+
+48:07.880 --> 48:10.360
+a comandivendas, vai aplicar Rooley,
+
+48:10.360 --> 48:11.880
+e vai usar Windows,
+
+48:11.880 --> 48:13.160
+para metir o Windows 3.
+
+48:14.040 --> 48:17.160
+O Windows está relativo a calunaidade de tempo.
+
+48:17.160 --> 48:19.240
+Então, o sigo sua base tiver um idade de tempo,
+
+48:19.240 --> 48:20.600
+se cada linha foi um dia,
+
+48:20.600 --> 48:21.640
+ele vai pegar 3 dias,
+
+48:21.640 --> 48:22.600
+se cada linha foi um mês,
+
+48:22.600 --> 48:23.720
+ele vai pegar 3 meses,
+
+48:23.720 --> 48:25.560
+cada linha foi um ano, ele vai pegar 3 anos.
+
+48:26.120 --> 48:28.440
+E, seguindo, a gente vai aprequer que a agregação
+
+48:28.440 --> 48:30.520
+vai enxerir o minho.
+
+48:30.520 --> 48:32.200
+Então, aqui, a gente consegue pegar Rooley,
+
+48:32.200 --> 48:34.840
+para pegar as 3 últimas,
+
+48:34.840 --> 48:37.560
+as 3 últimas, apareções dele,
+
+48:37.960 --> 48:39.560
+e seguir em a gente pega a média.
+
+48:41.000 --> 48:43.640
+O rângu, então, aqui, por exemplo, a gente quer pegar,
+
+48:45.400 --> 48:48.200
+quando a gente usa o minho, ele vai pegar o primeiro do rângu.
+
+48:48.200 --> 48:50.440
+Ou seja, aqui, aparece meio confuso,
+
+48:50.440 --> 48:52.040
+mas no rângu, o minho é o primeiro.
+
+48:52.840 --> 48:54.200
+Então, aqui, vai fredendo,
+
+48:54.200 --> 48:56.360
+quando eu boto ponto rângu, igual a minho,
+
+48:57.240 --> 48:58.920
+ele vai criar uma coluna,
+
+48:58.920 --> 49:02.040
+exatamente, criando o rângu do menor para o maior,
+
+49:02.520 --> 49:05.400
+e aqui, tinha que tiver a maior venda,
+
+49:05.400 --> 49:08.680
+vai ser, vai ter um aninha que tiver a menor venda,
+
+49:08.680 --> 49:10.360
+vai ter o maior número,
+
+49:10.360 --> 49:12.680
+ou seja, de deperego no vredirinhas do data frame.
+
+49:14.040 --> 49:16.280
+Seu quiser pegar as vendas do dia anterior,
+
+49:16.280 --> 49:18.920
+ou seja, supondo que cada linha do nosso
+
+49:18.920 --> 49:20.760
+pojudidad é um dia,
+
+49:20.920 --> 49:23.800
+seu que quiser pegar adicionar uma coluna,
+
+49:23.800 --> 49:25.400
+quase vendas do dia anterior,
+
+49:25.400 --> 49:27.480
+basta pegar a defenda e desistifte.
+
+49:27.480 --> 49:30.520
+Então, bem bem para criar um compadinho, ao do tipo,
+
+49:30.520 --> 49:32.520
+a gente pode precisar adicionar uma coluna,
+
+49:32.520 --> 49:33.880
+quase vez anterior,
+
+49:33.880 --> 49:35.880
+simplesmente dando defenda e desistifte,
+
+49:35.880 --> 49:37.800
+um tono vai identificar
+
+49:37.800 --> 49:40.680
+que eu estou querendo pegar um dia para cima.
+
+49:45.080 --> 49:47.640
+Beleza, alguma dúvida pessoal,
+
+49:47.640 --> 49:50.360
+aqui, eu vou pegar a parte das minho fântimas,
+
+49:51.080 --> 49:52.520
+próximo atividade prática,
+
+49:52.520 --> 49:53.560
+a gente vai fazer uma,
+
+49:53.560 --> 49:55.480
+uma, uma, um ainda o fântimas bem legal,
+
+49:55.480 --> 49:57.240
+a gente vai utilizar muito elas,
+
+49:57.240 --> 49:58.920
+é uma base que tem,
+
+49:58.920 --> 50:02.040
+todo o dejilo no planeta terra,
+
+50:02.040 --> 50:04.520
+então ela tem a quantidade de gel,
+
+50:04.520 --> 50:06.680
+no planeta terra, por dia.
+
+50:06.680 --> 50:08.840
+Então, ela não tem muita informação,
+
+50:08.840 --> 50:09.800
+ela só tem o dia,
+
+50:09.800 --> 50:10.760
+e a quantidade de gel,
+
+50:10.760 --> 50:12.040
+sobre os coluna só,
+
+50:12.040 --> 50:14.040
+mas ela tem seu nome ganho de 80,
+
+50:14.040 --> 50:14.280
+80,
+
+50:14.280 --> 50:15.960
+e 85.
+
+50:15.960 --> 50:17.320
+Então, ela tem de por cento,
+
+50:17.320 --> 50:20.280
+e quase 150 anos do histórico de gel no atén.
+
+50:20.440 --> 50:22.200
+Então, a mocola não é quando a gente vê
+
+50:22.200 --> 50:23.880
+só o valor, ela não precisa muita coisa,
+
+50:23.880 --> 50:26.040
+mas ela logo de 150 anos,
+
+50:26.040 --> 50:27.640
+ela fala muito muita coisa,
+
+50:27.640 --> 50:29.000
+então a gente vai ver isso no,
+
+50:29.000 --> 50:31.240
+na próxima atividade prática, vai ser bem legal.
+
+50:33.960 --> 50:36.120
+Agora, seguindo aqui,
+
+50:36.120 --> 50:38.760
+funcionões para organizar data.
+
+50:38.760 --> 50:40.520
+Então aqui, data ring,
+
+50:40.520 --> 50:41.560
+é o nome disso,
+
+50:41.560 --> 50:44.360
+são funcionões de data e hora para manipular
+
+50:44.360 --> 50:46.840
+extra informações de coluna,
+
+50:46.840 --> 50:49.400
+os que são de data,
+
+50:49.400 --> 50:51.240
+então, como as somes para analhes,
+
+50:51.240 --> 50:51.800
+se sazonais,
+
+50:51.800 --> 50:52.920
+eu tenho poréis,
+
+50:52.920 --> 50:55.400
+então, a gente tem, por exemplo,
+
+50:55.400 --> 50:57.240
+a possibilidade a gente já deve ter feito isso,
+
+50:57.240 --> 50:59.320
+que vocês já deve ter feito ao longo dos campos.
+
+50:59.320 --> 51:00.680
+Um extração, você é coluna da data,
+
+51:00.680 --> 51:01.880
+ela vai formar de data,
+
+51:01.880 --> 51:04.040
+e pode trair o nome do dia,
+
+51:04.040 --> 51:06.680
+então, a gente pode criar um novo coluna de da semana,
+
+51:06.680 --> 51:07.960
+pegando data,
+
+51:07.960 --> 51:09.720
+eu pego para o momento deles,
+
+51:09.720 --> 51:11.880
+e eu pego dentro de desde o day name,
+
+51:11.880 --> 51:13.080
+que é o dia da semana,
+
+51:13.080 --> 51:15.800
+então só atriba o que iria isso em uma coluna.
+
+51:16.360 --> 51:17.560
+E aqui,
+
+51:17.560 --> 51:19.560
+uma outra coisa, eu quero pegar um mês,
+
+51:20.840 --> 51:21.640
+então, posso pegar,
+
+51:21.640 --> 51:23.080
+simplesmente, a inveja de day name,
+
+51:23.080 --> 51:23.800
+eu noto,
+
+51:23.800 --> 51:25.240
+bom freio.
+
+51:25.240 --> 51:27.000
+Então isso aqui traz um mês,
+
+51:27.000 --> 51:27.960
+o nome do mês,
+
+51:27.960 --> 51:29.000
+e a gente salva também,
+
+51:29.000 --> 51:30.840
+em uma nova coluna.
+
+51:30.840 --> 51:32.840
+Isso acaba sendo muito útil.
+
+51:32.840 --> 51:34.360
+Quando a gente quer pensar, por exemplo,
+
+51:34.360 --> 51:35.000
+eu quero agrupar,
+
+51:35.000 --> 51:36.360
+eu tenho uma base de venda,
+
+51:36.360 --> 51:37.160
+e ele completa,
+
+51:37.160 --> 51:40.200
+eu tenho menos nos últimos 3 anos.
+
+51:40.200 --> 51:41.640
+Então eu quero agrupar para ver se,
+
+51:41.640 --> 51:42.760
+segundo, eu tenho essa feira,
+
+51:42.760 --> 51:44.120
+é um dia melhor de venda.
+
+51:44.360 --> 51:45.080
+Eu posso fazer,
+
+51:45.080 --> 51:46.680
+eu queria uma coluna com o dia da semana,
+
+51:46.680 --> 51:48.040
+e a gente faça um grupo e bairro,
+
+51:48.040 --> 51:48.920
+pelo valor de venda,
+
+51:48.920 --> 51:50.280
+usando dia da semana.
+
+51:51.480 --> 51:52.840
+Se eu quero ver se o final do ano,
+
+51:52.840 --> 51:54.280
+por exemplo, as menos descrentam.
+
+51:54.280 --> 51:55.320
+Então agrupo,
+
+51:55.320 --> 51:56.440
+o dia de agrupo,
+
+51:56.440 --> 51:58.040
+e agrupo,
+
+51:58.040 --> 51:59.400
+por ela depois.
+
+51:59.400 --> 52:00.360
+Mas aí, daí,
+
+52:00.360 --> 52:02.680
+a gente é adicionando as colunas de data,
+
+52:02.680 --> 52:03.240
+talvez,
+
+52:03.240 --> 52:04.600
+do data ongreio.
+
+52:05.080 --> 52:07.000
+A gente consegue criar
+
+52:07.000 --> 52:08.680
+uma base para fazer os agrupamentos
+
+52:08.680 --> 52:10.680
+e ver essas noitades depois.
+
+52:10.680 --> 52:12.040
+Então, a gente pode pensar,
+
+52:12.040 --> 52:12.440
+beleza,
+
+52:12.440 --> 52:14.280
+de uma semana em mês é muito batido,
+
+52:14.280 --> 52:15.560
+mas a gente pode pensar,
+
+52:15.560 --> 52:17.480
+estação a gente pode pensar,
+
+52:18.520 --> 52:19.560
+em outros fatores,
+
+52:19.560 --> 52:20.440
+por exemplo,
+
+52:20.440 --> 52:21.080
+de repente,
+
+52:21.880 --> 52:25.080
+eu posso criar uma base copo do mundo.
+
+52:25.080 --> 52:26.040
+Ali, venda,
+
+52:26.040 --> 52:28.360
+eu quero poder criar uma flega e copo do mundo.
+
+52:28.360 --> 52:28.920
+Então,
+
+52:28.920 --> 52:29.720
+tem uma base de bem,
+
+52:29.720 --> 52:30.520
+e eu vou identificar
+
+52:30.520 --> 52:31.480
+quando eu vou copo do mundo,
+
+52:31.480 --> 52:32.120
+ou não.
+
+52:32.120 --> 52:33.480
+Eu posso criar, enfim,
+
+52:33.480 --> 52:35.000
+já conto com alguns eventos específicos.
+
+52:35.000 --> 52:35.560
+Eu posso criar,
+
+52:35.560 --> 52:36.680
+já conto com qualquer coisa,
+
+52:36.680 --> 52:38.280
+que seja útil para a minha solididade.
+
+52:39.320 --> 52:40.520
+E para as minhas análises,
+
+52:40.520 --> 52:42.840
+então, por exemplo,
+
+52:42.840 --> 52:44.440
+uma coisa muito interessante.
+
+52:45.400 --> 52:46.600
+Se você tem uma pizza aí,
+
+52:48.200 --> 52:49.480
+uma coisa que muito importante é de
+
+52:49.480 --> 52:50.120
+a semana,
+
+52:50.120 --> 52:51.160
+é domingo com certeza,
+
+52:51.160 --> 52:52.120
+você vai ter mais pigi.
+
+52:53.480 --> 52:54.760
+O mês eu não sei,
+
+52:54.760 --> 52:55.320
+tipo, não sei,
+
+52:55.320 --> 52:56.840
+se tem essa análise de pizza aí,
+
+52:56.840 --> 52:58.280
+talvez, que não é não devendo
+
+52:58.280 --> 52:59.160
+a mais também,
+
+52:59.160 --> 53:00.440
+porque o pessoal está com a dinheiro,
+
+53:00.440 --> 53:01.720
+mas uma coisa que eu sei
+
+53:01.720 --> 53:02.200
+que,
+
+53:02.200 --> 53:04.040
+em facto,
+
+53:04.040 --> 53:05.080
+é muito empitaria,
+
+53:06.040 --> 53:06.520
+é o tempo.
+
+53:07.720 --> 53:09.480
+Se chove mais as pessoas
+
+53:09.480 --> 53:10.440
+perem mais pizza.
+
+53:11.320 --> 53:12.760
+Então, esse é um comportamento natural,
+
+53:12.760 --> 53:13.240
+principalmente,
+
+53:13.240 --> 53:13.880
+finance semana.
+
+53:14.680 --> 53:15.400
+Por quê?
+
+53:15.400 --> 53:16.040
+É pessoal,
+
+53:16.040 --> 53:16.440
+muitas vezes,
+
+53:16.440 --> 53:17.480
+faz planos de sair.
+
+53:17.480 --> 53:18.120
+Chuveu?
+
+53:18.120 --> 53:19.080
+Ah, não, vamos ficar em casa,
+
+53:19.080 --> 53:19.880
+pedi uma pizza.
+
+53:19.880 --> 53:21.560
+Então, esse é um fator,
+
+53:21.560 --> 53:22.200
+eu sei disso,
+
+53:22.200 --> 53:23.240
+porque eu estava andando esse
+
+53:23.240 --> 53:24.040
+diazomartigo
+
+53:24.040 --> 53:25.240
+do manstar tapilados
+
+53:25.240 --> 53:25.800
+em eles,
+
+53:25.800 --> 53:26.760
+que eles fazem pizza,
+
+53:26.760 --> 53:27.960
+eles saem com vãs,
+
+53:28.520 --> 53:29.720
+nos principais
+
+53:29.720 --> 53:30.760
+regiões são franceses,
+
+53:30.760 --> 53:31.720
+eles saem com a pizza
+
+53:31.720 --> 53:32.360
+pra é pronta.
+
+53:33.000 --> 53:35.400
+E de acordo com uma xilânea,
+
+53:35.400 --> 53:37.480
+com o estudo da demanda de cada região,
+
+53:37.480 --> 53:39.080
+eles levam a não
+
+53:39.080 --> 53:39.720
+pra essa região,
+
+53:39.720 --> 53:41.720
+vão levar 8 pizzas de margarita,
+
+53:41.720 --> 53:43.160
+10 pizzas de 4 kgs,
+
+53:43.960 --> 53:45.320
+8 pizzas de calabreso.
+
+53:45.320 --> 53:46.760
+Então, ele já tem a previsão
+
+53:47.320 --> 53:48.360
+do que vai ser naquele jeito.
+
+53:48.360 --> 53:50.120
+Então, com isso, eles conseguem reduzir
+
+53:50.120 --> 53:51.160
+o tempo de entrega,
+
+53:51.160 --> 53:52.360
+eles conseguem entregar o cliente
+
+53:52.360 --> 53:53.000
+em tipo,
+
+53:53.000 --> 53:53.960
+e o fôrno,
+
+53:53.960 --> 53:54.760
+é no aproprevão.
+
+53:54.760 --> 53:55.960
+Então, ele pega pizza,
+
+53:55.960 --> 53:56.760
+esquenta ela,
+
+53:56.760 --> 53:57.800
+e ele entrega o cliente,
+
+53:57.800 --> 53:59.320
+porque já está numa vampéreto,
+
+53:59.320 --> 54:00.520
+em tipo 10 minutos,
+
+54:00.520 --> 54:01.800
+que eles não usam para estar com a pizza
+
+54:01.800 --> 54:03.160
+quente na porta da casa dele.
+
+54:04.520 --> 54:05.960
+E eu vi que os fatores
+
+54:05.960 --> 54:06.760
+mais influenciam,
+
+54:06.760 --> 54:08.120
+não se eles vão levar
+
+54:08.120 --> 54:09.960
+mais pizzas ou menos pizza,
+
+54:09.960 --> 54:11.560
+é a previsão do tempo,
+
+54:11.560 --> 54:13.240
+porque os caras às vezes faziam isso,
+
+54:13.240 --> 54:14.840
+não, do mínimo é a sábola,
+
+54:14.840 --> 54:15.560
+pode ser um dia bom,
+
+54:15.560 --> 54:16.520
+onde eu vou ir,
+
+54:16.520 --> 54:17.240
+sexta-feiras,
+
+54:17.240 --> 54:18.920
+de sábola principalmente,
+
+54:18.920 --> 54:20.040
+quente a sexta-sábola,
+
+54:20.040 --> 54:21.640
+a depender do tempo,
+
+54:21.640 --> 54:23.480
+se quente a sexta-sábola,
+
+54:23.480 --> 54:24.520
+tem dias bons,
+
+54:24.520 --> 54:25.400
+e solarados,
+
+54:25.400 --> 54:26.360
+ou notes limpas,
+
+54:26.360 --> 54:27.400
+as pessoas já me saem,
+
+54:27.400 --> 54:28.040
+vou pra barra,
+
+54:28.040 --> 54:29.240
+restaurante,
+
+54:29.240 --> 54:30.440
+é, se nem,
+
+54:30.440 --> 54:31.640
+se está chovendo,
+
+54:31.640 --> 54:32.680
+as pessoas ficam em casa,
+
+54:32.680 --> 54:33.800
+então, a demanda da pizza,
+
+54:33.800 --> 54:35.560
+acabava que cada,
+
+54:35.560 --> 54:37.000
+praticamente, vou bravar.
+
+54:37.000 --> 54:37.960
+Então, esse impactava
+
+54:37.960 --> 54:41.400
+muito nos custos de supermèndese,
+
+54:41.400 --> 54:43.240
+e conhecer se seguir a organizade
+
+54:43.240 --> 54:44.520
+botar a demanda,
+
+54:44.520 --> 54:45.800
+ele faziam pra eles onde demanda,
+
+54:45.800 --> 54:48.600
+com uma chilãe, com cemestratos,
+
+54:48.600 --> 54:50.040
+então, uma das variáveis mais
+
+54:50.040 --> 54:50.840
+importantes pra eles,
+
+54:50.840 --> 54:52.280
+eram a previsão do tempo,
+
+54:52.280 --> 54:54.680
+de seguir e achou veio no dia seguinte,
+
+54:54.680 --> 54:55.560
+que se eixo ver,
+
+54:55.560 --> 54:56.680
+essa previsão é uma alta
+
+54:56.680 --> 54:57.960
+probabilidade de chuva,
+
+54:57.960 --> 54:58.600
+exigir a tudo,
+
+54:58.600 --> 55:00.200
+evava mais pizza,
+
+55:00.200 --> 55:01.080
+então,
+
+55:01.080 --> 55:01.720
+acaba que,
+
+55:01.720 --> 55:02.360
+da Taro Reinhue,
+
+55:02.360 --> 55:03.080
+em geral,
+
+55:03.080 --> 55:04.120
+pode ser dia da semana,
+
+55:04.120 --> 55:05.160
+pode ser dia do mês,
+
+55:05.160 --> 55:06.680
+mas pode ser também
+
+55:06.680 --> 55:07.880
+tudo isso que está relacionado
+
+55:07.880 --> 55:08.680
+a essas naidade,
+
+55:08.680 --> 55:09.400
+então,
+
+55:09.400 --> 55:10.840
+não deixa de ser data Reinhue,
+
+55:10.840 --> 55:12.440
+a gente pensar em essas naidade,
+
+55:12.440 --> 55:14.440
+você a gente adicionar no nosso data frame,
+
+55:14.440 --> 55:16.120
+uma coluna de dias,
+
+55:16.120 --> 55:17.960
+de previsões,
+
+55:17.960 --> 55:18.680
+você a gente adicionar,
+
+55:18.680 --> 55:20.840
+uma coluna de probabilidade de chuva,
+
+55:21.560 --> 55:22.120
+ou,
+
+55:22.120 --> 55:24.040
+quando a gente vai ter um data frame de venders,
+
+55:24.040 --> 55:25.400
+a gente pode adicionar,
+
+55:25.400 --> 55:27.960
+enfim, se chuver ou não, naquele dia,
+
+55:27.960 --> 55:28.840
+ok, a gente consegue
+
+55:28.840 --> 55:29.640
+correlar seu análise,
+
+55:29.640 --> 55:29.880
+por isso,
+
+55:29.880 --> 55:31.160
+deus dias que chuveram,
+
+55:31.160 --> 55:32.600
+e vêm esteve algum impacto
+
+55:32.600 --> 55:33.560
+nas nossas venders,
+
+55:33.560 --> 55:34.200
+por exemplo.
+
+55:34.200 --> 55:36.200
+Então,
+
+55:36.200 --> 55:38.200
+mas para trabalhar com datas,
+
+55:38.200 --> 55:39.240
+especificamente,
+
+55:39.240 --> 55:39.800
+a gente,
+
+55:39.800 --> 55:40.600
+muitas vezes,
+
+55:40.600 --> 55:41.800
+vai receber as colunhas de data
+
+55:41.800 --> 55:42.600
+como stringa,
+
+55:42.600 --> 55:44.280
+isso é um problema muito,
+
+55:44.280 --> 55:45.640
+muito normal assim,
+
+55:45.640 --> 55:47.240
+isso é um das mãos de colas,
+
+55:47.240 --> 55:47.640
+não é se vocês,
+
+55:47.640 --> 55:48.280
+vai eu ter que fazer,
+
+55:48.280 --> 55:49.640
+principalmente com datas,
+
+55:49.640 --> 55:51.640
+e é joga as colunhas de datas,
+
+55:51.640 --> 55:52.280
+e,
+
+55:52.280 --> 55:53.640
+que me trouxe bem como texto,
+
+55:53.640 --> 55:55.640
+para data através do PD do DEST time,
+
+55:55.640 --> 55:57.240
+conhecem,
+
+55:57.240 --> 55:58.680
+pode passar o paramilho de forma,
+
+55:58.680 --> 56:00.680
+para formar a data de acordo
+
+56:00.680 --> 56:02.680
+com a coluna da Taro Reinhue,
+
+56:02.680 --> 56:04.680
+vocês têm que ver como está um data set,
+
+56:04.680 --> 56:06.040
+e ajustar.
+
+56:06.040 --> 56:07.560
+É igual a falei aqui no Brasil,
+
+56:07.560 --> 56:09.720
+a gente usa o formado DEST,
+
+56:09.720 --> 56:10.520
+barra,
+
+56:10.520 --> 56:11.480
+M&M,
+
+56:11.480 --> 56:12.680
+barra,
+
+56:12.680 --> 56:14.200
+e absoluta,
+
+56:14.200 --> 56:14.920
+é,
+
+56:14.920 --> 56:15.960
+aqui o EPSLOM é maior,
+
+56:15.960 --> 56:16.920
+porque a gente está falando de
+
+56:16.920 --> 56:17.560
+anulomônia,
+
+56:17.560 --> 56:18.280
+então,
+
+56:18.280 --> 56:19.400
+o isso a gente possa identificar
+
+56:19.400 --> 56:20.520
+em Zenoove,
+
+56:20.520 --> 56:21.240
+12,
+
+56:21.240 --> 56:22.200
+2018.
+
+56:22.200 --> 56:22.920
+Dupa,
+
+56:22.920 --> 56:23.880
+2014,
+
+56:23.880 --> 56:25.160
+2018.
+
+56:25.160 --> 56:26.440
+Mas essa é a data
+
+56:26.440 --> 56:28.280
+exatamente que está aparecendo aqui na direita do meu
+
+56:28.280 --> 56:29.160
+monitor,
+
+56:29.160 --> 56:30.200
+por um pessoal,
+
+56:30.200 --> 56:32.360
+se tiver alguém no estasa no nids,
+
+56:32.360 --> 56:33.960
+vai estar assim,
+
+56:33.960 --> 56:35.240
+12,
+
+56:35.240 --> 56:35.720
+barra,
+
+56:35.720 --> 56:36.920
+19,
+
+56:36.920 --> 56:37.640
+barra,
+
+56:37.640 --> 56:39.080
+12, 24.
+
+56:40.360 --> 56:41.000
+E aí,
+
+56:41.000 --> 56:42.360
+olha a diferença do formato,
+
+56:42.360 --> 56:43.560
+primeira coisa a barra,
+
+56:43.560 --> 56:45.000
+aqui é barra no EF,
+
+56:45.000 --> 56:46.200
+e segunda coisa a ordem,
+
+56:46.200 --> 56:46.760
+na primeira,
+
+56:46.760 --> 56:48.760
+no primeiro mês, depois,
+
+56:48.760 --> 56:49.400
+o dia,
+
+56:49.400 --> 56:51.480
+então, que a gente tem que mudar,
+
+56:51.480 --> 56:52.200
+o anão igual,
+
+56:52.200 --> 56:54.600
+mas a gente tem que botar d,
+
+56:54.600 --> 56:55.000
+barra,
+
+56:55.000 --> 56:55.640
+M&M,
+
+56:55.640 --> 56:56.120
+barra,
+
+56:56.120 --> 56:57.640
+EPSLOM EPSLOM.
+
+56:58.760 --> 56:59.800
+É interessante também,
+
+56:59.800 --> 57:01.960
+aqui tem o mês maiúsculo,
+
+57:01.960 --> 57:02.280
+é sentido,
+
+57:02.280 --> 57:03.720
+se o mês tivesse escrito,
+
+57:05.880 --> 57:07.240
+aqui você tem que botar,
+
+57:09.000 --> 57:09.560
+dá,
+
+57:09.560 --> 57:11.880
+aqui, o mês pode estar escrito,
+
+57:13.480 --> 57:14.360
+aqui,
+
+57:14.360 --> 57:15.480
+também,
+
+57:15.480 --> 57:16.760
+e aqui agora também,
+
+57:16.760 --> 57:17.800
+formato de horas,
+
+57:17.800 --> 57:19.560
+as horas podem estar completas,
+
+57:19.560 --> 57:22.200
+podem estar no formato de IMPM,
+
+57:22.200 --> 57:23.080
+então,
+
+57:23.080 --> 57:23.880
+sempre que quiser ainda
+
+57:23.880 --> 57:25.000
+dar uma constada depois,
+
+57:25.000 --> 57:27.000
+denoreada na tabeli.
+
+57:27.000 --> 57:30.520
+Mas não tem segreda,
+
+57:30.520 --> 57:32.200
+é só buscar o formato
+
+57:32.200 --> 57:35.640
+e ver a lidatação
+
+57:35.640 --> 57:36.760
+para botar o formato,
+
+57:36.760 --> 57:37.160
+enfim,
+
+57:37.160 --> 57:38.040
+que o pando os intende,
+
+57:38.040 --> 57:39.240
+é que é que vai uma condidada,
+
+57:39.240 --> 57:40.040
+né?
+
+57:40.040 --> 57:41.480
+Então agora,
+
+57:41.480 --> 57:42.440
+rechepe de dados,
+
+57:42.440 --> 57:44.440
+eu rechei para esse funciono
+
+57:44.440 --> 57:46.440
+para transformar estruturas de dados,
+
+57:46.440 --> 57:47.640
+basicamente para facilitar
+
+57:47.640 --> 57:48.040
+a análise,
+
+57:48.040 --> 57:50.440
+e eles permitem que a gente
+
+57:50.440 --> 57:51.480
+não voreisios dados
+
+57:51.480 --> 57:52.040
+móngulos, né?
+
+57:52.040 --> 57:52.920
+É,
+
+57:52.920 --> 57:54.280
+para largos,
+
+57:54.280 --> 57:54.600
+então,
+
+57:54.600 --> 57:55.720
+a gente pega dados noms,
+
+57:55.720 --> 57:56.840
+que estão muito na vez de cara
+
+57:56.840 --> 57:58.040
+o jogo para horizontal,
+
+57:58.040 --> 57:59.240
+ou das que estão muito na vez de
+
+57:59.240 --> 58:00.680
+cara o jogo para horizontal.
+
+58:00.680 --> 58:02.200
+Como que a gente faz isso?
+
+58:02.200 --> 58:03.240
+Que brando,
+
+58:03.240 --> 58:04.040
+comuns?
+
+58:05.240 --> 58:06.600
+E é exatamente isso que a gente faz
+
+58:06.600 --> 58:07.400
+através do meu,
+
+58:07.400 --> 58:08.200
+por exemplo.
+
+58:08.200 --> 58:09.240
+Então, aqui,
+
+58:09.240 --> 58:10.040
+a gente tem,
+
+58:10.040 --> 58:10.760
+a uma ideia,
+
+58:10.760 --> 58:12.600
+nossa exemplar concentrada,
+
+58:12.600 --> 58:13.960
+todos os dados de uma base de
+
+58:13.960 --> 58:14.760
+menos em um coluno,
+
+58:14.760 --> 58:15.640
+e depois voltar.
+
+58:15.640 --> 58:16.120
+Então aqui,
+
+58:16.120 --> 58:17.480
+olha, no nosso exemplo.
+
+58:17.800 --> 58:19.240
+A gente tem uma coluna
+
+58:19.240 --> 58:20.520
+que tem três categorias,
+
+58:20.520 --> 58:21.240
+a biceira,
+
+58:21.240 --> 58:22.600
+a coluna de categorias,
+
+58:22.600 --> 58:23.320
+e a gente tem aqui,
+
+58:23.320 --> 58:24.760
+ó, vêm as gerenermos coluna,
+
+58:24.760 --> 58:25.880
+vêm as fevereiras e o outro
+
+58:25.880 --> 58:26.600
+comum.
+
+58:26.600 --> 58:27.240
+E se é raro,
+
+58:27.240 --> 58:28.680
+mas a arar mais da acontece
+
+58:28.680 --> 58:29.720
+com frequência.
+
+58:29.720 --> 58:30.440
+Então,
+
+58:30.440 --> 58:31.880
+tem uma coluna que
+
+58:31.880 --> 58:33.320
+de categorias biceiras,
+
+58:33.320 --> 58:33.800
+vêm das aqui,
+
+58:33.800 --> 58:35.480
+com qual o que elas deveriam.
+
+58:35.480 --> 58:36.840
+É, se repetir,
+
+58:36.840 --> 58:37.880
+deveriam ter uma coluna de
+
+58:37.880 --> 58:38.440
+vendas,
+
+58:38.440 --> 58:40.200
+e eu deveria ter
+
+58:40.200 --> 58:42.280
+os valores se repetindo
+
+58:43.240 --> 58:45.000
+dos eves, 150, 220,
+
+58:45.000 --> 58:46.360
+e tem uma nova coluna de
+
+58:46.360 --> 58:47.960
+atribuição pro mês.
+
+58:47.960 --> 58:49.560
+Então, como que a gente consegue
+
+58:49.560 --> 58:50.760
+fazer isso?
+
+58:50.760 --> 58:53.160
+A gente vai derreter
+
+58:53.160 --> 58:54.200
+aqui, a gente vai chamar
+
+58:54.200 --> 58:57.000
+de f1, a gente vai derreter
+
+58:57.000 --> 58:58.200
+aqui a variavo de d,
+
+58:58.200 --> 58:59.560
+a variavo que a gente quer manter
+
+58:59.560 --> 59:00.600
+é a categoria.
+
+59:00.600 --> 59:02.360
+Então, a gente vai manter
+
+59:02.360 --> 59:03.720
+o nome da variavo que a gente
+
+59:03.720 --> 59:06.360
+quer criar é mês
+
+59:06.360 --> 59:08.520
+e o nome da variavo
+
+59:08.520 --> 59:09.400
+que a gente vai
+
+59:09.400 --> 59:11.160
+meio que quebrar,
+
+59:11.320 --> 59:12.120
+é a venda.
+
+59:12.120 --> 59:13.320
+Então, o que acontece?
+
+59:13.320 --> 59:15.080
+O mês vai pra cá,
+
+59:15.080 --> 59:16.120
+então a gente pega,
+
+59:16.120 --> 59:17.000
+eu queria
+
+59:17.000 --> 59:18.440
+os nome de colunas,
+
+59:18.440 --> 59:19.800
+eles vão
+
+59:19.800 --> 59:21.480
+viram valores na coluna
+
+59:21.480 --> 59:22.280
+mês.
+
+59:22.920 --> 59:23.960
+E os valores,
+
+59:23.960 --> 59:25.400
+eles são distribuídos
+
+59:25.400 --> 59:27.000
+dentro da coluna, venda.
+
+59:27.400 --> 59:28.040
+Então, aqui,
+
+59:28.040 --> 59:29.160
+o varia neme,
+
+59:29.160 --> 59:30.360
+faz com que
+
+59:30.360 --> 59:32.600
+as colunas viram valores.
+
+59:33.720 --> 59:35.320
+E o varia neme,
+
+59:35.320 --> 59:36.760
+faz com que os valores
+
+59:36.760 --> 59:38.760
+saem aqui
+
+59:38.760 --> 59:39.800
+daqui
+
+59:39.800 --> 59:41.800
+e vão pra baixo, certo?
+
+59:42.040 --> 59:43.720
+Então, aqui a gente
+
+59:43.720 --> 59:44.440
+ou pra
+
+59:44.440 --> 59:47.000
+só ligar a tomar daqui, pessoal.
+
+59:47.720 --> 59:48.680
+Bateria.
+
+59:49.480 --> 59:51.080
+Esse não vão se casem,
+
+59:51.080 --> 59:51.720
+sem a ou.
+
+59:53.480 --> 59:54.040
+Vem a gente,
+
+01:00:04.040 --> 01:00:04.680
+agora assim.
+
+01:00:07.000 --> 01:00:08.040
+Então,
+
+01:00:08.040 --> 01:00:09.960
+com isso a gente consegue pegar um
+
+01:00:09.960 --> 01:00:11.400
+data frame que é comprido,
+
+01:00:11.400 --> 01:00:13.080
+porque a gente tem uma coluna,
+
+01:00:13.080 --> 01:00:14.600
+duas colunas necessárias,
+
+01:00:14.600 --> 01:00:15.480
+e a gente joga elas
+
+01:00:16.440 --> 01:00:17.800
+pra valores.
+
+01:00:17.800 --> 01:00:19.320
+A gente deixou o nosso data frame,
+
+01:00:19.320 --> 01:00:20.280
+mas com prido,
+
+01:00:20.280 --> 01:00:23.480
+e aqui a gente pegou essa coisa
+
+01:00:23.480 --> 01:00:24.200
+que é bem errado.
+
+01:00:24.200 --> 01:00:25.160
+A gente botar
+
+01:00:25.160 --> 01:00:26.120
+valores
+
+01:00:26.120 --> 01:00:26.920
+através de colunas,
+
+01:00:26.920 --> 01:00:28.520
+da ter uma certa
+
+01:00:28.520 --> 01:00:29.160
+agundida,
+
+01:00:29.160 --> 01:00:30.200
+a gente vê isso aqui.
+
+01:00:30.200 --> 01:00:31.560
+O correto sempre a gente
+
+01:00:31.560 --> 01:00:33.480
+tem os valores cada valor
+
+01:00:33.480 --> 01:00:35.000
+em
+
+01:00:35.000 --> 01:00:36.280
+uma própria linha,
+
+01:00:36.280 --> 01:00:37.720
+na
+
+01:00:37.720 --> 01:00:38.600
+vertical, certo?
+
+01:00:39.720 --> 01:00:40.680
+Em seguirem de poder
+
+01:00:40.680 --> 01:00:41.400
+voltar na gente,
+
+01:00:41.400 --> 01:00:42.920
+pode voltar a fazer isso
+
+01:00:42.920 --> 01:00:43.960
+usando pivot.
+
+01:00:43.960 --> 01:00:44.680
+A gente pode pegar um
+
+01:00:44.680 --> 01:00:46.200
+data frame que é comprido,
+
+01:00:46.200 --> 01:00:47.960
+e eu quero pegar uma coluna de valor,
+
+01:00:48.760 --> 01:00:49.720
+e jogar ela,
+
+01:00:49.720 --> 01:00:52.120
+voltar as categorias desse valor
+
+01:00:52.600 --> 01:00:53.480
+para a coluna.
+
+01:00:53.480 --> 01:00:54.840
+Então, posso fazer isso
+
+01:00:54.840 --> 01:00:55.640
+pegando aqui,
+
+01:00:55.640 --> 01:00:56.840
+tem duas categorias,
+
+01:00:56.840 --> 01:00:57.240
+com corro,
+
+01:00:57.240 --> 01:00:58.840
+que é bem na janela e bem desse ferverer.
+
+01:00:59.240 --> 01:00:59.480
+Então,
+
+01:00:59.480 --> 01:01:00.280
+essas categorias
+
+01:01:00.280 --> 01:01:01.640
+cada uma delas vai ter
+
+01:01:01.640 --> 01:01:02.440
+uma coluna,
+
+01:01:04.120 --> 01:01:05.320
+e os valores
+
+01:01:05.320 --> 01:01:05.880
+atribuidam
+
+01:01:05.880 --> 01:01:07.080
+a elas vão se encaixar.
+
+01:01:07.720 --> 01:01:08.840
+Então, aqui eu faço um contrário.
+
+01:01:08.840 --> 01:01:09.880
+Eu boto que columns
+
+01:01:11.160 --> 01:01:11.640
+é mês
+
+01:01:12.920 --> 01:01:14.360
+e vários é verdes.
+
+01:01:14.360 --> 01:01:15.080
+E com isso,
+
+01:01:15.640 --> 01:01:16.920
+ele acaba voltando
+
+01:01:16.920 --> 01:01:17.720
+e ele pega
+
+01:01:17.720 --> 01:01:19.960
+que os nomes de valores viram colunas
+
+01:01:22.360 --> 01:01:23.320
+e os valores são
+
+01:01:24.040 --> 01:01:25.400
+enhalocados da gente cada um.
+
+01:01:25.960 --> 01:01:27.400
+Então, em sontiacabas,
+
+01:01:27.400 --> 01:01:28.840
+fazendo justamente com a gente quer
+
+01:01:29.560 --> 01:01:30.440
+abrias vezes
+
+01:01:31.240 --> 01:01:32.920
+uma coluna de valores categoricos
+
+01:01:32.920 --> 01:01:34.200
+para a bestribuição aqui,
+
+01:01:34.200 --> 01:01:34.760
+mais claro,
+
+01:01:34.760 --> 01:01:35.000
+não,
+
+01:01:35.000 --> 01:01:35.800
+horizontal.
+
+01:01:35.960 --> 01:01:36.800
+Ou quando a gente tem
+
+01:01:36.800 --> 01:01:37.800
+uma coisa errada
+
+01:01:37.800 --> 01:01:38.360
+nos humanos,
+
+01:01:38.360 --> 01:01:39.000
+quando a gente tem
+
+01:01:39.640 --> 01:01:40.360
+esse formato
+
+01:01:40.360 --> 01:01:40.840
+ação errada
+
+01:01:40.840 --> 01:01:41.480
+os dados aqui,
+
+01:01:41.480 --> 01:01:42.280
+que a gente não consegue
+
+01:01:42.280 --> 01:01:43.560
+fazer os equipamentos,
+
+01:01:43.560 --> 01:01:44.200
+acaba ficando bem
+
+01:01:44.200 --> 01:01:44.920
+pior de ver.
+
+01:01:45.800 --> 01:01:46.200
+E aqui,
+
+01:01:46.200 --> 01:01:46.600
+inclusive,
+
+01:01:46.600 --> 01:01:47.000
+por exemplo,
+
+01:01:47.000 --> 01:01:47.560
+quando a gente tem
+
+01:01:47.560 --> 01:01:48.040
+alguma fervera
+
+01:01:48.040 --> 01:01:49.000
+de visualização
+
+01:01:49.000 --> 01:01:50.040
+tipo Power BI,
+
+01:01:50.600 --> 01:01:51.240
+esse é o formato
+
+01:01:51.240 --> 01:01:52.120
+que elas aceitam,
+
+01:01:52.120 --> 01:01:52.440
+sabe?
+
+01:01:52.440 --> 01:01:53.400
+Porque a coluna de valores
+
+01:01:53.400 --> 01:01:54.120
+aqui vai ser bem,
+
+01:01:55.160 --> 01:01:55.640
+então,
+
+01:01:55.640 --> 01:01:57.480
+sempre que a gente vai trabalhar
+
+01:01:57.480 --> 01:01:58.280
+com o computamento
+
+01:01:58.280 --> 01:01:58.920
+e a coluna de visualização
+
+01:01:58.920 --> 01:02:00.280
+e vai precisar de uma coluna de valores.
+
+01:02:00.280 --> 01:02:00.600
+Aqui,
+
+01:02:00.600 --> 01:02:01.480
+a gente tem duas colunas
+
+01:02:01.480 --> 01:02:02.280
+valor.
+
+01:02:02.280 --> 01:02:03.160
+Então, fica muito estranho.
+
+01:02:03.160 --> 01:02:03.960
+A coluna de valores
+
+01:02:03.960 --> 01:02:04.520
+só para janer,
+
+01:02:04.520 --> 01:02:05.360
+que é uma coluna de valores
+
+01:02:05.360 --> 01:02:06.120
+só para ferverer.
+
+01:02:06.120 --> 01:02:06.840
+Então, coluna,
+
+01:02:06.840 --> 01:02:07.240
+por mês,
+
+01:02:07.240 --> 01:02:08.040
+e uma coluna
+
+01:02:08.600 --> 01:02:09.560
+para
+
+01:02:09.560 --> 01:02:10.760
+para os valores.
+
+01:02:12.600 --> 01:02:13.800
+Então, beleza?
+
+01:02:13.800 --> 01:02:15.000
+Agora, passando
+
+01:02:15.000 --> 01:02:16.280
+para as pressões regulares,
+
+01:02:16.280 --> 01:02:17.160
+pessoal.
+
+01:02:17.160 --> 01:02:18.440
+As pressões regulares
+
+01:02:18.440 --> 01:02:19.400
+elas são um fim.
+
+01:02:19.400 --> 01:02:20.680
+Dá para explicar.
+
+01:02:20.680 --> 01:02:21.480
+Fazer um bootcamp
+
+01:02:21.480 --> 01:02:22.920
+só de pressões regulares.
+
+01:02:22.920 --> 01:02:23.960
+Mas,
+
+01:02:23.960 --> 01:02:24.840
+nos últimos anos,
+
+01:02:24.840 --> 01:02:25.240
+elas vão
+
+01:02:25.240 --> 01:02:25.800
+perdida
+
+01:02:25.800 --> 01:02:26.360
+assim um pouco
+
+01:02:26.360 --> 01:02:27.640
+da necessidade
+
+01:02:27.640 --> 01:02:28.360
+de a gente conhecer
+
+01:02:28.360 --> 01:02:29.560
+ela fundo, sabe?
+
+01:02:29.560 --> 01:02:31.400
+Nos anos 90,
+
+01:02:31.400 --> 01:02:32.680
+nos dois.
+
+01:02:32.680 --> 01:02:33.640
+Meu senão era muito,
+
+01:02:33.640 --> 01:02:35.080
+muito úteis.
+
+01:02:35.080 --> 01:02:35.880
+Principalmente,
+
+01:02:35.880 --> 01:02:37.240
+para que trabalhar com essas linguagens
+
+01:02:37.240 --> 01:02:38.360
+aqui, Java,
+
+01:02:38.360 --> 01:02:39.560
+P, Lumbi, P,
+
+01:02:39.560 --> 01:02:40.520
+P,
+
+01:02:40.520 --> 01:02:41.000
+tão linguagens,
+
+01:02:41.000 --> 01:02:42.760
+mais de um ebre mesmo, né?
+
+01:02:42.760 --> 01:02:44.360
+E ele era um
+
+01:02:44.360 --> 01:02:44.920
+muito,
+
+01:02:44.920 --> 01:02:45.320
+muito útil,
+
+01:02:45.320 --> 01:02:46.600
+porque ele permite buscar
+
+01:02:46.600 --> 01:02:47.000
+extrair
+
+01:02:47.000 --> 01:02:48.600
+manipular padrões específicos
+
+01:02:48.600 --> 01:02:49.160
+de texto
+
+01:02:49.160 --> 01:02:50.120
+no colunas
+
+01:02:50.120 --> 01:02:50.600
+para a gente,
+
+01:02:50.600 --> 01:02:51.800
+que trabalha com dados.
+
+01:02:51.800 --> 01:02:52.760
+Mas ele facilita
+
+01:02:52.760 --> 01:02:53.480
+muito
+
+01:02:53.480 --> 01:02:54.840
+a impese
+
+01:02:54.840 --> 01:02:55.520
+padrões ação
+
+01:02:55.520 --> 01:02:56.520
+os dados.
+
+01:02:56.520 --> 01:02:57.800
+Então,
+
+01:02:57.800 --> 01:02:59.320
+a gente tem alguns asêplos
+
+01:02:59.320 --> 01:03:01.640
+de expressões regulares,
+
+01:03:01.640 --> 01:03:03.000
+né?
+
+01:03:03.000 --> 01:03:03.640
+A gente pode usar a fan de algo
+
+01:03:03.640 --> 01:03:04.760
+para procurar alguma coisa,
+
+01:03:04.760 --> 01:03:05.400
+a estar,
+
+01:03:05.400 --> 01:03:05.960
+a grup,
+
+01:03:05.960 --> 01:03:06.760
+a metade.
+
+01:03:06.760 --> 01:03:08.760
+Então, dentro do Python,
+
+01:03:08.760 --> 01:03:09.480
+o Python,
+
+01:03:09.480 --> 01:03:10.280
+e se ele usa
+
+01:03:10.280 --> 01:03:11.880
+muitas expressões regulares,
+
+01:03:11.880 --> 01:03:13.480
+nativamente dele.
+
+01:03:13.480 --> 01:03:14.040
+Então,
+
+01:03:14.040 --> 01:03:14.840
+não é que a gente tem que
+
+01:03:14.840 --> 01:03:15.480
+se preocupar com
+
+01:03:15.480 --> 01:03:17.240
+baixar alguma coisa de expressões regulares?
+
+01:03:17.240 --> 01:03:18.760
+É uma outra coisa.
+
+01:03:18.760 --> 01:03:20.360
+Mas muitas coisas,
+
+01:03:20.360 --> 01:03:21.480
+das expressões regulares,
+
+01:03:21.480 --> 01:03:22.280
+o Python tem
+
+01:03:22.280 --> 01:03:23.400
+nativamente dentro dele.
+
+01:03:23.400 --> 01:03:24.280
+Mas é para o fan de
+
+01:03:24.280 --> 01:03:25.400
+ona.
+
+01:03:25.400 --> 01:03:26.200
+Tem que que é procurar,
+
+01:03:26.200 --> 01:03:26.600
+por exemplo,
+
+01:03:26.600 --> 01:03:27.880
+uma lista,
+
+01:03:27.880 --> 01:03:29.240
+é...
+
+01:03:29.240 --> 01:03:31.240
+esses valores aqui específicos.
+
+01:03:31.240 --> 01:03:32.120
+Então, a gente passa aqui,
+
+01:03:32.120 --> 01:03:32.840
+por exemplo,
+
+01:03:32.840 --> 01:03:33.800
+é...
+
+01:03:33.800 --> 01:03:34.520
+sol.
+
+01:03:34.520 --> 01:03:35.480
+A gente passa uma lista,
+
+01:03:35.480 --> 01:03:36.040
+ele vai me achar
+
+01:03:36.040 --> 01:03:37.000
+todos lugares
+
+01:03:37.000 --> 01:03:37.960
+com estei sol,
+
+01:03:37.960 --> 01:03:38.680
+naquela lista.
+
+01:03:39.880 --> 01:03:40.360
+Meta,
+
+01:03:40.360 --> 01:03:40.840
+quando é...
+
+01:03:40.840 --> 01:03:42.040
+uma...
+
+01:03:42.040 --> 01:03:43.640
+uma...
+
+01:03:43.640 --> 01:03:44.600
+busca perfeita,
+
+01:03:44.600 --> 01:03:45.240
+né?
+
+01:03:45.240 --> 01:03:45.800
+Quando ele contrressatamente,
+
+01:03:45.800 --> 01:03:46.920
+que você está passando.
+
+01:03:46.920 --> 01:03:47.960
+Então, cada caso,
+
+01:03:47.960 --> 01:03:50.760
+ele acaba sendo adaptado.
+
+01:03:50.760 --> 01:03:50.920
+Então,
+
+01:03:50.920 --> 01:03:51.560
+estigamente,
+
+01:03:51.560 --> 01:03:52.240
+tênívio,
+
+01:03:52.240 --> 01:03:52.280
+né,
+
+01:03:52.280 --> 01:03:53.880
+para expressões regulares.
+
+01:03:53.880 --> 01:03:54.520
+Mas,
+
+01:03:54.520 --> 01:03:55.080
+o que eu falo hoje,
+
+01:03:55.080 --> 01:03:55.800
+cara?
+
+01:03:55.800 --> 01:03:56.520
+O melhor livro
+
+01:03:56.520 --> 01:03:57.320
+de expressões regulares
+
+01:03:57.320 --> 01:03:57.560
+no J.
+
+01:03:57.560 --> 01:03:58.520
+A T.P.
+
+01:03:58.520 --> 01:03:58.840
+Então,
+
+01:03:58.840 --> 01:03:59.400
+vocês vão chegar
+
+01:03:59.400 --> 01:04:00.360
+com um caso,
+
+01:04:00.360 --> 01:04:01.000
+são perguntas,
+
+01:04:01.000 --> 01:04:01.480
+já de P.T.
+
+01:04:01.480 --> 01:04:02.440
+me deu uma expressão regular,
+
+01:04:02.440 --> 01:04:03.880
+que eu preciso usar nesse caso.
+
+01:04:03.880 --> 01:04:05.320
+E ele é torna.
+
+01:04:05.320 --> 01:04:05.640
+Então,
+
+01:04:05.640 --> 01:04:06.280
+é uma melhor cenário.
+
+01:04:06.280 --> 01:04:07.560
+Não precisa decorar
+
+01:04:07.560 --> 01:04:08.520
+expressões regulares.
+
+01:04:08.520 --> 01:04:08.760
+Mas,
+
+01:04:08.760 --> 01:04:10.600
+não sei algumas coisas de cabeça,
+
+01:04:10.600 --> 01:04:12.600
+mas é só pelas vezes que eu usei.
+
+01:04:12.600 --> 01:04:13.320
+Não propriamente,
+
+01:04:13.320 --> 01:04:15.080
+porque eu decorei.
+
+01:04:15.080 --> 01:04:17.240
+E aqui tem um exemplo.
+
+01:04:17.240 --> 01:04:18.760
+Aqui, a gente quer limpar um coluno,
+
+01:04:18.760 --> 01:04:19.960
+com informações de o cliente,
+
+01:04:19.960 --> 01:04:22.600
+para capturar somente o V.D.
+
+01:04:22.600 --> 01:04:25.080
+Então, olha como é que está a coluna de dedo.
+
+01:04:25.080 --> 01:04:25.960
+Esse é o formato,
+
+01:04:25.960 --> 01:04:26.920
+bél,
+
+01:04:26.920 --> 01:04:27.880
+ela tem o V.D.
+
+01:04:27.880 --> 01:04:29.240
+um, dois, três, com a cinco,
+
+01:04:29.240 --> 01:04:30.280
+barra cliente.
+
+01:04:30.280 --> 01:04:30.840
+E daí,
+
+01:04:30.840 --> 01:04:31.640
+essa é tipo...
+
+01:04:31.640 --> 01:04:32.520
+Isso acontece muito.
+
+01:04:32.520 --> 01:04:34.200
+Então, eu vou colar um despatronizado.
+
+01:04:34.200 --> 01:04:35.320
+O mais que ela tem o I.D.
+
+01:04:35.320 --> 01:04:36.040
+que certinho,
+
+01:04:37.400 --> 01:04:39.560
+ela está no meio de string,
+
+01:04:39.560 --> 01:04:40.520
+então ela está bem
+
+01:04:40.520 --> 01:04:41.160
+baseulada.
+
+01:04:42.120 --> 01:04:43.000
+E o que a gente vai fazer?
+
+01:04:43.000 --> 01:04:44.520
+A gente vai buscar,
+
+01:04:44.520 --> 01:04:45.640
+ela vai pegar,
+
+01:04:45.640 --> 01:04:47.000
+ela vai acionar a string,
+
+01:04:47.000 --> 01:04:47.320
+e aqui,
+
+01:04:47.320 --> 01:04:48.840
+vamos usar o extracte.
+
+01:04:48.840 --> 01:04:49.560
+Percebam,
+
+01:04:49.560 --> 01:04:51.240
+que é um método do bupándose,
+
+01:04:51.240 --> 01:04:52.600
+que nos expressões regulares.
+
+01:04:53.560 --> 01:04:55.160
+O agagente boto ézinho,
+
+01:04:55.160 --> 01:04:56.040
+aqui é o percebo,
+
+01:04:56.040 --> 01:04:56.840
+esse é a exingência.
+
+01:04:58.200 --> 01:04:59.000
+Esse ézinho,
+
+01:04:59.640 --> 01:05:00.760
+é o que está identificando
+
+01:05:00.760 --> 01:05:01.800
+que a expressão regular.
+
+01:05:03.720 --> 01:05:04.520
+E aqui,
+
+01:05:04.520 --> 01:05:06.200
+a gente vai botar o I.D.
+
+01:05:06.200 --> 01:05:07.640
+Olha, quando a gente passa,
+
+01:05:07.640 --> 01:05:08.600
+as ásposses,
+
+01:05:08.600 --> 01:05:10.360
+é onde a gente começa a navegar
+
+01:05:10.360 --> 01:05:11.800
+no que a expressão regular.
+
+01:05:12.280 --> 01:05:13.160
+Então, aqui,
+
+01:05:13.160 --> 01:05:14.440
+a gente boto o I.D.
+
+01:05:15.720 --> 01:05:17.320
+E, seguida, a gente passa a notação
+
+01:05:17.320 --> 01:05:18.360
+da expressão regulada.
+
+01:05:19.400 --> 01:05:21.240
+Quando a gente passa o bar,
+
+01:05:21.240 --> 01:05:21.800
+B,
+
+01:05:21.800 --> 01:05:24.360
+a gente está dizendo que tem um número inteiro,
+
+01:05:24.360 --> 01:05:25.320
+dentro dele.
+
+01:05:25.320 --> 01:05:26.520
+Então, o B
+
+01:05:26.520 --> 01:05:26.760
+é
+
+01:05:27.720 --> 01:05:29.560
+B mais específicamente,
+
+01:05:29.560 --> 01:05:30.840
+a um número inteiro positivo.
+
+01:05:31.640 --> 01:05:33.480
+Então, percebo o que esse D aqui,
+
+01:05:33.480 --> 01:05:35.080
+sempre é um número inteiro positivo,
+
+01:05:35.880 --> 01:05:36.840
+neste três casos aqui,
+
+01:05:36.840 --> 01:05:37.400
+pelo menos.
+
+01:05:37.960 --> 01:05:39.720
+Então, o que ele vai fazer?
+
+01:05:39.720 --> 01:05:41.080
+Ele vai pegar qualquer número
+
+01:05:41.080 --> 01:05:42.280
+inteiro positivo,
+
+01:05:42.280 --> 01:05:44.840
+que tiver, depois de D
+
+01:05:44.840 --> 01:05:45.960
+e um espaço,
+
+01:05:46.680 --> 01:05:48.040
+e então, tem muito cuidado.
+
+01:05:48.840 --> 01:05:49.320
+Mas,
+
+01:05:49.320 --> 01:05:49.960
+o que ele faz,
+
+01:05:49.960 --> 01:05:50.440
+e destra,
+
+01:05:50.440 --> 01:05:51.320
+é perfectamente.
+
+01:05:51.320 --> 01:05:52.200
+Então, a ideia é ser de um
+
+01:05:52.200 --> 01:05:52.920
+peso aqui,
+
+01:05:52.920 --> 01:05:53.800
+tem imagina,
+
+01:05:53.800 --> 01:05:54.760
+como complexo seria
+
+01:05:54.760 --> 01:05:55.560
+dar um replay,
+
+01:05:55.560 --> 01:05:57.160
+se trecradou esse place,
+
+01:05:57.160 --> 01:05:58.280
+um primeiro no ID,
+
+01:05:59.320 --> 01:06:00.840
+dois pontos igual a um espaço,
+
+01:06:00.840 --> 01:06:02.280
+e o segundo no ID,
+
+01:06:03.080 --> 01:06:03.960
+igual a isso aqui,
+
+01:06:03.960 --> 01:06:05.080
+e de repente poderia mudar,
+
+01:06:05.080 --> 01:06:06.040
+poderia ter outro caso,
+
+01:06:06.040 --> 01:06:07.000
+que você não ia pegar,
+
+01:06:07.400 --> 01:06:07.960
+mas,
+
+01:06:07.960 --> 01:06:09.560
+com os ambas pressões
+
+01:06:09.560 --> 01:06:10.680
+regulares acaba sendo mais
+
+01:06:10.680 --> 01:06:11.240
+fácil.
+
+01:06:11.240 --> 01:06:12.600
+Então, sempre que pensar,
+
+01:06:12.600 --> 01:06:13.480
+você se separar,
+
+01:06:13.480 --> 01:06:14.200
+como o problema,
+
+01:06:14.200 --> 01:06:15.400
+você tem que identificar um padrão,
+
+01:06:15.400 --> 01:06:16.040
+nos dados,
+
+01:06:16.440 --> 01:06:17.960
+há tempo que remover,
+
+01:06:17.960 --> 01:06:18.760
+eu tenho uma lista de
+
+01:06:18.760 --> 01:06:19.880
+nome de pessoas
+
+01:06:19.880 --> 01:06:21.480
+que está lá do turmarco,
+
+01:06:21.800 --> 01:06:22.840
+sagento, Paulo,
+
+01:06:23.240 --> 01:06:24.440
+então, o que era remover,
+
+01:06:25.000 --> 01:06:26.040
+o primeiro,
+
+01:06:26.040 --> 01:06:27.160
+primeiro a palavra,
+
+01:06:27.160 --> 01:06:28.520
+um título antes de um nome
+
+01:06:28.520 --> 01:06:29.320
+da pessoa,
+
+01:06:29.320 --> 01:06:29.960
+vai lá no chat,
+
+01:06:29.960 --> 01:06:30.920
+e peitar e volta.
+
+01:06:30.920 --> 01:06:31.800
+Quero remover,
+
+01:06:31.800 --> 01:06:32.760
+a primeira palavra,
+
+01:06:32.760 --> 01:06:33.800
+do uma coguna,
+
+01:06:34.200 --> 01:06:35.800
+com nomes,
+
+01:06:35.800 --> 01:06:36.680
+então, que era remover de
+
+01:06:36.680 --> 01:06:37.240
+oscidos.
+
+01:06:37.240 --> 01:06:37.880
+Então, ele vai lá,
+
+01:06:37.880 --> 01:06:39.080
+ele vai te dar uma solução
+
+01:06:39.080 --> 01:06:41.080
+para você tirar a primeira palavra.
+
+01:06:41.080 --> 01:06:41.880
+Então,
+
+01:06:41.880 --> 01:06:44.280
+é para isso que serve as pressões regulares,
+
+01:06:44.680 --> 01:06:45.880
+é impossível decorar
+
+01:06:45.880 --> 01:06:47.320
+toda a notação de pressões regulares,
+
+01:06:47.320 --> 01:06:48.280
+com tantos coisas que a gente tem
+
+01:06:48.280 --> 01:06:49.480
+para ver aqui nesse post-camp,
+
+01:06:49.480 --> 01:06:51.160
+mas o importante é entender isso,
+
+01:06:51.160 --> 01:06:52.680
+que ela serve para a gente
+
+01:06:52.680 --> 01:06:53.880
+identificar padrões
+
+01:06:53.880 --> 01:06:54.840
+em texto.
+
+01:06:57.160 --> 01:06:58.840
+E, pessoal, para fechar a aula
+
+01:06:58.840 --> 01:07:00.200
+que, e nosso último ponto,
+
+01:07:01.400 --> 01:07:02.680
+a gente vai falar sobre
+
+01:07:02.680 --> 01:07:03.960
+otimização de performance
+
+01:07:03.960 --> 01:07:05.320
+e operações complexas,
+
+01:07:05.800 --> 01:07:06.440
+então,
+
+01:07:07.400 --> 01:07:08.440
+o Pandas era muito,
+
+01:07:08.440 --> 01:07:09.240
+muito eficiente,
+
+01:07:10.280 --> 01:07:11.880
+ele costuma resolver
+
+01:07:11.880 --> 01:07:13.400
+grande parte dos nossos problemas,
+
+01:07:13.400 --> 01:07:14.440
+como o eficiente,
+
+01:07:15.080 --> 01:07:15.800
+e ele é, é, é, é, é
+
+01:07:15.800 --> 01:07:16.280
+sim,
+
+01:07:16.280 --> 01:07:17.480
+muito eficiente para trabalhar
+
+01:07:17.480 --> 01:07:19.080
+como data sites grandes e complexos.
+
+01:07:20.360 --> 01:07:20.920
+Por quê?
+
+01:07:20.920 --> 01:07:21.640
+O Pandas,
+
+01:07:21.640 --> 01:07:23.000
+ele é construída em cima
+
+01:07:23.000 --> 01:07:23.720
+do num pai.
+
+01:07:24.520 --> 01:07:25.080
+Sete?
+
+01:07:25.480 --> 01:07:26.920
+Tudo que é operação
+
+01:07:26.920 --> 01:07:28.200
+matemática ali no Pandas,
+
+01:07:28.200 --> 01:07:29.240
+então, quando você vai adicionar
+
+01:07:29.240 --> 01:07:31.000
+uma coluna no Pandas,
+
+01:07:31.000 --> 01:07:32.360
+ele transforma que ele inventou
+
+01:07:33.240 --> 01:07:35.160
+os boomers das comunas ibetores,
+
+01:07:35.160 --> 01:07:36.200
+somos vetores
+
+01:07:36.200 --> 01:07:38.360
+e atribui ele de novo.
+
+01:07:38.360 --> 01:07:39.640
+Então, ele se fez para estar fazendo
+
+01:07:39.640 --> 01:07:40.680
+operações vetorias,
+
+01:07:40.680 --> 01:07:42.280
+porque as operações vetorias
+
+01:07:42.280 --> 01:07:43.080
+em processamento
+
+01:07:44.200 --> 01:07:45.560
+do jeito que as nossas máquinas são,
+
+01:07:45.560 --> 01:07:46.360
+o meio que o processamento
+
+01:07:46.360 --> 01:07:46.840
+em série,
+
+01:07:46.840 --> 01:07:48.200
+elas são extremamente eficientes.
+
+01:07:49.400 --> 01:07:50.520
+Quatro diferenças do Pandas
+
+01:07:50.520 --> 01:07:51.160
+para o num pai,
+
+01:07:51.800 --> 01:07:52.680
+o Pandas
+
+01:07:52.760 --> 01:07:53.960
+você tem muito e fácil,
+
+01:07:53.960 --> 01:07:54.840
+seja elagráfica,
+
+01:07:54.840 --> 01:07:55.800
+seja ela de Deus,
+
+01:07:55.800 --> 01:07:57.800
+se tem construída de o data frame,
+
+01:07:57.800 --> 01:07:58.760
+então, geralmente,
+
+01:07:58.760 --> 01:07:59.240
+um Pandas,
+
+01:07:59.240 --> 01:08:00.840
+você vai ter um muito e fácil visual.
+
+01:08:00.840 --> 01:08:01.400
+Então, um num pai,
+
+01:08:01.400 --> 01:08:01.880
+muitas vezes,
+
+01:08:01.880 --> 01:08:03.240
+você vai estar só processando,
+
+01:08:03.240 --> 01:08:04.200
+então, você não vai estar,
+
+01:08:04.200 --> 01:08:05.160
+ele tem um
+
+01:08:05.160 --> 01:08:05.720
+um
+
+01:08:06.440 --> 01:08:08.280
+e ter fácil visual extremamente
+
+01:08:09.240 --> 01:08:10.040
+limitada,
+
+01:08:10.280 --> 01:08:12.280
+até para você ver o tipo de operações,
+
+01:08:12.280 --> 01:08:13.560
+que você está fazendo nos arrays,
+
+01:08:13.560 --> 01:08:14.440
+os oréis são
+
+01:08:14.680 --> 01:08:15.800
+basicamente as matrisas,
+
+01:08:15.800 --> 01:08:17.560
+que a gente usa no num pai,
+
+01:08:18.120 --> 01:08:18.680
+mas,
+
+01:08:18.680 --> 01:08:20.200
+é até ruim de ver
+
+01:08:20.200 --> 01:08:21.000
+o que você está fazendo.
+
+01:08:21.960 --> 01:08:22.760
+Mas,
+
+01:08:23.080 --> 01:08:23.800
+o Pandas não,
+
+01:08:23.800 --> 01:08:24.440
+quando você consegue
+
+01:08:24.440 --> 01:08:24.920
+necessitir,
+
+01:08:24.920 --> 01:08:26.440
+você está fazendo as operações,
+
+01:08:27.000 --> 01:08:28.120
+mas o problema é isso,
+
+01:08:28.120 --> 01:08:28.200
+né?
+
+01:08:28.200 --> 01:08:29.880
+Isso é o que eu amassem um grande
+
+01:08:29.880 --> 01:08:30.040
+e,
+
+01:08:30.040 --> 01:08:31.480
+é uma grande treidófrica,
+
+01:08:31.480 --> 01:08:32.040
+a gente chama,
+
+01:08:32.040 --> 01:08:33.480
+uma troca na tecnologia,
+
+01:08:33.640 --> 01:08:34.680
+tudo o que você vai ter
+
+01:08:34.680 --> 01:08:35.640
+mais interface visual,
+
+01:08:35.640 --> 01:08:36.600
+se acaba tendo menos
+
+01:08:36.600 --> 01:08:37.640
+poder de processamento.
+
+01:08:37.880 --> 01:08:38.680
+E tudo o que você tem
+
+01:08:38.680 --> 01:08:39.880
+menos interface visual,
+
+01:08:39.880 --> 01:08:41.880
+se acaba tendo mais poder de processamento,
+
+01:08:42.200 --> 01:08:43.160
+porque essa ainda é
+
+01:08:43.160 --> 01:08:44.120
+uma das grandes barreiras
+
+01:08:44.120 --> 01:08:45.080
+do processamento,
+
+01:08:45.080 --> 01:08:45.240
+né?
+
+01:08:45.240 --> 01:08:46.840
+No da computação mundial,
+
+01:08:46.840 --> 01:08:48.200
+é a visualização,
+
+01:08:48.680 --> 01:08:49.320
+para
+
+01:08:49.320 --> 01:08:50.280
+o Google chegar
+
+01:08:50.280 --> 01:08:51.480
+que botar todos nós
+
+01:08:51.480 --> 01:08:52.040
+da minha cara,
+
+01:08:52.040 --> 01:08:52.600
+que,
+
+01:08:53.800 --> 01:08:54.680
+para vocês,
+
+01:08:54.680 --> 01:08:56.280
+ele gasta muito interés.
+
+01:08:56.520 --> 01:08:57.080
+Então,
+
+01:08:57.080 --> 01:08:58.200
+até inclusive,
+
+01:08:58.200 --> 01:08:59.560
+quando eu,
+
+01:08:59.560 --> 01:09:01.320
+eu faço um teste de aplicação,
+
+01:09:01.320 --> 01:09:02.920
+às vezes com os clientes,
+
+01:09:03.400 --> 01:09:03.720
+e,
+
+01:09:03.720 --> 01:09:04.040
+cara,
+
+01:09:04.040 --> 01:09:04.440
+às vezes,
+
+01:09:04.440 --> 01:09:05.480
+eu testo perfeito,
+
+01:09:05.480 --> 01:09:06.680
+funciona tudo rápido.
+
+01:09:06.840 --> 01:09:08.040
+Aí eu vou lá na apresentação,
+
+01:09:08.040 --> 01:09:09.000
+tem muito pessoas,
+
+01:09:09.000 --> 01:09:10.280
+como um pouco abravete,
+
+01:09:10.440 --> 01:09:11.560
+eu vou fazer a apresentação
+
+01:09:11.560 --> 01:09:12.600
+e ficar lá travando.
+
+01:09:12.600 --> 01:09:13.240
+Então,
+
+01:09:14.040 --> 01:09:14.120
+é,
+
+01:09:14.120 --> 01:09:14.760
+seu limitação,
+
+01:09:14.760 --> 01:09:15.240
+é realmente,
+
+01:09:15.240 --> 01:09:16.760
+da computação,
+
+01:09:17.640 --> 01:09:18.440
+porque,
+
+01:09:19.400 --> 01:09:20.840
+fez isso de muito processamento
+
+01:09:20.840 --> 01:09:21.880
+das máquinas, né?
+
+01:09:22.120 --> 01:09:23.080
+Então, essa diferença,
+
+01:09:23.080 --> 01:09:23.400
+né?
+
+01:09:24.120 --> 01:09:24.680
+O pãs,
+
+01:09:25.480 --> 01:09:26.680
+ele está no meia de origem,
+
+01:09:26.680 --> 01:09:27.480
+de pode falar,
+
+01:09:27.480 --> 01:09:28.040
+aqui no loo,
+
+01:09:28.040 --> 01:09:28.520
+eu botaria,
+
+01:09:28.520 --> 01:09:28.840
+por exemplo,
+
+01:09:28.840 --> 01:09:29.880
+um excel da vida,
+
+01:09:29.880 --> 01:09:31.080
+você está fazendo operação
+
+01:09:31.080 --> 01:09:32.360
+célula por célula,
+
+01:09:32.360 --> 01:09:33.160
+então,
+
+01:09:33.160 --> 01:09:33.480
+é,
+
+01:09:33.480 --> 01:09:33.880
+quando ele,
+
+01:09:33.880 --> 01:09:34.280
+por exemplo,
+
+01:09:34.280 --> 01:09:34.680
+um excel,
+
+01:09:34.680 --> 01:09:35.880
+tem um ali uma coluna,
+
+01:09:35.880 --> 01:09:36.680
+um valor,
+
+01:09:37.240 --> 01:09:37.560
+ah,
+
+01:09:37.560 --> 01:09:38.520
+e a coluna com um valor,
+
+01:09:38.520 --> 01:09:39.080
+claro,
+
+01:09:39.080 --> 01:09:40.280
+tem um terceiro coluna
+
+01:09:40.280 --> 01:09:41.080
+e eu quero somar
+
+01:09:41.080 --> 01:09:41.720
+em todas,
+
+01:09:41.720 --> 01:09:41.880
+né?
+
+01:09:41.880 --> 01:09:42.520
+Todas nisso,
+
+01:09:42.760 --> 01:09:43.640
+vai querer ir a rasta
+
+01:09:43.640 --> 01:09:44.200
+para baixo.
+
+01:09:44.200 --> 01:09:46.280
+Eles ecuta célula célula o operação.
+
+01:09:46.680 --> 01:09:47.080
+Então,
+
+01:09:47.080 --> 01:09:47.880
+isso é,
+
+01:09:48.280 --> 01:09:49.400
+muito custoso,
+
+01:09:49.400 --> 01:09:50.440
+tem um tipo de computação
+
+01:09:50.440 --> 01:09:50.760
+naés,
+
+01:09:50.760 --> 01:09:51.640
+demora mais.
+
+01:09:51.880 --> 01:09:52.760
+No pã das naúer,
+
+01:09:52.760 --> 01:09:53.640
+de transforma,
+
+01:09:53.640 --> 01:09:54.680
+toda a colonar,
+
+01:09:54.680 --> 01:09:55.400
+no vetor,
+
+01:09:55.400 --> 01:09:56.040
+toda a coluna,
+
+01:09:56.040 --> 01:09:57.000
+bem o vetor,
+
+01:09:57.000 --> 01:09:57.960
+somas duas,
+
+01:09:57.960 --> 01:09:58.840
+pega o resultado,
+
+01:09:58.840 --> 01:09:59.160
+pronto,
+
+01:09:59.160 --> 01:09:59.640
+você teria ele,
+
+01:09:59.640 --> 01:10:00.200
+ou cola,
+
+01:10:00.200 --> 01:10:01.320
+três com o resultado.
+
+01:10:01.320 --> 01:10:02.360
+Isso é o,
+
+01:10:02.360 --> 01:10:03.240
+o pã das e o no pãe,
+
+01:10:03.240 --> 01:10:04.280
+na descrição mais
+
+01:10:04.280 --> 01:10:05.000
+sem isso.
+
+01:10:05.000 --> 01:10:06.600
+O pã das ainda tem o custo
+
+01:10:06.600 --> 01:10:07.880
+computação alge
+
+01:10:07.880 --> 01:10:08.760
+adequado a esse
+
+01:10:08.760 --> 01:10:10.120
+retura do data frame,
+
+01:10:10.120 --> 01:10:10.920
+tal,
+
+01:10:11.320 --> 01:10:12.280
+fazemos a realização
+
+01:10:12.280 --> 01:10:13.320
+muitas vezes,
+
+01:10:13.320 --> 01:10:14.600
+e o no pãe não.
+
+01:10:14.600 --> 01:10:15.640
+No extreme,
+
+01:10:15.640 --> 01:10:16.840
+em que acha uma coisa que a gente
+
+01:10:16.840 --> 01:10:17.400
+chama
+
+01:10:17.400 --> 01:10:17.960
+esparque,
+
+01:10:17.960 --> 01:10:18.760
+o pãe esparque,
+
+01:10:18.760 --> 01:10:19.640
+principalmente,
+
+01:10:19.640 --> 01:10:20.760
+para fazer manipulações
+
+01:10:20.760 --> 01:10:21.640
+de dados,
+
+01:10:21.640 --> 01:10:22.760
+ele é o mais rápido que
+
+01:10:22.760 --> 01:10:23.320
+existe.
+
+01:10:23.320 --> 01:10:23.800
+Hoje,
+
+01:10:23.800 --> 01:10:25.160
+é o estado da arte,
+
+01:10:25.160 --> 01:10:26.200
+é porque
+
+01:10:26.200 --> 01:10:27.000
+ele trabalha com o
+
+01:10:27.000 --> 01:10:28.680
+processamento paralelo.
+
+01:10:28.680 --> 01:10:30.040
+Então, o pãe esparque
+
+01:10:30.040 --> 01:10:31.080
+se se vai precisar
+
+01:10:31.080 --> 01:10:32.600
+numa infraestrutura
+
+01:10:32.600 --> 01:10:33.560
+muito mais robusta,
+
+01:10:33.560 --> 01:10:34.520
+precisa de uma placa de vídeo
+
+01:10:34.520 --> 01:10:35.560
+no computador,
+
+01:10:35.560 --> 01:10:37.240
+precisa configurar os ambientes.
+
+01:10:37.240 --> 01:10:37.720
+Então,
+
+01:10:37.720 --> 01:10:39.720
+ele é um pouquinho mais complexo,
+
+01:10:39.720 --> 01:10:40.360
+ou você pode
+
+01:10:40.360 --> 01:10:41.880
+gelar no logo o colabio,
+
+01:10:41.880 --> 01:10:42.840
+usar um GPU que
+
+01:10:42.840 --> 01:10:43.480
+ele disponibiliza.
+
+01:10:43.480 --> 01:10:44.120
+Também,
+
+01:10:44.120 --> 01:10:44.440
+lá,
+
+01:10:44.440 --> 01:10:46.760
+você consegue usar o pãe esparque,
+
+01:10:46.760 --> 01:10:47.640
+para quem também quiser
+
+01:10:47.640 --> 01:10:48.520
+conhecer o pãe esparque,
+
+01:10:48.520 --> 01:10:49.720
+eu recomendo de mais
+
+01:10:49.720 --> 01:10:50.520
+o data bricks.
+
+01:10:51.560 --> 01:10:51.880
+Então,
+
+01:10:52.920 --> 01:10:53.640
+o pãe esparque,
+
+01:10:53.640 --> 01:10:54.120
+tem uma senta que
+
+01:10:54.120 --> 01:10:55.160
+é um pouquinho diferente
+
+01:10:55.160 --> 01:10:55.880
+do pãe esparque,
+
+01:10:55.880 --> 01:10:57.240
+é bem parecido.
+
+01:10:57.240 --> 01:10:58.520
+Se você não me enupando,
+
+01:10:58.520 --> 01:10:59.880
+você vai chegar no pãe esparque,
+
+01:10:59.880 --> 01:11:00.840
+você vai estar um pouco
+
+01:11:00.840 --> 01:11:01.560
+mais
+
+01:11:01.560 --> 01:11:02.280
+se vai conseguir entender.
+
+01:11:02.280 --> 01:11:03.080
+Eu sempre para falar o que é
+
+01:11:03.080 --> 01:11:03.720
+com o seu
+
+01:11:04.120 --> 01:11:04.680
+português,
+
+01:11:04.680 --> 01:11:05.880
+fosse o pãe esparque,
+
+01:11:05.880 --> 01:11:07.080
+o pãe esparque,
+
+01:11:07.080 --> 01:11:08.440
+ou fosse o pãe esparque.
+
+01:11:08.440 --> 01:11:08.920
+Você chega
+
+01:11:08.920 --> 01:11:10.040
+e ele senta em alguma coisa,
+
+01:11:10.040 --> 01:11:10.360
+mas
+
+01:11:11.640 --> 01:11:12.200
+tem que
+
+01:11:12.200 --> 01:11:13.480
+saber qual ainda.
+
+01:11:13.880 --> 01:11:15.240
+E a diferença
+
+01:11:15.240 --> 01:11:16.200
+é que
+
+01:11:16.200 --> 01:11:17.320
+não faz parque,
+
+01:11:17.320 --> 01:11:17.960
+você consegue
+
+01:11:17.960 --> 01:11:18.680
+que usar
+
+01:11:19.720 --> 01:11:20.760
+poder computacional
+
+01:11:20.760 --> 01:11:21.320
+o gráfico.
+
+01:11:21.960 --> 01:11:22.360
+Então,
+
+01:11:22.360 --> 01:11:23.320
+para quem quiser conhecer
+
+01:11:23.320 --> 01:11:23.960
+o recomendo
+
+01:11:23.960 --> 01:11:24.520
+de mais
+
+01:11:24.520 --> 01:11:25.800
+o Microsoft Data bricks.
+
+01:11:27.080 --> 01:11:27.800
+É um das ferramentas
+
+01:11:27.800 --> 01:11:29.160
+que eu mais lento a minha vida.
+
+01:11:29.400 --> 01:11:30.440
+Agora, eu não usando
+
+01:11:30.440 --> 01:11:31.240
+a total de saudade,
+
+01:11:31.240 --> 01:11:31.960
+de somando
+
+01:11:31.960 --> 01:11:33.400
+faz uma viúva do bricks.
+
+01:11:33.720 --> 01:11:34.600
+E lá, tem um
+
+01:11:34.600 --> 01:11:35.560
+comiritivetion.
+
+01:11:36.200 --> 01:11:37.160
+O bixet-prago,
+
+01:11:37.160 --> 01:11:37.560
+então,
+
+01:11:37.560 --> 01:11:38.760
+a lógica dele,
+
+01:11:38.760 --> 01:11:39.960
+a mesma do colávio,
+
+01:11:39.960 --> 01:11:40.760
+você consegue usar
+
+01:11:40.760 --> 01:11:41.400
+máquinas,
+
+01:11:41.400 --> 01:11:42.600
+diferentes máquinas,
+
+01:11:42.600 --> 01:11:43.400
+fazerem diferentes
+
+01:11:43.400 --> 01:11:44.120
+paixais,
+
+01:11:44.120 --> 01:11:45.480
+conectar com a peguís,
+
+01:11:45.480 --> 01:11:46.760
+disponibilizar a peguís.
+
+01:11:47.880 --> 01:11:48.600
+Muito fácil.
+
+01:11:49.720 --> 01:11:50.360
+Mas
+
+01:11:50.360 --> 01:11:51.240
+tem um custo,
+
+01:11:51.240 --> 01:11:51.960
+de processamento,
+
+01:11:51.960 --> 01:11:52.920
+por hora que eu contato
+
+01:11:52.920 --> 01:11:53.160
+zinho,
+
+01:11:53.160 --> 01:11:53.880
+a que eu posso ter que
+
+01:11:53.880 --> 01:11:54.360
+ligado.
+
+01:11:54.760 --> 01:11:56.360
+Mas tem uma versão de comunidades,
+
+01:11:56.360 --> 01:11:57.080
+que eles disponibilizam
+
+01:11:57.080 --> 01:11:57.720
+em seu
+
+01:11:57.720 --> 01:11:58.520
+o Minional Macre de 8,
+
+01:11:58.520 --> 01:11:59.080
+11, 6,
+
+01:11:59.080 --> 01:11:59.160
+6,
+
+01:11:59.160 --> 01:11:59.720
+e jigas,
+
+01:11:59.720 --> 01:12:00.360
+que você
+
+01:12:00.360 --> 01:12:01.320
+a diferença do bricks,
+
+01:12:01.320 --> 01:12:01.800
+eu não sei
+
+01:12:01.800 --> 01:12:02.360
+se no colávio,
+
+01:12:02.360 --> 01:12:02.920
+você consegue
+
+01:12:02.920 --> 01:12:03.160
+rodar
+
+01:12:03.160 --> 01:12:03.880
+já a paix-parque.
+
+01:12:03.880 --> 01:12:04.600
+Eu nunca ter esse tempo.
+
+01:12:05.160 --> 01:12:05.880
+Mas no bricks,
+
+01:12:05.880 --> 01:12:06.520
+você já vem
+
+01:12:06.520 --> 01:12:07.800
+com o paix-parque instalada.
+
+01:12:07.800 --> 01:12:08.600
+Então, você consegue
+
+01:12:08.600 --> 01:12:09.880
+fazer uma limpação de dados.
+
+01:12:10.440 --> 01:12:11.320
+Em paix-parque,
+
+01:12:11.320 --> 01:12:12.360
+vai lear pena com esse,
+
+01:12:12.360 --> 01:12:12.760
+para quem
+
+01:12:12.760 --> 01:12:13.720
+tem ter esse
+
+01:12:15.480 --> 01:12:16.840
+amento e em autongivore.
+
+01:12:16.840 --> 01:12:17.720
+Eu gostaria de
+
+01:12:17.720 --> 01:12:19.000
+muito alto.
+
+01:12:19.720 --> 01:12:20.360
+E não,
+
+01:12:20.360 --> 01:12:21.480
+paix-parque é incrível,
+
+01:12:21.480 --> 01:12:21.640
+assim.
+
+01:12:21.640 --> 01:12:22.920
+Eu já peguei alguns processos
+
+01:12:22.920 --> 01:12:24.120
+que empandas
+
+01:12:24.120 --> 01:12:25.480
+demoravam
+
+01:12:25.480 --> 01:12:26.520
+dez horas.
+
+01:12:26.520 --> 01:12:27.640
+Era uma limpação de dados
+
+01:12:27.640 --> 01:12:28.120
+gigantes,
+
+01:12:28.120 --> 01:12:29.960
+em um junho de dados
+
+01:12:29.960 --> 01:12:30.680
+e mais de três
+
+01:12:30.680 --> 01:12:31.400
+milhões de linhas.
+
+01:12:32.200 --> 01:12:32.760
+E quando a gente
+
+01:12:32.760 --> 01:12:33.640
+jogou para paix-parque
+
+01:12:33.640 --> 01:12:34.760
+caíra para tipo 30
+
+01:12:34.760 --> 01:12:35.400
+20 minutos.
+
+01:12:35.960 --> 01:12:36.600
+Então,
+
+01:12:36.600 --> 01:12:38.040
+é realmente
+
+01:12:38.040 --> 01:12:38.680
+absurdo
+
+01:12:38.680 --> 01:12:39.480
+se o ganho que vocês
+
+01:12:39.480 --> 01:12:39.720
+tem,
+
+01:12:39.720 --> 01:12:40.680
+quando vocês estão trabalhando
+
+01:12:40.680 --> 01:12:41.160
+com o processo
+
+01:12:41.160 --> 01:12:41.720
+meio paralelo.
+
+01:12:43.320 --> 01:12:43.880
+Mas assim,
+
+01:12:43.880 --> 01:12:44.600
+muitas vezes também
+
+01:12:44.600 --> 01:12:45.480
+a gente tem aquela,
+
+01:12:45.480 --> 01:12:46.360
+a gente não precisa
+
+01:12:46.360 --> 01:12:48.040
+montar toda essa estrutura
+
+01:12:48.040 --> 01:12:48.600
+do pais-parque,
+
+01:12:48.600 --> 01:12:49.400
+sem esquecer a fazer uma
+
+01:12:49.400 --> 01:12:50.280
+operação simples.
+
+01:12:50.600 --> 01:12:51.400
+Uma coisa que a gente fala
+
+01:12:51.400 --> 01:12:52.760
+muito na programação,
+
+01:12:52.760 --> 01:12:53.720
+na tende geral,
+
+01:12:53.720 --> 01:12:54.680
+é você não precisa matar
+
+01:12:54.680 --> 01:12:55.800
+uma fúlmiga com o canão.
+
+01:12:56.520 --> 01:12:56.840
+Então,
+
+01:12:56.840 --> 01:12:58.120
+quando você tem um problema
+
+01:12:58.120 --> 01:12:58.680
+simples,
+
+01:12:58.680 --> 01:12:59.320
+se resolver,
+
+01:12:59.320 --> 01:13:00.040
+se não precisa usar
+
+01:13:00.040 --> 01:13:00.840
+algo muito complexo
+
+01:13:00.840 --> 01:13:01.640
+para se resolver.
+
+01:13:04.440 --> 01:13:04.840
+Agora,
+
+01:13:04.840 --> 01:13:05.560
+aqui um exemplo,
+
+01:13:05.560 --> 01:13:06.920
+na prática,
+
+01:13:06.920 --> 01:13:07.960
+a gente vai mostrar
+
+01:13:07.960 --> 01:13:09.560
+que um lupinativo
+
+01:13:09.560 --> 01:13:10.360
+do Python
+
+01:13:10.360 --> 01:13:11.560
+e uma função
+
+01:13:11.560 --> 01:13:13.240
+do um Python.
+
+01:13:13.560 --> 01:13:13.640
+Então,
+
+01:13:13.640 --> 01:13:14.520
+a função do um Python
+
+01:13:14.520 --> 01:13:15.640
+vai usar o S
+
+01:13:15.640 --> 01:13:16.080
+que é a
+
+01:13:16.080 --> 01:13:16.920
+em T,
+
+01:13:16.920 --> 01:13:17.720
+que é uma
+
+01:13:17.720 --> 01:13:18.280
+briviação
+
+01:13:18.280 --> 01:13:19.480
+para a Espoir Routes,
+
+01:13:19.480 --> 01:13:20.360
+que é
+
+01:13:20.360 --> 01:13:21.480
+ao quadrado,
+
+01:13:21.480 --> 01:13:21.880
+em dois,
+
+01:13:21.880 --> 01:13:22.920
+na Espoir Drada,
+
+01:13:23.480 --> 01:13:24.600
+e aqui a gente vai
+
+01:13:24.600 --> 01:13:25.880
+fazer a mesma coisa,
+
+01:13:25.880 --> 01:13:26.120
+né?
+
+01:13:26.120 --> 01:13:26.600
+A gente vai
+
+01:13:26.600 --> 01:13:27.880
+ele vai ao quadrado,
+
+01:13:27.880 --> 01:13:28.920
+o
+
+01:13:28.920 --> 01:13:30.120
+os valores
+
+01:13:30.120 --> 01:13:31.080
+usando
+
+01:13:31.080 --> 01:13:32.520
+o lupinativo do Python.
+
+01:13:33.640 --> 01:13:34.520
+Então, aqui eu vou usar
+
+01:13:34.520 --> 01:13:34.920
+também outro
+
+01:13:34.920 --> 01:13:35.560
+brilotecador
+
+01:13:35.560 --> 01:13:36.120
+do Python,
+
+01:13:36.120 --> 01:13:36.840
+que é arrandom.
+
+01:13:36.840 --> 01:13:37.400
+A gente consegue
+
+01:13:37.400 --> 01:13:37.960
+criar valores
+
+01:13:37.960 --> 01:13:38.680
+ali atores,
+
+01:13:40.200 --> 01:13:40.520
+então,
+
+01:13:40.520 --> 01:13:41.240
+aqui eu vou usar
+
+01:13:41.240 --> 01:13:41.720
+o método
+
+01:13:41.720 --> 01:13:42.360
+do randim,
+
+01:13:42.360 --> 01:13:43.240
+já é uma classe,
+
+01:13:43.240 --> 01:13:43.480
+né?
+
+01:13:43.480 --> 01:13:44.040
+Random,
+
+01:13:44.040 --> 01:13:44.920
+eu vou usar
+
+01:13:44.920 --> 01:13:45.320
+o método
+
+01:13:45.320 --> 01:13:45.800
+randim,
+
+01:13:45.800 --> 01:13:47.080
+que é
+
+01:13:47.080 --> 01:13:47.640
+ele já
+
+01:13:47.640 --> 01:13:48.120
+é um lupinove
+
+01:13:48.120 --> 01:13:48.680
+ao elatório
+
+01:13:48.680 --> 01:13:49.480
+inteiro,
+
+01:13:49.480 --> 01:13:50.360
+por isso o randim.
+
+01:13:51.000 --> 01:13:51.480
+E aqui eu vou
+
+01:13:51.480 --> 01:13:51.960
+botar
+
+01:13:51.960 --> 01:13:52.280
+o lupinove
+
+01:13:52.280 --> 01:13:52.680
+ao elatório
+
+01:13:52.680 --> 01:13:53.000
+inteiro,
+
+01:13:53.000 --> 01:13:53.320
+entre o
+
+01:13:53.320 --> 01:13:53.720
+muistem,
+
+01:13:55.000 --> 01:13:55.320
+e o
+
+01:13:55.320 --> 01:13:55.880
+saze,
+
+01:13:55.880 --> 01:13:56.520
+primeiro,
+
+01:13:56.520 --> 01:13:56.680
+né?
+
+01:13:56.680 --> 01:13:57.160
+O
+
+01:13:57.160 --> 01:13:58.120
+o dia de comesta?
+
+01:13:59.000 --> 01:13:59.960
+O dia de termina,
+
+01:13:59.960 --> 01:14:00.120
+né?
+
+01:14:00.120 --> 01:14:00.520
+Os valores
+
+01:14:00.520 --> 01:14:01.000
+alatores,
+
+01:14:01.000 --> 01:14:01.320
+eu quero que
+
+01:14:01.320 --> 01:14:01.560
+tem
+
+01:14:01.560 --> 01:14:02.440
+pode ser enzer
+
+01:14:02.440 --> 01:14:02.600
+em um,
+
+01:14:02.600 --> 01:14:03.080
+mas aqui eu vou
+
+01:14:03.080 --> 01:14:03.480
+celerar um
+
+01:14:03.480 --> 01:14:03.720
+e sem,
+
+01:14:05.080 --> 01:14:05.880
+e o tamanho.
+
+01:14:05.880 --> 01:14:06.120
+Então,
+
+01:14:06.120 --> 01:14:06.760
+aqui o saze
+
+01:14:06.760 --> 01:14:07.160
+eu vou criar
+
+01:14:07.160 --> 01:14:08.920
+um ilhão de valores alatores.
+
+01:14:08.920 --> 01:14:09.760
+E seguir
+
+01:14:09.760 --> 01:14:10.520
+só o jogo ali
+
+01:14:10.520 --> 01:14:10.760
+isso aqui
+
+01:14:10.760 --> 01:14:11.800
+para um gata freio.
+
+01:14:12.760 --> 01:14:13.000
+Então,
+
+01:14:13.000 --> 01:14:13.960
+que eu tenho data freio
+
+01:14:13.960 --> 01:14:15.000
+como a colombia de valores
+
+01:14:15.000 --> 01:14:15.480
+e,
+
+01:14:15.480 --> 01:14:16.120
+ou melhor,
+
+01:14:16.120 --> 01:14:16.680
+o melhor
+
+01:14:16.680 --> 01:14:17.560
+de valores alatores
+
+01:14:17.560 --> 01:14:18.360
+entre o e cê.
+
+01:14:19.640 --> 01:14:20.280
+Aqui eu vou
+
+01:14:20.280 --> 01:14:20.920
+marcar
+
+01:14:20.920 --> 01:14:21.560
+o time,
+
+01:14:21.560 --> 01:14:21.720
+né?
+
+01:14:21.720 --> 01:14:22.760
+Outro biblioteca?
+
+01:14:22.760 --> 01:14:23.320
+Eu vou marcar
+
+01:14:23.320 --> 01:14:24.440
+o tempo de início.
+
+01:14:26.040 --> 01:14:26.600
+Eu vou fazer
+
+01:14:26.600 --> 01:14:27.800
+operação,
+
+01:14:27.800 --> 01:14:28.600
+certo?
+
+01:14:29.400 --> 01:14:29.800
+Então,
+
+01:14:29.800 --> 01:14:31.000
+usando um pai,
+
+01:14:31.000 --> 01:14:32.040
+então eu vou chamar um
+
+01:14:32.040 --> 01:14:33.000
+pai square,
+
+01:14:33.560 --> 01:14:34.280
+aqui eu botei
+
+01:14:34.280 --> 01:14:34.840
+a esquerda
+
+01:14:34.840 --> 01:14:35.320
+o square,
+
+01:14:35.320 --> 01:14:35.480
+tá,
+
+01:14:35.480 --> 01:14:36.440
+o boterra.
+
+01:14:36.600 --> 01:14:37.280
+É,
+
+01:14:37.280 --> 01:14:37.680
+a esquerda
+
+01:14:37.680 --> 01:14:38.040
+é escudrar
+
+01:14:38.040 --> 01:14:39.040
+a escudrar
+
+01:14:39.040 --> 01:14:39.760
+a escudrar
+
+01:14:39.760 --> 01:14:40.760
+a escudrar.
+
+01:14:40.760 --> 01:14:41.480
+Aqui o square
+
+01:14:41.480 --> 01:14:42.120
+então eu vou pegar
+
+01:14:42.120 --> 01:14:42.280
+ele,
+
+01:14:42.280 --> 01:14:43.000
+e vai alpatrar
+
+01:14:43.000 --> 01:14:43.720
+todos os valores
+
+01:14:43.720 --> 01:14:44.760
+da colombia de valores.
+
+01:14:44.760 --> 01:14:45.400
+Seis cegredo
+
+01:14:45.400 --> 01:14:46.000
+a perseguida
+
+01:14:46.000 --> 01:14:46.680
+o marco de novo
+
+01:14:46.680 --> 01:14:47.800
+tempo usando o time, né?
+
+01:14:47.800 --> 01:14:48.600
+Se aquele
+
+01:14:48.600 --> 01:14:49.080
+pega
+
+01:14:49.080 --> 01:14:49.800
+que cria uma
+
+01:14:49.800 --> 01:14:50.120
+uma time
+
+01:14:50.120 --> 01:14:51.000
+sempre que a gente chama
+
+01:14:51.000 --> 01:14:51.240
+tá
+
+01:14:51.240 --> 01:14:51.520
+estempa
+
+01:14:51.520 --> 01:14:51.960
+com o seu
+
+01:14:51.960 --> 01:14:52.840
+mano
+
+01:14:52.840 --> 01:14:53.000
+um
+
+01:14:53.000 --> 01:14:53.720
+cil
+
+01:14:53.720 --> 01:14:54.320
+uma
+
+01:14:54.320 --> 01:14:55.240
+a hora completa
+
+01:14:55.240 --> 01:14:55.960
+aqui.
+
+01:14:55.960 --> 01:14:56.360
+Então, aquele
+
+01:14:56.360 --> 01:14:56.600
+pego
+
+01:14:56.600 --> 01:14:57.080
+a hora
+
+01:14:57.080 --> 01:14:57.560
+vai pegar ali
+
+01:14:57.560 --> 01:14:58.280
+a exatamente
+
+01:14:58.280 --> 01:14:58.640
+dezenove
+
+01:14:58.640 --> 01:14:59.560
+com a 86
+
+01:14:59.560 --> 01:14:59.920
+só que ele
+
+01:14:59.920 --> 01:15:00.440
+pega até
+
+01:15:00.440 --> 01:15:01.480
+os nanos segundos.
+
+01:15:01.480 --> 01:15:01.720
+Então,
+
+01:15:01.720 --> 01:15:02.120
+ele vai pegar
+
+01:15:02.120 --> 01:15:02.360
+a 99
+
+01:15:02.360 --> 01:15:03.200
+com a 86
+
+01:15:03.200 --> 01:15:04.280
+que segundo os
+
+01:15:04.280 --> 01:15:05.440
+os 8.000 segundos
+
+01:15:05.440 --> 01:15:06.200
+para 6 lá
+
+01:15:06.200 --> 01:15:06.880
+o tempo esato
+
+01:15:06.880 --> 01:15:07.280
+da próxima
+
+01:15:07.280 --> 01:15:07.960
+do procedimento
+
+01:15:07.960 --> 01:15:09.320
+no seu computador.
+
+01:15:09.320 --> 01:15:09.720
+E aqui
+
+01:15:09.720 --> 01:15:11.240
+ele vai pegar de novo.
+
+01:15:11.240 --> 01:15:12.360
+Só que ele vai fazer
+
+01:15:12.360 --> 01:15:12.960
+o tempo
+
+01:15:12.960 --> 01:15:13.800
+daquele momento
+
+01:15:13.800 --> 01:15:14.920
+menos o tempo inicial,
+
+01:15:14.920 --> 01:15:15.480
+né?
+
+01:15:15.480 --> 01:15:15.640
+Aí,
+
+01:15:15.640 --> 01:15:16.120
+com o código
+
+01:15:16.120 --> 01:15:16.360
+que a gente vai
+
+01:15:16.360 --> 01:15:16.720
+que seguir
+
+01:15:16.720 --> 01:15:17.240
+meio com o tempo
+
+01:15:17.240 --> 01:15:17.680
+durou
+
+01:15:17.680 --> 01:15:18.080
+para fazer
+
+01:15:18.080 --> 01:15:19.720
+essa operação.
+
+01:15:20.840 --> 01:15:21.320
+Em seguida,
+
+01:15:21.320 --> 01:15:21.520
+a gente vai
+
+01:15:21.520 --> 01:15:22.640
+fazer a mesma coisa
+
+01:15:22.640 --> 01:15:23.240
+só usando
+
+01:15:23.240 --> 01:15:23.600
+que o liste
+
+01:15:23.600 --> 01:15:24.200
+com o pre-rente
+
+01:15:24.200 --> 01:15:25.400
+então a gente
+
+01:15:25.400 --> 01:15:25.920
+vai criar
+
+01:15:25.920 --> 01:15:26.640
+uma nova colombia
+
+01:15:26.640 --> 01:15:26.960
+valores
+
+01:15:26.960 --> 01:15:27.440
+quadrado
+
+01:15:27.440 --> 01:15:28.440
+do loop, né?
+
+01:15:28.440 --> 01:15:28.840
+A gente
+
+01:15:28.840 --> 01:15:29.360
+atribuiu
+
+01:15:29.360 --> 01:15:29.600
+como
+
+01:15:29.600 --> 01:15:30.040
+não pai
+
+01:15:30.040 --> 01:15:30.360
+a gente vai
+
+01:15:30.360 --> 01:15:30.640
+criar
+
+01:15:30.640 --> 01:15:31.000
+agora uma
+
+01:15:31.000 --> 01:15:31.680
+valores quadrado
+
+01:15:31.680 --> 01:15:32.680
+do loop
+
+01:15:32.680 --> 01:15:33.200
+onde a gente
+
+01:15:33.200 --> 01:15:35.480
+vai levar o quadrado
+
+01:15:35.480 --> 01:15:37.040
+cada x
+
+01:15:37.040 --> 01:15:37.280
+então
+
+01:15:37.280 --> 01:15:39.600
+para cada valor
+
+01:15:39.600 --> 01:15:40.560
+a gente vai levar
+
+01:15:40.560 --> 01:15:42.240
+de bf valores, né?
+
+01:15:42.240 --> 01:15:43.440
+A mesma coluna
+
+01:15:43.440 --> 01:15:44.200
+a gente vai levar
+
+01:15:44.200 --> 01:15:45.440
+aquele valor ao quadrado.
+
+01:15:45.440 --> 01:15:46.600
+A mesma coisa que a gente fez aqui
+
+01:15:46.600 --> 01:15:47.040
+sim, né?
+
+01:15:47.040 --> 01:15:48.560
+Só de outra forma
+
+01:15:48.560 --> 01:15:49.280
+aqui usando
+
+01:15:49.280 --> 01:15:50.280
+o loop na ativa do pai
+
+01:15:50.280 --> 01:15:51.120
+para através do
+
+01:15:51.120 --> 01:15:53.520
+o liste com o pre-rente.
+
+01:15:53.520 --> 01:15:54.160
+E aqui a gente
+
+01:15:54.160 --> 01:15:54.960
+faz a mesma coisa, né?
+
+01:15:54.960 --> 01:15:55.280
+De pergo
+
+01:15:55.280 --> 01:15:55.400
+tá em um time
+
+01:15:55.400 --> 01:15:57.160
+sempre no final
+
+01:15:57.160 --> 01:15:57.720
+e isso
+
+01:15:57.720 --> 01:15:58.040
+de trás
+
+01:15:58.040 --> 01:15:58.400
+pra o time
+
+01:15:58.400 --> 01:16:00.040
+sempre no começo.
+
+01:16:00.040 --> 01:16:00.520
+Olha aqui
+
+01:16:00.520 --> 01:16:01.640
+os resultados, pessoal.
+
+01:16:02.600 --> 01:16:03.080
+O time
+
+01:16:03.080 --> 01:16:03.640
+tem
+
+01:16:04.360 --> 01:16:04.840
+o tempo
+
+01:16:04.840 --> 01:16:05.480
+com o no pai
+
+01:16:05.480 --> 01:16:05.600
+né,
+
+01:16:05.600 --> 01:16:06.040
+que a gente chama
+
+01:16:06.040 --> 01:16:07.000
+de vetorizada.
+
+01:16:07.640 --> 01:16:08.280
+Ele durou
+
+01:16:08.280 --> 01:16:11.200
+0.009 segundos.
+
+01:16:11.840 --> 01:16:12.400
+Então se consegue
+
+01:16:12.400 --> 01:16:12.880
+entender
+
+01:16:12.880 --> 01:16:14.720
+do que a 0.009 segundos
+
+01:16:14.720 --> 01:16:15.640
+não dá pra ter
+
+01:16:15.640 --> 01:16:16.440
+ideia.
+
+01:16:16.440 --> 01:16:17.240
+A gente
+
+01:16:17.240 --> 01:16:17.680
+bumano
+
+01:16:17.680 --> 01:16:18.640
+não consegue
+
+01:16:18.640 --> 01:16:19.560
+processar
+
+01:16:19.560 --> 01:16:19.880
+isso.
+
+01:16:19.880 --> 01:16:20.880
+É muito rápido.
+
+01:16:21.360 --> 01:16:22.720
+Agora 0.7
+
+01:16:22.720 --> 01:16:23.160
+já dá
+
+01:16:23.160 --> 01:16:23.520
+né?
+
+01:16:23.520 --> 01:16:24.360
+0.7
+
+01:16:24.360 --> 01:16:24.840
+por exemplo
+
+01:16:24.840 --> 01:16:25.320
+numa corrida
+
+01:16:25.320 --> 01:16:26.000
+de 100 metros
+
+01:16:26.000 --> 01:16:26.360
+é um
+
+01:16:26.360 --> 01:16:27.120
+e uma diferença
+
+01:16:27.120 --> 01:16:28.120
+agritante.
+
+01:16:28.520 --> 01:16:28.840
+E é
+
+01:16:28.840 --> 01:16:29.520
+isso que o loop
+
+01:16:29.520 --> 01:16:30.320
+demora.
+
+01:16:30.320 --> 01:16:30.520
+Então
+
+01:16:30.520 --> 01:16:32.280
+o loop demora 0.7
+
+01:16:32.280 --> 01:16:33.120
+por exemplo
+
+01:16:33.120 --> 01:16:34.480
+que é uma sobre a outra
+
+01:16:34.480 --> 01:16:35.440
+isso dá
+
+01:16:35.440 --> 01:16:36.320
+70
+
+01:16:36.320 --> 01:16:36.880
+e 1
+
+01:16:36.880 --> 01:16:37.840
+vezes mais rápido
+
+01:16:37.840 --> 01:16:38.880
+com um pai.
+
+01:16:38.880 --> 01:16:40.080
+Então
+
+01:16:40.080 --> 01:16:40.960
+esse é o poder
+
+01:16:40.960 --> 01:16:41.080
+né?
+
+01:16:41.080 --> 01:16:41.560
+Então
+
+01:16:41.560 --> 01:16:42.400
+aqui
+
+01:16:42.400 --> 01:16:42.880
+por exemplo
+
+01:16:42.880 --> 01:16:43.800
+tá fazendo exatamente
+
+01:16:43.800 --> 01:16:44.360
+o que eu falei
+
+01:16:44.360 --> 01:16:45.760
+que o o exéu faz.
+
+01:16:45.760 --> 01:16:47.120
+Cêu laceu.
+
+01:16:47.120 --> 01:16:47.760
+Então ele faz
+
+01:16:47.760 --> 01:16:48.520
+operação
+
+01:16:48.520 --> 01:16:49.360
+operação.
+
+01:16:49.360 --> 01:16:50.360
+Nunca não.
+
+01:16:50.360 --> 01:16:51.120
+Ele transforma
+
+01:16:51.120 --> 01:16:51.720
+que um
+
+01:16:51.720 --> 01:16:52.200
+e uma matriz
+
+01:16:52.200 --> 01:16:53.560
+ao Rio Grande e a Arne
+
+01:16:53.560 --> 01:16:54.320
+ele transforma
+
+01:16:54.320 --> 01:16:54.480
+uma
+
+01:16:54.480 --> 01:16:54.840
+3
+
+01:16:54.840 --> 01:16:55.160
+muito pica
+
+01:16:55.160 --> 01:16:55.760
+aquela matriz
+
+01:16:55.760 --> 01:16:56.240
+e já transforma
+
+01:16:56.240 --> 01:16:57.000
+os resultados.
+
+01:16:57.000 --> 01:16:57.720
+Então
+
+01:16:57.720 --> 01:16:58.240
+7
+
+01:16:58.240 --> 01:16:58.560
+é 1
+
+01:16:58.560 --> 01:16:59.840
+vezes mais rápido.
+
+01:17:00.080 --> 01:17:00.780
+Então
+
+01:17:00.780 --> 01:17:01.200
+nós procurem
+
+01:17:01.200 --> 01:17:02.960
+a precisar aprender o ouro o pai.
+
+01:17:02.960 --> 01:17:03.220
+Não, o
+
+01:17:03.220 --> 01:17:03.880
+o Panda
+
+01:17:03.880 --> 01:17:04.900
+e quer que antes ng steam
+
+01:17:04.900 --> 01:17:05.060
+do o mundo
+
+01:17:05.060 --> 01:17:05.860
+no pai
+
+01:17:05.860 --> 01:17:06.260
+e
+
+01:17:06.260 --> 01:17:07.680
+se não quer fazer
+
+01:17:07.680 --> 01:17:07.860
+oio
+
+01:17:07.860 --> 01:17:08.660
+paia
+
+01:17:08.660 --> 01:17:09.160
+quando
+
+01:17:09.160 --> 01:17:09.360
+ele é
+
+01:17:09.360 --> 01:17:09.800
+então
+
+01:17:09.800 --> 01:17:10.740
+eficais
+
+01:17:10.740 --> 01:17:11.840
+computacionalmente.
+
+01:17:11.840 --> 01:17:12.460
+Então
+
+01:17:12.840 --> 01:17:13.400
+o Pantly
+
+01:17:13.400 --> 01:17:14.040
+para trabalhar com
+
+01:17:14.040 --> 01:17:14.840
+junto de dados
+
+01:17:14.840 --> 01:17:15.660
+2
+
+01:17:15.660 --> 01:17:15.960
+3
+
+01:17:15.960 --> 01:17:17.100
+quatro nos dados
+
+01:17:17.760 --> 01:17:18.620
+o problema
+
+01:17:18.640 --> 01:17:19.240
+da ele face no
+
+01:17:19.240 --> 01:17:20.700
+interesse
+
+01:17:20.700 --> 01:17:21.800
+e muitas operações.
+
+01:17:21.800 --> 01:17:22.660
+Então
+
+01:17:22.660 --> 01:17:28.000
+inc stating
+
+01:17:28.000 --> 01:17:30.700
+está em parte que é o processamento paralelo.
+
+01:17:30.700 --> 01:17:35.760
+Mas o plano de você que fala, pessoal, ele vai resolver 90% do que os seus problemas.
+
+01:17:35.760 --> 01:17:40.460
+Eu já trabalhei com engeros de dados que que ele pegava para a frente de 1000 minhas e fazemos a
+
+01:17:40.460 --> 01:17:41.940
+manipulação e para a esparra.
+
+01:17:41.940 --> 01:17:44.360
+E aí, se você chega a falar, cara, se não precisa.
+
+01:17:44.360 --> 01:17:48.660
+Você está tipo matando a fundo, e eu canhão milíris, quando daqui resolvem
+
+01:17:48.660 --> 01:17:51.120
+dar pontos 0,00, 0,00 segundos.
+
+01:17:51.120 --> 01:17:57.200
+Então, essa ideia é porque ele rolna esteima do não par.
+
+01:17:57.560 --> 01:18:02.940
+Acho que deu para ter uma ideia, pessoal, do hoje aqui, mais geral, das manipulações
+
+01:18:02.940 --> 01:18:07.100
+amançadas, conseguimos matar tudo.
+
+01:18:07.100 --> 01:18:09.320
+Ficou alguma dúvida, pessoal?
+
+01:18:09.320 --> 01:18:15.040
+Obrigado por ter vindo aqui hoje, nessa quinta fecha, estiver alguma dúvida só chamar.
+
+01:18:15.040 --> 01:18:17.040
+Também quiser impender um tal.
+
+01:18:17.040 --> 01:18:23.760
+E aí, esse então, boa noite, boa quinta fecha, a gente que está feira para todos.
+
+01:18:24.120 --> 01:18:29.680
+Boa sexta também, boa semana que a gente não se vê e até semana que vem.
+
+01:18:29.680 --> 01:18:33.760
+Então, eu não sei direito quando vai ser com o programa de Natal, tal vou pedir para
+
+01:18:33.760 --> 01:18:38.560
+a priori que eu começo a vocês, então, não conversa com ela, mas assim que a gente
+
+01:18:38.560 --> 01:18:43.120
+estiver definida em te mando lá no Discord.
+
+01:18:43.120 --> 01:18:46.480
+Então, é isso, pessoal, valeu, boa noite.
+
+01:18:46.480 --> 01:18:49.880
+Pus puderém avaliá-lo aqui depois, quando a gente iserrar.
+
+01:18:49.960 --> 01:18:54.520
+Agradeço muito, ajuda muito a gente e é isso, obrigado, boa noite.
+
+01:18:54.520 --> 01:18:57.520
+Valeu, Bruno, boa noite.
+

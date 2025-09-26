@@ -1,0 +1,3281 @@
+WEBVTT
+
+10:00.000 --> 10:07.400
+B ocela
+
+10:16.080 --> 10:22.300
+acabou assim
+
+10:25.300 --> 10:27.040
+inho na tal
+
+10:27.040 --> 10:33.240
+Tudo mundo já com a família, reunida para a gente se indiano ou não, ou
+
+10:33.240 --> 10:36.400
+as versasinho também, com o PSA vida.
+
+10:36.400 --> 10:41.360
+Esporta gente a gente passar a fim de ano com o Espírito de Natal, pensando em que a gente gosta.
+
+10:41.360 --> 10:49.040
+E também fazendo com a gente que é para o nosso futuro, porque não, também, falam um pouquinho de dados.
+
+10:49.040 --> 10:56.680
+E hoje, a gente tem o nosso último último book aqui, do último desculpa atividade prática.
+
+10:56.680 --> 11:03.080
+Da Esprint 3, então a gente vai seguir hoje, principalmente na manipulações de dados avançadas.
+
+11:03.080 --> 11:09.320
+Então, a gente vai fazer atividades para as reservas sonadas ao que a gente viu na loteórica de que interfere.
+
+11:09.320 --> 11:15.160
+Então, na que a gente tem a gente viu a gente fez uma loteórica, a gente falou bastante sobre manipulações de dados avançadas.
+
+11:15.160 --> 11:17.080
+E hoje, a gente vai trazer elas na prática.
+
+11:17.080 --> 11:19.640
+Então, a gente vai fazer essas manipulações de dados.
+
+11:19.640 --> 11:25.800
+A gente vai novamente usar aquilo colab, vou até ligar ele aqui, para a gente usar o longo da aula.
+
+11:25.880 --> 11:27.400
+Então, aumentada.
+
+11:27.400 --> 11:34.600
+E aí, daí hoje, eu usalpando os que a nossa principal ferramenta de manipulações de dados ali, adorando um pai,
+
+11:34.600 --> 11:36.760
+que a gente vai fazer algumas operações com ele.
+
+11:36.760 --> 11:43.000
+Mas também, eu vou mostrar para vocês uma forma de indicar a regardados, que a gente vai usar bastante que não go de tempo.
+
+11:43.000 --> 11:45.400
+Com o C-born, então, que é o C-born.
+
+11:45.400 --> 11:49.160
+O C-born é uma biblioteca para análise básicamente estatística de dados.
+
+11:49.160 --> 11:54.120
+Então, ele também tem também gráficos, mas são gráficos mais voltados para análise estatísticas.
+
+11:54.440 --> 11:59.960
+Então, ele é construído em cima da gente pode livre, mas ele traz uma análise estatísticas ali,
+
+12:01.160 --> 12:04.440
+visuais já voltadas para análise de dados.
+
+12:04.840 --> 12:11.800
+Então, essa é uma vantagem do C-born, e ele tem um método dentro deste lado, de data set, que ele já traz da data set carregados.
+
+12:11.800 --> 12:14.760
+Então, isso é muito bom, e são data set bons para a gente mostrar.
+
+12:14.760 --> 12:17.400
+Eles estão a gente as manipulações avançadas, que a gente vai trazer hoje.
+
+12:18.840 --> 12:21.000
+Então, aqui, primeiro passo, vamos rodar isso.
+
+12:21.080 --> 12:25.640
+E a gente basta trazer, longe da data set, a gente passa para a gente stringe com o longo data set, que a gente tem.
+
+12:27.400 --> 12:31.800
+Então, aqui, a gente tem um parâmetro de chips, que é a Prundata set de gorjetas, o parâmetro.
+
+12:33.320 --> 12:41.240
+Se a esse que é a Prundata set de gelo e para o método taxis, que é para um data set de viagens de taxes.
+
+12:41.240 --> 12:45.400
+Então, vamos ver como é que fica cada um desses, que é o três-seguimento que é o meu rapigenco.
+
+12:46.360 --> 12:52.920
+O de gorjetas, que a gente tem total da conta, uma coluna de gorjeta, o sexo masculino feminino,
+
+12:52.920 --> 13:00.120
+o seu pessoal é fumante ou não, o dia da semana, na esçã, deimanda em inglês, o tempo, na era moço, o café da maior gigantar.
+
+13:00.920 --> 13:05.640
+O tamanho, provavelmente, era número de pessoas na mesa, e é isso que tem aqui no gorjetas.
+
+13:07.000 --> 13:12.280
+Vamos morirado no info, não tem nenhum valor faltante, aparentemente, são uns uns uns 44,
+
+13:12.520 --> 13:16.360
+colunas, uns 44 linhas, então, a gente tem aqui, uns 44 linhas de gorjetas.
+
+13:17.080 --> 13:21.880
+E, é isso, né, a gente tem 4 variables categoricas, boas variáveis, por último, uma variável inteira,
+
+13:21.880 --> 13:28.760
+que é aqui, noiro de pessoas a inteiras, por último, são total da conta de gorjetas, e as categoricas são essas quatro aqui.
+
+13:31.000 --> 13:41.240
+Em beleza da molyada, no describe, aqui a gente tem o total da conta, né, a média de 20 dólares, por conta,
+
+13:41.240 --> 13:47.320
+uns iupadrão ali de 8 dólares, o mínimo de 3 dólares, a conta mais barata, então, deu 3 dólares,
+
+13:47.320 --> 13:53.160
+com nossa mediana, foi em 17, então, o próximo da média, e a conta mais favorable, deu 50 dólares.
+
+13:54.760 --> 13:59.720
+Ora, falando de gorjetas, a gorjeta média foi 3 dólares, então, ali, de 15%,
+
+13:59.720 --> 14:07.080
+na United States, em 19,5%, ao padrão, uns iupadrão de 18, 8, o gorjeta mínimo foi 1 dólares,
+
+14:07.240 --> 14:13.000
+hoje, é uma máxima 10 dólares. Então, aqui, o tamanho, né, o saiz, o quantidade de pessoas,
+
+14:13.000 --> 14:19.240
+a média, 2 pontos, com 66 pessoas por mesa, quando os iupadrão de 19,5, ali, o mínimo era 1 pessoa,
+
+14:21.400 --> 14:29.560
+o máximo era 6 pessoas no mês. Então, beleza, agora, vamos ver o taxi, acho que a gente não tem ele aqui,
+
+14:29.560 --> 14:36.760
+vamos mostrar carinha dele. O taxi se é esse aqui, então, a gente tem a data da...
+
+14:36.760 --> 14:41.400
+E a pessoa foi pega a data da entrega, na data que ela foi que chegou, no mês de passageiros,
+
+14:41.400 --> 14:46.280
+a distância, e per... é o custo daquela viagem, tipo, gorjeta, toça, no ingresso,
+
+14:46.280 --> 14:52.200
+onde o tuputarífas adicionais, total, né, o valor total, somando esses 3,5 anos no maery,
+
+14:52.200 --> 14:57.240
+que o secorro do taxi, o tipo de pagamento azul, na então, a região do bairro,
+
+14:57.240 --> 15:06.280
+né, do que foi a coleto, bairro da entrega, na desculpa, a zona da entrega, zona da coleto, da entrega,
+
+15:06.280 --> 15:10.760
+e o bairro da entrega da entrega da coleto, aqui, marata, então, o índice Bronx,
+
+15:10.760 --> 15:16.040
+tiver que fulsar os bordos, os distritos de Nova York.
+
+15:17.880 --> 15:24.120
+Dando um discréi, me, olha aqui que legal, quando a coluna tá com tipo de data,
+
+15:25.080 --> 15:29.960
+a média, ela traz justamente o ponto, ponto média da data, né, então, dos esses 6 do 3 ali,
+
+15:30.760 --> 15:34.040
+então, aqui, para a entrega, esses 6 do 3, 2019.
+
+15:34.040 --> 15:38.200
+Aqui a gente vê, né, é o mínimo, a primeira data foi 28 de 12, e a última data foi,
+
+15:38.200 --> 15:44.360
+tem um do novo, pela data sim, dá pra ver, que foi basicamente as viagens de...
+
+15:45.480 --> 15:48.840
+março, né, provavelmente as viagens de março, de...
+
+15:48.840 --> 15:54.920
+ouzeais que foram encerradas, ouzeais que até as viagens que começaram em março de 2019,
+
+15:55.320 --> 15:59.560
+a gente tem aqui, para entrega isso também, e tinha o último viagem que acabou,
+
+15:59.560 --> 16:04.440
+em abril, mas é isso, é, provavelmente, são as viagens de março de 2019.
+
+16:06.120 --> 16:10.520
+No último passageiro, dá mais de 1,5,5,3, o máximo 6,5,5,5,5,5,
+
+16:10.520 --> 16:14.840
+provavelmente era aqueles escados maiores, né, a distância, a gente teve aqui distância zero,
+
+16:14.840 --> 16:19.240
+ele, provavelmente, tem alguma coisa errada, né, aqui, mais enfim.
+
+16:19.240 --> 16:24.200
+50% a mediana, aqui, então, 1,64 quilômetros, a média 3,12,
+
+16:24.200 --> 16:26.920
+a gente fica que já tem... é uma instrução, provavelmente, da mente,
+
+16:26.920 --> 16:31.320
+deitas as suas longas, né, exatamente, e aqui, a gente veio 37 quilômetros.
+
+16:31.320 --> 16:34.760
+E o custo foi média 13 dólares,
+
+16:35.400 --> 16:42.840
+os 50% aqui, em nove, 50 e o máximo 150, né, a viagem mais cara foi 150 dólares.
+
+16:42.840 --> 16:47.800
+Então, a gorjeta aqui, máximo 33 dólares, a mínima nada,
+
+16:47.800 --> 16:53.880
+e o total, a viagem mais cara, saiu 100,7,4 dólares no total.
+
+16:56.200 --> 17:00.440
+Então, é isso, né, do taxi, e agora vamos ver o siai, esse, né, bom,
+
+17:00.440 --> 17:03.240
+a gente dá uma olhadinha, ele também, que a gente vai trabalhar com ele também.
+
+17:03.240 --> 17:08.120
+E o siai está um data sete bem simples, o boté de gelo, né,
+
+17:08.520 --> 17:14.200
+o gelão dá até 6 bem simples, ele tem somente a data,
+
+17:14.200 --> 17:22.760
+aqui, a data, basicamente, tem uma linha para cada data, desde 1980 até o finalzinho de 2019.
+
+17:22.760 --> 17:26.800
+E é existente, é, a quantidade de gelo, enfim, de gelo,
+
+17:26.800 --> 17:29.560
+nas perfeícias do mar na planta terra.
+
+17:29.560 --> 17:33.400
+Então, a gente vai ver algum grudo tempo como flutou, então, ele tem somente luz,
+
+17:33.400 --> 17:36.960
+duas colunas, esta data, franho, né, a data, e a quantidade de gelo,
+
+17:36.960 --> 17:42.960
+um planta terra. Então, durante o valor dele, é as 13 milinhas que são 13 mil dias ao longo desse
+
+17:42.960 --> 17:48.320
+tempo, e ele tem justamente a quantidade de gelo, para cada um de de esses gelos,
+
+17:48.320 --> 17:52.800
+a gente consegue analisar o comportamento do gelo, na nosso perfil de mar da terra,
+
+17:52.800 --> 17:55.840
+longo desse, enfim, basicamente, 40 anos.
+
+17:57.120 --> 18:00.960
+Primeiro passo, lembra em que a gente viu como a gente pode usar funções
+
+18:00.960 --> 18:04.080
+para manipular com os notos de dados e automates a tarefa,
+
+18:04.080 --> 18:07.520
+que a gente vai fazer várias vezes. Então, vamos se pouca a gente tem esse data saída de
+
+18:07.520 --> 18:12.480
+gorjeta, e todo mês a gente faz uma manipulação ali, para clasificar o nível de
+
+18:12.480 --> 18:16.480
+gorjeta, né, então a gente vai pegar aqui, criar uma funçãozinho, para dizer se a gorjeta
+
+18:16.480 --> 18:19.600
+é alta, baixo, a média. Então, o que é que a gente vai fazer, a gente vai criar
+
+18:19.600 --> 18:23.680
+a função, chamar de clasque, agurgitas, ela vai receber um paramilito total
+
+18:23.680 --> 18:27.920
+bio, que é o valor total da conta, e a gente vai jogar aqui, se esse valor total,
+
+18:27.920 --> 18:35.440
+foi o maior do que 30, a gente vai retornar a auto, se ele foi entre 20 e 30, a gente vai retornar
+
+18:35.440 --> 18:42.240
+mais, se não, né, o else, que aqui, basicamente, é menor do que 20, ele vai retornar,
+
+18:42.240 --> 18:46.080
+baixo. Então, o que a gente faz, a gente vai aplicar, lembra que a gente botou o
+
+18:46.080 --> 18:50.400
+a gente, que se não como que faz o apply, não vai classificar a gorjeta, que o padrão do
+
+18:50.400 --> 18:55.360
+apply é botar no nível de coluna mesmo, e a gente vai passar a função classificar a
+
+18:55.360 --> 18:58.640
+gente, então, a gente vai criar uma nova coluna chamada nível gorjeta,
+
+18:58.640 --> 19:02.800
+a gente vai pegar a partir do total bio, então, o total bio ele vai entrar aqui,
+
+19:02.800 --> 19:06.320
+e vai ser a gente paramilita para a gente fazer esse classificação.
+
+19:06.320 --> 19:13.200
+Quando a gente fiativa aqui, olha o que acontece, já está classificado o nível daquela gorjeta.
+
+19:15.440 --> 19:18.160
+Próximo passo, agora vamos fazer aqui um abruparamento com as gorjetas,
+
+19:18.160 --> 19:24.480
+para ver como que elas compota uma um dos dias da semana, a gente tem aqui o dia,
+
+19:24.480 --> 19:27.360
+a gente botou o velho grupo a gorjetas, na das nossas outras pessoas,
+
+19:27.360 --> 19:31.360
+um gata frame com o jeito, esse tipo de velho grupo a pude, e não agregador,
+
+19:31.360 --> 19:35.040
+a gente vai pegar o total da conta, e do total a gente vai pegar a leção de
+
+19:35.040 --> 19:40.880
+lapação ali, se você vai pegar a média e a soma, e na gorjeta de tip,
+
+19:40.880 --> 19:45.840
+a gente vai pegar a soma, a contagem e a média. Então, olha essa
+
+19:45.840 --> 19:50.800
+clagal, a gente vai pegar a média e a soma do total bio, olha aqui,
+
+19:50.800 --> 19:53.360
+pude da semana, olha, pode ver que é uma gente no sábio de um domingo,
+
+19:53.360 --> 19:57.200
+as imagens das gorjetas são maiores. E a soma está lá,
+
+19:57.200 --> 19:59.680
+a gente pode ver que se esta feira, é o total,
+
+19:59.680 --> 20:04.880
+eu desculpa, o total do dos gorjetas, não, ele é maior,
+
+20:04.880 --> 20:07.920
+aqui a gente vem pela média, não sábio de um domingo, as gorjetas saem de
+
+20:07.920 --> 20:12.400
+277, vão para 2,993, 25, mas essa acontece também,
+
+20:12.400 --> 20:15.040
+porque as contas ficam as caras no final de semana,
+
+20:15.040 --> 20:19.440
+e a gente vê que pelo total, 87, 36 no final de semana,
+
+20:19.600 --> 20:24.320
+e 62,99, bem menos o volume, nos dias que não são final de semana.
+
+20:24.320 --> 20:26.400
+Então, aqui a gente já conseguiu fazer um agrupamento,
+
+20:26.400 --> 20:30.240
+e se a gente quiser se fazer um segundo agrupamento, eu poderia vim aqui no grupo P.
+
+20:30.240 --> 20:33.280
+Então, eu vou agrupar além do bem, eu vou botar por
+
+20:33.280 --> 20:35.600
+time.
+
+20:35.600 --> 20:39.360
+E olha o que acontece, ele agora pega por a moça e jantar,
+
+20:39.360 --> 20:41.920
+em um sábio da parentemente, não funciona o promosso,
+
+20:41.920 --> 20:44.960
+quando tem nenhuma entrada, a gente já descobri isso aqui agora.
+
+20:44.960 --> 20:46.720
+Mas a gente pode ver, eu quer se contas, do amor,
+
+20:46.720 --> 20:48.400
+vou sopar a gente mente na sexta,
+
+20:48.400 --> 20:51.040
+eu sou bem mais barato do que eu jantar.
+
+20:51.040 --> 20:55.040
+E na terça, bem parecido, apesar de só ter uma entrada aqui por jantar,
+
+20:55.040 --> 20:59.520
+então, estranho, que tem um jantar, um uma entrada por jantar na terça.
+
+20:59.520 --> 21:02.000
+Mas enfim, a isso que a gente consegue fazer com o web de pomens,
+
+21:02.000 --> 21:03.440
+a gente pode passar aqui dentro do grupo P.
+
+21:03.440 --> 21:05.680
+O que a gente quer botar no agrupamento,
+
+21:05.680 --> 21:07.120
+e seguir a gente faz o agregador,
+
+21:07.120 --> 21:10.000
+e mostrar o que a gente quer levar no agregador,
+
+21:10.000 --> 21:12.000
+e quais as funções que a gente quer levar para ela.
+
+21:12.000 --> 21:13.760
+Então, a gente dá a pica na média,
+
+21:13.760 --> 21:16.480
+e a soma aqui é a soma contagem a mente,
+
+21:16.480 --> 21:19.680
+para cada uma dessas duas columnas, chip e total bem.
+
+21:21.920 --> 21:25.440
+Em seguida, vamos passar agora por função exlando da...
+
+21:25.440 --> 21:27.280
+As funções lando das permite,
+
+21:27.280 --> 21:30.080
+que a gente viu aplicar operações simples em uma linha de cor,
+
+21:30.080 --> 21:34.240
+então a gente consegue definir funções sem o def,
+
+21:34.240 --> 21:35.760
+sem a palavra de escada def,
+
+21:35.760 --> 21:38.560
+então a gente consegue definir as funções em uma linha de cor,
+
+21:38.560 --> 21:39.680
+e a gente vai fazer isso aqui,
+
+21:39.680 --> 21:41.200
+não só uma, por exemplo,
+
+21:41.200 --> 21:43.920
+aquelas três columnos no mérito que as lados taxa,
+
+21:43.920 --> 21:45.680
+a gente vai somar em um só,
+
+21:45.680 --> 21:46.560
+como que a gente vai fazer isso,
+
+21:46.560 --> 21:47.840
+a gente vai dar uma plai,
+
+21:47.840 --> 21:49.440
+e a gente vai, novamente,
+
+21:49.440 --> 21:50.720
+a plai a gente dá para a funções,
+
+21:50.720 --> 21:53.520
+só que a gente vai definir a função dentro do apply,
+
+21:53.520 --> 21:55.040
+então a gente vai jogar um âmbida,
+
+21:55.040 --> 21:56.560
+então para cada linha,
+
+21:56.560 --> 22:00.160
+a gente vai somar o fér, o chip e o tos,
+
+22:00.160 --> 22:02.240
+e aqui a gente vai passar um áxis igual,
+
+22:02.240 --> 22:04.080
+porque a diferente do que ele lá,
+
+22:04.080 --> 22:05.520
+a gente é precoa, a nível de cor,
+
+22:05.520 --> 22:08.640
+não é que a gente vai aplicar a x-1, a nível de linha.
+
+22:08.640 --> 22:11.040
+Então, com isso, olha o que acontece,
+
+22:11.360 --> 22:14.480
+ele vai pegar por que por si é que se eu Zoom ele nem difícil que a linha,
+
+22:14.480 --> 22:16.480
+e faz a soma desses três columnos,
+
+22:16.480 --> 22:18.000
+gerando o somo total viagem,
+
+22:18.000 --> 22:19.520
+o que que o somo total viagem em vira,
+
+22:19.520 --> 22:24.400
+ele vira uma série com o somba da total,
+
+22:24.400 --> 22:27.280
+soma total viagem para cada linha,
+
+22:27.280 --> 22:29.360
+então a gente vai ter que ir,
+
+22:29.360 --> 22:31.840
+para cada linha a gente tem o somo total daquela viagem,
+
+22:31.840 --> 22:35.200
+então basta depois atribuir isso,
+
+22:35.200 --> 22:37.760
+a nova coluna chamada a soma total viagem,
+
+22:37.760 --> 22:40.400
+aqui era o nosso determinante frem, perfecto,
+
+22:40.400 --> 22:44.320
+e com isso a gente consegue adicionar ela,
+
+22:45.280 --> 22:47.680
+outra coisa aqui, por exemplo,
+
+22:47.680 --> 22:50.320
+a gente vai pegar e vamos aplicar, por exemplo,
+
+22:50.320 --> 22:54.000
+como a gente pode usar dentro do índice em filtro,
+
+22:54.000 --> 22:55.520
+aqui a gente vai aplicar um filtro,
+
+22:55.520 --> 22:57.040
+eu posso colocar o apply,
+
+22:57.040 --> 23:00.480
+o lâbida de x, x igual a marata,
+
+23:00.480 --> 23:02.720
+então dentro do aplicar boro,
+
+23:02.720 --> 23:05.200
+eu vou aplicar o apply para pegar x,
+
+23:05.200 --> 23:06.960
+o que só que foi uma rata,
+
+23:06.960 --> 23:08.400
+então aqui eu consigo filtrar ela,
+
+23:08.400 --> 23:09.840
+toda vez que o nosso data frem também,
+
+23:09.840 --> 23:12.080
+esse é um outro modo de fazer afiltragem,
+
+23:12.080 --> 23:13.440
+e aqui ele vai vir, por exemplo,
+
+23:13.440 --> 23:15.040
+ele veio três, porque a gente deu a reestrei,
+
+23:15.040 --> 23:18.640
+mas tem, provavelmente, mais de índice em marata,
+
+23:18.640 --> 23:19.920
+mas essa ideia,
+
+23:19.920 --> 23:22.880
+aqui a gente pode pegar a coluna e aplicar dentro dela um filtro,
+
+23:22.880 --> 23:26.720
+para justamente pegar o valor que a gente quiser.
+
+23:27.840 --> 23:29.840
+Seguir a gente pode também criar uma nova coluna,
+
+23:29.840 --> 23:30.960
+lembra do filtro indirir,
+
+23:30.960 --> 23:32.080
+que a gente viu,
+
+23:32.080 --> 23:33.920
+a gente pode também fazer isso,
+
+23:33.920 --> 23:35.760
+aqui, no caso, não enxerga a ser fatim indiria,
+
+23:35.760 --> 23:37.440
+e está muito mais agitando,
+
+23:37.440 --> 23:40.640
+aqui, apenas, a gente vai basicamente traduzir.
+
+23:40.640 --> 23:43.120
+Ó, a gente vai aplicar para cada linha,
+
+23:43.120 --> 23:45.680
+se o pagamento indiria,
+
+23:45.680 --> 23:48.000
+a gente vai criar o valor vai ser pagamento indiria,
+
+23:48.000 --> 23:49.440
+se a linha foques,
+
+23:49.440 --> 23:50.720
+se não pagamento de cartão,
+
+23:50.720 --> 23:53.280
+são essas duas falsas, tem um anjero e cartão,
+
+23:53.280 --> 23:54.640
+que eu acredite de cartão,
+
+23:54.640 --> 23:55.520
+e que é isso.
+
+23:55.520 --> 23:57.520
+Então, a gente vai botar o foques,
+
+23:57.520 --> 23:58.960
+ele vai virar pagamento de e-mail,
+
+23:58.960 --> 24:01.120
+se não vai virar pagamento de cartão.
+
+24:01.120 --> 24:03.040
+E com isso, a gente consegue aterar
+
+24:03.040 --> 24:04.080
+todas as colunas lá,
+
+24:04.080 --> 24:05.280
+então aqui o lábida,
+
+24:05.280 --> 24:06.960
+e pode julgar bem em versátil,
+
+24:06.960 --> 24:10.960
+para fazer essas operações mais simples.
+
+24:12.640 --> 24:13.520
+E agora, acho que,
+
+24:13.520 --> 24:15.600
+em das partes mais legais da aula,
+
+24:15.600 --> 24:17.600
+vai trabalhar aqui com o Indofunction,
+
+24:18.400 --> 24:19.680
+funções de janeu,
+
+24:19.680 --> 24:21.440
+então, a gente vai usar a média móvel,
+
+24:21.440 --> 24:22.320
+o ranking, comparação,
+
+24:22.320 --> 24:23.600
+vai ficar bem claro,
+
+24:23.600 --> 24:26.880
+usando o data set Gil,
+
+24:26.880 --> 24:28.320
+então, que nem ele te viu,
+
+24:28.320 --> 24:31.840
+o Gil, ele é o data set de 40 anos de distensão
+
+24:31.840 --> 24:35.120
+da o Gil, la camada da superfície do mar,
+
+24:35.440 --> 24:36.880
+e com isso,
+
+24:36.880 --> 24:38.880
+o Gil já era valor,
+
+24:38.880 --> 24:40.080
+é a série histórica,
+
+24:40.080 --> 24:40.720
+ao longo tempo,
+
+24:40.720 --> 24:42.400
+ele tem 40 anos de formação.
+
+24:42.400 --> 24:43.760
+Mas, o primeiro coisa,
+
+24:43.760 --> 24:46.080
+a gente lembra da média móvel da pandemia,
+
+24:46.080 --> 24:47.280
+ali para ver,
+
+24:47.280 --> 24:48.560
+nos últimos 90 dias,
+
+24:48.560 --> 24:50.400
+qual é a média móvel de casa?
+
+24:50.400 --> 24:51.920
+Aqui, isso, com a média móvel,
+
+24:51.920 --> 24:52.880
+basicamente, ela segue,
+
+24:52.880 --> 24:53.920
+para criar um entendência,
+
+24:53.920 --> 24:54.720
+mas,
+
+24:54.720 --> 24:55.360
+é,
+
+24:55.360 --> 24:55.840
+podemos dizer,
+
+24:55.840 --> 24:57.360
+se mais robusto dos dados,
+
+24:57.360 --> 24:59.120
+e quando eu tô olhando 90 dias para trás,
+
+24:59.120 --> 25:00.160
+eu tô pegando um histórico bem,
+
+25:00.160 --> 25:00.720
+mas,
+
+25:00.720 --> 25:02.320
+robusto do que é um indudio,
+
+25:02.320 --> 25:03.040
+ou uma semana,
+
+25:03.040 --> 25:03.760
+perfeito?
+
+25:03.760 --> 25:04.400
+Então,
+
+25:04.400 --> 25:05.520
+é, com isso, eu consigo analisar,
+
+25:05.520 --> 25:06.240
+será que tá subindo,
+
+25:06.240 --> 25:07.360
+será que tá desse ano?
+
+25:07.360 --> 25:08.960
+Porque é dependendo do restado de ontem,
+
+25:08.960 --> 25:09.920
+dia de ontem,
+
+25:09.920 --> 25:11.680
+pode ser que tem um influência ali,
+
+25:11.680 --> 25:13.440
+mas, quando a gente olha no vento de as patrais,
+
+25:13.440 --> 25:14.640
+acaba que fica,
+
+25:14.640 --> 25:15.840
+é o peso maior,
+
+25:15.840 --> 25:16.880
+porque realmente tá acontecendo
+
+25:16.880 --> 25:18.480
+nesse período de 3 meses.
+
+25:18.480 --> 25:20.000
+Então, aqui, a gente vai fazer a mesma coisa,
+
+25:20.000 --> 25:22.080
+na média móvel dos 3 meses,
+
+25:22.080 --> 25:23.680
+para a colombia de extenshete,
+
+25:23.680 --> 25:24.720
+certo?
+
+25:24.720 --> 25:25.760
+E a gente vai botar
+
+25:25.760 --> 25:27.760
+os a fazer isso usando o metro do rol,
+
+25:27.760 --> 25:28.720
+então, a gente vai pegar a gela,
+
+25:28.720 --> 25:30.240
+a extenshete, que é essa colunque,
+
+25:30.240 --> 25:31.600
+vai aplicar o metro do rol,
+
+25:31.600 --> 25:33.360
+como a janela de 90 dias,
+
+25:33.360 --> 25:35.360
+pegando a média, então,
+
+25:35.360 --> 25:36.720
+a gente se guide botar o agregador,
+
+25:36.720 --> 25:38.480
+e a gente consegue,
+
+25:38.480 --> 25:40.000
+a média.
+
+25:40.000 --> 25:42.000
+Em seguida,
+
+25:42.000 --> 25:42.960
+a gente vai fazer,
+
+25:42.960 --> 25:43.760
+para o rânsque,
+
+25:43.760 --> 25:46.560
+o rânsque com o metro do mínimo,
+
+25:46.560 --> 25:48.240
+ele faz exatamente
+
+25:48.240 --> 25:49.920
+um rânsqueamento de cada linha,
+
+25:49.920 --> 25:51.840
+ou seja, dentro das 3 milinhas
+
+25:51.840 --> 25:53.200
+lá do data frame,
+
+25:53.200 --> 25:55.120
+em que lugar em que posição rânsque
+
+25:55.120 --> 25:55.760
+literalmente,
+
+25:55.760 --> 25:56.720
+tá aquela linha,
+
+25:56.720 --> 25:58.320
+e aqui, quando a gente bota mim,
+
+25:58.320 --> 26:00.000
+ele vai do,
+
+26:00.000 --> 26:00.800
+o menor,
+
+26:00.800 --> 26:01.840
+é o primeiro rânsque,
+
+26:01.840 --> 26:03.120
+ou seja, que a gente vai menos gelo,
+
+26:03.120 --> 26:04.960
+vai ser o primeiro no rânsque.
+
+26:05.760 --> 26:07.760
+Então, olha como a técnica fica aqui.
+
+26:09.120 --> 26:10.400
+No começo aqui,
+
+26:10.400 --> 26:11.600
+a média móvel,
+
+26:11.600 --> 26:12.640
+tem valores no uso,
+
+26:12.640 --> 26:13.360
+porque, naturalmente,
+
+26:13.360 --> 26:15.200
+não tinha noietadias ainda no história,
+
+26:15.200 --> 26:16.320
+certo?
+
+26:16.320 --> 26:17.760
+Mas a partir daqui,
+
+26:17.760 --> 26:18.640
+a gente pode ver,
+
+26:18.640 --> 26:19.600
+na colunque no botar,
+
+26:19.600 --> 26:20.400
+que não ventei um,
+
+26:20.400 --> 26:21.840
+assim,
+
+26:21.840 --> 26:22.640
+se eu pegar aqui,
+
+26:22.640 --> 26:24.000
+o do 80,
+
+26:24.000 --> 26:24.800
+sim,
+
+26:24.800 --> 26:25.280
+realmente,
+
+26:25.280 --> 26:26.800
+não vai ter,
+
+26:27.680 --> 26:28.160
+aqui,
+
+26:28.160 --> 26:29.840
+então, a gente pode ver a partir do dia 89,
+
+26:29.840 --> 26:30.400
+que ele já tinha no meu
+
+26:30.400 --> 26:31.280
+tedeza no história,
+
+26:31.280 --> 26:32.640
+que ele começou a consolidar
+
+26:32.640 --> 26:33.840
+a média móvel.
+
+26:33.840 --> 26:35.040
+E que me a gente viu aqui,
+
+26:35.040 --> 26:35.440
+rânsque,
+
+26:35.440 --> 26:37.440
+é justamente que posição,
+
+26:37.440 --> 26:38.080
+no rânsque,
+
+26:38.080 --> 26:39.840
+das 13 mil linhas,
+
+26:39.840 --> 26:40.720
+tá,
+
+26:40.720 --> 26:42.720
+é aquela linha.
+
+26:43.920 --> 26:45.120
+Então,
+
+26:47.680 --> 26:49.120
+é isso que a gente consegue ver,
+
+26:49.120 --> 26:50.560
+a gente pode ver que os dias atuais,
+
+26:50.560 --> 26:51.280
+eles estão
+
+26:51.280 --> 26:53.440
+um rânsque bem menores,
+
+26:53.440 --> 26:54.240
+ou seja,
+
+26:54.240 --> 26:55.680
+tem menos gelo,
+
+26:56.800 --> 26:57.680
+aqui,
+
+26:57.680 --> 26:59.200
+do que os dias anteriores,
+
+26:59.200 --> 27:00.400
+que estão bem lá em cima,
+
+27:00.400 --> 27:01.920
+próximo do dos menores,
+
+27:01.920 --> 27:03.120
+dos menores no rânsque,
+
+27:03.120 --> 27:03.920
+que me não é só dataçais.
+
+27:05.360 --> 27:06.560
+Outra coisa que interessante
+
+27:06.560 --> 27:08.320
+é fazer uma comparação,
+
+27:08.320 --> 27:09.600
+botar uma comparação dentro
+
+27:09.600 --> 27:10.880
+da mesma linha.
+
+27:11.680 --> 27:12.640
+Então, aqui com o extente,
+
+27:12.640 --> 27:14.080
+quando o boto shift 30,
+
+27:14.080 --> 27:14.880
+ele pega,
+
+27:14.880 --> 27:15.920
+qual que era aquele valor,
+
+27:16.560 --> 27:17.040
+do seja,
+
+27:17.040 --> 27:18.000
+da colunque extente,
+
+27:18.000 --> 27:19.040
+30 dias atrás,
+
+27:19.440 --> 27:20.400
+aqui o padrão,
+
+27:20.400 --> 27:20.880
+ao indo,
+
+27:20.880 --> 27:21.760
+na janela,
+
+27:21.760 --> 27:22.800
+é 30 dias.
+
+27:23.120 --> 27:23.600
+Então, com isso,
+
+27:23.600 --> 27:25.120
+eu consigo fazer comparações,
+
+27:25.120 --> 27:25.760
+ter feito,
+
+27:26.160 --> 27:26.720
+olha aqui,
+
+27:27.680 --> 27:28.640
+no começo aqui,
+
+27:28.640 --> 27:29.040
+claro,
+
+27:29.040 --> 27:30.080
+não tinha 30 dias para trás,
+
+27:30.080 --> 27:30.640
+mas aqui,
+
+27:30.640 --> 27:31.840
+eu estou olhando aqui,
+
+27:31.840 --> 27:32.800
+eu tinha 12 mil,
+
+27:32.800 --> 27:34.480
+quando eu olho 10 dias para trás,
+
+27:34.480 --> 27:35.360
+desculpa.
+
+27:35.360 --> 27:36.480
+30 dias para trás,
+
+27:36.480 --> 27:37.360
+porque a gente botou para
+
+27:37.360 --> 27:38.160
+30 aqui,
+
+27:38.640 --> 27:39.680
+a gente tinha 10 mil,
+
+27:39.680 --> 27:40.640
+que é 42.
+
+27:41.120 --> 27:41.840
+Então, com isso,
+
+27:41.840 --> 27:42.720
+a gente consegue comparar
+
+27:42.720 --> 27:43.360
+a item de ideia.
+
+27:43.360 --> 27:43.760
+Então,
+
+27:43.760 --> 27:44.480
+eu consigo inclusive fazer
+
+27:44.480 --> 27:45.040
+uma coluna aqui,
+
+27:45.040 --> 27:45.680
+de comparação,
+
+27:45.680 --> 27:46.640
+na conta que cresceu,
+
+27:46.640 --> 27:48.240
+os últimos 30 dias cada
+
+27:48.240 --> 27:48.640
+menino.
+
+27:50.160 --> 27:51.040
+E a gente pode fazer
+
+27:51.040 --> 27:51.360
+isso,
+
+27:52.320 --> 27:52.800
+claro,
+
+27:52.800 --> 27:53.440
+nessa gente estava
+
+27:53.440 --> 27:54.160
+de usando 30 dias,
+
+27:54.160 --> 27:54.720
+a gente pode fazer
+
+27:54.720 --> 27:55.200
+uma também,
+
+27:55.200 --> 27:56.160
+por um ano anterior,
+
+27:56.560 --> 27:56.800
+então,
+
+27:56.800 --> 27:57.760
+que a gente pode criar uma coluna
+
+27:57.760 --> 27:58.480
+para ver,
+
+27:58.480 --> 28:00.800
+quanto que estava no ano anterior,
+
+28:00.800 --> 28:01.280
+ou seja,
+
+28:01.280 --> 28:02.080
+naquela mesma data,
+
+28:02.080 --> 28:02.800
+no ano anterior,
+
+28:02.800 --> 28:04.000
+quanto que tinha de jeito,
+
+28:04.000 --> 28:04.480
+porque,
+
+28:04.480 --> 28:04.880
+aí,
+
+28:04.880 --> 28:05.840
+quando a gente compara
+
+28:05.840 --> 28:06.560
+ano,
+
+28:06.560 --> 28:07.600
+a gente já está
+
+28:07.600 --> 28:08.560
+matando o efeito
+
+28:08.560 --> 28:10.000
+sazonalidade com corno,
+
+28:10.400 --> 28:10.880
+porque,
+
+28:10.880 --> 28:11.840
+se eu analisar,
+
+28:11.840 --> 28:12.480
+beleza,
+
+28:12.480 --> 28:13.440
+está frio agora,
+
+28:13.440 --> 28:14.640
+mas pode ser que está frio agora,
+
+28:14.640 --> 28:15.360
+porque,
+
+28:15.360 --> 28:16.000
+é,
+
+28:16.000 --> 28:16.800
+de exemplo,
+
+28:17.200 --> 28:17.680
+mas não é,
+
+28:17.680 --> 28:18.400
+sinceramente,
+
+28:20.000 --> 28:20.880
+está frio igual,
+
+28:20.880 --> 28:21.280
+estava em,
+
+28:21.280 --> 28:21.520
+de exemplo,
+
+28:21.520 --> 28:22.080
+de ano passado,
+
+28:22.080 --> 28:22.560
+com corno,
+
+28:22.560 --> 28:23.360
+aqui também era
+
+28:23.360 --> 28:24.000
+um veno,
+
+28:24.000 --> 28:24.720
+enfim,
+
+28:24.720 --> 28:25.440
+então você consegue
+
+28:25.440 --> 28:26.560
+ver essa comparação,
+
+28:26.560 --> 28:27.120
+é,
+
+28:27.120 --> 28:28.080
+com base no período,
+
+28:28.080 --> 28:29.360
+está frio agora,
+
+28:29.360 --> 28:30.000
+em exemplo,
+
+28:30.000 --> 28:31.040
+mas eu comparar com o julho,
+
+28:31.040 --> 28:31.520
+com corno,
+
+28:31.520 --> 28:32.800
+que não é o comparação injusto,
+
+28:32.800 --> 28:33.680
+porque são,
+
+28:33.680 --> 28:34.880
+estações diferentes,
+
+28:34.880 --> 28:36.400
+então essa comparação
+
+28:36.400 --> 28:37.200
+que a gente chama de ano,
+
+28:37.200 --> 28:38.000
+contra ano,
+
+28:38.000 --> 28:39.360
+ela é muito legal,
+
+28:39.360 --> 28:40.480
+e às vezes mais robusto,
+
+28:40.480 --> 28:41.120
+do que a comparação
+
+28:41.120 --> 28:42.000
+meio escontranana,
+
+28:42.000 --> 28:43.520
+eu escupo meio escontranês,
+
+28:43.520 --> 28:44.800
+que a comparação meio escontranês,
+
+28:44.800 --> 28:45.920
+se está pegando uma tendência,
+
+28:45.920 --> 28:46.640
+de crescimento,
+
+28:46.640 --> 28:47.680
+ou redução,
+
+28:47.680 --> 28:48.560
+mas recente,
+
+28:48.560 --> 28:49.840
+mas ano contra ano,
+
+28:49.840 --> 28:51.040
+seja como essa tem um história,
+
+28:51.040 --> 28:51.680
+tão robusto que eu
+
+28:51.680 --> 28:52.640
+quando você é comparar
+
+28:52.640 --> 28:53.920
+a sazonalidade,
+
+28:54.240 --> 28:55.680
+do seu coge em de dados,
+
+28:55.680 --> 28:56.480
+a gente pode ver aqui,
+
+28:56.480 --> 28:57.520
+quando a gente pega comparação
+
+28:57.520 --> 28:59.360
+no contrano de 2019,
+
+28:59.360 --> 29:01.600
+é basicamente todos os dias
+
+29:01.600 --> 29:03.840
+estava menor no ano anterior,
+
+29:03.840 --> 29:04.400
+então,
+
+29:04.400 --> 29:06.800
+ouvi uma redução
+
+29:06.800 --> 29:09.600
+no julho na camada das perfísse de até.
+
+29:14.560 --> 29:16.160
+Outro ponto aqui,
+
+29:16.160 --> 29:17.760
+agora a gente vai começar a trabalhar
+
+29:17.760 --> 29:19.600
+com datas e horas,
+
+29:19.600 --> 29:21.840
+a gente viu aqui,
+
+29:21.840 --> 29:24.400
+que a gente consegue fazer
+
+29:24.400 --> 29:26.240
+a parte da analis sazonal,
+
+29:26.240 --> 29:27.440
+quando a gente tem as datas
+
+29:27.440 --> 29:28.800
+bem organizadas aqui,
+
+29:28.800 --> 29:29.520
+então aqui,
+
+29:29.520 --> 29:30.080
+com o shift,
+
+29:30.080 --> 29:32.160
+a gente conseguiu compar o jiu,
+
+29:32.160 --> 29:34.160
+ano contra ano,
+
+29:34.160 --> 29:35.120
+e agora a gente vai fazer
+
+29:35.120 --> 29:36.240
+uma manipulação
+
+29:36.240 --> 29:38.480
+dos dados naquele coge em de taxes,
+
+29:38.480 --> 29:38.800
+então,
+
+29:38.800 --> 29:41.760
+vamos voltar aqui para ver os cogemultivos taxes,
+
+29:41.760 --> 29:43.200
+a gente tem aqui a data
+
+29:43.200 --> 29:44.720
+da coleta do passageiro,
+
+29:44.720 --> 29:46.400
+ao 20 de 20 de 19,
+
+29:46.400 --> 29:47.840
+e 20 de 16 de 24,
+
+29:47.840 --> 29:50.160
+então esse cara aqui ficou 6 minutinhos,
+
+29:50.160 --> 29:51.120
+ali,
+
+29:51.120 --> 29:52.560
+na viagem,
+
+29:52.560 --> 29:54.880
+e eu consigo ver
+
+29:54.880 --> 29:56.080
+o tipo de coluna também,
+
+29:56.080 --> 29:57.360
+se botar taxes,
+
+29:57.360 --> 29:58.640
+fica para o GTIP,
+
+29:58.640 --> 30:00.240
+olha aqui,
+
+30:00.240 --> 30:01.920
+ele já está em 180,
+
+30:01.920 --> 30:03.760
+que é um formato de data,
+
+30:03.760 --> 30:06.400
+então ele já está tudo saixí,
+
+30:06.400 --> 30:08.000
+se botar aqui o GTIP,
+
+30:08.000 --> 30:09.600
+se não dá até freio,
+
+30:09.600 --> 30:11.680
+ele vai trazer todas as comuns,
+
+30:11.680 --> 30:13.360
+então aqui é o DESTIM,
+
+30:13.360 --> 30:14.000
+o GTIP,
+
+30:14.000 --> 30:15.680
+tem um grande porf,
+
+30:15.680 --> 30:18.080
+é exatamente o que a gente quer,
+
+30:18.080 --> 30:19.280
+então, o meuesa,
+
+30:19.280 --> 30:20.800
+tudo certo,
+
+30:21.280 --> 30:22.000
+agora,
+
+30:22.000 --> 30:23.360
+eles já estão em coluna,
+
+30:23.360 --> 30:24.000
+na DESTIM,
+
+30:24.000 --> 30:25.360
+a gente consegue fazer operações
+
+30:25.360 --> 30:26.480
+de data com eles,
+
+30:27.680 --> 30:28.560
+primeiro a coisa,
+
+30:28.560 --> 30:29.760
+vamos pegar o dia da semana,
+
+30:29.760 --> 30:30.560
+que a gente falou,
+
+30:30.560 --> 30:30.880
+né,
+
+30:30.880 --> 30:32.160
+a gente já tecionar essas colunas
+
+30:32.160 --> 30:32.800
+de DESTIM,
+
+30:32.800 --> 30:33.760
+pode ser útil depois,
+
+30:33.760 --> 30:34.720
+para fazer algum analhista,
+
+30:34.720 --> 30:35.840
+a unalhidade,
+
+30:35.840 --> 30:37.120
+você já quer analisar
+
+30:37.120 --> 30:37.920
+a segunda feira,
+
+30:37.920 --> 30:39.280
+a tema da demanda maior,
+
+30:39.280 --> 30:40.720
+ou algo do tipo,
+
+30:40.720 --> 30:42.400
+então a gente consegue ver
+
+30:42.400 --> 30:43.200
+isso, por exemplo,
+
+30:45.520 --> 30:46.560
+beleza,
+
+30:46.560 --> 30:47.600
+vamos fazer aqui,
+
+30:47.680 --> 30:48.720
+a água,
+
+30:49.920 --> 30:51.280
+de da semana,
+
+30:51.280 --> 30:52.500
+então agora vamos ser
+
+30:52.500 --> 30:53.280
+na de da semana,
+
+30:53.280 --> 30:54.400
+o mês,
+
+30:54.400 --> 30:56.240
+e com as duas colunas,
+
+30:56.240 --> 30:57.840
+já estão no formato de STIM,
+
+30:57.840 --> 30:58.720
+quando isso acontece,
+
+30:58.720 --> 30:59.920
+a gente pode fazer
+
+31:00.720 --> 31:02.080
+uma operação de subtração,
+
+31:02.080 --> 31:03.120
+a gente vai pegar o Drop-Off,
+
+31:03.120 --> 31:03.840
+menos o PK,
+
+31:03.840 --> 31:06.000
+que ela entrega do passageiro,
+
+31:06.480 --> 31:07.280
+menos a coleta,
+
+31:07.280 --> 31:09.280
+a gente consegue ver a duração da viagem.
+
+31:10.080 --> 31:10.880
+Olha só que legal,
+
+31:10.880 --> 31:12.160
+depois a gente vai filtrar,
+
+31:13.040 --> 31:14.080
+aqui o TAC,
+
+31:14.080 --> 31:14.480
+seis,
+
+31:14.480 --> 31:15.760
+vai ver as colunas,
+
+31:15.760 --> 31:16.480
+e olha só,
+
+31:16.480 --> 31:17.600
+PK, Drop-Off,
+
+31:17.600 --> 31:18.560
+a gente tem um dia da semana,
+
+31:18.560 --> 31:19.760
+que a gente criou o mês,
+
+31:19.760 --> 31:21.120
+então já consegue criar analisas
+
+31:21.120 --> 31:21.600
+naidade,
+
+31:21.600 --> 31:22.800
+com base no dia da semana,
+
+31:22.800 --> 31:23.840
+com base no mês,
+
+31:24.080 --> 31:25.920
+e a gente tem a duração da viagem.
+
+31:25.920 --> 31:26.880
+Então, que a gente consegue ver,
+
+31:26.880 --> 31:28.160
+aos, podem ver zero dias,
+
+31:28.160 --> 31:29.920
+porque está no mesmo dia,
+
+31:29.920 --> 31:30.960
+mas,
+
+31:30.960 --> 31:32.160
+e não tem 24 horas,
+
+31:32.160 --> 31:32.400
+não é?
+
+31:32.400 --> 31:33.520
+Tem aqui tem bateria 24 horas,
+
+31:33.520 --> 31:34.480
+para dar um dia,
+
+31:34.480 --> 31:35.600
+mas aqui a gente tem a duração,
+
+31:35.600 --> 31:36.320
+seis minutos,
+
+31:36.320 --> 31:37.280
+essa aqui foi mais longa,
+
+31:37.280 --> 31:38.320
+25 minutos,
+
+31:38.320 --> 31:40.080
+essa aqui apenas três minutos,
+
+31:40.080 --> 31:40.480
+então aqui,
+
+31:40.480 --> 31:41.040
+vão ter,
+
+31:41.040 --> 31:41.760
+se chegar a maior,
+
+31:41.760 --> 31:42.960
+ele vai pra cá,
+
+31:42.960 --> 31:44.800
+então ele já dá ali a duração,
+
+31:44.800 --> 31:45.200
+é,
+
+31:45.200 --> 31:45.840
+em,
+
+31:45.840 --> 31:46.960
+no tipo,
+
+31:46.960 --> 31:49.040
+duração no formato de data,
+
+31:49.040 --> 31:49.520
+e aqui,
+
+31:49.520 --> 31:50.320
+quando a gente olha,
+
+31:51.200 --> 31:52.160
+vamos olhar,
+
+31:52.640 --> 31:53.520
+uso de type,
+
+31:53.520 --> 31:54.160
+se de novo,
+
+32:00.000 --> 32:00.560
+agora,
+
+32:00.560 --> 32:01.520
+duração de viagem,
+
+32:01.520 --> 32:02.240
+é no formato,
+
+32:02.240 --> 32:03.360
+time delta,
+
+32:03.600 --> 32:04.960
+esse formato aqui,
+
+32:04.960 --> 32:05.920
+de zero de,
+
+32:05.920 --> 32:06.080
+está,
+
+32:06.080 --> 32:06.720
+está,
+
+32:06.720 --> 32:07.120
+está,
+
+32:07.120 --> 32:08.560
+ele chama time delta,
+
+32:08.560 --> 32:10.320
+que vocês podem ver exatamente isso,
+
+32:10.320 --> 32:12.080
+não é um Einstein,
+
+32:12.080 --> 32:13.200
+ele não é uma estringa,
+
+32:13.200 --> 32:14.960
+ele se encaixa no formato específico,
+
+32:14.960 --> 32:16.480
+que é a variação de tempo,
+
+32:16.480 --> 32:18.240
+esse formato também existe no pão,
+
+32:18.240 --> 32:20.320
+que é o formato time delta,
+
+32:23.680 --> 32:24.720
+por fim,
+
+32:24.720 --> 32:26.000
+agora vamos dar um ano,
+
+32:26.560 --> 32:27.760
+passado pelo Rechap,
+
+32:28.560 --> 32:29.600
+a gente vai pegar aqui,
+
+32:29.600 --> 32:31.280
+o nosso data sete do taxis,
+
+32:31.280 --> 32:33.200
+vamos dar uma mexida nele,
+
+32:33.200 --> 32:34.240
+que a gente pode ver,
+
+32:34.240 --> 32:35.360
+quando tive as viagens,
+
+32:36.400 --> 32:38.400
+a gente pode deixar ele mais longo,
+
+32:38.400 --> 32:38.720
+então,
+
+32:38.720 --> 32:39.600
+a gente vai pegar
+
+32:40.320 --> 32:41.360
+duas colômas,
+
+32:41.360 --> 32:41.600
+né,
+
+32:41.600 --> 32:42.240
+a zona,
+
+32:42.240 --> 32:42.640
+ali,
+
+32:43.280 --> 32:44.560
+a zona do pick-up,
+
+32:44.640 --> 32:46.160
+e o distrito do pick-up,
+
+32:47.040 --> 32:48.160
+e vai chamar
+
+32:48.160 --> 32:48.480
+aqui,
+
+32:48.480 --> 32:49.200
+onde variavo,
+
+32:49.920 --> 32:51.680
+e vamos pegar o valor também,
+
+32:52.640 --> 32:53.600
+olha como a que fica,
+
+32:54.480 --> 32:55.200
+variavo,
+
+32:55.200 --> 32:56.720
+vai virar pick-up,
+
+33:00.000 --> 33:00.880
+e o valor,
+
+33:01.680 --> 33:02.480
+vai virar,
+
+33:02.480 --> 33:03.200
+justamente,
+
+33:03.760 --> 33:05.040
+o dia da coluna,
+
+33:05.040 --> 33:05.840
+então,
+
+33:05.840 --> 33:06.480
+aqui,
+
+33:06.480 --> 33:07.040
+o que era,
+
+33:07.680 --> 33:08.480
+o pick-up daqui,
+
+33:09.360 --> 33:09.680
+então,
+
+33:09.680 --> 33:11.280
+quando a gente pega o
+
+33:11.360 --> 33:12.720
+o valor nome variável,
+
+33:12.960 --> 33:13.840
+o que ele tá fazendo?
+
+33:13.840 --> 33:14.640
+Ele vai pegar,
+
+33:14.640 --> 33:16.640
+e para todas as colunas,
+
+33:16.640 --> 33:17.760
+aqui, cada uma das colunas,
+
+33:17.760 --> 33:18.160
+pick-up,
+
+33:18.160 --> 33:18.640
+drop-up,
+
+33:18.640 --> 33:19.920
+passam até o final,
+
+33:20.480 --> 33:21.600
+ele vai transformar aqui,
+
+33:21.600 --> 33:22.240
+no marinho,
+
+33:22.240 --> 33:22.720
+então,
+
+33:22.720 --> 33:24.480
+para cada coluna,
+
+33:25.280 --> 33:26.320
+do pick-up,
+
+33:26.320 --> 33:26.800
+drop-up,
+
+33:26.800 --> 33:28.320
+você já é para cada data,
+
+33:28.880 --> 33:30.400
+ele vai jogar aqui no valor,
+
+33:30.640 --> 33:31.200
+e vai jogar,
+
+33:31.200 --> 33:31.680
+variável,
+
+33:31.680 --> 33:32.160
+categora,
+
+33:32.160 --> 33:32.560
+o que aqui,
+
+33:32.560 --> 33:33.760
+o nome da coluna vai virar
+
+33:33.760 --> 33:34.720
+uma variável categora,
+
+33:34.960 --> 33:35.600
+basicamente,
+
+33:35.600 --> 33:35.760
+então,
+
+33:35.760 --> 33:37.200
+a gente tirou reduzir no
+
+33:37.200 --> 33:37.920
+número de colunas,
+
+33:38.320 --> 33:39.760
+mas aqui no número de linhas,
+
+33:40.000 --> 33:41.040
+em pick-up,
+
+33:41.360 --> 33:42.800
+a invalhável a gente vai criar,
+
+33:42.800 --> 33:44.000
+aqui ele ficou gigante,
+
+33:44.000 --> 33:45.200
+102 milinhas,
+
+33:45.520 --> 33:46.400
+então a gente tirou,
+
+33:46.800 --> 33:47.840
+saiu de 6.400,
+
+33:47.840 --> 33:48.720
+mas a gente tirou tudo,
+
+33:48.720 --> 33:49.920
+que era todas as colunas,
+
+33:49.920 --> 33:51.360
+botou numa variável categora,
+
+33:51.360 --> 33:52.160
+que não manim,
+
+33:52.160 --> 33:54.640
+e o valor virou o valor que era delante.
+
+33:57.200 --> 33:58.080
+Esse pode ser usio,
+
+33:58.080 --> 33:58.800
+para justamente,
+
+33:58.800 --> 33:59.600
+quando a gente quer pegar
+
+33:59.600 --> 33:59.840
+ali,
+
+33:59.840 --> 34:00.720
+depreendendo formatos que você vai
+
+34:00.720 --> 34:01.520
+trabalhar,
+
+34:01.520 --> 34:03.120
+acaba sendo útil,
+
+34:03.520 --> 34:03.840
+mas,
+
+34:03.840 --> 34:04.560
+da prática,
+
+34:04.560 --> 34:05.920
+mas interessante a gente
+
+34:05.920 --> 34:06.400
+envete,
+
+34:06.800 --> 34:07.360
+é cenário,
+
+34:07.360 --> 34:07.920
+principalmente,
+
+34:07.920 --> 34:09.200
+num da taxa de larga,
+
+34:09.520 --> 34:10.800
+então aqui a gente vai fazer,
+
+34:10.880 --> 34:11.680
+justamente contrário,
+
+34:11.680 --> 34:12.320
+a gente vai pegar,
+
+34:13.840 --> 34:14.320
+esse,
+
+34:15.040 --> 34:16.080
+data set nosso,
+
+34:16.080 --> 34:16.880
+né, do taxis,
+
+34:17.680 --> 34:18.800
+e agora a gente vai deixar ele
+
+34:18.800 --> 34:19.440
+mais longo,
+
+34:19.440 --> 34:20.640
+de ver a xalho mais comprido,
+
+34:21.440 --> 34:22.560
+a gente vai pegar o valor,
+
+34:22.560 --> 34:23.760
+vai ser a duração de aviagem,
+
+34:23.760 --> 34:23.920
+né,
+
+34:23.920 --> 34:25.360
+que é aquela coluna que está informado
+
+34:25.360 --> 34:26.480
+do time delto,
+
+34:27.440 --> 34:28.960
+o índice vai ser o
+
+34:29.280 --> 34:29.920
+distrito,
+
+34:30.800 --> 34:32.320
+a coluna vai ser o dia da semana,
+
+34:32.320 --> 34:33.680
+então a gente vai levar aqui em cima,
+
+34:34.320 --> 34:36.080
+e a função de agregação vai ser
+
+34:36.080 --> 34:36.880
+a média.
+
+34:37.760 --> 34:38.800
+Vamos preste as valores
+
+34:38.800 --> 34:39.440
+novos consó,
+
+34:39.920 --> 34:40.560
+mas aqui no caso,
+
+34:40.560 --> 34:41.600
+acho que não tem valores novos.
+
+34:42.480 --> 34:44.000
+E olha aqui que legal como fica,
+
+34:44.000 --> 34:45.040
+os olhos ação no� que você
+
+34:45.040 --> 34:45.920
+esteio bem feita.
+
+34:46.560 --> 34:47.520
+Quem a gente consegue ver o
+
+34:47.520 --> 34:48.400
+puro de estrito,
+
+34:49.280 --> 34:50.320
+dia da semana,
+
+34:50.480 --> 34:51.760
+a duração das viagens.
+
+34:52.080 --> 34:52.480
+Então,
+
+34:52.880 --> 34:54.720
+a duração das viagens em uma rata,
+
+34:54.720 --> 34:55.680
+é bem mais curta.
+
+34:56.880 --> 34:57.280
+Aqui,
+
+34:57.280 --> 34:58.160
+aparentemente,
+
+34:58.160 --> 34:59.120
+não tem diferença entre
+
+34:59.120 --> 35:00.240
+a semana e a semana,
+
+35:00.240 --> 35:01.520
+só na terça-feira,
+
+35:01.520 --> 35:02.880
+acaba sendo mais longo,
+
+35:03.120 --> 35:04.880
+isso para todas as
+
+35:04.880 --> 35:05.360
+estritos,
+
+35:05.360 --> 35:06.080
+aparentemente,
+
+35:06.080 --> 35:06.880
+desculpa todas,
+
+35:06.880 --> 35:07.280
+vem aqui,
+
+35:07.840 --> 35:09.280
+que então dia do trastelado,
+
+35:09.280 --> 35:10.000
+aparentemente,
+
+35:10.000 --> 35:10.560
+dá para ver.
+
+35:12.640 --> 35:13.680
+A gente pode ver aqui,
+
+35:13.920 --> 35:14.400
+o broms,
+
+35:15.040 --> 35:15.680
+aparentemente,
+
+35:15.680 --> 35:17.440
+as durações mais longas,
+
+35:18.080 --> 35:19.280
+que eu tenho que ter 4 minutos
+
+35:19.280 --> 35:20.320
+a gração na área de daviais,
+
+35:20.320 --> 35:21.680
+no broms na quinta,
+
+35:21.680 --> 35:22.080
+uma rata,
+
+35:22.080 --> 35:23.280
+tem as durações mais curta,
+
+35:23.280 --> 35:24.320
+porque é uma rata meio
+
+35:24.320 --> 35:25.280
+que já o centro ali,
+
+35:26.000 --> 35:26.240
+então,
+
+35:26.240 --> 35:27.440
+aqui a gente acaba de fazer,
+
+35:27.440 --> 35:28.160
+isso a gente consegue
+
+35:28.160 --> 35:28.960
+fazer no grupo de bair,
+
+35:28.960 --> 35:29.120
+também,
+
+35:29.760 --> 35:31.280
+mas dentro do grupo de
+
+35:31.280 --> 35:31.680
+tempo,
+
+35:31.680 --> 35:32.160
+na verdade,
+
+35:32.160 --> 35:32.960
+eu vou preparar nada mais
+
+35:32.960 --> 35:33.600
+éto que um grupo de
+
+35:33.600 --> 35:34.560
+tempo que você consegue
+
+35:34.560 --> 35:35.760
+organizar mais fácil,
+
+35:35.760 --> 35:36.480
+né?
+
+35:36.480 --> 35:37.680
+Então,
+
+35:37.680 --> 35:38.480
+é isso.
+
+35:41.920 --> 35:42.720
+E agora,
+
+35:42.720 --> 35:44.000
+os pressões regulares,
+
+35:44.000 --> 35:44.720
+então,
+
+35:44.720 --> 35:45.840
+os pressões regulares,
+
+35:45.840 --> 35:46.560
+só podem relembrar,
+
+35:46.560 --> 35:47.120
+a gente consegue
+
+35:47.120 --> 35:47.760
+extrair
+
+35:47.760 --> 35:49.760
+padrões de columnos de texto,
+
+35:50.080 --> 35:50.560
+então,
+
+35:50.560 --> 35:50.880
+aqui,
+
+35:50.880 --> 35:51.840
+vai dar um exemplo
+
+35:51.840 --> 35:52.720
+bem legal,
+
+35:52.720 --> 35:53.920
+a gente tem a coluna,
+
+35:55.440 --> 35:56.320
+aqui a gente tem a coluna
+
+35:56.320 --> 35:56.880
+drop-off,
+
+35:56.880 --> 35:57.280
+faisam
+
+35:57.280 --> 35:58.320
+a unipe capisônio,
+
+35:58.320 --> 35:58.880
+certo?
+
+35:58.880 --> 35:59.200
+Ela diz,
+
+35:59.200 --> 36:00.000
+basicamente,
+
+36:00.000 --> 36:01.120
+o local que
+
+36:01.120 --> 36:02.320
+que a pessoa pegou
+
+36:02.320 --> 36:02.800
+e o taxa.
+
+36:03.920 --> 36:04.480
+A gente tem,
+
+36:04.480 --> 36:05.040
+por exemplo,
+
+36:05.040 --> 36:06.240
+o rote são esse que,
+
+36:06.640 --> 36:07.200
+esse que,
+
+36:07.200 --> 36:07.760
+em inglês,
+
+36:07.760 --> 36:08.640
+é square,
+
+36:08.640 --> 36:09.360
+square é
+
+36:09.360 --> 36:09.760
+praça.
+
+36:10.480 --> 36:10.800
+Então,
+
+36:10.800 --> 36:11.360
+rote são
+
+36:11.360 --> 36:11.760
+square,
+
+36:11.760 --> 36:11.920
+então,
+
+36:11.920 --> 36:12.240
+a gente sabe que
+
+36:12.240 --> 36:12.880
+você tem um abraço.
+
+36:13.680 --> 36:13.840
+Então,
+
+36:13.840 --> 36:14.800
+aqui, por exemplo,
+
+36:14.800 --> 36:15.360
+a gente vai
+
+36:15.360 --> 36:15.920
+extrair
+
+36:16.240 --> 36:16.960
+todas as linhas
+
+36:16.960 --> 36:17.600
+que têm praça,
+
+36:17.600 --> 36:18.400
+das pessoas que foram
+
+36:18.400 --> 36:19.600
+coletadas em praça.
+
+36:19.840 --> 36:20.480
+A gente vai pegar
+
+36:20.480 --> 36:21.600
+o pick-up zone,
+
+36:21.920 --> 36:22.880
+vai chamar
+
+36:22.880 --> 36:23.920
+a ceça-lives
+
+36:23.920 --> 36:24.160
+tringue,
+
+36:24.160 --> 36:25.360
+o método de stringet.
+
+36:25.360 --> 36:25.760
+E lá,
+
+36:25.760 --> 36:26.560
+tem o contense,
+
+36:27.120 --> 36:28.080
+que a gente consegue
+
+36:28.080 --> 36:28.480
+botar
+
+36:29.200 --> 36:29.520
+um,
+
+36:29.520 --> 36:30.240
+esse que?
+
+36:30.240 --> 36:30.560
+Então,
+
+36:30.560 --> 36:31.360
+tudo que tiver,
+
+36:31.760 --> 36:33.040
+o esse que é de praça,
+
+36:33.040 --> 36:35.040
+em algum lugar da Christrini,
+
+36:35.280 --> 36:36.240
+a gente vai coletar
+
+36:36.240 --> 36:36.800
+como linha.
+
+36:38.240 --> 36:39.440
+Aqui a gente está pegando
+
+36:40.080 --> 36:40.800
+o índice,
+
+36:41.360 --> 36:41.920
+ou seja,
+
+36:41.920 --> 36:42.960
+a gente está pegando
+
+36:42.960 --> 36:43.760
+essas linhas,
+
+36:45.920 --> 36:46.480
+olha só,
+
+36:47.600 --> 36:48.160
+por exemplo,
+
+36:48.160 --> 36:49.520
+a gente vai pegar
+
+36:49.520 --> 36:50.320
+justamente as linhas
+
+36:50.320 --> 36:51.120
+que têm praças,
+
+36:52.160 --> 36:53.840
+vai filtrar no nosso data frame.
+
+36:58.720 --> 36:59.120
+Então,
+
+37:01.360 --> 37:01.920
+aqui,
+
+37:01.920 --> 37:03.040
+todos os linhas tem praça,
+
+37:03.040 --> 37:03.680
+a escuela,
+
+37:03.680 --> 37:04.080
+e,
+
+37:04.800 --> 37:05.280
+olha aqui,
+
+37:05.280 --> 37:05.760
+que legal,
+
+37:05.760 --> 37:06.320
+o esse que ele
+
+37:06.320 --> 37:06.960
+pega justamente
+
+37:06.960 --> 37:07.680
+o que tem esportes,
+
+37:07.680 --> 37:08.240
+escrito
+
+37:08.240 --> 37:08.960
+completo,
+
+37:09.440 --> 37:10.080
+e o que tem
+
+37:10.080 --> 37:10.800
+são a esquena.
+
+37:11.520 --> 37:11.760
+Então,
+
+37:11.760 --> 37:12.000
+aqui,
+
+37:12.000 --> 37:12.960
+o time square,
+
+37:12.960 --> 37:13.920
+pain station,
+
+37:13.920 --> 37:14.960
+by the square,
+
+37:14.960 --> 37:16.000
+ninkos square,
+
+37:16.000 --> 37:16.720
+e todas as
+
+37:16.720 --> 37:17.760
+praças lá de novo.
+
+37:19.040 --> 37:19.600
+E aqui,
+
+37:19.600 --> 37:20.320
+a gente está pegando
+
+37:20.320 --> 37:20.720
+quando a gente
+
+37:20.720 --> 37:21.360
+dá um shape,
+
+37:22.400 --> 37:23.360
+que tem cheasseza,
+
+37:23.360 --> 37:24.000
+um shape,
+
+37:24.000 --> 37:24.640
+a gente haça,
+
+37:24.640 --> 37:24.960
+esse,
+
+37:24.960 --> 37:25.760
+está amanhã,
+
+37:25.760 --> 37:26.640
+daquele data frame,
+
+37:26.640 --> 37:27.120
+vai vir uma
+
+37:27.120 --> 37:27.680
+tuplazinha,
+
+37:27.680 --> 37:27.840
+e
+
+37:28.240 --> 37:28.800
+conta amanhã,
+
+37:28.800 --> 37:29.320
+e tem essa
+
+37:29.320 --> 37:29.840
+de ter 3,
+
+37:29.840 --> 37:30.480
+8 linhas
+
+37:30.480 --> 37:31.440
+e 18 lomas.
+
+37:31.920 --> 37:33.680
+Quando a gente haça essa,
+
+37:33.680 --> 37:34.720
+eu índice zero,
+
+37:34.720 --> 37:35.680
+dessa puta,
+
+37:35.680 --> 37:37.360
+a gente está acessando
+
+37:37.360 --> 37:38.960
+o total de linhas.
+
+37:38.960 --> 37:40.560
+Então, 187, 18 linhas.
+
+37:40.560 --> 37:41.760
+Aqui a gente está pegando
+
+37:41.760 --> 37:43.200
+o total de linhas com praça,
+
+37:43.200 --> 37:43.520
+e aqui,
+
+37:43.520 --> 37:45.200
+o total de linhas do nosso data frame.
+
+37:47.200 --> 37:48.080
+Quando a gente roda,
+
+37:48.080 --> 37:48.800
+a gente fique,
+
+37:48.800 --> 37:49.680
+a gente vê que
+
+37:49.680 --> 37:52.160
+3,65% das viagens
+
+37:52.160 --> 37:53.520
+foram feitas
+
+37:53.520 --> 37:55.480
+de ou para
+
+37:55.480 --> 37:56.320
+praças, né?
+
+37:56.320 --> 37:56.640
+Não,
+
+37:56.640 --> 37:57.200
+desculpa,
+
+37:57.200 --> 37:58.320
+de praças,
+
+37:58.320 --> 37:59.760
+quando a gente está aqui no picado,
+
+38:00.000 --> 38:00.960
+se a gente quiser ver
+
+38:00.960 --> 38:02.080
+do drop-off,
+
+38:02.080 --> 38:04.160
+quanto a 100% das viagens
+
+38:04.160 --> 38:05.360
+foram para praças,
+
+38:05.360 --> 38:05.840
+a gente tem que mudar
+
+38:05.840 --> 38:07.200
+aqui no drop-off.
+
+38:07.600 --> 38:08.160
+Então,
+
+38:08.160 --> 38:08.640
+10,
+
+38:09.040 --> 38:10.880
+ponto 93% das viagens,
+
+38:10.880 --> 38:11.840
+foram para praças
+
+38:11.840 --> 38:14.160
+e 13% de viagens de praças.
+
+38:15.440 --> 38:16.160
+E a gente pode fazer
+
+38:16.160 --> 38:17.040
+esse de outra forma,
+
+38:18.000 --> 38:19.040
+explícitamente,
+
+38:19.040 --> 38:19.840
+usando o regiâx.
+
+38:19.840 --> 38:20.560
+Aqui a gente pode ver
+
+38:20.560 --> 38:21.040
+que o contém
+
+38:21.040 --> 38:22.000
+se ele faz uma
+
+38:22.000 --> 38:22.800
+abstração,
+
+38:22.800 --> 38:25.040
+ali uma facilitação
+
+38:25.280 --> 38:26.160
+do,
+
+38:26.160 --> 38:26.960
+em dar regiâx,
+
+38:26.960 --> 38:28.000
+da expressão regular,
+
+38:28.000 --> 38:28.400
+então ele
+
+38:28.400 --> 38:30.080
+pode botar ele do a forma mais fácil.
+
+38:30.080 --> 38:31.120
+Mas a gente pode fazer isso
+
+38:31.120 --> 38:32.320
+naturalmente também,
+
+38:32.320 --> 38:33.680
+com o regiâx.
+
+38:33.680 --> 38:34.480
+Quando a gente botar ele
+
+38:34.480 --> 38:34.880
+o contém,
+
+38:34.880 --> 38:36.240
+e da mesma forma,
+
+38:36.240 --> 38:37.200
+então aqui a gente pode
+
+38:37.200 --> 38:38.800
+passar o SQ.
+
+38:38.800 --> 38:39.200
+Quando a gente
+
+38:39.200 --> 38:39.920
+passa o
+
+38:39.920 --> 38:40.400
+asterismo,
+
+38:40.400 --> 38:41.040
+a gente quer dizer que
+
+38:41.040 --> 38:42.080
+em qualquer lugar
+
+38:42.080 --> 38:43.280
+da nossa string,
+
+38:43.280 --> 38:45.040
+que tiver um SQ.
+
+38:45.040 --> 38:45.440
+Traga,
+
+38:45.440 --> 38:45.920
+ele aqui,
+
+38:45.920 --> 38:46.160
+ó,
+
+38:46.160 --> 38:46.640
+única diferença
+
+38:46.640 --> 38:47.360
+a gente tem que passar
+
+38:47.360 --> 38:48.080
+um regiâx,
+
+38:48.080 --> 38:48.800
+igual a tru.
+
+38:48.800 --> 38:49.520
+Para a minha regiâx,
+
+38:49.520 --> 38:50.240
+igual a tru.
+
+38:50.240 --> 38:50.960
+E a esse aqui
+
+38:50.960 --> 38:51.840
+a expressão regular,
+
+38:51.840 --> 38:53.120
+a gente que ela é.
+
+38:53.120 --> 38:53.600
+Ou seja,
+
+38:53.600 --> 38:55.120
+em qualquer lugar do código,
+
+38:56.320 --> 38:57.680
+traga o SQ.
+
+38:57.840 --> 38:59.280
+Quando é que o contém
+
+38:59.280 --> 38:59.840
+por outro lado,
+
+38:59.840 --> 39:01.040
+ele já faz uma abstração,
+
+39:01.040 --> 39:01.920
+e ele tem
+
+39:01.920 --> 39:03.040
+que em qualquer lugar
+
+39:03.040 --> 39:03.680
+que tiver de dar
+
+39:03.680 --> 39:04.720
+string SQ,
+
+39:04.720 --> 39:05.840
+ou seja,
+
+39:05.840 --> 39:06.880
+pode ser o SQ.
+
+39:06.880 --> 39:07.520
+Por exemplo,
+
+39:07.520 --> 39:08.880
+ele tem...
+
+39:08.880 --> 39:09.120
+Aqui,
+
+39:09.120 --> 39:10.320
+a gente tem
+
+39:10.320 --> 39:10.880
+e SQ é
+
+39:10.880 --> 39:11.920
+completo na escrita.
+
+39:11.920 --> 39:12.400
+Aqui a gente
+
+39:12.400 --> 39:13.280
+já tirou.
+
+39:13.280 --> 39:14.400
+Mas quando tem o SQ
+
+39:14.400 --> 39:15.040
+é completo,
+
+39:15.040 --> 39:17.040
+aqui, por exemplo,
+
+39:17.600 --> 39:19.600
+muito curado no quino.
+
+39:21.040 --> 39:22.640
+Não, agora já saímos tudo.
+
+39:22.640 --> 39:23.520
+Quem escase a gente tem
+
+39:23.520 --> 39:24.640
+o Rõe de São Esquena.
+
+39:24.640 --> 39:26.480
+Estive as se Rõe de São SQ.
+
+39:26.560 --> 39:28.080
+Ele pegaria também
+
+39:28.080 --> 39:29.440
+porque o que está contido
+
+39:29.440 --> 39:30.080
+nele.
+
+39:33.120 --> 39:34.640
+E para fechar,
+
+39:35.280 --> 39:37.280
+vamos mostrar aqui na prática,
+
+39:37.280 --> 39:38.080
+como funcionou
+
+39:38.080 --> 39:39.200
+atimizações para a Fóxima
+
+39:39.200 --> 39:39.920
+no Pai.
+
+39:39.920 --> 39:40.800
+Combruto,
+
+39:40.800 --> 39:41.520
+é o Num Pai,
+
+39:41.520 --> 39:42.560
+entendo de processamento.
+
+39:43.520 --> 39:44.400
+Aqui,
+
+39:44.400 --> 39:45.360
+vamos criar
+
+39:45.360 --> 39:46.560
+dentro do Num Pai.
+
+39:47.200 --> 39:48.160
+Uma...
+
+39:49.600 --> 39:50.240
+o conjunto,
+
+39:50.240 --> 39:51.840
+na ID$ 10 da Isla Válisext,
+
+39:51.840 --> 39:52.560
+então da 1.000,
+
+39:52.560 --> 39:53.600
+de números aleatorios,
+
+39:53.600 --> 39:54.880
+para a gente volta aqui a Rõe de
+
+39:54.880 --> 39:56.240
+o conjunto de 1.000
+
+39:56.240 --> 39:57.520
+de números aleatorios.
+
+39:57.920 --> 39:58.800
+E aqui, como fazer,
+
+39:58.800 --> 40:00.080
+é usando o liste
+
+40:00.080 --> 40:00.960
+com prevenção do Pai,
+
+40:00.960 --> 40:02.080
+então, naquessa
+
+40:02.080 --> 40:03.440
+quando a gente volta no ímense,
+
+40:03.680 --> 40:05.280
+para cada x
+
+40:05.920 --> 40:08.240
+dessa conjunto de
+
+40:08.240 --> 40:09.600
+1.000 de números aleatorios
+
+40:09.600 --> 40:10.400
+que a gente criou chamado
+
+40:10.400 --> 40:10.800
+ar,
+
+40:11.280 --> 40:12.640
+é leve o x ao quadrado.
+
+40:14.000 --> 40:15.280
+E a gente vai chamar o time
+
+40:15.280 --> 40:16.720
+que é para ver quanto tempo
+
+40:16.720 --> 40:17.840
+demorou em seguida.
+
+40:18.080 --> 40:19.840
+A gente vai chamar a mesma coisa
+
+40:19.840 --> 40:21.280
+para o Np,
+
+40:21.280 --> 40:22.960
+que é a função
+
+40:23.040 --> 40:24.720
+utilizada lado num Pai.
+
+40:26.720 --> 40:27.280
+Vamos ver?
+
+40:28.080 --> 40:28.640
+A�as vezes,
+
+40:28.640 --> 40:29.520
+a questão aqui embaixo está aí,
+
+40:29.520 --> 40:30.240
+vou pagar.
+
+40:33.200 --> 40:34.960
+Então aqui, 10 anlevadas sexta,
+
+40:35.920 --> 40:36.720
+muita coisa.
+
+40:37.680 --> 40:39.280
+Então, o que ele está fazendo aqui no primeiro
+
+40:39.280 --> 40:39.760
+passo é,
+
+40:39.760 --> 40:40.960
+você pode ver que a taxa é tínhatea
+
+40:40.960 --> 40:41.760
+que está aqui.
+
+40:41.760 --> 40:43.200
+Ele está executando um
+
+40:43.200 --> 40:44.480
+onde está executando
+
+40:45.040 --> 40:46.320
+cada para cada número desse
+
+40:46.320 --> 40:48.160
+nosso range de 10 milhões de
+
+40:48.160 --> 40:48.880
+1.000 de 1.000 de
+
+40:48.880 --> 40:49.680
+ocopa ele está elevando.
+
+40:50.480 --> 40:51.120
+É o quadrado.
+
+40:51.120 --> 40:52.320
+Enquanto aqui na segunda
+
+40:53.120 --> 40:54.960
+a gente vê que ele pega um
+
+40:54.960 --> 40:56.240
+num Pai como num Pai.
+
+40:56.240 --> 40:57.280
+Agora, a gente já falou que trabalha
+
+40:57.280 --> 40:58.480
+com operações meteorais.
+
+40:58.480 --> 41:00.240
+Então, ele vai ser
+
+41:00.240 --> 41:01.040
+otimizado.
+
+41:01.440 --> 41:02.160
+Olha aqui,
+
+41:02.160 --> 41:03.440
+aqui a gente vê dois
+
+41:03.440 --> 41:05.120
+pontos tem sete segundos
+
+41:05.120 --> 41:06.160
+para cada loop.
+
+41:08.560 --> 41:11.280
+E aqui 24.4 mil
+
+41:11.280 --> 41:12.880
+segundos, pessoal.
+
+41:12.880 --> 41:14.000
+Então, tem a diferença
+
+41:14.000 --> 41:14.720
+muito grande.
+
+41:14.720 --> 41:15.600
+Agora, a gente volta a
+
+41:15.600 --> 41:16.560
+mil e segundos.
+
+41:16.880 --> 41:17.520
+Olha aqui,
+
+41:17.520 --> 41:19.120
+dois segundos da
+
+41:19.120 --> 41:19.920
+tipo dois
+
+41:19.920 --> 41:21.200
+dois pontos tem sete segundos.
+
+41:21.200 --> 41:22.480
+É exatamente dois mil
+
+41:22.480 --> 41:24.320
+três antes de satenta mil
+
+41:24.320 --> 41:25.200
+segundos.
+
+41:25.440 --> 41:28.800
+E aqui, dirigido por 24.4.
+
+41:30.400 --> 41:31.840
+Então, essa é a conta.
+
+41:32.720 --> 41:34.320
+O num Pai aqui nesse caso foi
+
+41:34.320 --> 41:35.760
+100 vezes praticamente.
+
+41:35.760 --> 41:39.120
+No 27 vezes mais rápido do que
+
+41:39.120 --> 41:41.520
+a operação nativa do
+
+41:43.280 --> 41:43.920
+Pai, então.
+
+41:43.920 --> 41:44.960
+Então, quando a gente faz o vídeo
+
+41:44.960 --> 41:45.680
+com a pressa, quando a gente
+
+41:45.680 --> 41:46.960
+passa a ter uma termina.
+
+41:46.960 --> 41:48.160
+A gente acaba sendo muito
+
+41:48.160 --> 41:48.640
+mais lento.
+
+41:48.640 --> 41:50.160
+E por isso, que o
+
+41:50.160 --> 41:52.160
+pando das eta um rápido,
+
+41:52.160 --> 41:53.360
+porque ele está rodando
+
+41:53.360 --> 41:55.360
+ali em cima do num Pai.
+
+41:57.920 --> 41:59.680
+Pessoal, por hoje é só.
+
+42:01.200 --> 42:02.560
+Depois, a maioria do pessoal
+
+42:02.560 --> 42:04.720
+deve estar passando o natal.
+
+42:05.600 --> 42:07.120
+E qualquer dúvida também sobre a
+
+42:07.120 --> 42:08.560
+aula, só me chamar.
+
+42:08.960 --> 42:10.160
+Mas hoje foi bem tranquilo.
+
+42:10.160 --> 42:11.520
+A gente só fez aplicações
+
+42:11.520 --> 42:12.800
+dos das manipulações
+
+42:12.800 --> 42:14.480
+de dados avançadas que a gente fez
+
+42:14.480 --> 42:15.120
+na...
+
+42:15.120 --> 42:16.080
+Tem que virar o ano passado.
+
+42:16.880 --> 42:18.880
+Então, por hoje é só.
+
+42:19.440 --> 42:20.960
+Fiz na tal para todos,
+
+42:20.960 --> 42:22.080
+para o pessoal que está vendo
+
+42:22.080 --> 42:22.720
+vai ver depois.
+
+42:23.760 --> 42:25.120
+E feliz ano novo também.
+
+42:25.360 --> 42:26.320
+Se por que não.
+
+42:26.320 --> 42:27.520
+A gente se encontra, agora
+
+42:27.520 --> 42:28.640
+a gente vai dar uma pausinha.
+
+42:28.640 --> 42:30.320
+É, do dia 25 de ouro.
+
+42:30.720 --> 42:31.920
+E depois do dia hoje,
+
+42:31.920 --> 42:32.720
+a gente volta com tudo
+
+42:32.720 --> 42:33.920
+ali na primeira semana do ano.
+
+42:34.560 --> 42:36.320
+Já na... no nosso 24.
+
+42:36.880 --> 42:38.080
+Então, é isso, valeu.
+
+42:38.080 --> 42:40.080
+O pessoal, vamos te alchar o qualquer dúvida.
+
+42:40.080 --> 42:40.880
+Só chamar.
+

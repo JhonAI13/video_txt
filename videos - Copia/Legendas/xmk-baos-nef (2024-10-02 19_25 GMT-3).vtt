@@ -1,0 +1,9191 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+Então, vamos começar aqui.
+
+00:06.000 --> 00:11.000
+Então, essa é a nossa primeira aula, pessoal.
+
+00:11.000 --> 00:14.000
+As primeira uma abinar, que eu já treijo o turro.
+
+00:14.000 --> 00:17.000
+2 de outro turro na verdade, na treijo programa, hein?
+
+00:17.000 --> 00:20.000
+A gente vai falar o trocosivo 6 no botiquem,
+
+00:20.000 --> 00:22.000
+e a gente vai estar na essa jornada de juntos.
+
+00:22.000 --> 00:28.000
+Eu acho que vocês vão ter certeza no final de um jornada que vai ver a pena.
+
+00:28.000 --> 00:32.000
+Eu já tive na situação também, já fiz um botiquem em 16 de dados,
+
+00:32.000 --> 00:39.000
+em 2020, em 2021, já fiz outro botiquem em inglês também em 2023.
+
+00:39.000 --> 00:43.000
+Então, ação é uma experiência imestiva, assim,
+
+00:43.000 --> 00:47.000
+vocês vão ver que realmente vai impactar na rotina de vocês.
+
+00:47.000 --> 00:49.000
+Não é algo que dá para deixar assim,
+
+00:49.000 --> 00:53.000
+vai em paralelo, é algo que vai ter impacto direto na rotina de vocês
+
+00:53.000 --> 00:54.000
+por um período ali.
+
+00:54.000 --> 00:58.000
+Então, esses 7, 9 meses dependendo de um data science ou data analytics,
+
+00:58.000 --> 01:04.000
+mas, no final, vai valer a pena, e vocês vão ver hoje aqui um pouquinho do por-de.
+
+01:04.000 --> 01:06.000
+Então, primeiro passo, pessoal, vou me apresentar.
+
+01:06.000 --> 01:09.000
+Eu sou Bruno, eu sou de Brasilia, moro em Brasilia.
+
+01:09.000 --> 01:12.000
+Eu tenho 8 anos, os peninsifundados,
+
+01:12.000 --> 01:15.000
+eu trabalho com dados diferente de muita gente,
+
+01:15.000 --> 01:20.000
+que é a extremo minoria da área que não fez transição de carreira.
+
+01:20.000 --> 01:22.000
+Eu sempre trabalho com dados.
+
+01:22.000 --> 01:26.000
+Então, eu fiz em gery de produção, então, a universidade de Brasilia
+
+01:26.000 --> 01:28.000
+e, desde o começo, com o Brasilia,
+
+01:28.000 --> 01:30.000
+acho que, praticamente, não tem fábrico a cabeça,
+
+01:30.000 --> 01:33.000
+entrando por ser todos serviços.
+
+01:33.000 --> 01:37.000
+E, tive muito contato com dados desde o meu primeiro momento,
+
+01:37.000 --> 01:40.000
+então, como eu sei como está já, o analista de dados junho,
+
+01:40.000 --> 01:43.000
+foi a narragidade plano, foi na cidade senha,
+
+01:43.000 --> 01:47.000
+depois, coordenador de um equip de engenharia de dados
+
+01:47.000 --> 01:49.000
+e a narragidade, e também depois,
+
+01:49.000 --> 01:53.000
+eu fumo bem a área de sensitados na empresa que eu trabalhei
+
+01:53.000 --> 01:55.000
+por mais tempo, trabalhei na o escor,
+
+01:55.000 --> 01:58.000
+então, ao escor, foi a minha empresa que está ali no base doido,
+
+01:58.000 --> 02:00.000
+do sistema financeiro nacional,
+
+02:00.000 --> 02:03.000
+então, quando entrei, era uma parceira que vendiu os seguros,
+
+02:03.000 --> 02:05.000
+começaram a deslávar os seguros da caixa de seguradora,
+
+02:05.000 --> 02:07.000
+então, acho que colocou federal,
+
+02:07.000 --> 02:09.000
+trabalhei projetos com banco em interbéng,
+
+02:09.000 --> 02:13.000
+em berbeca, oura, promotiva, que é a rede de crédito,
+
+02:13.000 --> 02:15.000
+uma rede de crédito indireta do banco no Brasil,
+
+02:15.000 --> 02:18.000
+e o poli-shop, homenim, e o grupa-ribui,
+
+02:18.000 --> 02:21.000
+então, trabalhei bem somente no seu tofu financeiro,
+
+02:21.000 --> 02:24.000
+na minha carreira, então, desde agora, tem dois meses,
+
+02:24.000 --> 02:27.000
+eu estou numa aventura, comecei no vocalo,
+
+02:27.000 --> 02:30.000
+de engenheiro de Machinilano, no grupa-ribu,
+
+02:30.000 --> 02:33.000
+então, estou envolvido com sensitados diretamente pelo menos
+
+02:33.000 --> 02:38.000
+eleia três anos, com a gente com a narragidade aos quase oito anos,
+
+02:38.000 --> 02:40.000
+hoje em dia também, então, projetos, por fora,
+
+02:40.000 --> 02:43.000
+com com colegas que eu tive na época da Ui,
+
+02:43.000 --> 02:45.000
+principalmente, então, então, em São a coisa muito oral,
+
+02:45.000 --> 02:47.000
+que vocês vão ver pela carreira de vocês,
+
+02:47.000 --> 02:49.000
+que até que dentro do bootcamp mesmo,
+
+02:49.000 --> 02:52.000
+então, o que a gente sentiu bastante vocês,
+
+02:52.000 --> 02:54.000
+que já deu uma passeiria mesmo,
+
+02:54.000 --> 02:56.000
+então, vocês todos aqui estão no mesmo banco,
+
+02:56.000 --> 02:58.000
+enfim, data science, data analytics,
+
+02:58.000 --> 03:01.000
+mas, em geral, estão todos com os o mesmo do objetivo,
+
+03:01.000 --> 03:03.000
+tentando fazer a se transição e lá na frente,
+
+03:03.000 --> 03:06.000
+vocês vão ver que fazer esses láços vale a pena,
+
+03:06.000 --> 03:09.000
+e, para mim, tem uma vida, consigo, enfim,
+
+03:09.000 --> 03:12.000
+hoje em dia, graças a Deus do nível de conseguir
+
+03:12.000 --> 03:15.000
+rejeitar o ponto e da rádio porque não tem mais tempo,
+
+03:15.000 --> 03:20.000
+e consegue vocês vão ver que a rejeitidade do Brasil
+
+03:20.000 --> 03:22.000
+não é tão grande quando parece,
+
+03:22.000 --> 03:24.000
+então, a gente vê que tem muita gente ingressando
+
+03:24.000 --> 03:27.000
+mais o volume de posições também acompanham,
+
+03:27.000 --> 03:29.000
+então, quando vocês conseguem entregar,
+
+03:29.000 --> 03:31.000
+fazer uma coisa bem acaba criando,
+
+03:31.000 --> 03:34.000
+é uma rejeitidade, muito interessante que vocês vão usar
+
+03:34.000 --> 03:36.000
+por toda sua carreira.
+
+03:36.000 --> 03:41.000
+De Robes, já eu sou o Xbox, já fiz quase tudo nessa vida,
+
+03:41.000 --> 03:43.000
+já sou faixa preta e ajudou,
+
+03:43.000 --> 03:45.000
+já eu vou ver muito basket,
+
+03:45.000 --> 03:47.000
+agora eu gosto de velejar,
+
+03:47.000 --> 03:50.000
+o velejio aqui em Brasil e no lado para a mãe,
+
+03:50.000 --> 03:53.000
+então, é um Robe que meu pai tinha, e me passou,
+
+03:53.000 --> 03:56.000
+e gosto muito de história também,
+
+03:56.000 --> 03:59.000
+sou o corpo por história que é uma forma
+
+03:59.000 --> 04:02.000
+da esse contato com dados e a história tem como
+
+04:02.000 --> 04:05.000
+uma que a gente consegue aprender muito com o passado,
+
+04:05.000 --> 04:08.000
+então, uma China, a navegidade,
+
+04:08.000 --> 04:09.000
+sempre olha muito com o passado,
+
+04:09.000 --> 04:12.000
+para sair desistóricas e entender o que está conversando
+
+04:12.000 --> 04:15.000
+para prever o futuro ou fazer inferências aí sobre o presente,
+
+04:15.000 --> 04:19.000
+e acho que a história é um jeito muito legal também,
+
+04:19.000 --> 04:22.000
+da gente ver isso, só que em outro verente.
+
+04:22.000 --> 04:25.000
+E vamos falar um pouco então dos objetivos,
+
+04:25.000 --> 04:27.000
+vamos falar sobre as interessões que a gente vai ter,
+
+04:27.000 --> 04:29.000
+o longo aqui do Bustic Games,
+
+04:29.000 --> 04:33.000
+a gente vai passar sobre como tiradou e desigui as boas praias,
+
+04:33.000 --> 04:35.000
+então, pessoal que já estava perguntando
+
+04:35.000 --> 04:39.000
+como que a gente faz para tirar do ou desigui na aula,
+
+04:39.000 --> 04:42.000
+se é, enfim, pelo chai, então, a gente vai passar para tudo isso,
+
+04:42.000 --> 04:45.000
+vamos falar um pouco sobre o porquê o mercado de trabalhos
+
+04:45.000 --> 04:48.000
+crescitando e como está o cenário atual,
+
+04:48.000 --> 04:53.000
+só mensagem aqui para gravar, já estão gravando,
+
+04:53.000 --> 04:56.000
+e, entender também a diferença de habilidades
+
+04:56.000 --> 04:58.000
+que terá menos necessárias entre dados saem,
+
+04:58.000 --> 05:00.000
+se vê para a lística, então,
+
+05:00.000 --> 05:02.000
+então, entendo que para alguns esportos está muito claro,
+
+05:02.000 --> 05:06.000
+mas é importante a gente nivelado do mundo, deixar bem claro para que
+
+05:06.000 --> 05:08.000
+lá do lugar da taçã, e para a clave da ta' a liga,
+
+05:08.000 --> 05:10.000
+de descommoda-se complemento.
+
+05:10.000 --> 05:13.000
+E, por fim, vamos passar um pouco sobre as ferraments de aprendizado
+
+05:13.000 --> 05:16.000
+para que aqui a partir dessa primeira semana se eles consigam
+
+05:16.000 --> 05:21.000
+otimizar o tempo de estudo de vocês, então, vamos lá.
+
+05:21.000 --> 05:25.000
+É, é, a corno cronograma, que tem a gente falou o tipo de junho online,
+
+05:25.000 --> 05:28.000
+definição de expectativas, pros ou avenários,
+
+05:28.000 --> 05:30.000
+as boas praias que nos nos coste,
+
+05:30.000 --> 05:34.000
+a gente vai explicar como chegamos aqui,
+
+05:34.000 --> 05:37.000
+porque aqui, na estedidados e senticilação,
+
+05:37.000 --> 05:39.000
+estão valorizados hoje, e depois,
+
+05:39.000 --> 05:42.000
+a gente vai explicar um detalhe à diferença de ferramentas,
+
+05:42.000 --> 05:46.000
+de competências, de rotina, de uns senticidades,
+
+05:46.000 --> 05:49.000
+para não ajudar, vamos falar sobre a experiência aprendizado
+
+05:49.000 --> 05:52.000
+aqui na tripletem, como que vocês podam utilizar,
+
+05:52.000 --> 05:55.000
+e vamos entrar num top com que esse é um ponto novo,
+
+05:55.000 --> 05:58.000
+a primeira turma que a gente vai falar sobre isso,
+
+05:58.000 --> 06:01.000
+mas como usar aí, nos estudos,
+
+06:01.000 --> 06:03.000
+a gente sabe que já te apetem uma realidade,
+
+06:03.000 --> 06:06.000
+e é importante vocês saiba um comosá-lo,
+
+06:06.000 --> 06:08.000
+então, é um ferramentro incrível, você sabe,
+
+06:08.000 --> 06:11.000
+os amens ela, então, a gente vai falar um pouco disso aqui,
+
+06:11.000 --> 06:15.000
+e, por fim, vamos passar um pouco nas ferramentas do bootcamp,
+
+06:15.000 --> 06:20.000
+como que quais ferramentos vocês vão usar também
+
+06:20.000 --> 06:22.000
+para utilizar esse tempo de tudo de vocês,
+
+06:22.000 --> 06:24.000
+então, vamos passar em vídeo Hürby,
+
+06:24.000 --> 06:27.000
+que que eu jupter no tipo o que quais são as tarefas lá no o D&H,
+
+06:27.000 --> 06:30.000
+dentro da plataforma da tripletem.
+
+06:30.000 --> 06:31.000
+Então, vamos lá pessoal,
+
+06:31.000 --> 06:34.000
+o Partium tipo de reunião online.
+
+06:34.000 --> 06:36.000
+Hoje a gente está no aminário,
+
+06:36.000 --> 06:40.000
+os aminários aqui na turma de vocês vão acontecer toda a quarta-feira,
+
+06:40.000 --> 06:42.000
+aszenove horas, então,
+
+06:42.000 --> 06:44.000
+hoje, este problema é o link, mas esse poder,
+
+06:44.000 --> 06:46.000
+que está tranquilo, vamos começar azenove,
+
+06:46.000 --> 06:49.000
+aqui a gente vai trazer casos reais com a aplicação de conteúdo,
+
+06:49.000 --> 06:52.000
+então, a gente vai, a partir do conteúdo que vocês estão vendo,
+
+06:52.000 --> 06:56.000
+se é uma análise nos printes na plataforma da tripletem,
+
+06:56.000 --> 06:58.000
+a gente vai trazer aqui aplicação reais,
+
+06:58.000 --> 06:59.000
+então, mais legal,
+
+06:59.000 --> 07:01.000
+a gente vai se preparar para projetos,
+
+07:01.000 --> 07:03.000
+a gente vai falar claro sobre a impregabilidade,
+
+07:03.000 --> 07:04.000
+de mercados de trabalho,
+
+07:04.000 --> 07:07.000
+trocar a cidade também em momentos pontuais,
+
+07:07.000 --> 07:09.000
+vamos avançar em todos os detalhes,
+
+07:09.000 --> 07:13.000
+então, de repente, se a domota alguma dúvida popular,
+
+07:13.000 --> 07:16.000
+se a gente tem algo que a gente tem que aprofundar,
+
+07:16.000 --> 07:18.000
+a gente está sentindo algum defis que vocês têm,
+
+07:18.000 --> 07:21.000
+temos de conteúdo, e a gente vai fazer isso.
+
+07:21.000 --> 07:23.000
+E, por fim, também, se necessário,
+
+07:23.000 --> 07:25.000
+se a gente vê que está,
+
+07:25.000 --> 07:27.000
+esses precisos de um de um refus,
+
+07:27.000 --> 07:29.000
+a gente vai fazer uma prática adicional,
+
+07:29.000 --> 07:31.000
+então, que se for necessariamente,
+
+07:31.000 --> 07:33.000
+vai marcar mais de um webinar,
+
+07:33.000 --> 07:35.000
+por semana também.
+
+07:35.000 --> 07:37.000
+Esse são as um, o Ariel,
+
+07:37.000 --> 07:41.000
+já mandou o link para vocês no grupo,
+
+07:41.000 --> 07:44.000
+eu vou mandar que depois de novo um chat,
+
+07:44.000 --> 07:45.000
+mas se já podem mandar,
+
+07:45.000 --> 07:47.000
+marcando comigo, alguns já marcaram,
+
+07:47.000 --> 07:49.000
+antes já fiz alguns reuniões,
+
+07:50.000 --> 07:53.000
+e vamos, se vai ser um momento que nesse primeiro,
+
+07:53.000 --> 07:54.000
+não é que a gente vai se conhecer,
+
+07:54.000 --> 07:56.000
+eu vou ver um pouco mais sobre a carreira de vocês,
+
+07:56.000 --> 07:58.000
+em orar fixos que seves,
+
+07:58.000 --> 08:01.000
+eu hoje no dia não tenho alguns projetos,
+
+08:01.000 --> 08:03.000
+trabalho também, no carinho for,
+
+08:03.000 --> 08:04.000
+mas meu orar é bem flexível,
+
+08:04.000 --> 08:06.000
+eu tenho algumas ruas ao longo de dia,
+
+08:06.000 --> 08:07.000
+mas em geral,
+
+08:07.000 --> 08:09.000
+pode ficar no orar,
+
+08:09.000 --> 08:10.000
+mas flexível, lá para vocês,
+
+08:10.000 --> 08:13.000
+então, acho que dentro aqui dos tutores da tipotem,
+
+08:13.000 --> 08:16.000
+eu sou um dos que vocês contaguem o orar mais flexível,
+
+08:16.000 --> 08:18.000
+ali para vocês, então,
+
+08:19.000 --> 08:20.000
+fica em amontat,
+
+08:20.000 --> 08:22.000
+vamos falar sobre, posso falar bastante sobre carreira,
+
+08:22.000 --> 08:23.000
+entregar a vida às coisas,
+
+08:23.000 --> 08:25.000
+então, eu tenho bastante experiência,
+
+08:25.000 --> 08:27.000
+e, em tempos carreira,
+
+08:27.000 --> 08:28.000
+mas principalmente,
+
+08:28.000 --> 08:29.000
+acho que diferentes,
+
+08:29.000 --> 08:32.000
+muitos pessoas que sempre ficaram focadas
+
+08:32.000 --> 08:33.000
+e sem os sonalhos,
+
+08:33.000 --> 08:35.000
+eu te, por todo lado,
+
+08:35.000 --> 08:38.000
+então, com isso bem as competências de um profissional,
+
+08:38.000 --> 08:40.000
+e o aparte se pegue em vários bolsos aceletivos,
+
+08:40.000 --> 08:42.000
+contratando, e sempre contratado,
+
+08:42.000 --> 08:44.000
+também, então, vamos trocar esse daiva,
+
+08:44.000 --> 08:45.000
+é ser muito legal,
+
+08:46.000 --> 08:47.000
+e, também,
+
+08:47.000 --> 08:48.000
+tirado,
+
+08:48.000 --> 08:49.000
+esses de conteúdo e do projeto,
+
+08:49.000 --> 08:50.000
+porque, mais pra frente,
+
+08:50.000 --> 08:51.000
+a gente vai ter esse momento,
+
+08:51.000 --> 08:52.000
+também,
+
+08:52.000 --> 08:53.000
+sem te quiser entrar no detalhe,
+
+08:53.000 --> 08:54.000
+em alguns pós-pecísicos,
+
+08:54.000 --> 08:55.000
+como um ouro,
+
+08:55.000 --> 08:56.000
+e,
+
+08:56.000 --> 08:57.000
+pessoal, outra coisa que você,
+
+08:57.000 --> 08:58.000
+em sentido muito,
+
+08:58.000 --> 08:59.000
+vocês aproveitaram,
+
+08:59.000 --> 09:00.000
+são as salas de estudo,
+
+09:00.000 --> 09:02.000
+com colando, né,
+
+09:02.000 --> 09:04.000
+então, lá no discóxito,
+
+09:04.000 --> 09:06.000
+existem a sala de colando,
+
+09:06.000 --> 09:07.000
+que é um canal de áudio,
+
+09:07.000 --> 09:08.000
+então, não se preocupam,
+
+09:08.000 --> 09:10.000
+não, não precisa nos tracarinhas,
+
+09:10.000 --> 09:11.000
+o canal de áudio,
+
+09:11.000 --> 09:14.000
+é fundamental para o trapaçado o queis,
+
+09:14.000 --> 09:15.000
+então, às vezes,
+
+09:15.000 --> 09:16.000
+você está estudando,
+
+09:16.000 --> 09:17.000
+que nenhum pessoal
+
+09:17.000 --> 09:18.000
+fez já falou,
+
+09:18.000 --> 09:19.000
+hoje, que ficou travado,
+
+09:19.000 --> 09:20.000
+o último atenativo,
+
+09:20.000 --> 09:22.000
+é você entrar lá no canal de colando,
+
+09:22.000 --> 09:23.000
+geralmente,
+
+09:23.000 --> 09:24.000
+vai ter alguém,
+
+09:24.000 --> 09:25.000
+algo,
+
+09:25.000 --> 09:26.000
+profissional,
+
+09:26.000 --> 09:27.000
+muito capastáveis,
+
+09:27.000 --> 09:28.000
+todos aqui,
+
+09:28.000 --> 09:29.000
+o que eu te potei também,
+
+09:29.000 --> 09:30.000
+é um lugar incrível,
+
+09:30.000 --> 09:32.000
+que vão estar para um froteir ajudar.
+
+09:32.000 --> 09:33.000
+E, quando você está lá,
+
+09:33.000 --> 09:34.000
+também,
+
+09:34.000 --> 09:35.000
+você abre espaço,
+
+09:35.000 --> 09:36.000
+para alguma outra pessoa entrar,
+
+09:36.000 --> 09:37.000
+tirar uma dúvida,
+
+09:37.000 --> 09:38.000
+você pode entender,
+
+09:38.000 --> 09:39.000
+quando o dúvida dela,
+
+09:39.000 --> 09:40.000
+então,
+
+09:40.000 --> 09:41.000
+fica algo muito interessante,
+
+09:41.000 --> 09:42.000
+também,
+
+09:42.000 --> 09:43.000
+pessoal,
+
+09:43.000 --> 09:45.000
+de ter alguém,
+
+09:45.000 --> 09:47.000
+você vai acabar aproveitando muito o colo.
+
+09:47.000 --> 09:49.000
+Então,
+
+09:49.000 --> 09:50.000
+quando você decide,
+
+09:59.800 --> 10:01.000
+vai ver no qual ele vai estar acontecendo.
+
+10:01.000 --> 10:02.000
+E, ali fica mais fácil,
+
+10:02.000 --> 10:04.000
+até essa troca.
+
+10:04.000 --> 10:06.000
+Parte dois,
+
+10:06.000 --> 10:07.000
+vamos lá,
+
+10:07.000 --> 10:09.000
+definição das expectativas do
+
+10:09.000 --> 10:11.000
+dúvida é binários,
+
+10:11.000 --> 10:12.000
+como que está acontecendo,
+
+10:12.000 --> 10:14.000
+É o ano, pessoal.
+
+10:14.000 --> 10:17.000
+Oi, eu ia no deslubei.
+
+10:17.000 --> 10:21.000
+Não, eu ia justamente jogar até o pra cá quando eu tô conseguindo eu chat.
+
+10:21.000 --> 10:26.000
+E a perguntação é colonica, é colonita lá no Discord.
+
+10:26.000 --> 10:28.000
+E aí, o grupo.
+
+10:28.000 --> 10:30.000
+Vamos mostrar aqui para vocês agora.
+
+10:30.000 --> 10:33.000
+Deixa eu abrir que não é Discord.
+
+10:33.000 --> 10:35.000
+Ah, aqui pessoal.
+
+10:35.000 --> 10:40.000
+Aqui no Discord, então aqui aparece muita coisa.
+
+10:40.000 --> 10:42.000
+Não, eu não vou falar isso em um fotele pra nós.
+
+10:42.000 --> 10:46.000
+Não, vou paticar o baixo que eu tô assistindo aqui, obrigado.
+
+10:52.000 --> 10:54.000
+Então, agora vai.
+
+10:57.000 --> 10:59.000
+Exatamente, mandaram aqui em chance.
+
+11:01.000 --> 11:03.000
+Estou vendo agora?
+
+11:08.000 --> 11:09.000
+Sim.
+
+11:09.000 --> 11:11.000
+Vou. Vou mostrar.
+
+11:11.000 --> 11:16.000
+Então aqui, pessoal, eu recomendo aqui tem muita informação até as vezes pra chaves, o alto,
+
+11:16.000 --> 11:20.000
+porque ele fica lá embaixo que eu colorne em data.
+
+11:20.000 --> 11:23.000
+Mas o que eu recomendo para vocês?
+
+11:23.000 --> 11:25.000
+É só bem aqui, eu conferir que canais.
+
+11:25.000 --> 11:28.000
+Então já tem esse buscador aqui, fica muito mais fácil.
+
+11:28.000 --> 11:33.000
+Se eu sou de procurar data, já provavelmente vai aparecer para vocês.
+
+11:33.000 --> 11:35.000
+Aqui tem mais coisa para mim.
+
+11:35.000 --> 11:36.000
+Mas ele tá aqui.
+
+11:36.000 --> 11:40.000
+Se pesquisar colorne, então, mais fácil ainda.
+
+11:40.000 --> 11:46.000
+Então, a sovinha aqui, conferir que canais no Discord e procurar colorne,
+
+11:46.000 --> 11:51.000
+então quando vocês entraram lá aqui, então agora tem um pedro,
+
+11:51.000 --> 11:55.000
+tem a Stefan de deftalatia numa dúvida, se você pode ver, tá rouando lá.
+
+11:55.000 --> 11:56.000
+Então, é o canal de áudio.
+
+11:56.000 --> 11:58.000
+Uma teus outros que você contala também.
+
+11:58.000 --> 12:02.000
+Então, se tem a vontade pra entrar lá, como quiser tirar dúvida,
+
+12:02.000 --> 12:05.000
+vocês podem ver os horários de estrutores também,
+
+12:05.000 --> 12:08.000
+que vocês conseguem pegar um tempinho de retirar a dúvida,
+
+12:08.000 --> 12:11.000
+tem uma teus mais muitas vezes até um aluno, não é personalizado.
+
+12:11.000 --> 12:14.000
+Então, é uma boa, aproveita esse recurso também.
+
+12:16.000 --> 12:19.000
+E voltando aqui para a apresentação,
+
+12:21.000 --> 12:23.000
+falar que agora o dos ordinários,
+
+12:23.000 --> 12:27.000
+dos ordinários, a gente vai durar aqui 45, 90 minutos,
+
+12:27.000 --> 12:30.000
+pode ser que a gente passa também, não tem problema.
+
+12:30.000 --> 12:33.000
+Vamos ser dois vinares por esse print, então,
+
+12:33.000 --> 12:36.000
+nessa primeira esprente que a gente vai dar essa introdução,
+
+12:36.000 --> 12:41.000
+e na semana que vem a gente vai passar mais no conteúdo,
+
+12:41.000 --> 12:45.000
+vou metrar realmente botar a mão na massa, vou estar no pai,
+
+12:45.000 --> 12:48.000
+e o acesso vai ser link do Google Misch,
+
+12:48.000 --> 12:52.000
+enviado pelo Code, pode ficar para com os que eu acaso do site,
+
+12:52.000 --> 12:54.000
+uma gravação e materiais também,
+
+12:54.000 --> 12:56.000
+vou compartilhar tudo lá,
+
+12:56.000 --> 12:58.000
+por uma atalviva, 4 tereas,
+
+12:58.000 --> 13:00.000
+às 8, 30,
+
+13:00.000 --> 13:02.000
+aqui, está 8, 30, vamos definir,
+
+13:02.000 --> 13:04.000
+seja 8, 3 é 9, mas se inscreve tranquilos,
+
+13:04.000 --> 13:06.000
+que também vai lá no invio do ariel,
+
+13:06.000 --> 13:09.000
+semana que vem, e vamos passar por isso,
+
+13:09.000 --> 13:11.000
+contém o do extra, live code,
+
+13:11.000 --> 13:14.000
+de exemplos e dúvidas sobre o tema da esprente também,
+
+13:14.000 --> 13:16.000
+quem falo, tudo será grava.
+
+13:16.000 --> 13:18.000
+E, participação pessoal,
+
+13:18.000 --> 13:20.000
+fica em avontais para levantar a mão,
+
+13:20.000 --> 13:22.000
+então acho que chegou esse momento,
+
+13:22.000 --> 13:24.000
+não existe em levantar a mão,
+
+13:24.000 --> 13:26.000
+eu vou estar que focado na tela da pentação,
+
+13:26.000 --> 13:27.000
+e quando eu virar a cabeça,
+
+13:27.000 --> 13:30.000
+é que eu estou olhando aqui para o chat,
+
+13:30.000 --> 13:32.000
+então, fica em avontais,
+
+13:32.000 --> 13:33.000
+só levantar a mão,
+
+13:33.000 --> 13:34.000
+porque quiser mandar,
+
+13:34.000 --> 13:35.000
+mensagem no chat também,
+
+13:35.000 --> 13:37.000
+agora eu já estou coilhando a beta aqui do ar,
+
+13:37.000 --> 13:40.000
+e se você também não puder entrar na seção,
+
+13:40.000 --> 13:41.000
+em algum avionário futuro,
+
+13:41.000 --> 13:42.000
+mas quiser,
+
+13:42.000 --> 13:44.000
+e já tem alguma dúvida estrutural,
+
+13:44.000 --> 13:45.000
+é sobre o tema,
+
+13:45.000 --> 13:46.000
+hoje vêm para mim,
+
+13:46.000 --> 13:47.000
+no privado,
+
+13:47.000 --> 13:48.000
+ou bem-fim,
+
+13:48.000 --> 13:50.000
+lá no mesmo grupo,
+
+13:50.000 --> 13:52.000
+do datumas de você,
+
+13:52.000 --> 13:55.000
+é isso que eu consigo pegar e trazer aqui,
+
+13:55.000 --> 13:57.000
+tranquilamente para nossa aula.
+
+13:57.000 --> 13:59.000
+E não existe pergunta ruim,
+
+13:59.000 --> 14:00.000
+por favor, não perguntar.
+
+14:00.000 --> 14:02.000
+Então, não existe pergunta boa,
+
+14:02.000 --> 14:03.000
+igual pessoal falava,
+
+14:03.000 --> 14:05.000
+não existe, tem perguntar,
+
+14:05.000 --> 14:06.000
+pode ficar tranquilos,
+
+14:06.000 --> 14:07.000
+não existe, não existe,
+
+14:07.000 --> 14:08.000
+o básico,
+
+14:08.000 --> 14:10.000
+é importante que a gente construa
+
+14:10.000 --> 14:11.000
+nosso básico conhecimento bem,
+
+14:11.000 --> 14:12.000
+e lá embaixo,
+
+14:12.000 --> 14:14.000
+para que quando a gente for crescer,
+
+14:14.000 --> 14:15.000
+chegarmos,
+
+14:15.000 --> 14:16.000
+mas com o blacks,
+
+14:16.000 --> 14:17.000
+a gente tem já tudo estruturado.
+
+14:17.000 --> 14:18.000
+Então, fica a avontais,
+
+14:18.000 --> 14:19.000
+bem-vindo,
+
+14:19.000 --> 14:21.000
+se não for aqui,
+
+14:21.000 --> 14:24.000
+se não está a vontade no meio do outro pessoal,
+
+14:24.000 --> 14:26.000
+entra no canal de áudio,
+
+14:26.000 --> 14:28.000
+manda mensagem para mim,
+
+14:28.000 --> 14:29.000
+na mensagem para o alieo,
+
+14:29.000 --> 14:30.000
+a gente marcou,
+
+14:30.000 --> 14:32.000
+então, aproveitem os recursos,
+
+14:32.000 --> 14:35.000
+e isso consegue ter algo que é diferente
+
+14:35.000 --> 14:37.000
+em algum de game de uma base à doação,
+
+14:37.000 --> 14:39.000
+a adulta e com essa proximidade,
+
+14:39.000 --> 14:40.000
+que vocês conseguem ter,
+
+14:40.000 --> 14:41.000
+com quem está junto ali,
+
+14:41.000 --> 14:43.000
+vai se quando processe do caçou no ar,
+
+14:43.000 --> 14:44.000
+vocês.
+
+14:45.000 --> 14:47.000
+É próximo ponto,
+
+14:47.000 --> 14:49.000
+vamos lá falar de discóloga.
+
+14:54.000 --> 14:56.000
+Um discólogo pessoal,
+
+14:56.000 --> 14:58.000
+não discólogo,
+
+14:58.000 --> 15:00.000
+sempre vocês foram levando a dúvida
+
+15:00.000 --> 15:01.000
+por discóloga,
+
+15:01.000 --> 15:03.000
+seja lá no chat do vídeo,
+
+15:03.000 --> 15:05.000
+ou no próprio color,
+
+15:05.000 --> 15:07.000
+é importante vocês terem algumas coisas
+
+15:07.000 --> 15:09.000
+claras que é qual esse print você estão,
+
+15:09.000 --> 15:10.000
+no caso agora,
+
+15:10.000 --> 15:11.000
+que está aqui na primeira print,
+
+15:11.000 --> 15:12.000
+para ir tombássico,
+
+15:12.000 --> 15:15.000
+e de qual capítulo eles são é a dúvida de vocês,
+
+15:15.000 --> 15:17.000
+então é o capítulo aqui,
+
+15:17.000 --> 15:18.000
+esse ponto,
+
+15:18.000 --> 15:20.000
+1, 2, 3, 4 e a lisa,
+
+15:20.000 --> 15:21.000
+é uma homie,
+
+15:21.000 --> 15:23.000
+então é a seleção de modificação de listas,
+
+15:23.000 --> 15:26.000
+eu for um da print,
+
+15:26.000 --> 15:28.000
+vocês podem usar para as dúvidas a 5 anos,
+
+15:28.000 --> 15:31.000
+e o color não crenhe de falou para as dúvidas ao vivo,
+
+15:31.000 --> 15:33.000
+então aproveitar de um momento,
+
+15:33.000 --> 15:34.000
+com estrutores,
+
+15:34.000 --> 15:36.000
+às vezes, vocês conseguem entender no tema,
+
+15:36.000 --> 15:38.000
+e nas dúvidas a 5 anos,
+
+15:38.000 --> 15:39.000
+vocês também as estão com uma dúvida,
+
+15:39.000 --> 15:40.000
+ponto lá,
+
+15:40.000 --> 15:41.000
+ou não é na do gente,
+
+15:41.000 --> 15:43.000
+nada que vai te bloquear,
+
+15:43.000 --> 15:46.000
+então você manda ali que a gente responde depois,
+
+15:46.000 --> 15:48.000
+boas práticas do discog,
+
+15:48.000 --> 15:49.000
+aqui,
+
+15:49.000 --> 15:52.000
+a gente é exatamente que a gente falou,
+
+15:52.000 --> 15:54.000
+aqui é o print,
+
+15:54.000 --> 15:56.000
+aqui é o plataforma de conteúdo,
+
+15:56.000 --> 15:57.000
+e cada esse print,
+
+15:57.000 --> 15:59.000
+a gente consegue enviar as dúvidas lá,
+
+15:59.000 --> 16:01.000
+então os 21, os 22,
+
+16:01.000 --> 16:02.000
+e aqui a gente vai,
+
+16:02.000 --> 16:03.000
+e em cada uma modelas,
+
+16:03.000 --> 16:05.000
+a gente vai construir uma nova postagem,
+
+16:05.000 --> 16:07.000
+aqui também o areal,
+
+16:07.000 --> 16:08.000
+o joga,
+
+16:08.000 --> 16:09.000
+no chat,
+
+16:09.000 --> 16:10.000
+tem uma bem claro,
+
+16:10.000 --> 16:11.000
+como tirar dúvidas,
+
+16:11.000 --> 16:12.000
+e vocês nem aqui,
+
+16:12.000 --> 16:14.000
+mas o nova postagem,
+
+16:14.000 --> 16:15.000
+e aí é aquilo que a gente falou,
+
+16:15.000 --> 16:16.000
+aqui no último slide,
+
+16:16.000 --> 16:17.000
+só lá,
+
+16:17.000 --> 16:19.000
+com a gente de vocês,
+
+16:19.000 --> 16:21.000
+que, naturalmente, a gente vai ser aqui,
+
+16:21.000 --> 16:23.000
+onde vocês, em qual foram vocês no botar,
+
+16:23.000 --> 16:24.000
+e aí,
+
+16:24.000 --> 16:26.000
+o capítulo e a lição,
+
+16:26.000 --> 16:27.000
+para que fique claro,
+
+16:27.000 --> 16:29.000
+ou se vão em casa de um notebook,
+
+16:29.000 --> 16:31.000
+só botar o código,
+
+16:31.000 --> 16:33.000
+o que teve de errado,
+
+16:33.000 --> 16:35.000
+e boas de ter sido o caso de resiste,
+
+16:35.000 --> 16:36.000
+e a gente vai ver o botão,
+
+16:36.000 --> 16:37.000
+ao arrelele,
+
+16:37.000 --> 16:39.000
+o caminho e o link dos exercícios,
+
+16:39.000 --> 16:40.000
+e,
+
+16:40.000 --> 16:41.000
+outro ponto também bem legal,
+
+16:41.000 --> 16:43.000
+marketing dúvidados,
+
+16:43.000 --> 16:45.000
+esse nomezinho muito bom,
+
+16:45.000 --> 16:46.000
+que a gente consegue,
+
+16:46.000 --> 16:47.000
+todo mundo,
+
+16:47.000 --> 16:49.000
+todos os estrutores e tutores vão conseguir,
+
+16:49.000 --> 16:50.000
+vai aparecer no ficaçãozinho,
+
+16:50.000 --> 16:51.000
+então, as vezes,
+
+16:51.000 --> 16:52.000
+a gente está lá,
+
+16:52.000 --> 16:54.000
+e consegue responder ele na hora,
+
+16:54.000 --> 16:55.000
+então,
+
+16:55.000 --> 16:56.000
+esse algo bem prático também,
+
+16:56.000 --> 16:58.000
+vai que está se ele estar vira de vocês,
+
+16:58.000 --> 17:00.000
+parte 4,
+
+17:00.000 --> 17:02.000
+vai metrar um pouco aqui,
+
+17:02.000 --> 17:04.000
+na tempestade perfeita de dados,
+
+17:04.000 --> 17:06.000
+e vamos entender como eu vim para aqui,
+
+17:06.000 --> 17:08.000
+como vocês vieram para aqui,
+
+17:08.000 --> 17:10.000
+por que a gente vai entrar
+
+17:10.000 --> 17:12.000
+avar com essa loucura que é dados?
+
+17:12.000 --> 17:13.000
+Então, pessoal,
+
+17:13.000 --> 17:15.000
+muita coisa que a gente vai usar
+
+17:15.000 --> 17:16.000
+o longo do esse bootcamp,
+
+17:16.000 --> 17:17.000
+e não é novidade,
+
+17:17.000 --> 17:18.000
+as ferramentas,
+
+17:18.000 --> 17:19.000
+para a sensibilidade de dados,
+
+17:19.000 --> 17:20.000
+praticamente todos,
+
+17:20.000 --> 17:22.000
+tirando algo que é mais ali,
+
+17:22.000 --> 17:23.000
+topo da arte,
+
+17:23.000 --> 17:26.000
+existem a mais de 50, 70.
+
+17:26.000 --> 17:27.000
+Então,
+
+17:27.000 --> 17:29.000
+tiver a estatística do século XVII,
+
+17:29.000 --> 17:31.000
+primeiro a regressão linear,
+
+17:31.000 --> 17:33.000
+foi do começo do século XVII,
+
+17:33.000 --> 17:34.000
+foi o 185,
+
+17:34.000 --> 17:36.000
+a teoria das redes-neurais,
+
+17:36.000 --> 17:38.000
+desde a digno guerra mundial,
+
+17:38.000 --> 17:39.000
+o meu nome é X43,
+
+17:39.000 --> 17:40.000
+então,
+
+17:40.000 --> 17:41.000
+redes-neurais,
+
+17:41.000 --> 17:44.000
+tudo que alimenta as LNMs,
+
+17:44.000 --> 17:45.000
+a IAR,
+
+17:45.000 --> 17:46.000
+a gente chama de origenquiação
+
+17:46.000 --> 17:48.000
+redes-neurais no fundo,
+
+17:48.000 --> 17:49.000
+na base,
+
+17:49.000 --> 17:50.000
+então,
+
+17:50.000 --> 17:51.000
+essa tecnologia existe,
+
+17:51.000 --> 17:52.000
+ele é praticamente o 80 anos,
+
+17:52.000 --> 17:53.000
+a árvore de decisão,
+
+17:53.000 --> 17:55.000
+de 1953,
+
+17:55.000 --> 17:56.000
+e a arvore de decisão também,
+
+17:56.000 --> 17:57.000
+todos os algoritmos,
+
+17:57.000 --> 17:59.000
+de previsão hoje,
+
+17:59.000 --> 18:00.000
+está-lo da arte,
+
+18:00.000 --> 18:02.000
+são basegados na árvore de decisão,
+
+18:02.000 --> 18:05.000
+e também existe a mais de 70 anos,
+
+18:05.000 --> 18:06.000
+então,
+
+18:06.000 --> 18:07.000
+de poder ver como
+
+18:07.000 --> 18:09.000
+essa tecnologia existe
+
+18:09.000 --> 18:11.000
+muito tempo, e isso tem um tombro,
+
+18:11.000 --> 18:13.000
+porque que não existe
+
+18:13.000 --> 18:14.000
+sensibilidade,
+
+18:14.000 --> 18:15.000
+é analidade,
+
+18:15.000 --> 18:17.000
+não é uma profissão do que o momento
+
+18:17.000 --> 18:19.000
+desde a década de ser sempre,
+
+18:19.000 --> 18:21.000
+e a verdade é que não havia
+
+18:21.000 --> 18:22.000
+um dado para isso,
+
+18:22.000 --> 18:23.000
+então,
+
+18:23.000 --> 18:24.000
+a gente tem essa tecnologia
+
+18:24.000 --> 18:25.000
+mais a gente não tinha dado,
+
+18:25.000 --> 18:26.000
+a computação
+
+18:26.000 --> 18:27.000
+em servidor físico,
+
+18:27.000 --> 18:29.000
+a restriamento cara e complexa
+
+18:29.000 --> 18:30.000
+no século XX,
+
+18:30.000 --> 18:32.000
+e neste século XX,
+
+18:32.000 --> 18:33.000
+então,
+
+18:33.000 --> 18:35.000
+eu tive uma espelha de
+
+18:35.000 --> 18:36.000
+portundar de trabalhos,
+
+18:36.000 --> 18:37.000
+sindas,
+
+18:37.000 --> 18:38.000
+mequinhos e do linkatose,
+
+18:38.000 --> 18:39.000
+e eu lembro que,
+
+18:39.000 --> 18:41.000
+isso dá exergando da trás,
+
+18:41.000 --> 18:43.000
+ainda tinha o senhor verores físicos,
+
+18:43.000 --> 18:45.000
+então, e sem eu existi muito lugar,
+
+18:45.000 --> 18:46.000
+então,
+
+18:46.000 --> 18:48.000
+sei lá no escritoro,
+
+18:48.000 --> 18:49.000
+ou de ser trabalhável,
+
+18:49.000 --> 18:51.000
+tinha uma sada que era o seu
+
+18:51.000 --> 18:52.000
+do físico,
+
+18:52.000 --> 18:53.000
+para armazenar todo o dado,
+
+18:53.000 --> 18:54.000
+não é empresa,
+
+18:54.000 --> 18:55.000
+e sendo físico,
+
+18:55.000 --> 18:56.000
+obviamente,
+
+18:56.000 --> 18:57.000
+muito caro,
+
+18:57.000 --> 18:59.000
+para manter algo muito complexo,
+
+18:59.000 --> 19:00.000
+e as companhias não
+
+19:00.000 --> 19:01.000
+colocavam tão sada,
+
+19:01.000 --> 19:03.000
+que armazenar era caro e complexo,
+
+19:03.000 --> 19:04.000
+então,
+
+19:04.000 --> 19:05.000
+se queria aumentar a servidor,
+
+19:05.000 --> 19:06.000
+que custos gigantesca,
+
+19:06.000 --> 19:08.000
+como se fosse investir uma obra,
+
+19:08.000 --> 19:09.000
+então,
+
+19:09.000 --> 19:11.000
+era algo muito complexo,
+
+19:11.000 --> 19:13.000
+e as empresas não tinham também
+
+19:13.000 --> 19:14.000
+pontos de contato,
+
+19:14.000 --> 19:15.000
+então,
+
+19:15.000 --> 19:16.000
+não era tudo digitalizado,
+
+19:16.000 --> 19:17.000
+igual a eu,
+
+19:17.000 --> 19:18.000
+hoje em dia,
+
+19:18.000 --> 19:19.000
+você consegue ter esses vários momentos
+
+19:19.000 --> 19:21.000
+para cartausos pontos de contato.
+
+19:21.000 --> 19:22.000
+Mas, mesmo a partir do momento,
+
+19:22.000 --> 19:24.000
+a gente conseguiu ter esse ponto de contato,
+
+19:24.000 --> 19:26.000
+como se a gente for pegar nenhuma referência,
+
+19:26.000 --> 19:27.000
+para quando Facebook,
+
+19:27.000 --> 19:29.000
+ou que começou a galera do o Rucult,
+
+19:29.000 --> 19:30.000
+por exemplo,
+
+19:30.000 --> 19:31.000
+pegou essa época,
+
+19:31.000 --> 19:33.000
+o Rucult não armazenava,
+
+19:33.000 --> 19:35.000
+tudo o que você fazia,
+
+19:35.000 --> 19:36.000
+então,
+
+19:36.000 --> 19:37.000
+quando você jogava,
+
+19:37.000 --> 19:38.000
+clicava naquela comunidade,
+
+19:38.000 --> 19:40.000
+ele não armazenava simplesmente,
+
+19:40.000 --> 19:41.000
+porque sempre fosse fazer isso
+
+19:41.000 --> 19:42.000
+naquela época,
+
+19:42.000 --> 19:43.000
+o custo seria,
+
+19:43.000 --> 19:44.000
+imagina,
+
+19:44.000 --> 19:47.000
+o Facebook começou a fazer isso,
+
+19:47.000 --> 19:48.000
+não tem ideia ali,
+
+19:48.000 --> 19:49.000
+exatamente no tempo,
+
+19:49.000 --> 19:50.000
+mas ele começou a fazer isso,
+
+19:50.000 --> 19:51.000
+a partir ali,
+
+19:51.000 --> 19:53.000
+eu diria pelo menos de 2010,
+
+19:53.000 --> 19:54.000
+pode ser que,
+
+19:54.000 --> 19:55.000
+antes,
+
+19:55.000 --> 19:56.000
+então hoje em dia,
+
+19:56.000 --> 19:58.000
+todas as movimentações que você faz
+
+19:58.000 --> 19:59.000
+não fez se book,
+
+19:59.000 --> 20:00.000
+ele dá armazenava
+
+20:00.000 --> 20:02.000
+e guardam em bancos de dados,
+
+20:02.000 --> 20:04.000
+para utilizar algo no fogo.
+
+20:04.000 --> 20:05.000
+Então,
+
+20:05.000 --> 20:06.000
+digamos, isso não existe,
+
+20:06.000 --> 20:07.000
+porque era caro e complexo,
+
+20:07.000 --> 20:09.000
+as empresas não faziam.
+
+20:09.000 --> 20:11.000
+O que aconteceu de lá para cá,
+
+20:11.000 --> 20:13.000
+a computação em movem,
+
+20:13.000 --> 20:15.000
+foi ganhando potencial,
+
+20:15.000 --> 20:16.000
+e expandindo,
+
+20:16.000 --> 20:18.000
+porque obviamente não faz sentido,
+
+20:18.000 --> 20:20.000
+a gente tem servo físico,
+
+20:20.000 --> 20:21.000
+esse trampor aqui dentro,
+
+20:21.000 --> 20:23.000
+se alguém pode ter esse em lugar
+
+20:23.000 --> 20:24.000
+para a gente e eu posso,
+
+20:24.000 --> 20:26.000
+pagar só pelo que eu uso,
+
+20:26.000 --> 20:27.000
+então,
+
+20:27.000 --> 20:28.000
+é isso que aconteceu,
+
+20:28.000 --> 20:29.000
+essa movimentação,
+
+20:29.000 --> 20:30.000
+concentra o servidor,
+
+20:30.000 --> 20:31.000
+tirar,
+
+20:31.000 --> 20:33.000
+ser do físico e jogar para tal da movement,
+
+20:33.000 --> 20:34.000
+a gente vai entender também
+
+20:34.000 --> 20:35.000
+que aqui é a movement,
+
+20:35.000 --> 20:38.000
+mas essa foi a ideia da das componícias,
+
+20:38.000 --> 20:40.000
+a fazer isso e alguns componícias
+
+20:40.000 --> 20:42.000
+a nós um Google e uma Christophia
+
+20:42.000 --> 20:44.000
+investindo pesado nisso,
+
+20:44.000 --> 20:47.000
+e isso fez com que o nosso potencial
+
+20:47.000 --> 20:49.000
+de processados escalasse,
+
+20:49.000 --> 20:50.000
+então,
+
+20:50.000 --> 20:52.000
+essa é a tempestade perfecto
+
+20:52.000 --> 20:54.000
+para a gente chegar como a gente chegou aqui,
+
+20:54.000 --> 20:56.000
+a outro volão de dados,
+
+20:56.000 --> 20:57.000
+hoje tudo é rastrado,
+
+20:57.000 --> 20:59.000
+porque a gente consegue amazer
+
+20:59.000 --> 21:00.000
+na tudo em mando de dados,
+
+21:00.000 --> 21:03.000
+como a computação muito performática,
+
+21:03.000 --> 21:04.000
+e barato,
+
+21:07.000 --> 21:09.000
+pente um core 3,
+
+21:09.000 --> 21:11.000
+então era com que os processadores
+
+21:11.000 --> 21:12.000
+com um 2 cores,
+
+21:12.000 --> 21:14.000
+quando saiu o processador do core,
+
+21:14.000 --> 21:15.000
+foi uma novidade hoje,
+
+21:15.000 --> 21:18.000
+com o core processador 10, 6, 8 cores,
+
+21:18.000 --> 21:19.000
+então,
+
+21:19.000 --> 21:20.000
+e inclusive,
+
+21:20.000 --> 21:21.000
+quando vocês vão,
+
+21:21.000 --> 21:23.000
+vocês vão conhecer esses podem trabalhar hoje,
+
+21:23.000 --> 21:24.000
+hoje eu já usei,
+
+21:24.000 --> 21:26.000
+é 128 gigas de memória,
+
+21:26.000 --> 21:27.000
+ao podão um porjo,
+
+21:27.000 --> 21:29.000
+então quando você vai trabalhar no vinguece
+
+21:29.000 --> 21:31.000
+consegue escolher,
+
+21:31.000 --> 21:33.000
+de acordo com o que você precisa,
+
+21:33.000 --> 21:35.000
+o computador que você causar,
+
+21:35.000 --> 21:36.000
+então, isso é incrível,
+
+21:36.000 --> 21:38.000
+a movementa parece a responsabilidade,
+
+21:38.000 --> 21:41.000
+então ela traz essa computação econômica e barato,
+
+21:41.000 --> 21:43.000
+e as ferramentas que a gente trouxe no ano comércio,
+
+21:43.000 --> 21:44.000
+que já existem,
+
+21:44.000 --> 21:48.000
+a mais de 50, 60,
+
+21:48.000 --> 21:49.000
+ou menos,
+
+21:49.000 --> 21:50.000
+praticamente,
+
+21:50.000 --> 21:51.000
+as rede neurais,
+
+21:51.000 --> 21:52.000
+ou a bori time já existia,
+
+21:52.000 --> 21:55.000
+mas como fazer um algoritmo de rede neurual,
+
+21:55.000 --> 21:56.000
+por exemplo,
+
+21:56.000 --> 21:57.000
+sem minha base de dados,
+
+21:57.000 --> 21:59.000
+é um conjunto de maros tritos físicos,
+
+21:59.000 --> 22:00.000
+o planilha,
+
+22:00.000 --> 22:02.000
+planilhas dos últimos 20 anos,
+
+22:02.000 --> 22:03.000
+então,
+
+22:03.000 --> 22:04.000
+então,
+
+22:04.000 --> 22:06.000
+precisava a mais é na cidade digitalmente,
+
+22:06.000 --> 22:08.000
+para ter a capacidade de fazer
+
+22:08.000 --> 22:10.000
+esse processamento,
+
+22:10.000 --> 22:12.000
+e necessidade,
+
+22:12.000 --> 22:13.000
+e foi isso que aconteceu,
+
+22:13.000 --> 22:14.000
+então aqui,
+
+22:14.000 --> 22:15.000
+muito interessante,
+
+22:15.000 --> 22:17.000
+se eu quer basicamente a revolução
+
+22:17.000 --> 22:18.000
+vai ter net para mim,
+
+22:18.000 --> 22:19.000
+a maior revolução da internet
+
+22:19.000 --> 22:21.000
+já compreceu na última década,
+
+22:21.000 --> 22:23.000
+a mais uma conversão,
+
+22:23.000 --> 22:24.000
+investindo a AWS,
+
+22:24.000 --> 22:25.000
+que a Amazon WebSives,
+
+22:25.000 --> 22:27.000
+para quem não conhece a uma movement,
+
+22:27.000 --> 22:28.000
+é uma das três movements,
+
+22:28.000 --> 22:30.000
+tem o Microsoft Azure,
+
+22:30.000 --> 22:33.000
+Google Cloud Platform,
+
+22:33.000 --> 22:34.000
+de CP,
+
+22:34.000 --> 22:35.000
+e a AWS,
+
+22:35.000 --> 22:36.000
+Amazon WebSives,
+
+22:36.000 --> 22:38.000
+a Amazon Amazon começou a investir nisso,
+
+22:38.000 --> 22:39.000
+2006,
+
+22:39.000 --> 22:40.000
+então,
+
+22:40.000 --> 22:41.000
+eles eram gigantes,
+
+22:41.000 --> 22:42.000
+no estado de nele,
+
+22:42.000 --> 22:43.000
+no Valejo,
+
+22:43.000 --> 22:45.000
+e começaram a investir em movement,
+
+22:45.000 --> 22:46.000
+no mesmo em seis,
+
+22:46.000 --> 22:47.000
+esse carão,
+
+22:47.000 --> 22:48.000
+onde,
+
+22:48.000 --> 22:49.000
+de assim,
+
+22:49.000 --> 22:50.000
+ele é o GIC,
+
+22:50.000 --> 22:51.000
+ou da Amazon,
+
+22:51.000 --> 22:52.000
+no lugar do diafveses,
+
+22:52.000 --> 22:53.000
+então esse caro aqui,
+
+22:53.000 --> 22:56.000
+ele é fundador da AWS,
+
+22:56.000 --> 22:57.000
+e pelo visto,
+
+22:57.000 --> 22:58.000
+acho que ele foi,
+
+22:58.000 --> 22:59.000
+ele conseguiu,
+
+22:59.000 --> 23:01.000
+tem mais ou menos bem aqui,
+
+23:01.000 --> 23:03.000
+no plano da AWS,
+
+23:03.000 --> 23:04.000
+eles saiam de zero,
+
+23:04.000 --> 23:05.000
+em 2006,
+
+23:05.000 --> 23:06.000
+para setem-te milhões,
+
+23:06.000 --> 23:07.000
+de faturamento,
+
+23:07.000 --> 23:09.000
+que se não era de 2012,
+
+23:09.000 --> 23:10.000
+não sei exatamente hoje,
+
+23:10.000 --> 23:13.000
+mas imagina que só tem um crescido,
+
+23:13.000 --> 23:14.000
+e esse crescimento,
+
+23:14.000 --> 23:15.000
+não é,
+
+23:15.000 --> 23:16.000
+se por isso,
+
+23:16.000 --> 23:17.000
+por isso,
+
+23:17.000 --> 23:18.000
+todo mundo,
+
+23:18.000 --> 23:19.000
+a AWS,
+
+23:19.000 --> 23:20.000
+pelo básico,
+
+23:20.000 --> 23:22.000
+a minha estrutura,
+
+23:22.000 --> 23:23.000
+um oço da coluna,
+
+23:23.000 --> 23:24.000
+a vertebral,
+
+23:24.000 --> 23:26.000
+de todo sistema bancário,
+
+23:26.000 --> 23:27.000
+financeiro mundial,
+
+23:27.000 --> 23:28.000
+hoje,
+
+23:28.000 --> 23:29.000
+assim,
+
+23:29.000 --> 23:30.000
+tem contrato com AWS,
+
+23:30.000 --> 23:31.000
+ou a minha europeia,
+
+23:31.000 --> 23:33.000
+tem contrato com AWS,
+
+23:33.000 --> 23:34.000
+as maiores industrires do mundo,
+
+23:34.000 --> 23:35.000
+tem contrato com AWS,
+
+23:35.000 --> 23:37.000
+então eles conseguem,
+
+23:37.000 --> 23:39.000
+centralizar em muita coisa,
+
+23:39.000 --> 23:40.000
+e hoje,
+
+23:40.000 --> 23:42.000
+50% deles,
+
+23:42.000 --> 23:43.000
+e, basicamente,
+
+23:43.000 --> 23:44.000
+a macroso software,
+
+23:44.000 --> 23:45.000
+um pouquinho maior,
+
+23:45.000 --> 23:46.000
+tal,
+
+23:46.000 --> 23:47.000
+às vezes,
+
+23:47.000 --> 23:48.000
+ele tem sempre de 30,
+
+23:48.000 --> 23:49.000
+de tempo,
+
+23:49.000 --> 23:50.000
+e o GCP,
+
+23:50.000 --> 23:52.000
+cresceu um pouco dos meus anos,
+
+23:52.000 --> 23:54.000
+tem 20% e o interessante,
+
+23:54.000 --> 23:55.000
+a gente vê isso na pressicação,
+
+23:55.000 --> 23:56.000
+ou a GCP,
+
+23:56.000 --> 23:57.000
+que tem menos usuários,
+
+23:57.000 --> 23:58.000
+é mais barata,
+
+23:58.000 --> 23:59.000
+e a AWS,
+
+23:59.000 --> 24:00.000
+que tem mais usuários,
+
+24:00.000 --> 24:01.000
+é mais robusta,
+
+24:01.000 --> 24:03.000
+é mais cara também.
+
+24:03.000 --> 24:04.000
+E aqui,
+
+24:04.000 --> 24:05.000
+para vocês,
+
+24:05.000 --> 24:06.000
+tem verestina,
+
+24:06.000 --> 24:07.000
+como funciona,
+
+24:07.000 --> 24:08.000
+e porque,
+
+24:08.000 --> 24:10.000
+que ele domina o mundo,
+
+24:10.000 --> 24:12.000
+a AWS tem 34,
+
+24:12.000 --> 24:13.000
+e os mais grandes,
+
+24:13.000 --> 24:14.000
+então,
+
+24:14.000 --> 24:15.000
+datacentes,
+
+24:15.000 --> 24:17.000
+espalhados ao ador do mundo,
+
+24:17.000 --> 24:19.000
+a gente tem um servidor aqui no Brasil,
+
+24:19.000 --> 24:20.000
+em São Paulo,
+
+24:20.000 --> 24:21.000
+é um que servido da América Latina,
+
+24:21.000 --> 24:22.000
+por enquanto,
+
+24:22.000 --> 24:24.000
+eles estão fazendo servidor no México,
+
+24:24.000 --> 24:25.000
+também,
+
+24:25.000 --> 24:26.000
+mas isso faz com que as empresas
+
+24:26.000 --> 24:28.000
+conseguem usar a tecnologia da Múve,
+
+24:28.000 --> 24:30.000
+e aí você vai perguntar,
+
+24:30.000 --> 24:31.000
+a grona,
+
+24:31.000 --> 24:32.000
+e,
+
+24:32.000 --> 24:33.000
+e se um dia o Brasil,
+
+24:33.000 --> 24:35.000
+vamos para o que vai ver entreguer,
+
+24:35.000 --> 24:36.000
+com a Argentina,
+
+24:36.000 --> 24:37.000
+a Argentina,
+
+24:37.000 --> 24:39.000
+aos aplicações,
+
+24:39.000 --> 24:41.000
+todos os aplicações da Argentina,
+
+24:41.000 --> 24:43.000
+são as empresas no datacentes de São Paulo,
+
+24:43.000 --> 24:45.000
+porque tem a questão de proximidade,
+
+24:45.000 --> 24:46.000
+por ser mais próximo,
+
+24:46.000 --> 24:48.000
+acaba sendo mais barato.
+
+24:48.000 --> 24:49.000
+Não tem problema,
+
+24:49.000 --> 24:50.000
+mas o,
+
+24:50.000 --> 24:51.000
+é tudo redundante,
+
+24:51.000 --> 24:53.000
+eles só tinham seus dados de São Paulo e
+
+24:53.000 --> 24:55.000
+jogam para outra empresa,
+
+24:55.000 --> 24:57.000
+para outros sendidores,
+
+24:57.000 --> 24:58.000
+todos os datacentes,
+
+24:58.000 --> 24:59.000
+então,
+
+24:59.000 --> 25:00.000
+hoje em dia,
+
+25:00.000 --> 25:02.000
+eles já têm tudo isso pensado,
+
+25:02.000 --> 25:03.000
+mas não tem que entrar nesse nível,
+
+25:03.000 --> 25:04.000
+de pensar o que acontece,
+
+25:04.000 --> 25:06.000
+no caso de um conflito global,
+
+25:06.000 --> 25:08.000
+porque eles domine o tanto a informação,
+
+25:08.000 --> 25:09.000
+e a gente vê aqui,
+
+25:09.000 --> 25:11.000
+e tem dois milhões de cidades
+
+25:11.000 --> 25:13.000
+sem três exécutas no Brasil,
+
+25:13.000 --> 25:14.000
+e aqui,
+
+25:14.000 --> 25:15.000
+muito interessante,
+
+25:15.000 --> 25:17.000
+eu fui pesquisar para a vongera,
+
+25:17.000 --> 25:18.000
+é a nebeto de,
+
+25:18.000 --> 25:19.000
+de os ásco,
+
+25:19.000 --> 25:20.000
+o número ele,
+
+25:20.000 --> 25:22.000
+a gente não falou no rodonel,
+
+25:22.000 --> 25:24.000
+e a gente vê aqui,
+
+25:24.000 --> 25:26.000
+esse é o datacentes de escala,
+
+25:26.000 --> 25:27.000
+então,
+
+25:27.000 --> 25:29.000
+o interessante é sempre hoje tem o tubarão,
+
+25:29.000 --> 25:31.000
+tem alguém por trás,
+
+25:31.000 --> 25:32.000
+a escala,
+
+25:32.000 --> 25:33.000
+eles formais,
+
+25:33.000 --> 25:35.000
+e os datacentes para a azul,
+
+25:35.000 --> 25:36.000
+a AWS,
+
+25:36.000 --> 25:37.000
+e GCP,
+
+25:37.000 --> 25:38.000
+junto ao da infraestrutura,
+
+25:38.000 --> 25:39.000
+por aí,
+
+25:39.000 --> 25:40.000
+das estalações,
+
+25:40.000 --> 25:41.000
+e meio que a lúgone,
+
+25:41.000 --> 25:42.000
+para as três,
+
+25:42.000 --> 25:43.000
+e aqui,
+
+25:43.000 --> 25:44.000
+muito interessante,
+
+25:44.000 --> 25:45.000
+vocês veem,
+
+25:45.000 --> 25:46.000
+tem um prédio,
+
+25:46.000 --> 25:47.000
+dois prédios,
+
+25:47.000 --> 25:49.000
+e tem mais quatro prédios contra o uso,
+
+25:49.000 --> 25:50.000
+então,
+
+25:50.000 --> 25:51.000
+isso aqui dá para ter uma ideia,
+
+25:51.000 --> 25:52.000
+às vezes,
+
+25:52.000 --> 25:54.000
+a gente me ensurar em um entamã,
+
+25:54.000 --> 25:56.000
+mas tudo isso são servidores,
+
+25:56.000 --> 25:58.000
+extremamente performais,
+
+25:58.000 --> 26:00.000
+e que,
+
+26:00.000 --> 26:01.000
+armazeno,
+
+26:01.000 --> 26:02.000
+basicamente,
+
+26:02.000 --> 26:04.000
+todo o conteúdo,
+
+26:04.000 --> 26:06.000
+e dados do seto público e privado,
+
+26:06.000 --> 26:07.000
+e que é uma equilatina,
+
+26:07.000 --> 26:09.000
+esse é um nível que consegue ser
+
+26:09.000 --> 26:11.000
+armazenado dentro desses dois
+
+26:11.000 --> 26:12.000
+datacentes,
+
+26:12.000 --> 26:13.000
+e até se vocês ganem,
+
+26:13.000 --> 26:15.000
+é por isso que tem essa segurança toda,
+
+26:15.000 --> 26:16.000
+algo muito,
+
+26:16.000 --> 26:17.000
+muito sensível,
+
+26:17.000 --> 26:18.000
+e eles estão construindo mais três
+
+26:18.000 --> 26:19.000
+ou quatro prédios desses,
+
+26:19.000 --> 26:21.000
+estão investindo pesado,
+
+26:21.000 --> 26:22.000
+o volume de dados cresces,
+
+26:22.000 --> 26:23.000
+principalmente,
+
+26:23.000 --> 26:24.000
+isso aqui é de junho,
+
+26:24.000 --> 26:25.000
+então,
+
+26:25.000 --> 26:27.000
+ainda é a gente está construindo agora,
+
+26:27.000 --> 26:29.000
+mais o Brasil é um,
+
+26:29.000 --> 26:31.000
+é bastante interessante de dados na América Latina,
+
+26:31.000 --> 26:33.000
+e essas empresas estão investindo
+
+26:33.000 --> 26:35.000
+pesado para aumentar infraestrutura,
+
+26:35.000 --> 26:37.000
+e que vai acontecer com um
+
+26:37.000 --> 26:38.000
+com dados nos próximos anos,
+
+26:38.000 --> 26:40.000
+que é continuar escredimentos
+
+26:40.000 --> 26:41.000
+por nesses se alves,
+
+26:41.000 --> 26:43.000
+então, aqui vão falar um pouco de posição,
+
+26:43.000 --> 26:44.000
+mercados de trabalho,
+
+26:44.000 --> 26:46.000
+como isso se convertiu,
+
+26:46.000 --> 26:48.000
+e antes de 2010,
+
+26:48.000 --> 26:50.000
+era algo muito abstrato,
+
+26:50.000 --> 26:52.000
+então, existe ali o estatístico,
+
+26:52.000 --> 26:53.000
+mas esse pouco a gente trabalha
+
+26:53.000 --> 26:55.000
+com dados mesmo,
+
+26:55.000 --> 26:57.000
+a partir de 2010,
+
+26:57.000 --> 27:00.000
+ele começou a se falar muito em análise dados,
+
+27:00.000 --> 27:01.000
+então, business,
+
+27:01.000 --> 27:02.000
+e daqui a data,
+
+27:02.000 --> 27:03.000
+a gente começou a ir,
+
+27:03.000 --> 27:04.000
+desde 2012,
+
+27:04.000 --> 27:05.000
+2014,
+
+27:05.000 --> 27:07.000
+eu entrei mais uns uns por aqui,
+
+27:07.000 --> 27:09.000
+é um nestava um bom muito grande,
+
+27:09.000 --> 27:11.000
+e a partir ali de 2015,
+
+27:11.000 --> 27:12.000
+e de seis começam muito grande,
+
+27:12.000 --> 27:14.000
+e se a gente está em ser de dados,
+
+27:14.000 --> 27:17.000
+aqui a gente vê como que praticamente,
+
+27:17.000 --> 27:18.000
+só cresceu,
+
+27:18.000 --> 27:19.000
+essa é a queda aqui de 2020,
+
+27:19.000 --> 27:20.000
+a importância mencionar aqui,
+
+27:20.000 --> 27:23.000
+provavelmente foi por causa da pandemia,
+
+27:23.000 --> 27:25.000
+porque a gente não tem como inferir,
+
+27:25.000 --> 27:26.000
+né,
+
+27:26.000 --> 27:27.000
+a gente não tem por causa de dados,
+
+27:27.000 --> 27:29.000
+mas muito normalmente foi por causa da pandemia,
+
+27:29.000 --> 27:31.000
+mas a gente vê que mesmo para na vista de dados,
+
+27:31.000 --> 27:33.000
+mas a gente não crescendo para,
+
+27:33.000 --> 27:34.000
+mesmo a energia de dados,
+
+27:34.000 --> 27:36.000
+a gente de um acaligno,
+
+27:36.000 --> 27:37.000
+mas a gente,
+
+27:37.000 --> 27:39.000
+desde considera o tamanho do bolutório,
+
+27:39.000 --> 27:41.000
+como que de 2014,
+
+27:41.000 --> 27:43.000
+saiu daqui,
+
+27:43.000 --> 27:44.000
+para cá,
+
+27:44.000 --> 27:45.000
+então,
+
+27:45.000 --> 27:46.000
+uns seis anos,
+
+27:46.000 --> 27:48.000
+praticamente triplicou o número de vagas,
+
+27:48.000 --> 27:50.000
+a gente vê também a data engineer,
+
+27:50.000 --> 27:52.000
+crescendo muito a posição que,
+
+27:52.000 --> 27:54.000
+especialmente depois de 2020,
+
+27:54.000 --> 27:56.000
+que estão no muito valorizada,
+
+27:56.000 --> 27:58.000
+e a gente vai entrar um pouco no detalhe aqui,
+
+27:58.000 --> 28:00.000
+exatamente disso agora,
+
+28:00.000 --> 28:02.000
+e quais são as esquios que diferenciam
+
+28:02.000 --> 28:05.000
+o cientista de dados de um analisto de dados?
+
+28:05.000 --> 28:07.000
+A pessoa,
+
+28:07.000 --> 28:08.000
+competência de dados,
+
+28:08.000 --> 28:11.000
+que a gente precisa para trabalhar com dados,
+
+28:11.000 --> 28:12.000
+é,
+
+28:12.000 --> 28:13.000
+e aqui,
+
+28:13.000 --> 28:14.000
+se está voltando,
+
+28:14.000 --> 28:15.000
+se encaram com alguma dúvida,
+
+28:15.000 --> 28:16.000
+tranquilo,
+
+28:16.000 --> 28:18.000
+se quiserem perguntar alguma coisa também,
+
+28:18.000 --> 28:20.000
+sobre escrecimento,
+
+28:20.000 --> 28:21.000
+exponencial que teve de dados,
+
+28:21.000 --> 28:23.000
+alguma coisa que eu falei sobre a nuva,
+
+28:23.000 --> 28:24.000
+também,
+
+28:24.000 --> 28:26.000
+se se alimentar não,
+
+28:26.000 --> 28:27.000
+por aí,
+
+28:27.000 --> 28:29.000
+já está planeando um amigo aqui,
+
+28:29.000 --> 28:30.000
+e,
+
+28:34.000 --> 28:35.000
+e,
+
+28:35.000 --> 28:37.000
+em seguindo, então,
+
+28:37.000 --> 28:38.000
+pessoal,
+
+28:38.000 --> 28:39.000
+vamos lá,
+
+28:39.000 --> 28:41.000
+de intermungir habilidades,
+
+28:41.000 --> 28:42.000
+para você trabalhar com dados,
+
+28:42.000 --> 28:43.000
+ou ver,
+
+28:43.000 --> 28:44.000
+estão três freens,
+
+28:44.000 --> 28:45.000
+então,
+
+28:45.000 --> 28:46.000
+a gente tem a frente,
+
+28:46.000 --> 28:47.000
+a habilidade de técnica,
+
+28:47.000 --> 28:49.000
+só as esquios técnicos que a gente tem,
+
+28:49.000 --> 28:51.000
+e vai ser o,
+
+28:51.000 --> 28:52.000
+a grande parte de escursa,
+
+28:52.000 --> 28:54.000
+vão ser as habilidades técnicos,
+
+28:54.000 --> 28:55.000
+que vocês vão evoluir,
+
+28:55.000 --> 28:56.000
+então,
+
+28:56.000 --> 28:58.000
+a gente está falando de diferentes,
+
+28:59.000 --> 28:59.020
+salon,
+
+28:59.020 --> 29:01.380
+casi normalidade do homem VIP,
+
+29:01.380 --> 29:02.280
+a blog,
+
+29:02.280 --> 29:03.480
+e aqui vivo, então,
+
+29:03.480 --> 29:04.680
+o feramento de visualização,
+
+29:04.680 --> 29:06.680
+feramento das dimonci Ming Pensado de dados,
+
+29:06.680 --> 29:08.120
+são coisas que não extinct,
+
+29:08.120 --> 29:08.880
+você aguantam com os recursos,
+
+29:08.880 --> 29:11.120
+tem que dúmminar os claramente,
+
+29:11.120 --> 29:13.780
+elestatístico,
+
+29:13.780 --> 29:15.860
+elestatística que ajuda muito,
+
+29:15.860 --> 29:16.840
+para você não,
+
+29:16.840 --> 29:17.640
+você pegatários,
+
+29:17.640 --> 29:18.440
+quando vocês sabem elestatística,
+
+29:18.440 --> 29:19.960
+então você consegue fazer
+
+29:19.960 --> 29:20.240
+infraestras,
+
+29:20.240 --> 29:20.660
+às vezes,
+
+29:20.660 --> 29:21.660
+só de observar o data savage.
+
+29:21.660 --> 29:22.680
+Você sabe a coisa,
+
+29:22.680 --> 29:25.000
+quais utilizem uma forma gezacohz rectilidade,
+
+29:25.000 --> 29:25.920
+então,
+
+29:25.920 --> 29:28.720
+que você sabe o estatístico, porque não é exatamente o bloquear,
+
+29:28.720 --> 29:33.360
+mas você consegue cortar caminhos e falar com mais segurança do que você está analisando,
+
+29:33.360 --> 29:35.120
+do que você está tentando prever.
+
+29:35.120 --> 29:38.160
+E por fim, mais importante para mim,
+
+29:38.160 --> 29:43.160
+e mais suguar lorizado, porque é o que hoje a maioria dos cientistas
+
+29:43.160 --> 29:45.760
+das não conhece tanto em formação.
+
+29:45.760 --> 29:48.760
+O que diferenciar a gente ir em uma interagência oficial,
+
+29:48.760 --> 29:50.400
+isso aqui, tá pessoal.
+
+29:50.400 --> 29:53.560
+O interagência artificial tem formação, mas ele não consegue conectar
+
+29:53.560 --> 29:55.680
+a informação, como é emoção.
+
+29:55.680 --> 29:57.680
+E a gente consegue, como ser humano,
+
+29:57.680 --> 30:01.160
+a gente consegue entender o que é o negócio,
+
+30:01.160 --> 30:04.640
+a gente consegue entender, basicamente, as novas vezes,
+
+30:04.640 --> 30:08.080
+né, gosto, quais fatores podem influenciar como que,
+
+30:08.080 --> 30:12.200
+e conectar, o melhor de fatores externos que o interagência artificial
+
+30:12.200 --> 30:14.280
+não vai conseguir, se a gente não passar.
+
+30:14.280 --> 30:17.200
+Então, a gente tem conhecimento de economia externa,
+
+30:17.200 --> 30:21.640
+do que acontece no preço das nossas vidas, da inflação,
+
+30:21.640 --> 30:23.040
+às vezes, de um modelo de negócio,
+
+30:23.040 --> 30:25.600
+então, pode estar fazendo um projeto de posicionário,
+
+30:25.600 --> 30:29.120
+é muito importante, você conhece a esse tablo no mercado de veículos.
+
+30:29.120 --> 30:32.280
+Então, saber, onde você está precisando é fundamental
+
+30:32.280 --> 30:35.520
+ao trabalhar com dados, porque ninguém quer virar,
+
+30:35.520 --> 30:39.920
+é tirar luz pastel e capazendo a painel, fazer um modelo,
+
+30:39.920 --> 30:42.120
+sem entender de fato que está acontecendo, né?
+
+30:42.120 --> 30:44.360
+Então, é muito fácil fazer um painel,
+
+30:44.360 --> 30:46.080
+vocês vão conseguir tranquilamente,
+
+30:46.080 --> 30:48.560
+é depois de rapidamente aqui,
+
+30:48.560 --> 30:51.600
+na伸ha semana, vocês vão conseguir fazer um painel de visualização,
+
+30:51.600 --> 30:57.000
+de dar-los tranquilamente, mas o que vai faltar é vocês em formação,
+
+30:57.000 --> 30:58.080
+experiência.
+
+30:58.080 --> 30:59.280
+É saber como analista é isso,
+
+30:59.280 --> 31:00.120
+a gente se identitidade,
+
+31:00.120 --> 31:02.640
+vocês vão conseguir entregar a louco, né, gosto?
+
+31:02.640 --> 31:04.840
+E é isso, muitas vezes, você só consegue
+
+31:04.840 --> 31:07.480
+experiência de você que quando chegar no oposição,
+
+31:07.480 --> 31:11.360
+às vezes não conhece do segmento, mas chegar ali, estudar,
+
+31:11.360 --> 31:14.880
+tentar fazer uma imensão para de fato entender onde você está
+
+31:14.880 --> 31:16.360
+precisando é fundamental,
+
+31:16.360 --> 31:19.920
+ao tentar prever e analisar dados.
+
+31:19.920 --> 31:22.040
+Então, vamos falar agora de competências técnicas,
+
+31:22.040 --> 31:24.800
+então, a gente tem muito medo ali do Python,
+
+31:24.800 --> 31:27.760
+mas eu já entrou aqui, eu acho um Python,
+
+31:27.760 --> 31:29.240
+não foi há muito incrível,
+
+31:29.240 --> 31:34.240
+ela é utilizada, por basicamente, nas três grandes espérias de quem trabalha com dados hoje,
+
+31:34.240 --> 31:37.960
+seja analista de dados, cientistas de dados, em dinheiro de dados,
+
+31:37.960 --> 31:40.560
+então, tem um trabalho muito grande de Python,
+
+31:40.560 --> 31:44.560
+uma população data-visc, que é a visualização de dados,
+
+31:44.560 --> 31:46.040
+e trabalho com a nuva também,
+
+31:46.120 --> 31:49.200
+aqui nós preocupamos, mas,
+
+31:49.200 --> 31:51.640
+hoje, a realidade é essa,
+
+31:51.640 --> 31:54.280
+e principalmente com a estápôndia cientista,
+
+31:54.280 --> 31:57.360
+e analista de dados, a entesismo,
+
+31:57.360 --> 31:59.280
+no basic estatístico, maior,
+
+31:59.280 --> 32:00.560
+a gente está meio chequilo que a gente falou,
+
+32:00.560 --> 32:02.080
+quando a gente está querendo fazer uma análise,
+
+32:02.080 --> 32:03.560
+ou prever alguma coisa,
+
+32:03.560 --> 32:06.680
+a gente tem uma controle, uma consciência,
+
+32:06.680 --> 32:09.200
+do que está acontecendo naquele dados, é fundamental,
+
+32:09.200 --> 32:10.720
+e é isso que a estatística traz,
+
+32:10.720 --> 32:11.680
+a gente consegue prever ali,
+
+32:11.680 --> 32:12.160
+ou te lá,
+
+32:12.160 --> 32:14.800
+é isso que são aqueles pontos fora da cúva,
+
+32:14.800 --> 32:16.480
+a gente consegue entender uma distribuição,
+
+32:16.480 --> 32:18.480
+ou se ela se aproxima em distribuição normal,
+
+32:18.480 --> 32:20.240
+a distribuição exponencial,
+
+32:20.240 --> 32:23.960
+a gente consegue ter toda essa visão com a estatística.
+
+32:23.960 --> 32:26.160
+Em conto isso, um aralista de dados,
+
+32:26.160 --> 32:28.520
+ele vai ser uma pessoa muito mais focada,
+
+32:28.520 --> 32:30.680
+ajudar a a outra gestão,
+
+32:30.680 --> 32:33.240
+com ferramentas já puha tomar a decisão,
+
+32:33.240 --> 32:34.920
+ou seja, a gente,
+
+32:34.920 --> 32:37.960
+através do que a gente tem hoje de dados,
+
+32:37.960 --> 32:41.080
+forcer para os tomadores de decisão,
+
+32:41.080 --> 32:44.120
+é ferramentas para aqueles sigam o caminho certo.
+
+32:44.120 --> 32:47.360
+Então, é isso que a diferença hoje,
+
+32:47.360 --> 32:50.760
+um profissional de gestão eficiente,
+
+32:50.760 --> 32:53.560
+de profissional não-ocente,
+
+32:53.560 --> 32:54.720
+isso é uma das maiores coisas,
+
+32:54.720 --> 32:57.040
+alguém que é capaz de analisar os dados
+
+32:57.040 --> 33:00.520
+e dos dados como insum para tomar a edição,
+
+33:00.520 --> 33:02.400
+e é isso que vocês vão fazer.
+
+33:02.400 --> 33:04.160
+Além de gerar a insights,
+
+33:04.160 --> 33:05.480
+então a gente vai ver como fazer isso,
+
+33:05.480 --> 33:07.200
+o panel é um das formas,
+
+33:07.200 --> 33:08.560
+mas não é estar a gente panel,
+
+33:08.560 --> 33:10.880
+se pode fazer um modelo que gera uma saída,
+
+33:10.880 --> 33:13.920
+que gera uma previsão mesmo com mais estes dados,
+
+33:13.920 --> 33:16.400
+pode gera um relatório que facilite a vida,
+
+33:16.400 --> 33:18.960
+que, enfim, com a gente argumentar da arma no al,
+
+33:18.960 --> 33:21.480
+você pode fazer, enfim,
+
+33:21.480 --> 33:25.880
+modelos de checks para verificar leicondições
+
+33:25.880 --> 33:29.960
+e chegar numa resposta final para algum tema,
+
+33:29.960 --> 33:32.160
+e o grande ponto é geração de sites.
+
+33:32.160 --> 33:33.720
+Então, independência que você vai fazer isso
+
+33:33.720 --> 33:35.560
+com o panel de parbear,
+
+33:35.560 --> 33:37.560
+com o código Python,
+
+33:37.560 --> 33:39.160
+e uma consulta SQL,
+
+33:39.160 --> 33:41.760
+o que você tem que fazer para a sua empresa
+
+33:41.760 --> 33:43.360
+vai ser gerais sites,
+
+33:43.360 --> 33:48.240
+que vão justamente fonecer esse apoio para tomar a edição.
+
+33:48.240 --> 33:52.800
+Então, aqui existe um conhecimento muito, muito, muito profundo, no negócio.
+
+33:52.800 --> 33:54.880
+Em possível a seleção de dar os dados,
+
+33:54.880 --> 33:58.320
+de algum tempo, se você não conhecei muito a fulgo,
+
+33:58.320 --> 34:02.080
+esse não é, obviamente, vai acabar falando deste tempo.
+
+34:02.080 --> 34:04.080
+Como sentiste de dados,
+
+34:04.080 --> 34:06.560
+o trabalho e a rotinão pouco diferente.
+
+34:06.560 --> 34:10.960
+O trabalho de vocês vai evoluir muito mais e olhar para a frente,
+
+34:10.960 --> 34:12.400
+então, construir modelos,
+
+34:12.400 --> 34:14.280
+botar esses modelos da prática,
+
+34:14.280 --> 34:15.280
+e ao depoio,
+
+34:15.280 --> 34:16.920
+e hoje em dia, de um ano para cá,
+
+34:16.920 --> 34:20.560
+trabalhar com modelos de linguagem.
+
+34:20.560 --> 34:22.200
+Então, eu utilizar as carramentas,
+
+34:22.200 --> 34:23.520
+eu preia ainda,
+
+34:23.520 --> 34:27.520
+eu não acompanho os os os os os ferramentas disponíveis e integrar isso,
+
+34:27.520 --> 34:30.120
+onde fulcigo dentro das organizações.
+
+34:30.120 --> 34:32.560
+Mas principalmente, então, aqui é o ferrimótiperem-se
+
+34:32.560 --> 34:34.560
+para mim, que o aeste de dados,
+
+34:34.560 --> 34:36.760
+é quando aeste de dados ele vai principalmente olhar
+
+34:36.760 --> 34:38.760
+para o passado e para o presente,
+
+34:38.840 --> 34:42.760
+onde cadores, números, painéis, códigos,
+
+34:42.760 --> 34:46.000
+para fornecer essa apoia à uma direcção,
+
+34:46.000 --> 34:48.040
+enquanto sentiste de dados,
+
+34:48.040 --> 34:50.400
+ele vai te dizer o que vai acontecer para a frente.
+
+34:50.400 --> 34:52.680
+Não é fazer modelos de previsão.
+
+34:52.680 --> 34:54.920
+Então, enquanto eu estou olhando por presente
+
+34:54.920 --> 34:56.520
+e para trás, outro,
+
+34:56.520 --> 34:57.960
+estou olhando para a frente,
+
+34:57.960 --> 35:01.640
+e é importante dizer que,
+
+35:01.640 --> 35:03.320
+o analista de dados consegue existir,
+
+35:03.320 --> 35:04.680
+se não sentiste de dados,
+
+35:04.680 --> 35:06.560
+então, hoje muitas organizações,
+
+35:06.560 --> 35:07.920
+só tem a identidade,
+
+35:07.920 --> 35:09.680
+mas não sentiste de dados,
+
+35:09.680 --> 35:11.560
+não consegue existir,
+
+35:11.560 --> 35:13.280
+se você é um trabalho de uma analista de dados,
+
+35:13.280 --> 35:14.480
+que acontece na prática,
+
+35:14.480 --> 35:17.480
+muitas vezes o analista é oralista, e sentiste também.
+
+35:17.480 --> 35:19.080
+E o sentista é muitas vezes também,
+
+35:19.080 --> 35:20.560
+tem que ser um pouco de analista.
+
+35:20.560 --> 35:22.880
+O mundo real não tem essas caixinhas,
+
+35:22.880 --> 35:25.480
+não tem essas caixinhas para dividir
+
+35:25.480 --> 35:26.600
+ele é posição de cada um.
+
+35:26.600 --> 35:28.440
+As sistemas analistas de dados que vai trabalhar
+
+35:28.440 --> 35:30.080
+mais como manipulação de dados,
+
+35:30.080 --> 35:32.360
+tem uma analidade com a trabalhar mais acompanhê-lo,
+
+35:32.360 --> 35:34.840
+tem uma analidade de dados que vai trabalhar mais com a automação,
+
+35:34.840 --> 35:36.200
+é por isso que é importante,
+
+35:36.200 --> 35:41.160
+tem esse generalismo saber quais são os seus habilidades
+
+35:41.160 --> 35:44.520
+que você pode ter no seu arsenal para trabalhar com dados.
+
+35:44.520 --> 35:47.160
+E por fim, tem um engenheiro de dados.
+
+35:47.160 --> 35:50.040
+Um engenheiro de dados é a pessoa que vai fazer os tartalais dados,
+
+35:50.040 --> 35:51.920
+enfim, pegar o tartalais na fonte,
+
+35:51.920 --> 35:54.440
+seja um aqui vexé, um e-mail,
+
+35:54.440 --> 35:58.760
+um servidor, um banco de dados,
+
+35:58.760 --> 36:00.760
+essa pessoa vai fazer essa fonte,
+
+36:00.760 --> 36:04.840
+e vai disponibilizar com a analista de que eu sentissei dados.
+
+36:05.000 --> 36:08.400
+Então, assim, já uma dica para vocês analiscentes de dados.
+
+36:08.400 --> 36:10.280
+Esse aqui é a verdade, viu?
+
+36:10.280 --> 36:12.920
+Fiquei a amiga do engenheiro de dados.
+
+36:12.920 --> 36:15.280
+Fiquei a amiga do engenheiro, porque ele vai estar aquela pessoa
+
+36:15.280 --> 36:18.000
+que vai salvar a vida de vocês, quando vocês precisaram,
+
+36:18.000 --> 36:20.000
+ou se vocês não precisaram ficar amigos,
+
+36:20.000 --> 36:22.520
+aprendam muito sobre uma população de dados.
+
+36:22.520 --> 36:23.760
+Porque esse é o trabalho deles,
+
+36:23.760 --> 36:26.240
+nem entregar o dado mais chegado para vocês,
+
+36:26.240 --> 36:29.640
+entregar ali para que você consiga como analista,
+
+36:29.640 --> 36:32.680
+confirmir gerar inteligência e como sentista,
+
+36:32.680 --> 36:35.000
+fazemos previsões a partir deles.
+
+36:35.000 --> 36:36.800
+Então, aqui, muito legal também,
+
+36:36.800 --> 36:39.440
+essa integração, o engenheiro de dados,
+
+36:39.440 --> 36:41.680
+ele não vive sem o analista de sentista,
+
+36:41.680 --> 36:45.560
+porque, basicamente, ele estaria entregando o dado para ninguém, né?
+
+36:45.560 --> 36:49.000
+Seria de eu lugar só o que o dia está o último ásio.
+
+36:49.000 --> 36:53.120
+O sentista e o analista são com som meu trabalho dele,
+
+36:53.120 --> 36:55.080
+e também precisam dele.
+
+36:55.080 --> 36:56.720
+Então, esse que é legal aqui em dados,
+
+36:56.720 --> 36:58.440
+é meio que o sistema,
+
+36:58.440 --> 37:01.360
+o engenheiro ajuda o analista de sentista,
+
+37:01.360 --> 37:05.560
+e pro gerar inteligente que o o analista entiz tem os dados mais chegados
+
+37:05.560 --> 37:07.320
+para fazer um bom trabalho,
+
+37:07.320 --> 37:09.760
+porque o engenheiro de�as vezes se queriam baixidômas,
+
+37:09.760 --> 37:13.680
+quando, da certo, ele acaba sendo recompensado também.
+
+37:13.680 --> 37:17.000
+E, por o sentista, ele é o cara que vai precisar do analista,
+
+37:17.000 --> 37:20.720
+e do engenheiro para que eu trabalho dele mais fácil.
+
+37:20.720 --> 37:23.200
+Então, ser ativeus dados todos preparados,
+
+37:23.200 --> 37:26.800
+encaminhados, e uma análise estatística avançada,
+
+37:26.800 --> 37:28.960
+já feita por um analista de dados,
+
+37:28.960 --> 37:31.360
+tudo que ele precisa fazer é sentar e fazer o modelo.
+
+37:31.360 --> 37:34.760
+Então, facilita muito o trabalho dos sentistas de dados,
+
+37:34.760 --> 37:39.440
+quando ele está em um ambiente e passeiria como analista e com engenheiro de dados.
+
+37:39.440 --> 37:42.800
+O que acontece no mundo real, é nem todos são fors.
+
+37:42.800 --> 37:44.120
+Então,
+
+37:45.400 --> 37:48.000
+com a extelidade que vai precisar fazer pagoagens,
+
+37:48.000 --> 37:50.720
+com engenheiro às vezes vai estar em outra demanda mais um engenheiro.
+
+37:50.720 --> 37:55.000
+Você vai fazer toda parte de análise de dados,
+
+37:55.000 --> 37:57.520
+e você é como analistidades também,
+
+37:57.520 --> 37:59.320
+às vezes não vermo no real, vai ser a aguarda,
+
+37:59.320 --> 38:01.600
+chegar a ser a falar o fulano.
+
+38:01.600 --> 38:03.040
+Bruno, preciso de ir,
+
+38:03.040 --> 38:05.440
+e você com uma lendidade,
+
+38:05.440 --> 38:08.480
+você vai ter que dar um jeito de saber conversar com aquilo,
+
+38:08.480 --> 38:11.600
+porque você às vezes é o ponto focal de dados na empresa.
+
+38:11.600 --> 38:14.320
+Então, é importante saber conversar,
+
+38:14.320 --> 38:16.480
+saber caminhar para os emails,
+
+38:16.480 --> 38:18.480
+saber o que cada um faz,
+
+38:18.480 --> 38:19.320
+e,
+
+38:19.320 --> 38:23.840
+essa onde cada um se encaixa nesse sistema de dados.
+
+38:23.840 --> 38:25.280
+Competências técnicos,
+
+38:25.360 --> 38:27.600
+então, vamos lá, pessoal, o Pai,
+
+38:27.600 --> 38:28.000
+o Pai,
+
+38:28.000 --> 38:30.000
+você que é para muita gente,
+
+38:30.000 --> 38:30.720
+para alguns não,
+
+38:30.720 --> 38:31.360
+mas para muita gente,
+
+38:31.360 --> 38:33.120
+a gente vai ajudar o ponto mais na computador,
+
+38:33.120 --> 38:34.480
+não inicio dessa jornada,
+
+38:34.480 --> 38:35.840
+que no bootcamp,
+
+38:35.840 --> 38:37.520
+eu já estiver aqui também,
+
+38:37.520 --> 38:40.160
+eu comecei a programar um conceito
+
+38:40.160 --> 38:42.320
+em 2013,
+
+38:42.320 --> 38:42.960
+e,
+
+38:42.960 --> 38:43.520
+você falou,
+
+38:43.520 --> 38:45.360
+não foi uma experiência legal,
+
+38:45.360 --> 38:47.920
+não foi uma coisa assim,
+
+38:47.920 --> 38:48.400
+que eu falei,
+
+38:48.400 --> 38:48.880
+nossa,
+
+38:48.880 --> 38:49.360
+sentei,
+
+38:49.360 --> 38:51.760
+estou apaixonado com programação,
+
+38:51.760 --> 38:52.960
+não foi.
+
+38:53.920 --> 38:55.920
+Eu me apaixonei para programação,
+
+38:55.920 --> 38:56.720
+assim, vamos dizer,
+
+38:56.720 --> 38:58.400
+quando você tem mais contato com o Pai,
+
+38:58.400 --> 39:00.400
+estão em 2019,
+
+39:00.400 --> 39:01.120
+e eu me apaixonei,
+
+39:01.120 --> 39:02.000
+não pela ferramenta,
+
+39:02.000 --> 39:03.120
+mas para o que ela oferece.
+
+39:03.120 --> 39:04.480
+Então, pela facilidade,
+
+39:04.480 --> 39:07.440
+conseguir manipular um conjunto de dados,
+
+39:07.440 --> 39:08.960
+poder consultar,
+
+39:08.960 --> 39:11.360
+bibliotecas de fontes externas,
+
+39:11.360 --> 39:13.440
+fazer um bântico de leitura,
+
+39:13.440 --> 39:14.240
+de PDF,
+
+39:14.240 --> 39:15.680
+transformar a aula de um fim.
+
+39:15.680 --> 39:17.280
+O Pai está muito flexível,
+
+39:17.280 --> 39:18.640
+e eu fiquei apaixonado,
+
+39:18.640 --> 39:19.840
+quando disse que eu apaixonado,
+
+39:19.840 --> 39:21.680
+pelo que a entrega não pela ferramenta.
+
+39:21.840 --> 39:22.800
+E aqui,
+
+39:22.800 --> 39:24.400
+a gente pode ver exatamente isso,
+
+39:24.400 --> 39:25.360
+pessoal que já está,
+
+39:25.360 --> 39:26.240
+já foi enjava,
+
+39:26.240 --> 39:27.280
+já me escripte,
+
+39:27.280 --> 39:28.720
+galera do C,
+
+39:28.720 --> 39:29.440
+se achar,
+
+39:29.440 --> 39:30.800
+se é mais mais,
+
+39:31.200 --> 39:31.840
+gente,
+
+39:31.840 --> 39:33.520
+vocês estão começando hoje no Pai,
+
+39:34.080 --> 39:34.320
+mas,
+
+39:34.320 --> 39:35.840
+que vocês começaram a dirigir no
+
+39:35.840 --> 39:37.200
+na época que já tem
+
+39:37.200 --> 39:38.560
+todo o carro de segurança,
+
+39:38.560 --> 39:40.160
+essa galera aqui começou na época,
+
+39:40.160 --> 39:41.520
+que era carroso.
+
+39:41.520 --> 39:42.400
+Então,
+
+39:42.400 --> 39:45.200
+essa galera pegou uma época que o fóxico
+
+39:45.200 --> 39:45.920
+arraído,
+
+39:45.920 --> 39:46.960
+pode se precisar não entender
+
+39:46.960 --> 39:48.400
+muito mais programação,
+
+39:48.400 --> 39:49.600
+hoje a gente está caminhando
+
+39:49.600 --> 39:50.240
+com o nível,
+
+39:50.240 --> 39:51.760
+que cada vez menos você vai precisar,
+
+39:52.800 --> 39:53.840
+entender dos detalhes,
+
+39:53.840 --> 39:54.880
+técnicos da noância,
+
+39:55.600 --> 39:56.480
+e fazer,
+
+39:56.480 --> 39:58.000
+e você vai precisar cada vez mais,
+
+39:58.560 --> 39:59.680
+tem a capacidade de ter que
+
+39:59.680 --> 40:00.480
+que ele entrega com a gente,
+
+40:00.480 --> 40:01.280
+tá pegindo,
+
+40:01.680 --> 40:02.480
+que é basicamente
+
+40:02.480 --> 40:03.680
+organizar suas ideias.
+
+40:03.680 --> 40:04.640
+E a gente ainda mais
+
+40:04.640 --> 40:05.520
+condimento na
+
+40:05.520 --> 40:06.880
+bêteria de gente artificial,
+
+40:07.280 --> 40:08.400
+virou cada vez menos
+
+40:08.400 --> 40:09.040
+importante,
+
+40:09.040 --> 40:10.320
+como você vai fazer,
+
+40:10.720 --> 40:11.600
+e cada vez mais
+
+40:11.600 --> 40:13.840
+importante o que você vai fazer.
+
+40:13.840 --> 40:14.240
+Então,
+
+40:14.240 --> 40:14.560
+por exemplo,
+
+40:14.560 --> 40:15.520
+tem o caminho certo,
+
+40:15.520 --> 40:17.120
+porque como você vai chegar
+
+40:17.120 --> 40:17.600
+lá,
+
+40:17.600 --> 40:18.480
+provavelmente,
+
+40:18.480 --> 40:19.440
+hoje no dia não é o ponto
+
+40:19.440 --> 40:20.080
+principal.
+
+40:20.560 --> 40:21.280
+E é isso aqui,
+
+40:21.280 --> 40:22.320
+o pai estão amalingagem
+
+40:22.320 --> 40:23.360
+extremamente simples,
+
+40:24.000 --> 40:25.840
+ela meio que,
+
+40:25.840 --> 40:26.880
+para bem entendendo inglês,
+
+40:26.880 --> 40:27.200
+então,
+
+40:27.200 --> 40:27.920
+mais fácil ainda,
+
+40:27.920 --> 40:28.880
+porque ela tem
+
+40:29.280 --> 40:30.720
+os objetos fixos dela
+
+40:30.720 --> 40:31.280
+inglês,
+
+40:31.280 --> 40:31.520
+então,
+
+40:31.520 --> 40:32.720
+eu for o alho,
+
+40:33.360 --> 40:34.480
+o enf,
+
+40:35.280 --> 40:35.920
+é você,
+
+40:35.920 --> 40:36.480
+então,
+
+40:36.480 --> 40:37.520
+fazendo essas conversas,
+
+40:37.520 --> 40:38.000
+esse tratudo
+
+40:38.560 --> 40:39.360
+muito mais fácil,
+
+40:39.360 --> 40:40.080
+às vezes,
+
+40:40.080 --> 40:41.680
+você parece que está conversando
+
+40:41.680 --> 40:42.560
+com o bójono,
+
+40:42.560 --> 40:44.240
+diferente desses
+
+40:44.240 --> 40:45.200
+lugares aqui,
+
+40:45.440 --> 40:46.160
+que a linguagem
+
+40:46.160 --> 40:47.120
+justamente em coisas
+
+40:47.120 --> 40:47.520
+pontos aqui,
+
+40:47.520 --> 40:48.080
+assustador,
+
+40:48.080 --> 40:48.720
+você não pode
+
+40:48.720 --> 40:49.280
+de jágonha,
+
+40:49.280 --> 40:49.920
+é igual a cara
+
+40:49.920 --> 40:51.440
+desse lugar não aqui,
+
+40:51.440 --> 40:53.280
+você viveira assustado.
+
+40:55.040 --> 40:56.720
+E passando um pouco
+
+40:56.720 --> 40:56.960
+aqui,
+
+40:56.960 --> 40:57.920
+e o bójono de jágonha,
+
+40:58.960 --> 40:59.760
+falando aqui,
+
+40:59.760 --> 41:00.640
+primeiro sobre o
+
+41:00.640 --> 41:01.360
+arregidados,
+
+41:01.840 --> 41:02.160
+aqui,
+
+41:02.160 --> 41:03.360
+eu só vou ter em uma,
+
+41:03.360 --> 41:04.000
+mas,
+
+41:05.040 --> 41:05.520
+na verdade,
+
+41:05.520 --> 41:05.840
+eu vou falar aqui no
+
+41:05.840 --> 41:07.040
+primeiro sobre as 3C entrar,
+
+41:07.680 --> 41:08.720
+pão das mate colachilíb
+
+41:08.720 --> 41:09.520
+e num pai.
+
+41:10.080 --> 41:11.360
+Essas são as 3C
+
+41:11.360 --> 41:14.000
+pais de jágonha de jágonha
+
+41:14.000 --> 41:14.880
+para ficar um chefe
+
+41:14.880 --> 41:15.200
+o direto,
+
+41:15.200 --> 41:16.000
+praticamente,
+
+41:16.000 --> 41:16.880
+toda a habilidade,
+
+41:17.520 --> 41:18.560
+o pai, o pão das
+
+41:18.560 --> 41:19.200
+é um
+
+41:19.200 --> 41:20.720
+biblioteca para manipulação de
+
+41:20.720 --> 41:21.200
+dados,
+
+41:21.200 --> 41:21.760
+então,
+
+41:21.760 --> 41:24.000
+é o Excel do pai,
+
+41:24.000 --> 41:24.160
+então,
+
+41:24.160 --> 41:24.960
+onde você consegue
+
+41:24.960 --> 41:26.640
+encargar os dados,
+
+41:26.640 --> 41:28.000
+fiar por umas,
+
+41:28.000 --> 41:29.280
+selecionar as como as
+
+41:29.280 --> 41:30.080
+vocês querem,
+
+41:30.080 --> 41:31.440
+fio para valores,
+
+41:31.440 --> 41:32.160
+enfim,
+
+41:32.160 --> 41:33.760
+para encher valores nulos,
+
+41:33.760 --> 41:34.720
+vocês não sabem fazer
+
+41:34.720 --> 41:35.600
+tudo no pão das
+
+41:35.600 --> 41:36.880
+é uma pena de ter a
+
+41:36.880 --> 41:38.000
+universidade,
+
+41:38.000 --> 41:38.640
+no começo,
+
+41:38.640 --> 41:40.240
+pode ser um pouquinho acestador,
+
+41:40.240 --> 41:40.960
+mas o pão das
+
+41:40.960 --> 41:42.640
+ele é muito intuitivo
+
+41:42.640 --> 41:43.600
+e simples,
+
+41:43.600 --> 41:44.400
+depois que você pega o
+
+41:44.400 --> 41:45.280
+gente um deiro e bia,
+
+41:45.280 --> 41:46.080
+ele vai começar
+
+41:46.080 --> 41:46.240
+e,
+
+41:46.240 --> 41:47.120
+também na,
+
+41:47.120 --> 41:48.080
+na próxima aula,
+
+41:48.080 --> 41:49.840
+meu feramento incrível,
+
+41:50.800 --> 41:51.520
+é meio que pode
+
+41:51.520 --> 41:51.840
+livre,
+
+41:51.840 --> 41:53.200
+e para a visualização,
+
+41:53.200 --> 41:54.160
+então,
+
+41:54.160 --> 41:54.720
+o mais que pode ser
+
+41:54.720 --> 41:55.280
+ele não é nenhum,
+
+41:55.280 --> 41:55.920
+pode beirreir,
+
+41:55.920 --> 41:57.360
+o tempo de
+
+41:57.360 --> 41:59.280
+qualidade de visualização,
+
+41:59.280 --> 41:59.760
+mas ele é
+
+41:59.760 --> 42:01.120
+extremamente flexível,
+
+42:01.120 --> 42:01.520
+então,
+
+42:01.520 --> 42:02.400
+você consegue fazer
+
+42:02.400 --> 42:03.680
+a visualização
+
+42:03.680 --> 42:04.800
+do jeito que você quiser,
+
+42:04.800 --> 42:06.160
+em companhia de detalhes,
+
+42:06.160 --> 42:07.680
+tem muitos parâmetros,
+
+42:07.680 --> 42:08.320
+então,
+
+42:08.320 --> 42:08.960
+você consegue integrar
+
+42:08.960 --> 42:09.760
+ele com a matemia,
+
+42:09.760 --> 42:09.920
+é,
+
+42:09.920 --> 42:11.360
+tem várias sonalidades,
+
+42:11.360 --> 42:11.680
+como a gente pode
+
+42:11.680 --> 42:12.400
+devender uma pena
+
+42:12.400 --> 42:13.520
+um extremamente versátilha,
+
+42:13.520 --> 42:14.400
+e recomendo ser de
+
+42:14.400 --> 42:14.960
+para vocês,
+
+42:14.960 --> 42:15.600
+é de,
+
+42:15.600 --> 42:16.560
+a primeira opção,
+
+42:16.560 --> 42:18.160
+tem um de visualização de dados,
+
+42:19.120 --> 42:20.320
+um Python,
+
+42:20.320 --> 42:20.560
+é,
+
+42:20.560 --> 42:21.280
+num Python,
+
+42:21.280 --> 42:22.480
+num Python,
+
+42:22.480 --> 42:22.560
+é,
+
+42:22.560 --> 42:23.520
+há somente um
+
+42:23.520 --> 42:24.160
+looteiro,
+
+42:24.160 --> 42:25.440
+aqui eu pedação de matemática,
+
+42:25.440 --> 42:26.160
+então,
+
+42:26.160 --> 42:26.960
+ali se você quer fazer
+
+42:26.960 --> 42:28.560
+uma raiz quadrada,
+
+42:28.560 --> 42:29.920
+uma exponencial,
+
+42:29.920 --> 42:30.960
+se quer fazer
+
+42:30.960 --> 42:32.160
+uma função beta,
+
+42:32.160 --> 42:32.480
+enfim,
+
+42:32.480 --> 42:33.600
+uma coisa de tipo,
+
+42:33.600 --> 42:34.400
+você não vai lá,
+
+42:34.400 --> 42:35.600
+e vai definir a função,
+
+42:35.600 --> 42:37.600
+como um Python já tem esses,
+
+42:37.600 --> 42:38.400
+esses,
+
+42:38.400 --> 42:38.800
+esses,
+
+42:38.800 --> 42:40.640
+esses funções dentro dele,
+
+42:40.640 --> 42:40.800
+né,
+
+42:40.800 --> 42:41.920
+então ele tem a biblioteca,
+
+42:41.920 --> 42:42.960
+tem as funções,
+
+42:42.960 --> 42:44.640
+tem os métodos e classes,
+
+42:44.640 --> 42:45.200
+então você era
+
+42:45.200 --> 42:46.240
+dentro de,
+
+42:46.240 --> 42:46.960
+do meu Python,
+
+42:46.960 --> 42:48.320
+consegue usar os métodos
+
+42:48.320 --> 42:49.280
+para fazer o operativo
+
+42:49.280 --> 42:49.840
+em matemática,
+
+42:49.840 --> 42:51.840
+e ganhar tempo.
+
+42:53.040 --> 42:53.600
+Seborn,
+
+42:53.600 --> 42:54.640
+é uma fechamento,
+
+42:54.640 --> 42:55.680
+mais estatística,
+
+42:55.680 --> 42:56.160
+por isso,
+
+42:56.160 --> 42:56.720
+vou bloquear que
+
+42:56.720 --> 42:57.200
+entre analistos
+
+42:57.200 --> 42:58.480
+indiscitidades,
+
+42:58.480 --> 42:59.200
+o seborn
+
+42:59.200 --> 42:59.840
+é construído
+
+42:59.840 --> 43:00.320
+em cima do mais
+
+43:00.320 --> 43:01.440
+ponto de libero,
+
+43:01.440 --> 43:03.120
+fazer muito legal para visualização
+
+43:03.120 --> 43:04.240
+enganalistatística,
+
+43:05.360 --> 43:08.320
+então na parte de pet potas,
+
+43:08.320 --> 43:08.960
+sendo me dando,
+
+43:08.960 --> 43:09.760
+é na explenci 2,
+
+43:09.760 --> 43:11.200
+a gente vai começar os aos seborn,
+
+43:11.200 --> 43:11.760
+ele é uma feira
+
+43:11.760 --> 43:12.560
+amistatística,
+
+43:14.320 --> 43:15.520
+mais voltada para analista
+
+43:15.520 --> 43:16.560
+e sentisse de dados,
+
+43:17.760 --> 43:19.200
+na visão de pacificidade,
+
+43:19.200 --> 43:20.560
+todos os as biblioteques
+
+43:20.560 --> 43:21.760
+são bibliotecas
+
+43:21.760 --> 43:24.800
+específicas de machine learning
+
+43:24.800 --> 43:27.200
+e LLMS,
+
+43:27.200 --> 43:28.320
+então o que a gente tem um site
+
+43:28.320 --> 43:29.280
+que te learning,
+
+43:29.280 --> 43:30.880
+que a principal biblioteca
+
+43:30.880 --> 43:31.920
+de machine learning
+
+43:31.920 --> 43:33.360
+então lá você se tem um usadoritimo
+
+43:33.360 --> 43:34.640
+de principais algoritmos,
+
+43:34.640 --> 43:35.840
+a originalização,
+
+43:35.840 --> 43:37.360
+a Rainbow Forest,
+
+43:37.360 --> 43:38.320
+a Negração Uninear,
+
+43:38.320 --> 43:39.840
+a Negração Logista,
+
+43:39.840 --> 43:41.360
+então todos esses principais algoritmos
+
+43:41.360 --> 43:41.760
+estão lá,
+
+43:41.760 --> 43:43.360
+a Amazonas do site de learn,
+
+43:43.360 --> 43:44.560
+então é muito prática,
+
+43:44.560 --> 43:45.920
+você não precisa
+
+43:45.920 --> 43:47.040
+criar o algoritmo,
+
+43:47.040 --> 43:47.920
+então isso é muito legal com
+
+43:47.920 --> 43:49.360
+2,3 dias de código,
+
+43:49.360 --> 43:50.160
+você consegue usar
+
+43:50.160 --> 43:51.360
+tudo que o site tem
+
+43:51.360 --> 43:53.200
+para o Thereseno um nível
+
+43:53.200 --> 43:54.400
+muito complexo,
+
+43:54.400 --> 43:55.520
+então ele amistraima
+
+43:55.520 --> 43:57.840
+também, ele pega ele um algoritmo gigante
+
+43:57.840 --> 44:00.080
+e complexo com um algoritmo
+
+44:00.080 --> 44:01.600
+com o Rainbow Forest,
+
+44:01.600 --> 44:03.920
+ele concentra de 2 de nisso de código
+
+44:03.920 --> 44:05.680
+e ele está mistrado em muito prosoal,
+
+44:05.680 --> 44:07.040
+facilita a vida,
+
+44:07.040 --> 44:11.520
+porque ele é uma construção
+
+44:11.520 --> 44:13.920
+para a extrair rede neurais,
+
+44:13.920 --> 44:15.680
+então ele está em seu flow
+
+44:15.680 --> 44:16.880
+que é a base de
+
+44:16.880 --> 44:18.240
+que são tempestores,
+
+44:18.240 --> 44:20.080
+é a base das redes neurais do
+
+44:20.080 --> 44:21.040
+de energia
+
+44:21.040 --> 44:22.960
+e construir ele
+
+44:22.960 --> 44:25.440
+basicamente em interface
+
+44:25.440 --> 44:26.160
+que você consegue
+
+44:26.160 --> 44:27.840
+poder estar mais quase construído
+
+44:27.840 --> 44:28.960
+a rede neurais,
+
+44:28.960 --> 44:29.680
+tradicionales,
+
+44:29.680 --> 44:31.360
+nós adicionar conexões
+
+44:31.360 --> 44:33.040
+mais básico que elas,
+
+44:33.040 --> 44:34.720
+o LinkedIn é um feramento
+
+44:34.720 --> 44:36.400
+sim instado da arte
+
+44:36.400 --> 44:38.000
+de 2 anos para a cada um dos
+
+44:38.000 --> 44:39.600
+que espalhe com o meu atécoles,
+
+44:39.600 --> 44:41.920
+temos de integração
+
+44:41.920 --> 44:43.600
+de modelas de linguagem
+
+44:43.600 --> 44:44.800
+gigantes,
+
+44:44.800 --> 44:46.080
+com fútres
+
+44:46.080 --> 44:47.040
+informações,
+
+44:47.040 --> 44:48.240
+de populistas,
+
+44:48.240 --> 44:49.680
+então o lentilhão ferramenta
+
+44:49.680 --> 44:51.040
+que serve para integrar,
+
+44:51.040 --> 44:51.760
+por exemplo,
+
+44:51.760 --> 44:53.680
+aí a o chat IPT
+
+44:53.680 --> 44:56.080
+com o seu banco de dados entérios,
+
+44:56.080 --> 44:57.280
+então esse é um projeto que eu já
+
+44:57.280 --> 44:58.640
+passe a IPT também,
+
+44:58.640 --> 45:00.640
+é para o jeito de chat bot,
+
+45:00.640 --> 45:02.720
+então a gente botou o GPT,
+
+45:02.720 --> 45:04.480
+a GPT4,
+
+45:04.480 --> 45:06.880
+como um chat bot de uma Copaníria,
+
+45:06.880 --> 45:08.320
+e o contexto que for nesse
+
+45:08.320 --> 45:10.640
+o praeve foi o Lamed Chenhante,
+
+45:10.640 --> 45:12.160
+fez do Lamed Chenhante,
+
+45:12.160 --> 45:13.520
+então a gente fez uma consulta
+
+45:13.520 --> 45:15.280
+no banco de dados da empresa,
+
+45:15.280 --> 45:16.560
+jogou esse contexto de
+
+45:16.560 --> 45:18.240
+quenharo clientes de cada
+
+45:18.240 --> 45:19.360
+conversa,
+
+45:19.360 --> 45:21.120
+para o Apeido GPT,
+
+45:21.120 --> 45:22.400
+então ele chegava a
+
+45:22.400 --> 45:23.520
+antes de conversar com o Bruno,
+
+45:23.520 --> 45:25.120
+já sabia que o Bruno
+
+45:25.120 --> 45:26.400
+tem 30 anos que o Bruno
+
+45:26.400 --> 45:27.840
+é de Brasil, que o Bruno fez
+
+45:27.840 --> 45:29.440
+em jéria de produção no NB,
+
+45:29.440 --> 45:30.800
+que o Bruno trabalha agora no Bruno
+
+45:30.800 --> 45:31.440
+para refugar,
+
+45:31.440 --> 45:32.960
+então ele sabia tudo isso
+
+45:32.960 --> 45:35.040
+antes de conversar com um
+
+45:35.040 --> 45:36.160
+um cliente,
+
+45:36.160 --> 45:37.440
+e o Apebústio também,
+
+45:37.440 --> 45:39.040
+porque hoje em termos de
+
+45:39.040 --> 45:40.400
+classificação a regressão
+
+45:40.400 --> 45:41.280
+dos modelos mais,
+
+45:41.280 --> 45:42.960
+mais tem forma mágicos que existe,
+
+45:42.960 --> 45:44.480
+mas também é uma
+
+45:44.480 --> 45:46.720
+construção em cima do marro de decisão,
+
+45:46.720 --> 45:47.760
+então sem de forder,
+
+45:47.760 --> 45:49.440
+coisa de mais de 70 anos atrás.
+
+45:50.640 --> 45:52.000
+Os jéus dados aqui,
+
+45:52.000 --> 45:53.680
+é muito interessante a mineração de dados,
+
+45:53.680 --> 45:55.040
+e que a gente não vai entrar no detalhe,
+
+45:55.040 --> 45:56.560
+mas em geração de dados
+
+45:56.560 --> 45:57.440
+não tem muito legal,
+
+45:57.440 --> 45:59.440
+principalmente para um analisto
+
+45:59.440 --> 46:00.400
+e cientista que está querendo
+
+46:00.400 --> 46:01.600
+confrir o boste folho,
+
+46:01.600 --> 46:02.880
+e existem escodades,
+
+46:02.880 --> 46:04.480
+e que conseguiram dataça
+
+46:04.480 --> 46:05.680
+sobre um termo específico
+
+46:05.680 --> 46:06.720
+que interesse,
+
+46:06.720 --> 46:07.520
+então às vezes vocês vão
+
+46:07.520 --> 46:08.880
+ter que votar nozinho aqui,
+
+46:08.880 --> 46:11.360
+é muito difícil sobre seu lênio,
+
+46:11.360 --> 46:14.720
+e para sentir se ditados,
+
+46:14.720 --> 46:16.560
+como é se trabalhar,
+
+46:16.560 --> 46:18.080
+em conjuntos de dados no Apeores,
+
+46:18.080 --> 46:19.360
+a encher entre no Bíguida,
+
+46:19.360 --> 46:20.560
+então aqui a gente,
+
+46:20.560 --> 46:22.000
+o pôr das eleastralmente
+
+46:22.000 --> 46:23.120
+perform mais,
+
+46:23.120 --> 46:24.720
+quando está falando de,
+
+46:24.720 --> 46:26.400
+é usar CPU,
+
+46:26.400 --> 46:27.840
+que é isso que a maioria dos computadores
+
+46:27.840 --> 46:31.280
+tem é o 7 e 5 e se é o CPU,
+
+46:31.280 --> 46:33.120
+então o pôr nos elebe muito bem feito,
+
+46:33.120 --> 46:33.920
+muito bem organizado
+
+46:33.920 --> 46:35.920
+para fazer as operações ali,
+
+46:35.920 --> 46:37.200
+no CPU,
+
+46:37.200 --> 46:38.400
+mas quando a gente passa
+
+46:38.400 --> 46:40.160
+para com rio de dados de piquetata,
+
+46:40.160 --> 46:42.880
+então ali mais de 3, 4 milhões de dados,
+
+46:42.880 --> 46:44.320
+fomos muitas columnas,
+
+46:44.320 --> 46:46.160
+o pôr nos elecado não tem performance,
+
+46:46.160 --> 46:47.200
+por sificiente,
+
+46:47.200 --> 46:49.120
+então vai demorar
+
+46:49.120 --> 46:51.120
+meses para você fazer
+
+46:51.120 --> 46:52.560
+operação que quiser,
+
+46:52.560 --> 46:53.120
+e por isso,
+
+46:53.120 --> 46:54.000
+o pais parte,
+
+46:54.000 --> 46:54.640
+o pais parte,
+
+46:54.640 --> 46:56.160
+o diferente do pôr nos elem,
+
+46:56.160 --> 46:56.960
+não usa CPU,
+
+46:56.960 --> 46:58.560
+e usa GPU,
+
+46:58.560 --> 47:00.320
+então ali usar um idade de processamento
+
+47:00.320 --> 47:02.080
+o gráfico do seu computador,
+
+47:02.080 --> 47:03.440
+se focazo,
+
+47:03.440 --> 47:04.640
+ou da lube,
+
+47:04.640 --> 47:05.200
+também,
+
+47:05.200 --> 47:06.560
+não já existe,
+
+47:06.560 --> 47:08.560
+mas ele usa a unidade de processamento gráfico,
+
+47:08.560 --> 47:09.200
+porque o diferente
+
+47:09.200 --> 47:10.160
+da CPU,
+
+47:10.160 --> 47:12.320
+ela não processa das tarefas em série,
+
+47:12.320 --> 47:12.800
+a CPU,
+
+47:12.800 --> 47:14.400
+ela vai dizer que o tomomo
+
+47:14.400 --> 47:15.920
+tem o inôr com a mais saluta,
+
+47:15.920 --> 47:16.800
+a GPU,
+
+47:16.800 --> 47:17.600
+ela consegue
+
+47:17.600 --> 47:20.480
+executar para ela as tarefas,
+
+47:20.480 --> 47:21.280
+então, por isso,
+
+47:21.280 --> 47:22.080
+para a conjuntidade
+
+47:22.080 --> 47:22.880
+muito grande,
+
+47:22.880 --> 47:23.600
+é necessário
+
+47:23.600 --> 47:25.040
+para a gente usar a GPU,
+
+47:25.040 --> 47:26.400
+e o pais parte
+
+47:26.400 --> 47:27.440
+é uma construção,
+
+47:27.440 --> 47:28.240
+mas o que eu cheio
+
+47:28.240 --> 47:29.920
+é o pais parte,
+
+47:29.920 --> 47:31.200
+é o pão das
+
+47:31.200 --> 47:32.720
+tonadas,
+
+47:32.720 --> 47:33.440
+porque ele é um
+
+47:33.440 --> 47:34.480
+muito similar ao pão,
+
+47:34.480 --> 47:35.200
+vocês vão ver,
+
+47:35.200 --> 47:36.320
+mas ele
+
+47:36.320 --> 47:37.760
+é muito mais rápido,
+
+47:37.760 --> 47:38.880
+justamente para ele fazer
+
+47:38.880 --> 47:41.520
+uso da unidade de processamento gráfico,
+
+47:41.520 --> 47:42.480
+mas também,
+
+47:42.480 --> 47:43.520
+muitas vezes,
+
+47:43.520 --> 47:44.720
+é muito custoso,
+
+47:44.720 --> 47:45.200
+é difícil,
+
+47:45.200 --> 47:45.920
+você está lá mais
+
+47:45.920 --> 47:46.720
+para o localmente
+
+47:46.720 --> 47:47.920
+nossa máquina,
+
+47:47.920 --> 47:49.360
+porque tem que acensar
+
+47:49.360 --> 47:51.520
+a liga de população GPU e tal,
+
+47:51.520 --> 47:51.920
+então,
+
+47:51.920 --> 47:52.720
+hoje em dia principal,
+
+47:52.720 --> 47:54.640
+hoje dia utilizado,
+
+47:54.640 --> 47:55.680
+é em ferramentas
+
+47:55.680 --> 47:56.720
+como da tabricas,
+
+47:56.720 --> 47:57.760
+como o colábica,
+
+47:57.760 --> 47:58.560
+oferece em ele,
+
+47:58.560 --> 47:59.040
+também lá,
+
+47:59.040 --> 48:00.560
+nativamente,
+
+48:00.560 --> 48:02.000
+e o flask,
+
+48:02.000 --> 48:03.600
+o flask é uma,
+
+48:03.600 --> 48:04.400
+a pressão,
+
+48:04.400 --> 48:05.520
+a pessoa já trabalhou
+
+48:05.520 --> 48:06.320
+com o fronchei,
+
+48:06.320 --> 48:07.360
+e bem quem
+
+48:07.360 --> 48:09.520
+é programar o web,
+
+48:09.520 --> 48:10.080
+o flask,
+
+48:10.080 --> 48:11.040
+ele é uma
+
+48:11.040 --> 48:12.640
+biblioteca para servir
+
+48:12.640 --> 48:13.440
+o nosso modelo,
+
+48:13.440 --> 48:14.640
+o impacto,
+
+48:14.640 --> 48:15.280
+então,
+
+48:15.280 --> 48:16.080
+que vão ser a digital,
+
+48:16.080 --> 48:17.040
+você vai criar o seu modelo,
+
+48:17.040 --> 48:17.600
+e você vai querer
+
+48:17.600 --> 48:19.040
+que ela não confuma ele,
+
+48:19.440 --> 48:20.800
+pode ser um lado da forma,
+
+48:20.800 --> 48:21.760
+pode ser um aplicativo,
+
+48:22.800 --> 48:24.000
+ou pode ser direta,
+
+48:24.000 --> 48:25.280
+que eu vou usar,
+
+48:25.280 --> 48:25.600
+então,
+
+48:25.600 --> 48:26.800
+a gente faz um em de ponto,
+
+48:26.800 --> 48:28.320
+que como se fosse,
+
+48:28.320 --> 48:30.080
+um perrindo do modelo,
+
+48:30.080 --> 48:31.120
+e alguma região,
+
+48:31.120 --> 48:32.480
+um site,
+
+48:32.480 --> 48:34.400
+e o flask é que a gente proporciona
+
+48:34.400 --> 48:34.800
+isso,
+
+48:34.800 --> 48:36.080
+então, deixa aquela,
+
+48:36.080 --> 48:37.520
+é portinha bem,
+
+48:37.520 --> 48:38.720
+para receber uma chamada
+
+48:38.720 --> 48:40.160
+e fornecer a resposta,
+
+48:40.160 --> 48:40.960
+dando um supril Google
+
+48:40.960 --> 48:42.160
+e você tem uma lá para frente.
+
+48:44.160 --> 48:44.720
+Vamos lá,
+
+48:44.720 --> 48:46.320
+tipo de análise de dados,
+
+48:46.320 --> 48:47.600
+quais são hoje os principais
+
+48:47.600 --> 48:48.880
+tipos de análise de dados?
+
+48:49.360 --> 48:50.160
+E aqui,
+
+48:50.160 --> 48:51.360
+a gente vai entrar com a gente
+
+48:51.360 --> 48:52.880
+de diferenciar um análista
+
+48:52.880 --> 48:54.000
+de uns cientificidades.
+
+48:54.800 --> 48:56.000
+Um análista pessoal,
+
+48:56.000 --> 48:56.960
+vai estar focado
+
+48:56.960 --> 48:58.880
+muito nesses dois primeiros pontos,
+
+48:59.280 --> 49:00.640
+o que aconteceu
+
+49:00.640 --> 49:02.000
+e por que aconteceu?
+
+49:02.400 --> 49:03.600
+E sendo bem sincero,
+
+49:03.600 --> 49:04.400
+hoje,
+
+49:04.400 --> 49:05.680
+quase todo empreendedor,
+
+49:05.680 --> 49:06.880
+praticamente todo empreendedor,
+
+49:06.880 --> 49:08.400
+ele consegue chegar a esses dois níveis.
+
+49:09.040 --> 49:09.600
+Não,
+
+49:09.600 --> 49:11.120
+e o que vocês vão chegar
+
+49:11.120 --> 49:11.920
+é que podem terminar em que
+
+49:11.920 --> 49:12.800
+você tem.
+
+49:12.800 --> 49:13.440
+Mas hoje,
+
+49:13.440 --> 49:14.960
+e todo mundo tem uma noção,
+
+49:14.960 --> 49:15.760
+do que aconteceu
+
+49:15.760 --> 49:16.320
+com o negócio dele,
+
+49:16.320 --> 49:17.120
+é semana,
+
+49:17.120 --> 49:17.920
+vem demais,
+
+49:17.920 --> 49:18.880
+vem de menos,
+
+49:19.600 --> 49:20.640
+é chuveu,
+
+49:20.640 --> 49:22.160
+e por que aconteceu?
+
+49:22.160 --> 49:23.760
+Vende mais que
+
+49:23.760 --> 49:24.800
+chuveu muito,
+
+49:24.800 --> 49:25.760
+então pessoal,
+
+49:25.760 --> 49:27.520
+pediu pela fúdia,
+
+49:27.520 --> 49:28.720
+é vende de menos,
+
+49:28.720 --> 49:30.160
+porque está afinal de
+
+49:30.160 --> 49:30.480
+mês,
+
+49:30.480 --> 49:32.000
+e pessoal não crescui o dinheiro,
+
+49:32.000 --> 49:33.600
+então o empresário tem essa noção.
+
+49:34.320 --> 49:35.280
+Bom, sem ter esse nome
+
+49:35.280 --> 49:36.640
+no nível de administração,
+
+49:36.640 --> 49:38.080
+mas ele tem essa noção.
+
+49:38.400 --> 49:39.840
+E o próximo passo aqui,
+
+49:40.240 --> 49:41.760
+que quase ninguém tem,
+
+49:42.800 --> 49:44.320
+prevê o que vai acontecer,
+
+49:44.800 --> 49:45.920
+porque geralmente é isso.
+
+49:45.920 --> 49:47.120
+É muito pequeno,
+
+49:47.120 --> 49:47.920
+ele está entendendo o que está
+
+49:47.920 --> 49:49.280
+acontecendo, mas muitas vezes
+
+49:49.280 --> 49:50.560
+ele está correndo atrás do próprio
+
+49:50.560 --> 49:51.360
+rabo.
+
+49:51.360 --> 49:52.560
+E não consegue prever quando
+
+49:52.560 --> 49:53.200
+quando o rabo tem
+
+49:53.200 --> 49:54.000
+seja novo,
+
+49:54.000 --> 49:54.960
+não sabe quais são os
+
+49:54.960 --> 49:56.480
+fatores que causaram aqui,
+
+49:56.480 --> 49:58.080
+às vezes ele sabe o que aconteceu,
+
+49:58.080 --> 49:59.360
+ele sabe o poupê aconteceu,
+
+49:59.360 --> 50:00.560
+mas ele não sabe.
+
+50:00.560 --> 50:02.560
+Quando quer provável de acontecer de novo.
+
+50:02.960 --> 50:04.560
+Então aqui, quem começa a entrar
+
+50:04.560 --> 50:06.000
+a análise de essência de dados,
+
+50:06.000 --> 50:08.160
+principalmente a essência de dados aqui,
+
+50:08.160 --> 50:10.240
+como um análise de dados
+
+50:10.240 --> 50:11.200
+dando esse instrumento,
+
+50:11.200 --> 50:12.080
+o que aconteceu,
+
+50:12.080 --> 50:13.200
+porque aconteceu
+
+50:13.200 --> 50:14.480
+e quais são a principais
+
+50:14.480 --> 50:16.320
+fatores que levaram aqui?
+
+50:16.320 --> 50:17.280
+Então,
+
+50:17.360 --> 50:18.400
+a gente sabe que na testa
+
+50:18.400 --> 50:18.880
+é verdade,
+
+50:18.880 --> 50:19.040
+é verdade,
+
+50:19.040 --> 50:19.600
+é verdade,
+
+50:19.600 --> 50:21.360
+porque, final de mês,
+
+50:21.360 --> 50:22.720
+porque é chuveu,
+
+50:22.720 --> 50:23.680
+e porque,
+
+50:23.680 --> 50:24.560
+se é uma na passada,
+
+50:24.560 --> 50:26.160
+a gente teve 5 avaliações
+
+50:26.160 --> 50:26.720
+ruins,
+
+50:26.720 --> 50:28.720
+e isso está gerando um
+
+50:28.720 --> 50:30.560
+bèfio de pra gente na plataforma.
+
+50:30.960 --> 50:32.400
+O que é provável de acontecer?
+
+50:32.400 --> 50:33.680
+A gente seguir esse fluxo,
+
+50:33.680 --> 50:34.400
+você é uma hora que vem,
+
+50:34.400 --> 50:35.440
+a gente está prevendo
+
+50:35.440 --> 50:37.200
+uma redução no número de pedido,
+
+50:37.200 --> 50:38.400
+aqui, 10%
+
+50:38.400 --> 50:40.880
+pouca uso de decidez e desse patou.
+
+50:40.880 --> 50:42.000
+Então, esse é um exemplo
+
+50:42.000 --> 50:43.360
+de uma integração ali,
+
+50:43.360 --> 50:44.240
+não trabalho
+
+50:44.240 --> 50:46.720
+do sentilidade com a na lista de dados.
+
+50:47.040 --> 50:48.080
+E, por fim,
+
+50:48.480 --> 50:50.000
+é, qual decidão tomar,
+
+50:50.000 --> 50:50.800
+então,
+
+50:50.800 --> 50:51.440
+ele
+
+50:52.000 --> 50:53.920
+o trabalho do analista de dados,
+
+50:53.920 --> 50:55.440
+com centilitividade,
+
+50:55.440 --> 50:56.800
+contando toda esse história,
+
+50:56.800 --> 50:57.600
+do que aconteceu?
+
+50:57.600 --> 50:58.800
+Porque aconteceu?
+
+50:58.800 --> 51:00.800
+Onde é provável de acontecer?
+
+51:00.800 --> 51:02.000
+O gestor,
+
+51:02.000 --> 51:02.560
+a pessoa ali,
+
+51:02.560 --> 51:04.720
+que vai estar na posição de tomar decidão,
+
+51:04.720 --> 51:06.160
+vai ter todos os ensinos
+
+51:06.160 --> 51:07.440
+para saber que ele está tomando
+
+51:07.440 --> 51:08.640
+a decição certa.
+
+51:08.640 --> 51:09.440
+E novamente,
+
+51:09.440 --> 51:10.080
+pessoal,
+
+51:10.080 --> 51:11.440
+a principal habilidade
+
+51:11.440 --> 51:12.160
+de progestor,
+
+51:12.160 --> 51:13.040
+e qualquer posição,
+
+51:13.040 --> 51:14.400
+não sei que o mentir humém,
+
+51:14.400 --> 51:16.000
+saber que tomar decidão
+
+51:16.000 --> 51:17.680
+baseada em dados.
+
+51:17.680 --> 51:18.880
+Acabou que ele é negócio de
+
+51:18.880 --> 51:20.240
+film, de mercado,
+
+51:20.240 --> 51:21.600
+experiência.
+
+51:21.600 --> 51:22.880
+Não, hoje eu estou aqui,
+
+51:22.880 --> 51:24.560
+não estou uma decição basear em dados,
+
+51:24.560 --> 51:27.360
+ele tem um de chino certo,
+
+51:27.360 --> 51:28.640
+que é o disempreio.
+
+51:30.080 --> 51:31.120
+Vamos lá.
+
+51:31.120 --> 51:32.400
+É metodologia,
+
+51:32.400 --> 51:33.760
+Cristin,
+
+51:33.760 --> 51:35.840
+é isso que é principal metodologia,
+
+51:35.840 --> 51:36.560
+que a gente usa
+
+51:36.560 --> 51:37.520
+para trabalhar com dados,
+
+51:37.520 --> 51:37.840
+aí, então,
+
+51:37.840 --> 51:38.960
+para narres e quanto para a
+
+51:38.960 --> 51:40.320
+cência de dados.
+
+51:40.320 --> 51:41.280
+Então,
+
+51:41.280 --> 51:42.240
+a modelinha,
+
+51:42.240 --> 51:43.040
+meio confuso,
+
+51:43.040 --> 51:44.000
+mas vamos começar
+
+51:44.000 --> 51:44.880
+por aqui,
+
+51:45.040 --> 51:46.960
+é o entendimento do negócio.
+
+51:46.960 --> 51:47.200
+Então,
+
+51:47.200 --> 51:48.160
+que na gente já falou
+
+51:48.160 --> 51:49.920
+que está trabalhando com dados,
+
+51:49.920 --> 51:50.960
+é importante,
+
+51:50.960 --> 51:51.760
+por sentista,
+
+51:51.760 --> 51:53.360
+por jornalista,
+
+51:53.360 --> 51:53.920
+e às vezes,
+
+51:53.920 --> 51:54.720
+até por um dinheiro,
+
+51:54.720 --> 51:56.080
+mesmo que menos,
+
+51:56.080 --> 51:56.800
+entendeu,
+
+51:56.800 --> 51:58.640
+do negócio que ele está trabalhando,
+
+51:58.640 --> 51:59.760
+você vai cortar caminhos,
+
+51:59.760 --> 52:00.960
+e você vai ter
+
+52:00.960 --> 52:01.760
+insais,
+
+52:01.760 --> 52:02.880
+você vai ter
+
+52:02.880 --> 52:04.400
+ideias que você não teria,
+
+52:04.400 --> 52:06.240
+se você interesse com a negócio a fome,
+
+52:06.240 --> 52:07.200
+então, esse é o primeiro base,
+
+52:07.200 --> 52:08.400
+qualquer projeto,
+
+52:08.400 --> 52:08.960
+qualquer vai,
+
+52:08.960 --> 52:10.000
+o queuriesse interessar para
+
+52:10.000 --> 52:11.440
+essa esse sentido,
+
+52:11.440 --> 52:12.320
+tem entender esse
+
+52:12.320 --> 52:13.040
+o que é bom por aí,
+
+52:13.040 --> 52:14.160
+é isso que o negócio
+
+52:14.160 --> 52:15.920
+tem onde você poderia ajudar,
+
+52:16.960 --> 52:17.440
+e,
+
+52:17.440 --> 52:18.080
+segundo passo,
+
+52:18.080 --> 52:19.440
+tem entender com que são os dados
+
+52:19.440 --> 52:20.240
+dessa empresa,
+
+52:20.240 --> 52:20.640
+né?
+
+52:20.640 --> 52:22.000
+É como que é o
+
+52:22.000 --> 52:23.200
+o vem de dados hoje?
+
+52:23.200 --> 52:25.040
+Eu tenho um data warehouse
+
+52:25.600 --> 52:26.320
+que é um
+
+52:26.320 --> 52:28.080
+estados organizados na
+
+52:28.080 --> 52:28.960
+Nouve,
+
+52:28.960 --> 52:30.640
+eu tenho um banco de dados
+
+52:30.640 --> 52:32.320
+bocar a ONU,
+
+52:32.320 --> 52:34.640
+eu tenho o palírias de Excel,
+
+52:34.640 --> 52:35.760
+eu tenho pessoal receber
+
+52:35.760 --> 52:36.800
+dados por e-mail,
+
+52:36.800 --> 52:38.400
+eu tenho esse FTP que
+
+52:38.400 --> 52:39.360
+ao servidor
+
+52:39.360 --> 52:40.640
+a STR,
+
+52:40.640 --> 52:41.440
+enfim,
+
+52:41.440 --> 52:43.040
+dentro de tudo isso,
+
+52:43.120 --> 52:44.160
+onde que estão os dados,
+
+52:44.160 --> 52:45.440
+como são os dados?
+
+52:45.440 --> 52:46.960
+São variáveis no méricas,
+
+52:46.960 --> 52:48.640
+o que são as colunas?
+
+52:48.640 --> 52:50.080
+O que é cada valor?
+
+52:50.080 --> 52:51.120
+Então, é um trabalho
+
+52:51.120 --> 52:51.840
+chistato,
+
+52:51.840 --> 52:52.640
+sinceramente,
+
+52:52.640 --> 52:53.840
+muitas vezes,
+
+52:53.840 --> 52:54.880
+porque os seus
+
+52:54.880 --> 52:55.840
+vezes já cai em promodeu,
+
+52:55.840 --> 52:57.440
+já tem que construir o painel
+
+52:57.440 --> 52:58.880
+para ter os sites não,
+
+52:58.880 --> 52:59.600
+às vezes,
+
+52:59.600 --> 53:01.280
+se vai perder uma parte do seu trabalho,
+
+53:01.280 --> 53:01.840
+às vezes, dois,
+
+53:01.840 --> 53:02.880
+três dias,
+
+53:02.880 --> 53:04.640
+tem também tendo o dado,
+
+53:04.640 --> 53:06.240
+tem certeza daquilo,
+
+53:06.240 --> 53:07.300
+tem como são
+
+53:07.300 --> 53:08.240
+distribuições das suas
+
+53:08.240 --> 53:09.920
+variáveis no méricas,
+
+53:09.920 --> 53:11.200
+tem entender o que
+
+53:11.200 --> 53:12.720
+pode ser feito para o que ele dá,
+
+53:12.720 --> 53:13.920
+o que ele gera,
+
+53:13.920 --> 53:14.960
+se hoje em dia,
+
+53:14.960 --> 53:16.320
+é o pessoal monitor,
+
+53:16.320 --> 53:19.040
+é o que são os principais indicadores,
+
+53:19.040 --> 53:19.200
+então,
+
+53:19.200 --> 53:20.640
+é um trabalho muito bem-isso,
+
+53:20.640 --> 53:21.600
+de entender tudo aquele
+
+53:21.600 --> 53:22.560
+elemento de dados,
+
+53:22.560 --> 53:23.680
+e do negócio,
+
+53:23.680 --> 53:24.240
+para que é isso,
+
+53:24.240 --> 53:25.280
+a gente conseguir botar
+
+53:25.280 --> 53:26.240
+no ar,
+
+53:26.240 --> 53:28.480
+que é preparar os dados,
+
+53:28.480 --> 53:29.760
+os dados no mundo real não,
+
+53:29.760 --> 53:30.400
+que só não chega
+
+53:30.400 --> 53:30.880
+o britinho,
+
+53:30.880 --> 53:31.600
+pessoal,
+
+53:31.600 --> 53:32.800
+vai vir muito dado
+
+53:32.800 --> 53:33.360
+quebrado,
+
+53:33.360 --> 53:34.960
+muito ele ainda faltando
+
+53:34.960 --> 53:35.840
+colônia,
+
+53:35.840 --> 53:36.640
+com o nome errado,
+
+53:36.640 --> 53:37.280
+o que a gente vai ter que
+
+53:37.280 --> 53:38.080
+de estar,
+
+53:38.080 --> 53:38.480
+então,
+
+53:38.480 --> 53:38.880
+estúvia,
+
+53:38.880 --> 53:39.920
+que a gente vai ver o almo do custo,
+
+53:39.920 --> 53:40.240
+também,
+
+53:40.240 --> 53:40.640
+por isso que é
+
+53:40.640 --> 53:41.120
+importante,
+
+53:41.120 --> 53:42.160
+você saiba um mâneico
+
+53:42.160 --> 53:43.200
+los dados,
+
+53:43.200 --> 53:44.720
+porque o mundo real não
+
+53:44.720 --> 53:45.200
+é,
+
+53:45.200 --> 53:47.120
+como na maioria dos cursos,
+
+53:47.120 --> 53:47.840
+se você vai pegar de
+
+53:47.840 --> 53:49.600
+o pojo de dados do itinho,
+
+53:49.600 --> 53:51.040
+e conseguir construir,
+
+53:51.040 --> 53:51.840
+se vai ter que juntar
+
+53:51.840 --> 53:52.880
+coisas de muito lado,
+
+53:52.880 --> 53:53.920
+você vai ter que
+
+53:53.920 --> 53:56.160
+trabalhar para igarantir,
+
+53:56.160 --> 53:56.880
+se que o final
+
+53:56.880 --> 53:57.680
+é o dificil bonito,
+
+53:57.680 --> 53:58.080
+então,
+
+53:58.080 --> 53:59.120
+é um trabalho de benghe,
+
+53:59.120 --> 53:59.920
+botar monamassa,
+
+53:59.920 --> 54:00.400
+mesmo,
+
+54:00.400 --> 54:01.440
+limpar,
+
+54:01.440 --> 54:02.480
+tirar a poeira
+
+54:02.480 --> 54:03.040
+dos dados,
+
+54:03.040 --> 54:03.840
+garantir o que ele fique
+
+54:03.840 --> 54:04.880
+inteiro,
+
+54:04.880 --> 54:05.440
+modelar,
+
+54:05.440 --> 54:06.960
+e assim,
+
+54:06.960 --> 54:07.840
+tanto para a na escola de
+
+54:07.840 --> 54:09.440
+placenta idade,
+
+54:09.440 --> 54:11.360
+para a na realidade relacionar
+
+54:11.360 --> 54:12.560
+diferentes tabelas,
+
+54:12.560 --> 54:13.920
+diferentes cosos de dados,
+
+54:13.920 --> 54:15.840
+os já usam a chave iprimária,
+
+54:15.840 --> 54:17.440
+para criar o seu modelo de dados,
+
+54:17.440 --> 54:18.560
+que você vai levar em fim,
+
+54:18.560 --> 54:19.520
+para o par de aéprote,
+
+54:19.520 --> 54:21.760
+para fazer as suas análises,
+
+54:22.720 --> 54:24.160
+ou também pode modelar em pai,
+
+54:24.160 --> 54:25.360
+então a gente pode juntar
+
+54:25.360 --> 54:27.520
+vários conjuntos de dados
+
+54:27.520 --> 54:28.560
+e o que só nos pando,
+
+54:28.560 --> 54:30.320
+então a límica vem a critério
+
+54:30.320 --> 54:31.280
+do oral de cidados,
+
+54:31.280 --> 54:32.720
+como o modelo dados,
+
+54:32.720 --> 54:34.560
+mas para o sentido de dados a
+
+54:34.560 --> 54:35.200
+modelagem,
+
+54:35.200 --> 54:36.320
+é basicamente escolher,
+
+54:36.320 --> 54:37.760
+que o algoritmo ele vai usar,
+
+54:37.840 --> 54:39.600
+qual previsão ele vai tentar fazer,
+
+54:39.600 --> 54:42.400
+qual conjunto garantir o pojuto de treino,
+
+54:42.400 --> 54:44.880
+não está vazando o pojuto de teste,
+
+54:44.880 --> 54:46.320
+então todos esses detalhes,
+
+54:46.320 --> 54:48.480
+ele é um sentido de dados,
+
+54:48.480 --> 54:51.360
+ele vai ter que tomar na modelagem,
+
+54:51.360 --> 54:53.680
+também vai entrar a forma longo do curso,
+
+54:53.680 --> 54:55.200
+e depois, no que a gente faz
+
+54:55.200 --> 54:55.840
+conosco modelo,
+
+54:55.840 --> 54:57.200
+vamos ter que avaliar,
+
+54:57.200 --> 54:58.480
+trô uma analisidade de forma
+
+54:58.480 --> 54:59.600
+muito listo sobre o leaco,
+
+54:59.600 --> 55:00.240
+o panel,
+
+55:00.240 --> 55:02.240
+garantir que ele está com os indicadores,
+
+55:02.240 --> 55:04.160
+é muito o vêm vai com a alta gestão,
+
+55:04.160 --> 55:05.440
+que ele vai estar consumindo,
+
+55:05.440 --> 55:06.080
+aquele panel,
+
+55:06.080 --> 55:06.720
+propriamente,
+
+55:06.720 --> 55:08.000
+ou com a operação,
+
+55:08.000 --> 55:08.960
+então,
+
+55:08.960 --> 55:10.160
+é você levar por cliente,
+
+55:10.160 --> 55:11.440
+garantir que ele está entregando o valor
+
+55:11.440 --> 55:12.400
+por cliente,
+
+55:12.400 --> 55:13.680
+porque,
+
+55:13.680 --> 55:15.200
+que nem a gente sempre fala o panel,
+
+55:15.200 --> 55:16.480
+o panel não entrega nada,
+
+55:16.480 --> 55:18.080
+o que entrega o valor,
+
+55:18.080 --> 55:20.160
+que você agrega um que está construindo
+
+55:20.160 --> 55:20.640
+ali,
+
+55:20.640 --> 55:22.240
+pois vão as suas torre,
+
+55:22.240 --> 55:23.200
+então,
+
+55:23.200 --> 55:24.720
+é um trabalho também muito de tal,
+
+55:24.720 --> 55:26.080
+com com um cliente,
+
+55:26.080 --> 55:28.160
+com o empasseiro com o cliente
+
+55:28.160 --> 55:29.600
+do projeto,
+
+55:29.600 --> 55:31.840
+garantir que ele
+
+55:31.840 --> 55:33.280
+esteja sendo ouvido,
+
+55:33.280 --> 55:34.160
+porque se gostei,
+
+55:34.160 --> 55:35.120
+se ficaria no seu mundo,
+
+55:35.120 --> 55:35.920
+posto-e no panel,
+
+55:35.920 --> 55:36.880
+chegue no fiburgênio,
+
+55:36.880 --> 55:38.160
+entrega nada de valor,
+
+55:38.160 --> 55:39.440
+pode ser o panel mais bonito,
+
+55:39.440 --> 55:40.000
+do mundo,
+
+55:40.000 --> 55:41.840
+se o cara não veio valor
+
+55:41.840 --> 55:42.800
+naquilo,
+
+55:42.800 --> 55:44.160
+não tem nenhum ponto,
+
+55:44.160 --> 55:45.200
+né, pessoal?
+
+55:45.200 --> 55:46.400
+E por fim,
+
+55:46.400 --> 55:47.760
+botar para produção,
+
+55:47.760 --> 55:48.400
+que é,
+
+55:48.400 --> 55:51.040
+justamente isso que eu falei,
+
+55:51.040 --> 55:53.440
+muitos projetos de senhora
+
+55:53.440 --> 55:55.680
+se já lives dados a cabo aqui,
+
+55:55.680 --> 55:57.280
+pessoal consegue rodar tudo,
+
+55:57.280 --> 55:58.480
+avali, beleza?
+
+55:58.480 --> 55:59.280
+Tem um ok,
+
+55:59.280 --> 56:01.280
+chega na hora de botar em produção,
+
+56:01.280 --> 56:02.080
+ou ninguém ver,
+
+56:02.080 --> 56:03.600
+ou ninguém usa.
+
+56:03.600 --> 56:04.720
+Então esse é o ponto,
+
+56:05.600 --> 56:06.880
+ao longo de cada detalhe,
+
+56:07.520 --> 56:09.040
+vocês têm que ir a perfilção
+
+56:09.040 --> 56:10.240
+a abrir a primorano
+
+56:10.240 --> 56:11.280
+para garantir que quando chegar
+
+56:11.280 --> 56:12.240
+aqui vai ter valor,
+
+56:12.640 --> 56:13.680
+e a isso que a gente vai tentar
+
+56:13.680 --> 56:14.080
+transmitir,
+
+56:14.080 --> 56:14.800
+também é que ao longo do
+
+56:14.800 --> 56:15.680
+Budcamp,
+
+56:15.680 --> 56:17.520
+como sair do nível de
+
+56:17.520 --> 56:19.040
+só escrever,
+
+56:19.040 --> 56:21.280
+e entregar no panel,
+
+56:21.280 --> 56:22.400
+escritem de código,
+
+56:22.400 --> 56:23.360
+para chegar no nível de
+
+56:23.360 --> 56:24.320
+entregar valor
+
+56:24.320 --> 56:26.240
+com um entrega de um modelo de dados,
+
+56:26.240 --> 56:27.440
+na ibota em produção,
+
+56:27.440 --> 56:28.400
+então você tem o modelo
+
+56:28.400 --> 56:30.080
+que gera previdores por retas,
+
+56:30.080 --> 56:31.040
+é empresa consegue
+
+56:31.040 --> 56:32.320
+retabilizar em cima,
+
+56:32.400 --> 56:35.440
+ou você tem um rotina de análises
+
+56:35.440 --> 56:37.040
+de dados que consegue
+
+56:37.040 --> 56:38.000
+gerar valor,
+
+56:38.000 --> 56:39.760
+para a autojetão e apoiar na
+
+56:39.760 --> 56:42.960
+tomarei desses partes seis,
+
+56:42.960 --> 56:43.760
+pessoal,
+
+56:43.760 --> 56:45.520
+a experiência aprendizado
+
+56:45.520 --> 56:46.720
+aqui na tripletem,
+
+56:46.720 --> 56:47.760
+vamos lá.
+
+56:47.760 --> 56:48.720
+Então,
+
+56:49.360 --> 56:50.880
+para estar fundamental,
+
+56:50.880 --> 56:52.400
+não tem outro jeito de aprender
+
+56:52.400 --> 56:52.720
+pai,
+
+56:52.720 --> 56:53.920
+porque não
+
+56:53.920 --> 56:55.600
+é rodando,
+
+56:55.600 --> 56:56.640
+como vocês têm que botar
+
+56:56.640 --> 56:57.600
+uma namassa,
+
+56:57.600 --> 56:59.680
+as resistivas,
+
+56:59.680 --> 57:00.640
+lá no chat PT,
+
+57:00.640 --> 57:01.600
+os camas bolas,
+
+57:01.600 --> 57:03.600
+mas não em comendo,
+
+57:03.600 --> 57:05.200
+não lá na plataforma,
+
+57:05.200 --> 57:06.560
+façam a estar eifas,
+
+57:06.560 --> 57:07.600
+então, a gente tem
+
+57:07.600 --> 57:09.280
+duas grandes formas de praticar,
+
+57:09.280 --> 57:10.320
+na tripletem que são os
+
+57:10.320 --> 57:11.040
+blocos de cores,
+
+57:11.040 --> 57:12.240
+que isso que quizes,
+
+57:12.240 --> 57:13.200
+que são incorporados nas
+
+57:13.200 --> 57:14.160
+distões,
+
+57:14.160 --> 57:14.560
+e também,
+
+57:14.560 --> 57:15.600
+hoje o jogo tem o
+
+57:15.600 --> 57:16.400
+tipo de múxico que você
+
+57:16.400 --> 57:16.960
+desenvolveu aqui,
+
+57:16.960 --> 57:18.480
+pessoal que já está chegando,
+
+57:18.480 --> 57:19.440
+é, no final desse que
+
+57:19.440 --> 57:20.000
+vamos ver,
+
+57:20.000 --> 57:20.720
+como que é o jogo tem
+
+57:20.720 --> 57:22.640
+o tipo de múxico de projeto,
+
+57:22.640 --> 57:23.040
+e aí,
+
+57:23.040 --> 57:23.360
+sim,
+
+57:23.360 --> 57:24.400
+você desenvolvei essa
+
+57:24.400 --> 57:25.840
+noção de
+
+57:25.840 --> 57:26.720
+como que é um
+
+57:26.720 --> 57:27.680
+a vida de um sento
+
+57:27.680 --> 57:29.120
+invedidas na prática,
+
+57:29.120 --> 57:29.600
+é isso,
+
+57:29.600 --> 57:29.920
+pessoal,
+
+57:29.920 --> 57:31.040
+não sai muito daqui,
+
+57:31.040 --> 57:31.520
+é,
+
+57:31.520 --> 57:33.040
+veja agora aqui no português,
+
+57:33.040 --> 57:34.400
+tem até o mundo real,
+
+57:34.400 --> 57:35.200
+é isso aqui que a gente
+
+57:35.200 --> 57:35.840
+utiliza,
+
+57:35.840 --> 57:37.360
+tem a gente tudo visual estúdio,
+
+57:37.360 --> 57:39.200
+eu acho que realmente prefiro,
+
+57:39.200 --> 57:40.720
+mas não vai estar muito disto,
+
+57:40.720 --> 57:42.240
+se vai ser o ambiente
+
+57:42.240 --> 57:44.080
+que vocês vão ter
+
+57:44.080 --> 57:45.360
+trabalhando com dados,
+
+57:46.640 --> 57:47.360
+pode ser,
+
+57:47.360 --> 57:48.320
+como usar
+
+57:48.320 --> 57:49.120
+ali anos,
+
+57:49.120 --> 57:50.320
+tudo pessoal,
+
+57:50.320 --> 57:51.120
+você aqui em ponto
+
+57:51.120 --> 57:52.320
+muito interessante,
+
+57:53.600 --> 57:55.040
+quem já teve mais
+
+57:55.040 --> 57:56.240
+contato com programação,
+
+57:56.240 --> 57:57.680
+ali é mais tempo,
+
+57:57.680 --> 57:59.040
+já parecem bem de dar
+
+57:59.040 --> 58:00.400
+mais tempo,
+
+58:00.400 --> 58:01.440
+vai lembrar,
+
+58:01.440 --> 58:03.280
+do stack overflow,
+
+58:03.280 --> 58:05.280
+o stack overflow foi o meu melhor amigo,
+
+58:05.280 --> 58:05.600
+assim,
+
+58:05.600 --> 58:07.600
+por anos,
+
+58:07.600 --> 58:09.280
+e ele era uma ferramenta de
+
+58:09.280 --> 58:10.320
+pegou tenhas postas,
+
+58:10.320 --> 58:11.280
+então ele um paralelo,
+
+58:11.280 --> 58:12.000
+acho que dá pra fazer
+
+58:12.000 --> 58:13.280
+o Yahoo Repostas,
+
+58:13.280 --> 58:13.920
+era muito famoso,
+
+58:13.920 --> 58:15.120
+primeiro Brasil,
+
+58:15.120 --> 58:16.640
+então ele era o Yahoo Repostas,
+
+58:16.640 --> 58:17.600
+pra programação,
+
+58:17.600 --> 58:18.800
+então ali o pessoal de
+
+58:18.800 --> 58:19.440
+front-end,
+
+58:19.440 --> 58:20.800
+de bequeende,
+
+58:20.800 --> 58:21.840
+de engenhariedar
+
+58:21.840 --> 58:23.040
+no sense de dados,
+
+58:23.040 --> 58:24.720
+exceu,
+
+58:24.720 --> 58:25.920
+da Axe,
+
+58:25.920 --> 58:26.640
+então ele é
+
+58:26.640 --> 58:28.160
+mais do Parbeiro,
+
+58:28.160 --> 58:29.760
+então ele sempre foi
+
+58:29.760 --> 58:30.960
+a referência,
+
+58:30.960 --> 58:31.520
+é,
+
+58:31.520 --> 58:32.880
+papo que de
+
+58:32.880 --> 58:33.760
+20 milhões,
+
+58:33.760 --> 58:35.040
+aqui no seu
+
+58:35.040 --> 58:35.600
+o volô,
+
+58:35.600 --> 58:37.040
+mineixo por dia,
+
+58:37.040 --> 58:38.400
+então aqui 20 milhões de
+
+58:38.400 --> 58:39.040
+vizalidades do
+
+58:39.040 --> 58:39.920
+explodidas,
+
+58:39.920 --> 58:40.640
+não está com o EFflow,
+
+58:40.640 --> 58:41.600
+eles se eram mais ou menos o volô
+
+58:41.600 --> 58:43.600
+me mede deles,
+
+58:43.600 --> 58:45.600
+aqui o Shadipet foi lançado,
+
+58:46.880 --> 58:47.440
+e,
+
+58:47.440 --> 58:48.000
+basicamente,
+
+58:48.000 --> 58:48.560
+a lógica,
+
+58:48.560 --> 58:50.400
+Gustavo Vemflow era,
+
+58:50.400 --> 58:52.080
+se eu estou tendo esse problema,
+
+58:52.080 --> 58:53.040
+alguém já passou pelo
+
+58:53.040 --> 58:54.080
+mesmo problema,
+
+58:54.080 --> 58:55.440
+então eu ia rodar um cojo
+
+58:55.440 --> 58:56.160
+ali no par,
+
+58:56.160 --> 58:57.360
+então se eu tinha aquele problema,
+
+58:57.360 --> 58:58.480
+eu ia querer,
+
+58:58.480 --> 59:00.000
+eu ia lá no Stacober Floco,
+
+59:00.000 --> 59:00.640
+piorava,
+
+59:00.640 --> 59:01.440
+o Lava no Google,
+
+59:01.440 --> 59:02.480
+e a primeira opção
+
+59:02.480 --> 59:03.440
+era estar com o EFflow
+
+59:03.440 --> 59:04.080
+e lá,
+
+59:04.080 --> 59:05.520
+e vieram esse cara
+
+59:05.520 --> 59:07.120
+que passou pelo problema,
+
+59:07.120 --> 59:08.000
+se me lá,
+
+59:08.000 --> 59:08.320
+então,
+
+59:08.320 --> 59:08.720
+beleza,
+
+59:08.720 --> 59:09.840
+aí alguém respondia,
+
+59:09.840 --> 59:10.640
+não é o X-Pencha
+
+59:10.640 --> 59:11.920
+respondia embaixo,
+
+59:11.920 --> 59:12.720
+e,
+
+59:12.720 --> 59:13.280
+e,
+
+59:13.280 --> 59:14.320
+geralmente,
+
+59:14.320 --> 59:15.280
+a solução mais votada
+
+59:15.280 --> 59:16.880
+era solução resolvido,
+
+59:16.880 --> 59:18.480
+então você conseguia pelo
+
+59:18.480 --> 59:19.760
+e arrogar expostas,
+
+59:19.760 --> 59:20.560
+e vê alguém que passou
+
+59:20.560 --> 59:21.120
+pelo problema,
+
+59:21.120 --> 59:21.840
+se me laram seu
+
+59:21.840 --> 59:22.960
+e respondei,
+
+59:22.960 --> 59:23.760
+então diferente do
+
+59:23.760 --> 59:24.880
+que muita gente acha,
+
+59:24.880 --> 59:25.840
+pessoal,
+
+59:25.840 --> 59:26.880
+não existe
+
+59:26.880 --> 59:27.760
+programador,
+
+59:27.760 --> 59:28.720
+não existe,
+
+59:28.720 --> 59:29.680
+quer dizer,
+
+59:29.680 --> 59:30.400
+pode existir,
+
+59:30.400 --> 59:31.520
+eu não conheço,
+
+59:31.520 --> 59:32.800
+que centa,
+
+59:32.800 --> 59:33.760
+começa a programar,
+
+59:33.760 --> 59:34.400
+igual no filme,
+
+59:34.400 --> 59:35.360
+se fica lá,
+
+59:35.360 --> 59:36.400
+três horas programando,
+
+59:36.400 --> 59:38.080
+sem irrá um movegula,
+
+59:38.080 --> 59:39.520
+não existe, pessoal.
+
+59:39.520 --> 59:40.560
+Arrotina de um
+
+59:40.560 --> 59:41.680
+de alguém trabalha com um
+
+59:41.680 --> 59:42.480
+qualquer tipo de
+
+59:42.480 --> 59:43.280
+programação,
+
+59:43.280 --> 59:45.040
+é muito iterativo.
+
+59:45.040 --> 59:45.920
+Vocês vão errar,
+
+59:45.920 --> 59:46.960
+vocês vão esquecer o
+
+59:46.960 --> 59:48.000
+bálico,
+
+59:48.000 --> 59:49.600
+e vocês vão
+
+59:49.600 --> 59:50.160
+simplesmente
+
+59:50.160 --> 59:51.600
+incrementar nesse conhecimento,
+
+59:51.600 --> 59:52.160
+quanto mais
+
+59:52.160 --> 59:53.600
+vocês vão usando,
+
+59:53.600 --> 59:55.200
+mas não existe ninguém
+
+59:55.200 --> 59:56.160
+que centa,
+
+59:56.160 --> 59:57.360
+desde como um mundo é mundo,
+
+59:57.360 --> 59:58.640
+escreve um código inteiro,
+
+59:58.640 --> 01:00:00.000
+de ponta ponta,
+
+01:00:00.000 --> 01:00:01.200
+sem parar
+
+01:00:01.200 --> 01:00:02.720
+e comer de primeira,
+
+01:00:02.720 --> 01:00:03.600
+ser a.
+
+01:00:03.600 --> 01:00:04.640
+Quando ele rodar aquele código
+
+01:00:04.640 --> 01:00:05.040
+de gigante,
+
+01:00:05.040 --> 01:00:05.760
+vai dar um errinho,
+
+01:00:05.760 --> 01:00:06.800
+vai ter o bambigo,
+
+01:00:06.800 --> 01:00:07.600
+vai ter alguma coisa
+
+01:00:07.600 --> 01:00:09.200
+algum lugar que ele cresceu,
+
+01:00:09.200 --> 01:00:10.320
+e é mais ou menos isso.
+
+01:00:10.320 --> 01:00:11.360
+O está com o reflou,
+
+01:00:11.360 --> 01:00:12.640
+ele servir para dar
+
+01:00:12.640 --> 01:00:13.440
+suporte nesse
+
+01:00:13.440 --> 01:00:15.200
+perguntas e respostas.
+
+01:00:15.200 --> 01:00:16.240
+A partir do lançamento
+
+01:00:16.240 --> 01:00:16.560
+de o chat,
+
+01:00:16.560 --> 01:00:17.040
+é PD,
+
+01:00:17.040 --> 01:00:18.800
+ele começa em 22,
+
+01:00:18.800 --> 01:00:20.480
+a queda foi exponencial,
+
+01:00:20.480 --> 01:00:21.600
+porque,
+
+01:00:21.600 --> 01:00:23.040
+para que eu vou perguntar,
+
+01:00:23.040 --> 01:00:24.160
+vou estar com o reflou,
+
+01:00:24.160 --> 01:00:25.040
+se o chat é PD,
+
+01:00:25.040 --> 01:00:25.520
+com o som,
+
+01:00:25.520 --> 01:00:26.200
+tudo o que tem no
+
+01:00:26.200 --> 01:00:26.880
+está com o reflou,
+
+01:00:26.880 --> 01:00:27.920
+e mais.
+
+01:00:27.920 --> 01:00:28.880
+Então,
+
+01:00:28.880 --> 01:00:29.280
+é isso,
+
+01:00:29.280 --> 01:00:29.840
+é o está aqui,
+
+01:00:29.840 --> 01:00:30.560
+o gente PT
+
+01:00:30.560 --> 01:00:31.600
+e consegue centralizar
+
+01:00:31.600 --> 01:00:32.160
+informações
+
+01:00:32.160 --> 01:00:33.200
+da internet,
+
+01:00:33.200 --> 01:00:34.560
+especialmente nesse caso
+
+01:00:34.560 --> 01:00:34.960
+onde ele foi a
+
+01:00:34.960 --> 01:00:36.240
+ações de texto,
+
+01:00:36.240 --> 01:00:36.800
+porque as
+
+01:00:36.800 --> 01:00:37.520
+programas eram feitas
+
+01:00:37.520 --> 01:00:38.720
+por texto,
+
+01:00:38.720 --> 01:00:39.840
+como muito fácil.
+
+01:00:39.840 --> 01:00:40.080
+Então,
+
+01:00:40.080 --> 01:00:41.120
+ali, no primeiro momento,
+
+01:00:41.120 --> 01:00:41.760
+já,
+
+01:00:41.760 --> 01:00:43.520
+que está aqui de,
+
+01:00:43.520 --> 01:00:43.760
+é,
+
+01:00:43.760 --> 01:00:44.800
+menos de um ano,
+
+01:00:44.800 --> 01:00:46.240
+o está com o reflou,
+
+01:00:46.240 --> 01:00:47.520
+foi engulido.
+
+01:00:47.520 --> 01:00:49.520
+E essa foi uma realidade
+
+01:00:49.520 --> 01:00:50.400
+que eu guina minha prática.
+
+01:00:50.400 --> 01:00:51.120
+Hoje em dia,
+
+01:00:51.120 --> 01:00:51.600
+eu,
+
+01:00:51.600 --> 01:00:52.400
+desde o 14,
+
+01:00:52.400 --> 01:00:52.880
+eu acho que eu não
+
+01:00:52.880 --> 01:00:54.080
+entrei no está com o reflou.
+
+01:00:54.720 --> 01:00:55.120
+E,
+
+01:00:55.120 --> 01:00:55.200
+e,
+
+01:00:55.200 --> 01:00:55.840
+em dia,
+
+01:00:55.840 --> 01:00:56.000
+é,
+
+01:00:56.000 --> 01:00:56.480
+realmente,
+
+01:00:56.480 --> 01:00:57.520
+no chat PT,
+
+01:00:57.520 --> 01:00:58.720
+pra resolver
+
+01:00:58.720 --> 01:01:01.520
+os meus problemas no trabalho.
+
+01:01:01.520 --> 01:01:02.000
+Então, assim,
+
+01:01:02.000 --> 01:01:02.880
+não adianta,
+
+01:01:02.880 --> 01:01:04.160
+a gente negar a existência
+
+01:01:04.160 --> 01:01:05.120
+afirmamente existe,
+
+01:01:05.120 --> 01:01:06.080
+e ela está aí.
+
+01:01:06.080 --> 01:01:06.960
+Ela vai existir
+
+01:01:06.960 --> 01:01:08.000
+daqui pra frente.
+
+01:01:08.000 --> 01:01:09.840
+Só vai evoluir.
+
+01:01:09.840 --> 01:01:11.200
+E a gente tem que tratar,
+
+01:01:11.200 --> 01:01:11.840
+ele vai
+
+01:01:11.840 --> 01:01:12.240
+aí,
+
+01:01:12.240 --> 01:01:13.440
+como um piluto,
+
+01:01:13.440 --> 01:01:14.640
+não como passager.
+
+01:01:14.640 --> 01:01:15.520
+Então, você tem muito legal
+
+01:01:15.520 --> 01:01:16.400
+a tá na foto do
+
+01:01:16.400 --> 01:01:16.800
+vai então,
+
+01:01:16.800 --> 01:01:17.600
+cena,
+
+01:01:17.600 --> 01:01:19.200
+para a gente ter essa noção.
+
+01:01:19.200 --> 01:01:20.400
+A gente tem que ser o piloto,
+
+01:01:20.400 --> 01:01:21.520
+a gente tem um,
+
+01:01:21.520 --> 01:01:22.720
+uma Ferrari aqui no
+
+01:01:22.720 --> 01:01:23.360
+caso do motor,
+
+01:01:23.360 --> 01:01:23.680
+então,
+
+01:01:23.680 --> 01:01:24.640
+cê era uma clara,
+
+01:01:26.080 --> 01:01:26.560
+mas,
+
+01:01:27.600 --> 01:01:28.240
+se a gente,
+
+01:01:28.240 --> 01:01:28.640
+o que tá aqui,
+
+01:01:28.640 --> 01:01:29.840
+eu to tem um carro tão bom,
+
+01:01:30.480 --> 01:01:31.680
+se a gente notiveu
+
+01:01:31.680 --> 01:01:32.320
+um item,
+
+01:01:32.320 --> 01:01:33.120
+sem me trotando,
+
+01:01:33.120 --> 01:01:34.000
+a gente não vai ser campeão.
+
+01:01:34.800 --> 01:01:35.040
+Então,
+
+01:01:36.080 --> 01:01:36.800
+a gente tem que saber
+
+01:01:36.800 --> 01:01:37.680
+como usar entre a gente
+
+01:01:37.680 --> 01:01:38.160
+é artificial,
+
+01:01:38.800 --> 01:01:39.920
+como fazer
+
+01:01:39.920 --> 01:01:40.880
+o melhor uso dela,
+
+01:01:40.880 --> 01:01:41.680
+pra conseguir
+
+01:01:41.680 --> 01:01:42.800
+realmente aprender,
+
+01:01:42.800 --> 01:01:44.400
+e não restombe.
+
+01:01:44.720 --> 01:01:44.960
+Então,
+
+01:01:44.960 --> 01:01:45.280
+é isso,
+
+01:01:45.280 --> 01:01:46.000
+a gente não pode usar
+
+01:01:46.000 --> 01:01:47.120
+ela como ferramenta de
+
+01:01:47.120 --> 01:01:47.920
+cola.
+
+01:01:47.920 --> 01:01:48.160
+Então,
+
+01:01:48.160 --> 01:01:48.640
+se eu quiser,
+
+01:01:48.640 --> 01:01:49.600
+a fazer um projeto
+
+01:01:49.600 --> 01:01:50.240
+muito legal,
+
+01:01:50.240 --> 01:01:50.960
+aqui naquele ponto,
+
+01:01:50.960 --> 01:01:51.040
+aí,
+
+01:01:51.040 --> 01:01:52.240
+conseguiu um projeto em piva.
+
+01:01:52.720 --> 01:01:53.840
+Você pode lá no GPT
+
+01:01:53.840 --> 01:01:55.200
+e fazer me deu um projeto,
+
+01:01:55.200 --> 01:01:57.360
+o feito por um gênero ganarza
+
+01:01:57.360 --> 01:01:58.640
+para um,
+
+01:01:59.840 --> 01:02:01.120
+um sprint de paitombásico
+
+01:02:01.120 --> 01:02:01.600
+e um botiquei,
+
+01:02:01.600 --> 01:02:02.800
+e de sense de dados.
+
+01:02:02.800 --> 01:02:04.080
+Ele vai ajudar a solução incrível,
+
+01:02:04.080 --> 01:02:05.680
+mas você vai aprender disso,
+
+01:02:05.680 --> 01:02:06.000
+né?
+
+01:02:06.000 --> 01:02:06.640
+Então,
+
+01:02:06.640 --> 01:02:07.360
+muitas vezes,
+
+01:02:07.360 --> 01:02:07.840
+ele na vida,
+
+01:02:07.840 --> 01:02:08.400
+a gente já presta
+
+01:02:08.400 --> 01:02:10.160
+bem que o legal não,
+
+01:02:10.160 --> 01:02:10.960
+não é?
+
+01:02:11.440 --> 01:02:12.640
+Onde a gente chega,
+
+01:02:12.640 --> 01:02:13.920
+mas como a gente chega,
+
+01:02:13.920 --> 01:02:14.720
+o legal muitas vezes
+
+01:02:14.720 --> 01:02:15.280
+não é o destino,
+
+01:02:15.280 --> 01:02:16.560
+mas do caminho,
+
+01:02:16.560 --> 01:02:18.320
+e na educação exatamente
+
+01:02:18.320 --> 01:02:19.360
+estes vão ver que o
+
+01:02:19.360 --> 01:02:20.400
+processo aí de aprendizado,
+
+01:02:20.400 --> 01:02:20.880
+muitas vezes,
+
+01:02:20.880 --> 01:02:22.400
+vale muito mais do que,
+
+01:02:22.560 --> 01:02:24.160
+tem um projeto lá que vai receber
+
+01:02:24.160 --> 01:02:25.440
+um 10 aqui da tripotenta,
+
+01:02:25.440 --> 01:02:26.960
+e aí,
+
+01:02:26.960 --> 01:02:28.480
+eu pelo menos vejo dessa forma,
+
+01:02:30.000 --> 01:02:30.800
+então,
+
+01:02:31.440 --> 01:02:32.800
+e aqui eu já vou entrar
+
+01:02:32.800 --> 01:02:33.680
+em outro ponto,
+
+01:02:35.040 --> 01:02:36.800
+e eu vou compartilhar esse link depois
+
+01:02:36.800 --> 01:02:39.120
+lá no discólogo,
+
+01:02:39.120 --> 01:02:41.280
+que é como usar a IAR.
+
+01:02:41.280 --> 01:02:42.880
+Então, esse aqui é um,
+
+01:02:42.880 --> 01:02:43.600
+é uma
+
+01:02:44.240 --> 01:02:44.880
+publicação,
+
+01:02:44.880 --> 01:02:47.120
+na documentação do próprio GPT,
+
+01:02:47.120 --> 01:02:48.480
+que ensina algumas gicas
+
+01:02:48.480 --> 01:02:49.920
+para vocês usarem aí a melhor.
+
+01:02:50.560 --> 01:02:51.040
+Então,
+
+01:02:51.040 --> 01:02:52.400
+aqui ele fala
+
+01:02:53.840 --> 01:02:55.120
+da texto de referência,
+
+01:02:55.680 --> 01:02:57.920
+quebrar tarefas complexas,
+
+01:02:57.920 --> 01:02:59.440
+em tarefas menores,
+
+01:02:59.440 --> 01:03:00.560
+isso aqui eu uso em bastante,
+
+01:03:00.560 --> 01:03:01.280
+essa semana,
+
+01:03:01.680 --> 01:03:02.800
+eu estou trabalhando um código
+
+01:03:02.800 --> 01:03:04.160
+lá no carrer fúdio,
+
+01:03:04.160 --> 01:03:05.600
+mas eu está com ninguém que
+
+01:03:05.600 --> 01:03:06.320
+é tudo linhas agora.
+
+01:03:06.960 --> 01:03:07.920
+Então,
+
+01:03:07.920 --> 01:03:09.920
+toda vez que eu jogava lá no GPT,
+
+01:03:09.920 --> 01:03:11.280
+o mil queitas dinhas,
+
+01:03:11.280 --> 01:03:12.800
+e aí eu cheguei no ponto de
+
+01:03:13.200 --> 01:03:13.600
+tava em,
+
+01:03:13.600 --> 01:03:14.720
+eu mesmo tava em perdendo,
+
+01:03:14.720 --> 01:03:16.320
+nas as postas do GPT,
+
+01:03:16.640 --> 01:03:17.280
+e e falem,
+
+01:03:17.280 --> 01:03:18.640
+não, vamos resolver aqui parte
+
+01:03:18.640 --> 01:03:19.200
+a parte,
+
+01:03:19.200 --> 01:03:19.680
+então,
+
+01:03:19.840 --> 01:03:20.960
+o motorularizar ali,
+
+01:03:22.480 --> 01:03:23.440
+por maior que ser de motoré
+
+01:03:23.440 --> 01:03:24.320
+foi motorularizar.
+
+01:03:25.680 --> 01:03:27.040
+Dá tempo para o modelo pensar,
+
+01:03:27.680 --> 01:03:28.240
+então,
+
+01:03:28.240 --> 01:03:29.280
+às vezes eu já tava instalando
+
+01:03:29.280 --> 01:03:30.240
+esse é um ponto muito legal,
+
+01:03:30.240 --> 01:03:31.760
+você tem uma tarefa muito complexa,
+
+01:03:31.760 --> 01:03:33.120
+você pode chegar para ele falar,
+
+01:03:33.680 --> 01:03:34.960
+e o que esteue o work
+
+01:03:34.960 --> 01:03:36.160
+e dá outro com o Instagram,
+
+01:03:36.160 --> 01:03:36.480
+então,
+
+01:03:36.480 --> 01:03:37.680
+se não precisa ir com pressa,
+
+01:03:37.680 --> 01:03:38.400
+não estou com pressa,
+
+01:03:38.400 --> 01:03:39.360
+pode demorar um pouquinho,
+
+01:03:39.360 --> 01:03:39.600
+então,
+
+01:03:39.600 --> 01:03:40.160
+o seu tempo,
+
+01:03:40.800 --> 01:03:41.760
+ele tem também,
+
+01:03:42.960 --> 01:03:44.080
+ferramentas externas,
+
+01:03:44.640 --> 01:03:46.160
+justamente aqui o que a gente falou,
+
+01:03:46.480 --> 01:03:47.280
+link flow,
+
+01:03:48.240 --> 01:03:49.600
+um pai que eu nesse caso,
+
+01:03:49.600 --> 01:03:50.560
+foi esse,
+
+01:03:50.560 --> 01:03:51.600
+e foi uma ações ali,
+
+01:03:51.600 --> 01:03:52.960
+sobre o conjunto de dados
+
+01:03:52.960 --> 01:03:53.360
+próbamos,
+
+01:03:53.360 --> 01:03:53.760
+mas aqui,
+
+01:03:53.760 --> 01:03:54.720
+a gente já tá entrando
+
+01:03:55.040 --> 01:03:56.400
+em coisas mais complexos,
+
+01:03:57.040 --> 01:03:58.880
+mas aqui tem alguns exemplos,
+
+01:03:58.880 --> 01:03:59.040
+não é?
+
+01:03:59.040 --> 01:03:59.520
+Então,
+
+01:03:59.520 --> 01:04:01.040
+essa mistratagem muito legal,
+
+01:04:01.040 --> 01:04:01.600
+tá pessoal.
+
+01:04:02.800 --> 01:04:04.160
+Deze pro GPT
+
+01:04:05.360 --> 01:04:06.560
+adotar uma persona,
+
+01:04:07.520 --> 01:04:08.240
+então,
+
+01:04:08.240 --> 01:04:09.120
+aqui, por exemplo,
+
+01:04:09.120 --> 01:04:10.240
+se eu quero fazer um projeto
+
+01:04:10.240 --> 01:04:11.120
+sem cidades,
+
+01:04:11.120 --> 01:04:11.840
+posso falar,
+
+01:04:11.840 --> 01:04:12.400
+e eu quero,
+
+01:04:12.400 --> 01:04:12.720
+às vezes,
+
+01:04:12.720 --> 01:04:13.520
+tomar referência do que
+
+01:04:13.520 --> 01:04:14.480
+seria um projeto de dados,
+
+01:04:15.440 --> 01:04:16.400
+você fala a faça,
+
+01:04:16.400 --> 01:04:17.840
+essa é esse projeto aqui,
+
+01:04:17.840 --> 01:04:19.840
+da atrapotem,
+
+01:04:20.320 --> 01:04:22.640
+no nível de um sentícilidade do junho,
+
+01:04:22.640 --> 01:04:24.560
+e no nível de um sentícilidade do senha.
+
+01:04:24.880 --> 01:04:26.480
+Então, ele vai assumir essas duas pressas
+
+01:04:26.480 --> 01:04:27.200
+nas ali,
+
+01:04:27.200 --> 01:04:28.800
+e vai fazer duas caminhos diferentes,
+
+01:04:28.800 --> 01:04:30.720
+com base em que tipo de pressa
+
+01:04:30.720 --> 01:04:32.400
+ou não você video para lear assumir,
+
+01:04:34.560 --> 01:04:35.760
+outro ponto também,
+
+01:04:35.760 --> 01:04:37.760
+quando você fazer algo uma referência,
+
+01:04:38.720 --> 01:04:39.920
+é um texto,
+
+01:04:39.920 --> 01:04:40.800
+enfim,
+
+01:04:41.280 --> 01:04:41.840
+no meu caso,
+
+01:04:41.840 --> 01:04:42.160
+por exemplo,
+
+01:04:42.160 --> 01:04:43.440
+quando eu digito o código,
+
+01:04:43.440 --> 01:04:44.640
+o boto código,
+
+01:04:44.640 --> 01:04:46.560
+entre as pastas,
+
+01:04:46.560 --> 01:04:48.000
+para ficar bem claro,
+
+01:04:48.000 --> 01:04:49.680
+para aí o que eu cojo,
+
+01:04:49.680 --> 01:04:51.680
+você pode botar também
+
+01:04:51.680 --> 01:04:54.000
+em deixar-vos aqui no lugar de até mesmo,
+
+01:04:54.000 --> 01:04:55.120
+você pode botar,
+
+01:04:55.120 --> 01:04:56.400
+eu vou fazer aqui,
+
+01:04:56.400 --> 01:04:57.760
+e eu vou se ir lá no pronto,
+
+01:04:57.760 --> 01:04:58.320
+te falar,
+
+01:04:58.320 --> 01:05:01.440
+eu vou falar aqui sobre esse artigo,
+
+01:05:01.440 --> 01:05:03.920
+eu vou em boto sobre chaves artigo,
+
+01:05:03.920 --> 01:05:04.720
+como é esse artigo,
+
+01:05:04.720 --> 01:05:05.840
+tem minatigo,
+
+01:05:05.840 --> 01:05:07.680
+e eu colo tudo que tá no artigo aqui,
+
+01:05:07.680 --> 01:05:08.400
+então,
+
+01:05:08.400 --> 01:05:10.240
+é gostar de dizer,
+
+01:05:10.240 --> 01:05:11.760
+de para o GPT,
+
+01:05:11.760 --> 01:05:12.800
+o que é cada coisa,
+
+01:05:12.800 --> 01:05:13.920
+acho que tá ali,
+
+01:05:13.920 --> 01:05:15.360
+é a informação que você tá passando
+
+01:05:15.360 --> 01:05:16.560
+para ele,
+
+01:05:16.560 --> 01:05:18.800
+e tem várias outras
+
+01:05:18.800 --> 01:05:20.880
+outras dicas que ele vai dando aqui,
+
+01:05:20.880 --> 01:05:23.120
+passar, passar passo,
+
+01:05:23.120 --> 01:05:24.320
+fornecer exemplos,
+
+01:05:24.320 --> 01:05:26.080
+então às vezes você quer,
+
+01:05:26.080 --> 01:05:26.960
+quer mais e-bund,
+
+01:05:26.960 --> 01:05:27.520
+de alguma coisa,
+
+01:05:27.520 --> 01:05:29.600
+você tem que dizer para eles,
+
+01:05:29.600 --> 01:05:32.160
+onde você quer,
+
+01:05:32.160 --> 01:05:34.640
+ah, quero um fórmido de,
+
+01:05:34.640 --> 01:05:36.800
+então já é que o dia é um sentido de idade,
+
+01:05:36.800 --> 01:05:38.720
+começa dessa forma,
+
+01:05:38.720 --> 01:05:40.800
+e você já colo lá na lhesidade,
+
+01:05:40.800 --> 01:05:41.600
+então já vai saber
+
+01:05:41.600 --> 01:05:42.960
+que tem que começar na,
+
+01:05:42.960 --> 01:05:44.880
+naquele tipo de generalidade,
+
+01:05:44.880 --> 01:05:47.920
+então você passar exemplos para ele,
+
+01:05:47.920 --> 01:05:48.720
+tá muito também,
+
+01:05:48.720 --> 01:05:49.920
+então eu não tenho tudo isso,
+
+01:05:49.920 --> 01:05:51.760
+eu quero resposta em 50 palavras,
+
+01:05:51.760 --> 01:05:52.640
+em dois parágros,
+
+01:05:52.640 --> 01:05:53.840
+eu fiz em cima,
+
+01:05:53.840 --> 01:05:55.280
+é que era o código completo,
+
+01:05:55.280 --> 01:05:57.440
+que era o código resumido,
+
+01:05:57.440 --> 01:05:58.480
+e tudo isso,
+
+01:05:58.480 --> 01:06:01.440
+depois eu vou passar aqui para vocês,
+
+01:06:01.440 --> 01:06:03.040
+mas aqui também,
+
+01:06:03.040 --> 01:06:04.240
+é um bom exemplo de,
+
+01:06:04.240 --> 01:06:04.880
+de como quebrar,
+
+01:06:04.880 --> 01:06:05.120
+que tá lá,
+
+01:06:05.120 --> 01:06:06.640
+é fazer menores.
+
+01:06:06.640 --> 01:06:07.360
+E em geral,
+
+01:06:07.360 --> 01:06:08.000
+é isso, pessoal,
+
+01:06:08.000 --> 01:06:08.960
+vocês vão ver,
+
+01:06:08.960 --> 01:06:10.560
+como que essas ferramentas,
+
+01:06:10.640 --> 01:06:11.920
+como que ela ajuda,
+
+01:06:11.920 --> 01:06:13.840
+mas no fim do dia,
+
+01:06:13.840 --> 01:06:16.240
+o que mais importa é você saber usar,
+
+01:06:16.240 --> 01:06:18.320
+e tem que entender as limitações da auto-taminha,
+
+01:06:18.320 --> 01:06:22.240
+hoje a grande limitação de,
+
+01:06:22.240 --> 01:06:23.040
+é ele,
+
+01:06:23.040 --> 01:06:24.480
+principalmente já de repente,
+
+01:06:24.480 --> 01:06:26.960
+que é a melhor disparado hoje em dia,
+
+01:06:26.960 --> 01:06:29.280
+é a questão de memória,
+
+01:06:29.280 --> 01:06:32.320
+então se você tem uma conversa muito longo,
+
+01:06:32.320 --> 01:06:32.880
+com ele,
+
+01:06:32.880 --> 01:06:34.080
+ele vai se perder,
+
+01:06:34.080 --> 01:06:34.560
+que é,
+
+01:06:34.560 --> 01:06:35.280
+não sei o humano,
+
+01:06:35.280 --> 01:06:37.680
+ele não consegue voltar
+
+01:06:37.680 --> 01:06:39.520
+em mais de 5, 6, 7,
+
+01:06:40.480 --> 01:06:42.720
+e completar a informação,
+
+01:06:42.720 --> 01:06:45.520
+e muitas vezes ele não consegue realizar as tarefas,
+
+01:06:45.520 --> 01:06:46.480
+mas populaics, assim,
+
+01:06:46.480 --> 01:06:47.920
+eu te li aqui,
+
+01:06:48.080 --> 01:06:50.040
+num momento que hoje a 2 de
+
+01:06:50.040 --> 01:06:50.520
+auturo,
+
+01:06:50.520 --> 01:06:51.520
+que a gente tá gravando esse toz,
+
+01:06:51.520 --> 01:06:52.320
+que acha a IA ainda,
+
+01:06:52.320 --> 01:06:54.240
+tá muito mais no muito longe de
+
+01:06:54.240 --> 01:06:56.000
+robar em pregunte alguém.
+
+01:06:56.800 --> 01:06:58.800
+Isso fala nem parte técnica,
+
+01:06:59.040 --> 01:07:01.120
+porque se você ele joga,
+
+01:07:01.120 --> 01:07:02.800
+uma tarefa específica para ele,
+
+01:07:02.800 --> 01:07:04.000
+ele consegue entegar,
+
+01:07:04.000 --> 01:07:04.800
+tranquilo,
+
+01:07:04.800 --> 01:07:06.800
+ele vai fazer para o volado do item,
+
+01:07:06.800 --> 01:07:07.280
+do item,
+
+01:07:07.280 --> 01:07:09.200
+vai ser bem,
+
+01:07:09.200 --> 01:07:15.040
+mais por a gente pegue para ele fazer um projeto de ponta conta por essa questão da memória
+
+01:07:15.040 --> 01:07:20.640
+ele vai acabar e do contexto ele vai acabar a ser nendo pouco e mais importante na
+
+01:07:20.640 --> 01:07:26.440
+pesaço sempre lembrata meio que no fim do dia nós somos humanos nós e nós como
+
+01:07:26.440 --> 01:07:32.200
+humanos não somos só o que a gente estuda né então nós somos só nossa habilidade
+
+01:07:32.200 --> 01:07:36.000
+de tempo que você é a minha opinião pessoal a gente também leva o junto de
+
+01:07:36.000 --> 01:07:40.560
+experiências as emoções as relações que a gente tem na vida a tudo isso é um
+
+01:07:40.560 --> 01:07:45.280
+conjunto que que forma em nós somos como seres humanos e isso é inteligência a
+
+01:07:45.280 --> 01:07:49.160
+especial nunca vai ter e não vai conseguir ter uma experiência de saber como
+
+01:07:49.160 --> 01:07:53.680
+conversar com o cliente para o maior momento qual caminho seguindo um projeto qual
+
+01:07:53.680 --> 01:07:58.440
+a melhor um site para fornesse ser como analista como se existir dados é enfim
+
+01:07:58.440 --> 01:08:03.680
+essas coisas ainda a entregisar especial está muito mais muito distante do mundo real
+
+01:08:03.680 --> 01:08:08.320
+e para a minha essa é a maior limitação da ferramenta hoje
+
+01:08:08.320 --> 01:08:15.440
+parte hoje pessoal já estão finalizando aqui e agora vamos realmente entender no
+
+01:08:15.440 --> 01:08:22.920
+detalhe quais que são as ferramentas já aprendizado aqui do bootcamp primeiro
+
+01:08:22.920 --> 01:08:28.720
+a gente tem as tarefas então aqui nas tarefas dentro de cada tarefa a gente
+
+01:08:28.720 --> 01:08:37.280
+tem que né a gente falou o sprint o capítulo e as leções dentro de cada
+
+01:08:37.280 --> 01:08:44.520
+a lição tem um bloquinho de código específico então deprenela no bloco vai ter
+
+01:08:44.520 --> 01:08:50.200
+só uma pergunta teórica ou vai ter um bloquinho de código mesmo para
+
+01:08:50.200 --> 01:08:56.800
+para vocês fazer então é um aprendizado gratinho você não tá ali ao longo das
+
+01:08:56.800 --> 01:09:04.400
+falas esconderas perguntas fazendo código e usando também os blocos de
+
+01:09:04.400 --> 01:09:11.200
+de paito que a gente tem aqui então aqui eu vou pegar um exemplo esse aqui que a
+
+01:09:11.200 --> 01:09:17.520
+gente consegue ter uma mini mini paitos e aqui não mini no tipo quezinho aqui é uma
+
+01:09:17.520 --> 01:09:23.600
+idézinha pequena aqui ele consegue dar uma dica sobre que a gente tem que fazer a
+
+01:09:23.600 --> 01:09:30.880
+gente pega a nossa nossa o nosso objeto aqui aqui dá falando para usar o
+
+01:09:30.880 --> 01:09:37.760
+método sorte analis de móvios tiver aqui vamos aplicar e depois para a
+
+01:09:37.760 --> 01:09:45.160
+primeira lista vamos ver se a gente tá fazendo sé então aqui a gente ordenou
+
+01:09:45.160 --> 01:09:50.600
+aqui a gente vai primeiro e pra conferir pessoal é só vem aqui e apertar o
+
+01:09:50.600 --> 01:09:58.880
+plei aqui vai lidar a resultado tudo certo então aqui eu ordenou um é um
+
+01:09:58.880 --> 01:10:03.760
+de alfaretica os nossos fios e aqui eu vou validar para a gente ver se tá
+
+01:10:03.760 --> 01:10:14.880
+saco que exatamente é isso infelizmente ele se apode eu vou denar em orden léxico
+
+01:10:14.880 --> 01:10:18.240
+gráfico não sabia que não saber as estendes das palavras para ver que eu
+
+01:10:18.240 --> 01:10:24.240
+prender mas é o aze léxico gráfica e ele não tem mais para ela
+
+01:10:24.240 --> 01:10:29.000
+bem consideração quanto você gosta então aqui show mostra solução
+
+01:10:29.000 --> 01:10:33.160
+vocês validos e você ele então aqui são bocos emos de código então
+
+01:10:33.160 --> 01:10:41.480
+pirolas emas de conhecimento e também lá para frente vocês vão chegar na parte do
+
+01:10:41.480 --> 01:10:45.800
+projeto na pessoal então aqui no final da experiência a gente tem o projeto e aí
+
+01:10:45.800 --> 01:10:51.360
+sim vocês vão conhecer o juteiro atibugio o juteiro ele é uma forma de se pegar um
+
+01:10:51.360 --> 01:10:56.800
+módulo de um calco um código de Python o módulo a risa ele impequer os bocos exatamente
+
+01:10:56.800 --> 01:11:03.160
+aqui eles bocinhos que a gente viu ali então cada boco de código a gente chama de
+
+01:11:03.160 --> 01:11:09.560
+célula e dentro das celas elas vão seguir em uma hora bem natural né então
+
+01:11:09.560 --> 01:11:16.360
+se você se eu vou estar aqui e ele vai executar célula célula de cima para baixo
+
+01:11:16.360 --> 01:11:23.000
+é esses objetos aqui comentado também são celas então aqui eu posso criar um
+
+01:11:23.000 --> 01:11:31.560
+subtítulo eu posso criar um subtítulo e eu posso criar um subestúdito então
+
+01:11:31.560 --> 01:11:39.760
+aqui eu posso ordenar então criar estrutura de índices o notivo que a gente
+
+01:11:39.760 --> 01:11:44.280
+oferece toda essa facilidade ele você pode fazer as credentes funções aqui
+
+01:11:44.280 --> 01:11:49.040
+também você pode levar tabelas então esse é o fomatinho de levando a tabela
+
+01:11:49.040 --> 01:11:56.720
+e você coloca o que os e-fans e essas bars para consolidar a tabela então você
+
+01:11:56.720 --> 01:12:00.760
+consegue levar tudo no tibu que é onde vocês vão apresentar para a gente você
+
+01:12:00.760 --> 01:12:05.880
+onde vocês vão ser apalhados pelos monitores de projeto para os avaliadores de
+
+01:12:05.880 --> 01:12:11.920
+projeto e aqui onde vocês também vão basicamente criar o código de vocês no
+
+01:12:11.920 --> 01:12:18.600
+fim do dia se vai ser um arquivo no tibu que se vai ser um arquivo.py então
+
+01:12:18.600 --> 01:12:22.600
+vocês não vai ser mais ponta.py botanche aqui você consiga de ponta ponta garante
+
+01:12:22.600 --> 01:12:26.880
+que eu pode gorrojo e essa é a estrutura que deu no tibu que então aqui a
+
+01:12:26.880 --> 01:12:34.360
+gente pode criar um novo tibu que brincar no gêner de quiseana então aqui
+
+01:12:34.360 --> 01:12:39.200
+interessante é que o no tibu que já vem com tudo estalado então a gente não
+
+01:12:39.200 --> 01:12:46.100
+precisa estalar no biblioteco ele já vem com tudo estalado para descerar o
+
+01:12:46.100 --> 01:12:54.180
+tibu e ele já vem com as principais notas estaladas então aqui sem
+
+01:12:54.180 --> 01:13:01.100
+gente tem o pandoas é eu vou criar um gêner que é isso a frente
+
+01:13:04.100 --> 01:13:10.940
+o pão pelo web e aqui já está tudo estalado então o legal é isso então
+
+01:13:10.940 --> 01:13:14.820
+está a frente para tá em bravo.pente me vou poner um dado mas aqui a gente
+
+01:13:14.820 --> 01:13:19.060
+já consegue fazer tudo dentro dessa própria estrutura né então aqui é
+
+01:13:19.060 --> 01:13:25.780
+caminhando andassella sela aqui se consegue o que é o que é o basicamente o
+
+01:13:25.780 --> 01:13:29.780
+python que está rodando por trás então aqui você pode só ter opção do
+
+01:13:29.780 --> 01:13:35.820
+python 3 mas aqui você pode iniciar e salva e todos os arquivos que
+
+01:13:35.820 --> 01:13:41.100
+vão dar suporte eles também vão tá aqui então se você quiser adicionar por
+
+01:13:41.100 --> 01:13:46.660
+fazer um arquivo ccv você vai ter que voltar aqui e adicionar na
+
+01:13:46.660 --> 01:13:51.060
+sua estrutura então você vai decontar aqui no open e aqui vai ser esse
+
+01:13:51.060 --> 01:13:55.180
+estrutura de pastas essa é a mistura de pastas então esse aqui são os
+
+01:13:55.180 --> 01:14:00.020
+notibubes que eu cria e todos os embrando funcionaram e se eu quiser subir
+
+01:14:00.020 --> 01:14:06.820
+alguma imagem minha pessoal eu veia aqui eu soubeia aqui minha fortinha e vou
+
+01:14:06.820 --> 01:14:11.500
+fazer o outro pronto tá no youtube tem no tipo no meu ambiente do jogo
+
+01:14:11.500 --> 01:14:16.060
+desse eu quiser fazer importar a imagem para algum no tipo que pai
+
+01:14:16.060 --> 01:14:20.060
+então por exemplo aqui não eu consigo simplesmente porque ela já tá na
+
+01:14:20.060 --> 01:14:24.060
+mesma pasta né então é com os photos que são ambientes que vocês conseguem
+
+01:14:24.060 --> 01:14:27.520
+para fazer o projeto vocês então vocês vão poder adicionar ali o
+
+01:14:27.520 --> 01:14:32.740
+júctido a dos imagens que vocês realizar em gráficos salvar então um
+
+01:14:32.740 --> 01:14:36.100
+pouco é o vídeo é funcionário se quiser salvar a repente você vai
+
+01:14:36.100 --> 01:14:43.060
+fazer tudo aqui na pasta é voltando Google Colab
+
+01:14:43.060 --> 01:14:48.140
+então Google Colab ele é anferramento incrível que o Google entregou para a gente
+
+01:14:48.140 --> 01:14:53.540
+é principalmente cientistas de dados mas como analis também vocês vão usar
+
+01:14:53.540 --> 01:14:57.420
+bastante o Google Colab o o colab eu recomendo muito para fazer os
+
+01:14:57.420 --> 01:15:00.660
+projetos aqui do curso
+
+01:15:01.660 --> 01:15:12.860
+realmente incrível que é que além de CPU vocês conseguem também usar GPU
+
+01:15:12.860 --> 01:15:17.640
+e o GPU é justamente a unidade do pessoal meto grafica a gente falou a
+
+01:15:17.640 --> 01:15:23.500
+Google oferece um GPU gratuito eu vou para o ali são terminando o
+
+01:15:23.500 --> 01:15:29.580
+estou aqui na chat pessoal esse júcte rub e usamos no dia de no trabalho sim
+
+01:15:29.580 --> 01:15:34.380
+a maioria da pessoa trabalha com cincidados para é feriosar o júcte
+
+01:15:34.380 --> 01:15:38.140
+rub o júcte no tipo o que tem o que terão o que terão a baseca
+
+01:15:38.140 --> 01:15:41.620
+o que é basicamente ele é central do do nosso ebook mas muita gente para
+
+01:15:41.620 --> 01:15:46.700
+feriosar o nosso ebook mesmo eu basicamente prefiro usar o ves com o
+
+01:15:46.700 --> 01:15:52.540
+que é esse bichinho aqui é esse que é um código meu mesmo do meu trabalho
+
+01:15:52.740 --> 01:15:56.860
+eu prefiro o ves com o de bichinho que estão em andes mas
+
+01:15:56.860 --> 01:16:01.300
+de tempo de funcionalidade eles são bem parecidos aí em fim trazemos uma coisa
+
+01:16:01.300 --> 01:16:06.260
+não de boque o júcte rub pra mim é um pouquinho mais visual mais antigo ali
+
+01:16:06.260 --> 01:16:12.140
+mas temos performance não impacta nada então voltando aqui para o
+
+01:16:12.140 --> 01:16:15.880
+o Google Colab e o Google Colab também é mais um desses então se tem um
+
+01:16:15.880 --> 01:16:21.240
+o colab tem o júcte no júcte no júcte a grande vantagem do
+
+01:16:21.240 --> 01:16:26.880
+Google Colab é aquele online então aqui qualquer uma conta Google
+
+01:16:26.880 --> 01:16:30.960
+chega entre aqui você vai fazer sua conta e consegue inclusive usar uma
+
+01:16:30.960 --> 01:16:34.380
+GPU então pra você que não tem uma placa de vídeo
+
+01:16:34.380 --> 01:16:37.720
+então se o computador não tem uma placa de vídeo você consegue usar
+
+01:16:37.720 --> 01:16:42.760
+a placa de vídeo da Google ou porém e aqui também eles tem TPU
+
+01:16:42.840 --> 01:16:45.400
+TPU é tensor processing unit
+
+01:16:45.400 --> 01:16:49.000
+a galera usa TPU porque ele é uma umidade de
+
+01:16:49.000 --> 01:16:55.640
+possamento especializada para atensores que são a base do
+
+01:16:55.640 --> 01:17:00.160
+do de redes ter o raiz então modelos de linguagem grandes
+
+01:17:00.160 --> 01:17:04.440
+ele é a M, a toda base deles é comprodedem ter pêlust também então
+
+01:17:04.440 --> 01:17:07.160
+o que a diferença não ter pêl com o júcte P, o TPU é que o TPU
+
+01:17:07.160 --> 01:17:12.360
+é utilizado ali pra fazer esses grandes volôms de calco específico de
+
+01:17:12.360 --> 01:17:17.000
+redes não erais enquanto o j pêl por exemplo é muito muito bom
+
+01:17:17.000 --> 01:17:21.000
+para redes não erais com o volosso é mais por exemplo então processamento de
+
+01:17:21.000 --> 01:17:27.960
+magia e tudo o j pêl e aqui como funciona ele é muito similar
+
+01:17:27.960 --> 01:17:33.560
+ao um último aqui de o peterrabe de o peterrabe no
+
+01:17:33.560 --> 01:17:37.400
+o que normal ao que a gente tem lá no escoge aqui a diferença aqui
+
+01:17:37.400 --> 01:17:41.000
+tem algumas ferramentas até mais fáceis do Google então que se consegue
+
+01:17:41.000 --> 01:17:44.040
+botar o ímice se consegue botar em migrito e tá
+
+01:17:44.040 --> 01:17:48.200
+ali com a gente consegue botar algum código a gente consegue botar
+
+01:17:48.200 --> 01:17:53.320
+uma imagem se eu quiser subir aqui qualquer imagem eu consigo
+
+01:17:53.320 --> 01:17:56.760
+ele já faz todo caminho né
+
+01:17:56.760 --> 01:17:59.560
+ele tá aqui ele fez um bichinho meu grande
+
+01:17:59.560 --> 01:18:03.560
+mais deu certo então eu vou tirar aqui
+
+01:18:03.560 --> 01:18:12.560
+não estou atrás três três Madison e então
+
+01:18:12.560 --> 01:18:18.040
+Kera através o algum bogue pessoal à minha cara lá
+
+01:18:18.040 --> 01:18:19.880
+botar
+
+01:18:21.560 --> 01:18:24.560
+então
+
+01:18:26.680 --> 01:18:28.640
+esse é o um o bolário
+
+01:18:28.640 --> 01:18:30.320
+que você não usar um colário de forma do
+
+01:18:30.320 --> 01:18:35.880
+assim, claro que vocês usam um jogo que tem no último oque ou no próprio VSC Coach,
+
+01:18:35.880 --> 01:18:39.620
+mas a grande vantagem do colabo, então é que a gente consegue usar uma maior
+
+01:18:39.620 --> 01:18:43.080
+de pressamento gráfico, então vem pra gente trabalhando com projetos de dados,
+
+01:18:43.080 --> 01:18:47.560
+mas a maior é uma boa solução parte aqui pro colabo e a maior no segundo,
+
+01:18:47.560 --> 01:18:53.200
+você consegue integrar também aqui diferente do no último do jogo PT.
+
+01:18:53.200 --> 01:19:01.080
+E do próprio VSC Coach, você tem tudo no Drive, então se você quiser dar um suporte,
+
+01:19:01.080 --> 01:19:07.600
+subir um aqui, subir algum imagem, você vem aqui e bota o seu Google Drive,
+
+01:19:07.600 --> 01:19:13.080
+então você com o Nike tá aqui, o seu Google Drive, você vai conseguir puxar diretamente
+
+01:19:13.080 --> 01:19:17.440
+da sua pasta pessoal, da sua pasta trabalho, então não precisa se preocupar,
+
+01:19:17.440 --> 01:19:20.680
+aqui você vem aqui, a monta a Drive vai lá, só ver tudo que você precisou.
+
+01:19:20.880 --> 01:19:25.320
+E o de aula vai ficar gravada, ela tá sendo gravada, pode ficar tranquilo.
+
+01:19:26.520 --> 01:19:29.000
+Pode terminar depois.
+
+01:19:30.120 --> 01:19:34.840
+E aqui é isso pessoal, então que é essa lógica mais do Google Colabo consegue usar então como
+
+01:19:34.840 --> 01:19:39.000
+o jogo que tem no Tribunque consegue subir qualquer aqui o Tribunque que você precisar,
+
+01:19:40.000 --> 01:19:44.760
+aqui a gente consegue rodar o código, ele já vem com as bibliotecas importadas também,
+
+01:19:44.760 --> 01:19:50.120
+então aqui a gente consegue ler um data frame de exemplo,
+
+01:19:50.120 --> 01:19:53.800
+que ele tem aqui, ou para não ser a gente não importar o Pandas antes,
+
+01:19:55.480 --> 01:19:59.400
+e ele também é muito rápido de processamento, então que a gente já consegue
+
+01:20:01.560 --> 01:20:06.400
+não dar, então aqui eu não tenho esse arquivo, não dá para o que você é se ver,
+
+01:20:06.960 --> 01:20:10.080
+se não mostraria para vocês, mas aqui dá para ter um gostinho, né?
+
+01:20:11.280 --> 01:20:15.720
+Funciona a gente vai se se dar de sair se ver, a gente só subir aqui,
+
+01:20:16.960 --> 01:20:19.720
+e naturalmente já consegue consumir de inocolable.
+
+01:20:20.120 --> 01:20:25.080
+Não fique a estados aí de marcar,
+
+01:20:25.800 --> 01:20:28.280
+isso aqui se você for olhar um planexão, né?
+
+01:20:29.080 --> 01:20:33.440
+É um excelo mais bonitinho, mas está tudo aqui,
+
+01:20:33.840 --> 01:20:38.720
+a partir da semana que vem, a gente vai entrar no detalhe, mas se vocês quiserem
+
+01:20:38.720 --> 01:20:42.400
+já dando uma conhecida no Polabe, é uma ferramenta muito bacana,
+
+01:20:43.080 --> 01:20:50.080
+também tem essa capacidade de poder compartilhar um código com colega,
+
+01:20:50.480 --> 01:20:53.080
+simplesmente aparentando parte de ela, é muito legal,
+
+01:20:54.040 --> 01:20:57.560
+porque esse é um problema, né, quando a gente está trabalhando com dados,
+
+01:20:57.560 --> 01:21:01.360
+às vezes eu tenho a bibliotepe no versão tal, você está na versão diferente,
+
+01:21:01.360 --> 01:21:04.760
+então se eu te mandar, você é cansado, abre de algum conflito,
+
+01:21:04.760 --> 01:21:07.080
+e aqui não, tá, tá todo mundo na mesma página,
+
+01:21:07.520 --> 01:21:09.520
+o insta-me é muito legal, eu recomendo, viu,
+
+01:21:09.520 --> 01:21:13.520
+que vocês usem no projeto o Google Colab, então,
+
+01:21:13.520 --> 01:21:17.760
+o controle aqui no colabe, é o Bineum Brunho, tá?
+
+01:21:17.760 --> 01:21:23.400
+Eu acho uma coisa bacana que vocês usem o colab,
+
+01:21:23.960 --> 01:21:27.400
+chega aqui, quando fosse o Bí lá para o projeto,
+
+01:21:28.720 --> 01:21:31.400
+aí, mesmo usar o notivo que você consegue subir,
+
+01:21:31.920 --> 01:21:33.760
+o próprio arquivo, né?
+
+01:21:33.760 --> 01:21:35.760
+Então, aí, estudo de fazer lá,
+
+01:21:36.520 --> 01:21:38.320
+você, o próprio peixe de daqui,
+
+01:21:39.840 --> 01:21:41.480
+vamos botar aqui, ó, em vez de botar aqui,
+
+01:21:41.480 --> 01:21:45.120
+e via para revisão, você consegue botar
+
+01:21:47.120 --> 01:21:50.320
+o arquivo que você fez lá no Google Colab, né?
+
+01:21:50.560 --> 01:21:53.160
+Você vem aqui, projetad final,
+
+01:21:53.160 --> 01:21:54.800
+se você não disse que isso é um projeto,
+
+01:21:56.760 --> 01:21:58.880
+e tem opção de subir o notivo, né?
+
+01:22:00.480 --> 01:22:01.600
+Então aqui, vamos lá,
+
+01:22:02.840 --> 01:22:05.600
+ou faço o projeto, o projeto em seu computador,
+
+01:22:05.600 --> 01:22:08.000
+que faço o oplôs quando finalizar.
+
+01:22:08.000 --> 01:22:11.880
+Então, tem gente que preferem vescog,
+
+01:22:12.400 --> 01:22:15.440
+tem gente que preferem o Júcteno Tibuque,
+
+01:22:15.680 --> 01:22:19.960
+tem gente que preferem colab, então, fica a vontade, pessoal.
+
+01:22:19.960 --> 01:22:21.240
+Comem eles são as ferramentas,
+
+01:22:21.240 --> 01:22:23.360
+vejam, em vocês, sessentes mais avontagem,
+
+01:22:24.920 --> 01:22:28.440
+onde vocês, aqui, avisou, o mais agradável para você,
+
+01:22:28.440 --> 01:22:30.680
+tem gente que acha o Júcteno Tibuque mais limpo,
+
+01:22:30.880 --> 01:22:32.880
+eu gosto do vescog de pilião um pouquinho,
+
+01:22:33.640 --> 01:22:35.000
+ele deixa que as coisas brilhantes,
+
+01:22:35.000 --> 01:22:37.320
+e para isso que a gente mais inteligente, né?
+
+01:22:37.320 --> 01:22:38.320
+Não, obrigadeiro.
+
+01:22:38.320 --> 01:22:40.880
+Eu gosto porque é bastante visual,
+
+01:22:40.880 --> 01:22:43.520
+tem várias opções de distanções também,
+
+01:22:43.520 --> 01:22:45.640
+então é bem interessante também,
+
+01:22:45.640 --> 01:22:48.200
+se vocês precisarem é uma, é bem interessante.
+
+01:22:49.000 --> 01:22:53.360
+E agora, vamos voltar para o nosso último ponto,
+
+01:22:53.760 --> 01:22:54.920
+se é o Github,
+
+01:22:55.360 --> 01:22:58.680
+então, para quem não tem Github, eu recomendo,
+
+01:22:59.120 --> 01:23:01.720
+talvez vocês não vão usar logo de cara ainda,
+
+01:23:01.720 --> 01:23:04.040
+mas o Github, ele funciona,
+
+01:23:04.040 --> 01:23:06.320
+vamos dizer assim como um Google Drive,
+
+01:23:06.320 --> 01:23:07.400
+no seus poesios,
+
+01:23:07.800 --> 01:23:10.480
+é onde você vai compartilhar os seus notibus,
+
+01:23:10.480 --> 01:23:12.520
+que os seus códigos ali, ponto pai,
+
+01:23:13.080 --> 01:23:14.640
+e mandar pessoas bolegas,
+
+01:23:14.640 --> 01:23:16.680
+não dá para mim, para tirar dúvida,
+
+01:23:16.680 --> 01:23:18.880
+repente, para um estrutur,
+
+01:23:19.760 --> 01:23:21.720
+é onde quando vocês vão estar trabalhando,
+
+01:23:21.720 --> 01:23:22.560
+no mundo real,
+
+01:23:23.120 --> 01:23:24.680
+vocês vão tocar os projetos,
+
+01:23:24.680 --> 01:23:26.360
+então, no projeto no real,
+
+01:23:26.360 --> 01:23:28.800
+ele tem ali uma pasta no Github,
+
+01:23:29.160 --> 01:23:31.920
+onde cada um das pessoas que estão trabalhando,
+
+01:23:31.920 --> 01:23:33.920
+ele vai todo dia atualizando essa pasta
+
+01:23:33.920 --> 01:23:35.760
+com que for relativo seu trabalho.
+
+01:23:36.080 --> 01:23:37.800
+Então, é algo que garante a Lixha,
+
+01:23:37.800 --> 01:23:40.120
+a gente conseguir tocar os projetos em paralelo.
+
+01:23:40.520 --> 01:23:43.240
+Ele é algo que também eu consigo pegar aqui,
+
+01:23:43.560 --> 01:23:45.560
+esse notebook,
+
+01:23:45.560 --> 01:23:48.240
+eu decupense esse Github, esse repositorio,
+
+01:23:48.720 --> 01:23:49.800
+com esse link aqui,
+
+01:23:49.800 --> 01:23:52.440
+eu vou lá no meu computador com dois comandos,
+
+01:23:52.440 --> 01:23:56.240
+eu consigo opiato do isso, essa pasta joga para o meu computador.
+
+01:23:56.240 --> 01:23:58.440
+Claro, poderia vir aqui, baixar o Zip,
+
+01:23:58.800 --> 01:24:02.400
+mas também tem outros canos para a gente fazer isso,
+
+01:24:02.400 --> 01:24:03.240
+que te reberia,
+
+01:24:03.240 --> 01:24:06.840
+permite a gente conseguir tocar os projetos em paralelo,
+
+01:24:06.840 --> 01:24:08.000
+compartilhar com o teu,
+
+01:24:08.000 --> 01:24:09.040
+o do hospedar,
+
+01:24:09.040 --> 01:24:11.360
+pode-nos como a facilidade maior,
+
+01:24:11.840 --> 01:24:14.560
+esse é o Github do Anilton,
+
+01:24:14.560 --> 01:24:16.040
+ele é um estrutur aqui,
+
+01:24:16.040 --> 01:24:17.440
+nada de repos tempo,
+
+01:24:17.440 --> 01:24:19.040
+ele é o que está mais tempo,
+
+01:24:19.040 --> 01:24:20.680
+então ele foi virando,
+
+01:24:20.680 --> 01:24:22.080
+vem que a memória é viva,
+
+01:24:22.080 --> 01:24:24.160
+o Github,
+
+01:24:24.400 --> 01:24:28.680
+e aqui a gente tem vários laboratores que a gente vai passar,
+
+01:24:29.200 --> 01:24:31.160
+é um longo do das aulas,
+
+01:24:31.160 --> 01:24:33.640
+então que você vai começar a notorar,
+
+01:24:33.640 --> 01:24:35.000
+dá uma olhada laboratores de pai,
+
+01:24:35.000 --> 01:24:36.760
+então depois para que para o tratamento,
+
+01:24:36.760 --> 01:24:38.080
+analis dados,
+
+01:24:38.080 --> 01:24:39.560
+analisizportórios,
+
+01:24:39.560 --> 01:24:41.240
+desculpas, distribuições,
+
+01:24:41.240 --> 01:24:42.760
+até a gente chegar na frente,
+
+01:24:42.760 --> 01:24:45.480
+tanto em machine learning,
+
+01:24:45.480 --> 01:24:46.080
+seja dados,
+
+01:24:46.080 --> 01:24:48.040
+contém analisidades.
+
+01:24:48.400 --> 01:24:50.520
+Então, Github no geral,
+
+01:24:50.520 --> 01:24:51.960
+esse não precisa se preocupar,
+
+01:24:51.960 --> 01:24:53.560
+mas nesse primeiro momento,
+
+01:24:53.560 --> 01:24:55.880
+é mais temorução do que a ferramenta,
+
+01:24:55.880 --> 01:24:58.640
+que ele vai ser mais ou menos nosso Google Drive,
+
+01:24:58.640 --> 01:25:00.080
+dos corgos ali,
+
+01:25:00.080 --> 01:25:01.440
+onde a gente vai as verdade,
+
+01:25:01.440 --> 01:25:02.640
+então que tranquilo,
+
+01:25:02.640 --> 01:25:06.680
+você subir um notebook aqui,
+
+01:25:06.680 --> 01:25:09.440
+a gente consegue inclusive dentro do Github,
+
+01:25:09.440 --> 01:25:11.120
+abrir um código do Polave,
+
+01:25:11.120 --> 01:25:13.280
+eles têm essa parceria,
+
+01:25:13.280 --> 01:25:16.440
+então o Github,
+
+01:25:16.440 --> 01:25:18.040
+como o medar de do mundo live,
+
+01:25:18.040 --> 01:25:19.000
+Google também,
+
+01:25:19.000 --> 01:25:21.600
+então eles com peste,
+
+01:25:21.600 --> 01:25:22.720
+e a gente tem gração,
+
+01:25:22.720 --> 01:25:25.920
+aqui a gente consegue fazer tudo
+
+01:25:25.920 --> 01:25:27.080
+dentro do colave,
+
+01:25:27.080 --> 01:25:29.040
+então esse é o legal,
+
+01:25:29.040 --> 01:25:30.480
+a parxida semana que vem,
+
+01:25:30.480 --> 01:25:33.040
+esse vai ser o nosso ponto de parxida,
+
+01:25:33.040 --> 01:25:34.560
+vai ser o nosso laboratório,
+
+01:25:34.560 --> 01:25:35.480
+parxida semana que vem,
+
+01:25:35.480 --> 01:25:38.520
+e vai começar a botar em mão na massa.
+
+01:25:38.520 --> 01:25:40.240
+E pessoal,
+
+01:25:40.240 --> 01:25:42.040
+chegamos ao fim,
+
+01:25:42.040 --> 01:25:45.080
+acho que conseguimos
+
+01:25:45.080 --> 01:25:47.040
+ter uma boa introdução,
+
+01:25:47.040 --> 01:25:49.040
+e terão botando a mão na massa,
+
+01:25:49.040 --> 01:25:50.160
+vamos com calma,
+
+01:25:50.160 --> 01:25:52.040
+pega em o final de semana,
+
+01:25:52.040 --> 01:25:53.200
+para olhar com calma,
+
+01:25:53.200 --> 01:25:54.640
+o boterudo,
+
+01:25:54.640 --> 01:25:55.440
+nesse primeiro momento,
+
+01:25:55.440 --> 01:25:56.680
+a importante não se tem,
+
+01:25:56.680 --> 01:25:58.040
+uma boa noção do Python,
+
+01:25:58.040 --> 01:25:58.440
+ali,
+
+01:25:58.440 --> 01:26:01.040
+não precisa ser meio-mestre,
+
+01:26:01.040 --> 01:26:01.920
+mas é legal,
+
+01:26:01.920 --> 01:26:02.640
+semana que vem,
+
+01:26:02.640 --> 01:26:04.160
+a gente tem uma noção
+
+01:26:04.160 --> 01:26:05.360
+em mais profundo,
+
+01:26:05.360 --> 01:26:07.480
+que a gente vai começar a olhar,
+
+01:26:07.480 --> 01:26:09.800
+e vamos agora responder os dúvidos,
+
+01:26:09.800 --> 01:26:12.600
+vamos dar pra aprender isso tudo zero,
+
+01:26:12.600 --> 01:26:13.880
+sim,
+
+01:26:13.880 --> 01:26:15.600
+eu acredito que sim,
+
+01:26:15.600 --> 01:26:16.600
+cara,
+
+01:26:16.600 --> 01:26:18.120
+eu acredito muito no conteúdo
+
+01:26:18.120 --> 01:26:18.960
+de que,
+
+01:26:18.960 --> 01:26:20.160
+numa linha de pensamento,
+
+01:26:20.160 --> 01:26:22.760
+que a gente consegue aprender qualquer coisa,
+
+01:26:22.760 --> 01:26:25.760
+no nome de que a gente dedicada.
+
+01:26:25.760 --> 01:26:26.560
+Então,
+
+01:26:26.560 --> 01:26:28.360
+eu acredito que uma pessoa de satenta anos,
+
+01:26:28.360 --> 01:26:29.520
+consegue aprender a sufalar,
+
+01:26:29.520 --> 01:26:31.280
+se ela quiser se dedicar.
+
+01:26:31.280 --> 01:26:32.680
+E eu acredito que você é um dreto,
+
+01:26:32.680 --> 01:26:34.080
+também consegue
+
+01:26:34.080 --> 01:26:35.720
+ter total capacidade de aprender
+
+01:26:35.720 --> 01:26:36.720
+na lista de dados,
+
+01:26:36.720 --> 01:26:38.040
+principalmente no ambiente,
+
+01:26:38.040 --> 01:26:40.440
+como você já está aqui no botercamp,
+
+01:26:40.440 --> 01:26:41.200
+com os trutores,
+
+01:26:41.200 --> 01:26:42.320
+com os tutores,
+
+01:26:42.320 --> 01:26:44.360
+numa comunidade,
+
+01:26:44.360 --> 01:26:45.400
+e com o curso,
+
+01:26:45.400 --> 01:26:47.520
+esse é a gente como a espelha frente,
+
+01:26:47.520 --> 01:26:49.360
+não tem um puker,
+
+01:26:49.360 --> 01:26:51.640
+você não aprender, claro.
+
+01:26:51.640 --> 01:26:53.840
+A gente não está falando com você vai sair daqui,
+
+01:26:53.840 --> 01:26:55.000
+um mestre,
+
+01:26:55.000 --> 01:26:57.240
+um espelho sentido de dados cêniro,
+
+01:26:57.240 --> 01:26:58.720
+um étio da adcênia,
+
+01:26:58.720 --> 01:27:00.200
+a vida que traz esse pra gente,
+
+01:27:00.200 --> 01:27:02.600
+não é ninguém vai virar cêniro em 16 meses,
+
+01:27:02.600 --> 01:27:03.440
+7 meses,
+
+01:27:03.440 --> 01:27:05.280
+é isso que é a experiência,
+
+01:27:05.280 --> 01:27:07.840
+mas aqui vocês não têm toda,
+
+01:27:07.840 --> 01:27:09.880
+toda material e toda o suporte,
+
+01:27:09.880 --> 01:27:11.000
+para chegar lá.
+
+01:27:11.000 --> 01:27:13.280
+E o legal é que aqui vocês não criam a comunidade,
+
+01:27:13.280 --> 01:27:15.360
+que vocês não levaram por resto da vida.
+
+01:27:15.360 --> 01:27:16.160
+Então,
+
+01:27:16.160 --> 01:27:17.920
+é contente também da isso.
+
+01:27:17.920 --> 01:27:19.960
+O primeiro passo é o que mais fície,
+
+01:27:19.960 --> 01:27:21.720
+e o primeiro passo já deram, galera.
+
+01:27:21.720 --> 01:27:24.440
+Vocês estão aqui, primeiro passo já deram,
+
+01:27:24.440 --> 01:27:27.120
+e não tem por quem voltar atrás.
+
+01:27:29.840 --> 01:27:33.000
+Agora vamos ver a próxima dúvida,
+
+01:27:33.600 --> 01:27:34.640
+da mistelha,
+
+01:27:34.640 --> 01:27:35.920
+que estão aqui até o novo escoujo,
+
+01:27:35.920 --> 01:27:37.120
+e percebe de uma tela preta,
+
+01:27:37.120 --> 01:27:38.080
+já no colabe,
+
+01:27:38.080 --> 01:27:39.760
+e jupiter telas claras.
+
+01:27:39.760 --> 01:27:41.960
+Pra visão, acho a tela preta melhor.
+
+01:27:41.960 --> 01:27:43.200
+Por legal, meu chele,
+
+01:27:43.200 --> 01:27:44.120
+eu também acho isso.
+
+01:27:44.120 --> 01:27:46.600
+Eu sempre que a minha vista fica menos cansada,
+
+01:27:46.600 --> 01:27:47.960
+pessoal, eu acho que não é o dia.
+
+01:27:47.960 --> 01:27:51.240
+Tem possibilidade de configurar isso nos outros laboratórios.
+
+01:27:51.240 --> 01:27:52.640
+Vou perguntar.
+
+01:27:52.640 --> 01:27:55.240
+E no colabe, eu sei que tem.
+
+01:27:55.240 --> 01:27:57.040
+Então aqui no colabe,
+
+01:27:57.040 --> 01:27:58.880
+a gente tem aqui,
+
+01:27:58.880 --> 01:28:01.200
+se eu amiganei aqui,
+
+01:28:01.200 --> 01:28:03.880
+ele de torna o necessário,
+
+01:28:03.880 --> 01:28:06.320
+tem uma adapta de darts.
+
+01:28:06.320 --> 01:28:07.480
+Então aqui,
+
+01:28:07.480 --> 01:28:09.200
+você tem aqui,
+
+01:28:09.200 --> 01:28:11.400
+na engrenagem,
+
+01:28:11.400 --> 01:28:13.920
+e senti muda que eu tenho a pra dar.
+
+01:28:15.640 --> 01:28:17.280
+E eu já vou deixar aqui, né?
+
+01:28:17.280 --> 01:28:18.360
+Pronto, nossa,
+
+01:28:18.360 --> 01:28:20.280
+muito melhor, por exemplo.
+
+01:28:20.760 --> 01:28:23.720
+E no colabe,
+
+01:28:23.720 --> 01:28:26.720
+que aqui eu confesso que eu acho que não tenho.
+
+01:28:27.880 --> 01:28:29.240
+Eu nunca vi,
+
+01:28:30.240 --> 01:28:31.440
+pelo menos,
+
+01:28:32.280 --> 01:28:34.800
+um dupteno colabe,
+
+01:28:35.400 --> 01:28:36.400
+não como lembro.
+
+01:28:39.080 --> 01:28:40.360
+Mas,
+
+01:28:40.440 --> 01:28:41.760
+eu vou ter de descobrir também
+
+01:28:41.760 --> 01:28:45.040
+seu descobriu alguma coisa sobre o notivo feedback.
+
+01:28:46.440 --> 01:28:47.920
+A gente passa para vocês.
+
+01:28:47.920 --> 01:28:49.520
+É o sede falou que ele usa tudo da,
+
+01:28:49.520 --> 01:28:53.960
+que eu também uso no YouTube da que tem uma extensão do pronto.
+
+01:28:53.960 --> 01:28:55.040
+Só para isso, né?
+
+01:28:56.560 --> 01:28:58.040
+Mas, eu não tenho de ter de descobrir
+
+01:28:58.040 --> 01:29:03.960
+que o teu vendo realmente não tem a questão de opção no juo,
+
+01:29:03.960 --> 01:29:04.680
+por ter lá,
+
+01:29:04.680 --> 01:29:06.720
+mas eu vou tentar descobrir
+
+01:29:06.720 --> 01:29:08.160
+sobre alguma forma,
+
+01:29:08.160 --> 01:29:09.680
+eu passo para vocês lá no chat,
+
+01:29:09.680 --> 01:29:12.680
+mas aqui no labo,
+
+01:29:12.680 --> 01:29:14.240
+que é onde, enfim,
+
+01:29:14.240 --> 01:29:15.480
+como acaba sendo opção
+
+01:29:15.480 --> 01:29:16.280
+na seu usario ou juo,
+
+01:29:16.280 --> 01:29:17.360
+tem no Timugue,
+
+01:29:17.360 --> 01:29:18.200
+ou o bit labo,
+
+01:29:18.200 --> 01:29:19.680
+então eu recomendo ter pra
+
+01:29:19.680 --> 01:29:20.680
+fazer o da ar que,
+
+01:29:20.680 --> 01:29:22.840
+ficar aqui no,
+
+01:29:22.840 --> 01:29:24.040
+no colabe mesmo.
+
+01:29:26.000 --> 01:29:26.480
+É,
+
+01:29:26.480 --> 01:29:27.440
+só voltar daqui,
+
+01:29:27.440 --> 01:29:28.400
+então, pessoal,
+
+01:29:29.400 --> 01:29:31.360
+a gente falou sobre as interessões,
+
+01:29:31.360 --> 01:29:32.920
+a gente sabe agora como tiradou,
+
+01:29:32.920 --> 01:29:33.920
+e da,
+
+01:29:33.920 --> 01:29:35.720
+o que dá da tempestade perfeita,
+
+01:29:35.720 --> 01:29:37.920
+e como que a gente veio para aqui,
+
+01:29:38.440 --> 01:29:38.680
+então,
+
+01:29:38.680 --> 01:29:39.160
+pense lá,
+
+01:29:39.160 --> 01:29:39.880
+a mulher diferente,
+
+01:29:39.880 --> 01:29:40.760
+no data science,
+
+01:29:40.760 --> 01:29:41.720
+pro data na lítica,
+
+01:29:41.720 --> 01:29:42.440
+que sabe o idade,
+
+01:29:42.440 --> 01:29:43.440
+experimentas,
+
+01:29:43.800 --> 01:29:45.400
+e entraram aqui nas ferramentas,
+
+01:29:45.400 --> 01:29:46.040
+de apensado,
+
+01:29:46.040 --> 01:29:46.280
+então,
+
+01:29:46.280 --> 01:29:47.840
+a gente entrou no botão de burro,
+
+01:29:47.840 --> 01:29:49.200
+que são de vescou,
+
+01:29:49.200 --> 01:29:51.520
+de goro colabe,
+
+01:29:51.520 --> 01:29:53.280
+apresentava o GitHub,
+
+01:29:53.280 --> 01:29:53.520
+então,
+
+01:29:53.520 --> 01:29:55.520
+a gente passou por todos esses pontos.
+
+01:29:55.520 --> 01:29:56.440
+E,
+
+01:29:56.440 --> 01:29:56.840
+por hoje,
+
+01:29:56.840 --> 01:29:57.520
+só, pessoal,
+
+01:29:57.520 --> 01:29:59.160
+acho que já foi muita coisa
+
+01:29:59.160 --> 01:29:59.760
+para vocês,
+
+01:29:59.760 --> 01:30:00.000
+né,
+
+01:30:00.000 --> 01:30:01.200
+ontem hoje,
+
+01:30:01.200 --> 01:30:02.200
+começando os eventos
+
+01:30:02.200 --> 01:30:03.480
+da Iessa Semana,
+
+01:30:03.480 --> 01:30:04.320
+pessoal também,
+
+01:30:04.320 --> 01:30:05.440
+a lova ficar gravada,
+
+01:30:05.440 --> 01:30:06.440
+então,
+
+01:30:06.440 --> 01:30:08.560
+se alguma coisa não ficou claro,
+
+01:30:08.560 --> 01:30:09.840
+só voltar atrás,
+
+01:30:09.840 --> 01:30:11.200
+olhá com calma,
+
+01:30:11.200 --> 01:30:12.240
+e,
+
+01:30:12.240 --> 01:30:13.720
+se tiver alguma dúvida também,
+
+01:30:13.720 --> 01:30:14.080
+pessoal,
+
+01:30:14.080 --> 01:30:14.800
+esse é um momento,
+
+01:30:14.800 --> 01:30:16.200
+estou aqui,
+
+01:30:16.200 --> 01:30:18.280
+aproveitar esse finalzinho de aula.
+
+01:30:22.760 --> 01:30:24.200
+Alguma dúvida,
+
+01:30:27.560 --> 01:30:28.280
+você não é pessoal,
+
+01:30:28.280 --> 01:30:29.080
+beleza,
+
+01:30:29.080 --> 01:30:30.080
+é,
+
+01:30:30.080 --> 01:30:31.280
+estamos juntos na esta jornada,
+
+01:30:31.280 --> 01:30:32.560
+vai ser muito legal aprender
+
+01:30:32.560 --> 01:30:33.280
+com vocês,
+
+01:30:33.280 --> 01:30:33.880
+ou pra,
+
+01:30:33.880 --> 01:30:34.560
+se aí está,
+
+01:30:34.560 --> 01:30:35.360
+é vendo aqui,
+
+01:30:36.440 --> 01:30:37.440
+não vê,
+
+01:30:44.720 --> 01:30:45.720
+aproveitar a vergonha,
+
+01:30:47.560 --> 01:30:48.000
+eu sabe,
+
+01:30:48.000 --> 01:30:48.920
+trabalha agora,
+
+01:30:48.920 --> 01:30:50.560
+por conta do reskriado,
+
+01:30:51.240 --> 01:30:53.080
+e não terá qual,
+
+01:30:53.080 --> 01:30:54.800
+que horas será disponibilizado.
+
+01:30:54.800 --> 01:30:56.480
+Eu acho que demora,
+
+01:30:56.480 --> 01:30:57.120
+uma melhorinha,
+
+01:30:57.120 --> 01:30:57.280
+né,
+
+01:30:57.280 --> 01:30:57.680
+só por Google,
+
+01:30:57.680 --> 01:30:58.560
+subiu link,
+
+01:30:58.560 --> 01:30:59.320
+assim que,
+
+01:30:59.320 --> 01:30:59.880
+e eu geralinho,
+
+01:30:59.880 --> 01:31:00.880
+que aqui é o mando,
+
+01:31:02.880 --> 01:31:03.880
+no,
+
+01:31:04.880 --> 01:31:05.880
+é o mando,
+
+01:31:05.880 --> 01:31:06.880
+aqui,
+
+01:31:06.880 --> 01:31:09.000
+com a Claudia falou,
+
+01:31:09.000 --> 01:31:09.520
+Bruno,
+
+01:31:09.520 --> 01:31:11.160
+não estava conseguindo,
+
+01:31:11.160 --> 01:31:12.640
+ver o coge no,
+
+01:31:12.640 --> 01:31:14.160
+naquela branca,
+
+01:31:14.160 --> 01:31:15.160
+ó, legal,
+
+01:31:15.160 --> 01:31:15.680
+realmente,
+
+01:31:15.680 --> 01:31:16.680
+agora que estou olhando aqui
+
+01:31:16.680 --> 01:31:17.720
+para o outro tela,
+
+01:31:17.720 --> 01:31:19.000
+mas fica tranquila,
+
+01:31:19.000 --> 01:31:19.640
+está com a ógina,
+
+01:31:19.640 --> 01:31:20.520
+a gente não fez nenhum coge
+
+01:31:20.520 --> 01:31:21.040
+no portante,
+
+01:31:21.040 --> 01:31:21.200
+não,
+
+01:31:21.200 --> 01:31:22.200
+a gente só estava dando uma
+
+01:31:22.200 --> 01:31:23.120
+uma pizza lá,
+
+01:31:23.120 --> 01:31:24.600
+e bom que você falou isso,
+
+01:31:24.600 --> 01:31:25.560
+que a partir da próxima
+
+01:31:25.560 --> 01:31:25.920
+aumenta,
+
+01:31:25.920 --> 01:31:27.520
+então a gente só vai levar,
+
+01:31:27.520 --> 01:31:28.200
+no,
+
+01:31:28.200 --> 01:31:29.160
+no darte,
+
+01:31:29.160 --> 01:31:30.560
+eu prefiro,
+
+01:31:30.560 --> 01:31:32.160
+acho que fica melhor para todo mundo,
+
+01:31:32.160 --> 01:31:33.760
+então combinada
+
+01:31:33.760 --> 01:31:34.960
+que a gente vai levar no,
+
+01:31:34.960 --> 01:31:35.760
+no darte,
+
+01:31:36.320 --> 01:31:37.720
+para o se mostrar a aula de tema,
+
+01:31:38.720 --> 01:31:39.360
+me lembra,
+
+01:31:39.360 --> 01:31:39.840
+brilhou,
+
+01:31:39.840 --> 01:31:41.520
+eu falo com a coisa,
+
+01:31:42.720 --> 01:31:43.440
+ah não,
+
+01:31:44.160 --> 01:31:44.960
+não deixou,
+
+01:31:46.640 --> 01:31:47.800
+só vai ouvir o banco,
+
+01:31:47.800 --> 01:31:48.520
+e não calma,
+
+01:31:48.520 --> 01:31:49.160
+não,
+
+01:31:49.160 --> 01:31:50.360
+não,
+
+01:31:50.360 --> 01:31:51.320
+naquela da bano,
+
+01:31:51.320 --> 01:31:52.080
+não,
+
+01:31:52.560 --> 01:31:53.160
+aí é isso,
+
+01:31:53.160 --> 01:31:53.880
+então pessoal,
+
+01:31:53.880 --> 01:31:55.200
+a história deixa dar no ero,
+
+01:31:55.200 --> 01:31:56.840
+a gente acabou aqui,
+
+01:31:56.840 --> 01:31:58.080
+boa noite,
+
+01:31:58.080 --> 01:31:59.040
+semana que vem,
+
+01:31:59.040 --> 01:32:00.200
+a gente volta aqui,
+
+01:32:00.200 --> 01:32:00.840
+quatro aferes,
+
+01:32:00.840 --> 01:32:01.840
+e dezenove horas,
+
+01:32:01.840 --> 01:32:03.440
+vai ficar aqui gravado,
+
+01:32:04.080 --> 01:32:04.680
+podem marcar
+
+01:32:04.680 --> 01:32:05.800
+um álbum comigo,
+
+01:32:06.440 --> 01:32:07.280
+fica em avantagens
+
+01:32:07.280 --> 01:32:08.640
+do dourar as estão lá disponíveis
+
+01:32:08.640 --> 01:32:09.960
+no calenho de
+
+01:32:09.960 --> 01:32:10.760
+o bom mandalho de novo,
+
+01:32:11.480 --> 01:32:12.440
+no Discord,
+
+01:32:12.760 --> 01:32:13.720
+fixo para vocês,
+
+01:32:13.720 --> 01:32:15.080
+quero ter o prazer de conhecer
+
+01:32:15.080 --> 01:32:15.720
+um álbum,
+
+01:32:16.040 --> 01:32:16.880
+e boa sorte na
+
+01:32:16.880 --> 01:32:17.720
+sessão de honravas,
+
+01:32:17.720 --> 01:32:19.800
+aproveitem o bootcamp,
+
+01:32:19.800 --> 01:32:21.240
+vai ser incrível para vocês,
+
+01:32:21.400 --> 01:32:22.440
+valeu, pessoal, bono,
+
+01:32:25.080 --> 01:32:25.600
+bono,
+
+01:32:25.600 --> 01:32:26.360
+e tinto.
+
+01:32:27.240 --> 01:32:27.960
+bono,
+
+01:33:04.680 --> 01:33:05.680
+bono,
+

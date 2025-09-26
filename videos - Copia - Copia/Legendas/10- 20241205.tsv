@@ -1,0 +1,2220 @@
+start	end	text
+0	3080	tenho Jesus!
+30740	31720	대�!"
+33300	34440	campaigns!
+45500	46300	Mei grosso!
+46900	51940	Depois de Cinconhos,
+52940	54160	eu "...bué...
+54880	58920	eu pensava que즈 pra ele dentro de Karmerins
+58920	60920	que eu nunca mais faço isso, né?
+64200	65960	Mas agora vai dar-se.
+66300	66940	Então,
+67440	69440	eu vou compartilhar a minha tela aqui.
+70440	72480	A gente vai fazer a atividade prática,
+72480	75520	vamos hoje vai ser, então, uma aula mais leve,
+75520	78220	na segunda, a gente fez uma aula ali,
+78220	81120	a história, a passão, um pouco vários pontos,
+81120	82800	sobre a manipulação de dados,
+82800	85020	então a gente começou a entrar no detalhe,
+85520	88360	de que a gente vai ter que fazer com os data sites?
+88680	90740	E hoje que não a gente vai começar,
+90740	92240	é, tenho primeiro contato,
+92240	93960	a gente vai fazer aqui o nosso primeiro,
+94440	95820	é, a gente chama de lábio,
+96320	98720	a gente faz uma atividade prática juntos,
+98720	99460	então,
+99460	102960	a gente vai começar hoje quando a data site bem conhecida,
+102960	104160	pelo certeza que,
+104560	106480	se vocês não viram ainda com certeza,
+106480	107800	vocês vão ter contato com ele,
+108360	110360	e é bem legal para a gente
+110360	112360	me dergurar o enteirias
+112360	115240	com esses pais conceitos na prática,
+115640	116640	e, enfim,
+116640	118960	a ver basicamente que a gente fez na segunda-feira,
+119360	120920	então, eu vou só preparar aqui,
+126360	127640	é, com o berto,
+143560	144760	então, agora,
+145280	146800	vocês estão vendo pessoas?
+147520	148160	Acho que sim,
+148160	149160	está para você, daqui.
+150160	151360	E vamos lá,
+151360	152760	então, hoje a gente vai fazer
+152760	156280	a análise de dados do conjunto de dados do Titanic.
+159880	161440	Esse é um conjunto de dados real,
+161960	165600	então, é o conjunto de dados de todos os passageiros do Titanic,
+167320	168480	é meio moroso,
+168480	172160	mas a variável do pessoal uso como variável óvon,
+172160	173360	então,
+173360	175640	é feita para focar as nossas análises,
+175640	177960	é a variável de se a pessoa sobreviver ou não,
+177960	179240	e a gente já vai ver o porquê.
+180240	181040	Mas então, ainda,
+181040	182200	a gente tem um primeiro contato,
+182200	184440	esse é um data frame muito, muito conhecido,
+185440	185920	então,
+185920	188440	vocês podem usar eles para fazer
+188440	189320	pessoas de sentidade,
+189320	190800	para criar modelos de previsão,
+190800	192000	ou de legislação,
+192000	193440	pessoal para analisidade,
+193800	194440	por exemplo,
+194440	195160	para analisar.
+195160	196400	Mas o que a gente vai fazer hoje,
+196400	199000	é tentar analisar os principais fatores que levam
+199280	200760	um pessoal sobreviver ou,
+200760	202800	hoje a gente não vai chegar tão nesse nível,
+202800	205640	mas vai dar uma paninha e quem quiser
+205640	206600	me regulhar também,
+206600	207680	e ficar montais.
+207920	209760	Mas a nossa mais a que a ideia também,
+209760	211400	a gente tem o primeiro contato com a mente,
+211400	212520	do Google Colabi,
+212880	213360	então,
+213360	216240	esse é uma mente que a gente vai desenvolver alguns nossos projetos,
+216480	217560	a gente vai variar também,
+217560	219360	a gente vai dar uma coisa para o Provescoge,
+219360	220880	para vincinar para vocês,
+220880	221400	também,
+221400	222760	é outra opção.
+223000	223880	Mas o Google Colabi,
+223880	225920	é uma forma muito, muito versátil.
+226920	228040	Ele funciona,
+228560	229160	basicamente,
+229160	230440	como o Júpe Tenante Book,
+230640	231680	aqui vocês têm,
+231680	233440	inclusive, a mais opção da edade,
+233440	235440	porque o Júpe Tenante Book é em algumas partes,
+235440	236240	aqui,
+236240	237840	os pais de encontrar alguma coisa no código,
+237840	240320	a gente pode fazer a vista ao código,
+241440	243160	sem as diabetes,
+243160	245280	então, aqui a gente pode ter a pasta,
+245280	246640	e muito interessante dele,
+247280	248040	aqui a pasta,
+248040	251320	a gente pode se incronizar com um Google Drive,
+251320	252240	então aqui,
+252240	254560	por exemplo, a gente pode se incronizar com o Google Drive,
+254560	255680	da nossa conto Google,
+255680	256520	então qualquer aqui,
+256520	257320	porque eu só vou lá,
+257320	258560	eu consigo acessar aqui.
+258760	260760	Então, só só vai lá um arquivo,
+260760	261600	por exemplo,
+261600	262320	em nosso caso aqui,
+262320	263520	a gente vai usar um arquivo CSC-B,
+263520	265240	que vai ser para púlinhas.
+265640	266640	Então, a gente pode só vai
+266640	268080	ir lá no nosso Google Drive,
+268080	269120	como qualquer um arquivo,
+269680	271080	e consumir aqui direto,
+271080	271880	no qual abre.
+272080	272480	Então,
+272480	273880	é uma ferramenta muito versátil,
+274120	275080	e na prática,
+275080	276200	como aquela funciona.
+277040	277920	É o Google,
+277920	279680	dá uma computada dos impregentes,
+279960	280520	então,
+280520	282120	ele dá uma engenha,
+282120	282920	que a gente chama,
+282920	283320	então,
+283320	284440	ele gada um back-end,
+284600	284880	então,
+284880	286920	que são um processador de 12,
+286920	288040	e gigas de RAM,
+288440	289040	então,
+289040	290040	a gente já falou,
+290040	290480	bem forte,
+290480	290840	então,
+290840	292240	a gente for ver a maioria das máquinas
+292240	293800	ele que saem gentrada aqui no Brasil.
+293800	295000	Hoje são 8 gigas de RAM.
+297840	299120	Então, a máquina é bem interessante.
+299120	300600	Não pense em que a máquina fraco,
+300600	301040	então,
+301600	302600	um problema é,
+303720	305920	é espaço no Google Drive.
+306160	306440	Então,
+306440	306800	então,
+306800	307800	o espaço limitado,
+307800	309560	que é o espaço gratuito ali do Google,
+309800	310800	vocês podem comprar também
+310800	312680	espaço da máquina,
+312680	314040	e, enfim,
+314680	316480	outra ferramenta muito interessante dela,
+316480	317480	é que ela,
+318160	318680	também,
+318760	322320	traz ferramentas de execução em paralelo.
+322600	323920	Isso aí é lá para frente,
+324160	325280	mas o Google forna é,
+325280	326080	esse pra gente,
+326920	328760	o opção de construção de placa de vídeo,
+328760	330040	que a gente consegue executar
+330880	332280	cogemos muito mais rápido.
+332280	332760	Então,
+332760	334640	é um ferramentas simbénavançada,
+335000	335720	que dá trabalho,
+335720	336280	mas,
+336480	338280	dá trabalho nem te montando um ambiente local,
+338280	339240	e o Google já forna,
+339240	340680	esse sim de mão beijado.
+340920	341760	Depois,
+341760	343520	vale a pena explorar,
+343520	344280	esse tem que vira aqui,
+344280	345800	é o tráutip de execução,
+345960	346720	e aqui a gente muda,
+346720	347080	está vendo aqui,
+347080	348120	a gente tá no CPU,
+349000	349960	usando Python 3,
+349960	351360	a gente pode usar em R também,
+352160	353120	mas aqui,
+353760	355920	uma das possibilidades é o GPU.
+356200	357800	E o GPU é a construção de placa de vídeo,
+357800	360200	se consegue usar muito mais rápido,
+360200	361320	mas tem que fazer também
+361320	362960	de vai ser adaptações no código,
+363280	364480	mas vai a pena,
+364480	365800	vai a pena olhar depois.
+367080	368640	O geral, vamos ficar aqui mesmo,
+368640	369480	no nosso mundo,
+369880	370840	e aqui,
+370840	373240	a gente vai ter o primeiro contato com o data frame
+373240	374120	do Titanic,
+374120	374720	então,
+375320	377520	já tem um esforado aqui na ferramenta,
+377600	379000	do colabe,
+379720	381240	a primeira coisa que já está ligada,
+381240	382400	no nosso computador,
+382640	383760	quando aparece o joinha,
+383760	384960	ele está ligado.
+385280	386800	Eu vou importar duas bibliotecas,
+386800	387880	aqui, o pão das,
+387880	389080	da uma mentada,
+389600	391080	para ficar mais claro,
+391080	391680	pessoal.
+392880	393120	Então,
+393120	394120	estendo meus bibliotecas,
+394120	395400	o pão das Iumu pai,
+396240	397400	vamos importar as duas,
+397400	398760	e aqui a gente tem o caminho,
+399360	400360	da pasta,
+400800	402080	de uma no repostória,
+402080	402640	que do Guit de Hub,
+402640	403800	mas é um consfocinho,
+404320	405200	um lugar que vai interrer,
+405200	406280	é a gente que está salvo noço,
+406520	407640	é arquivo USB.
+408120	409680	A gente vai ler ele usando o método
+409680	410360	e de USB,
+410360	413240	porque ele é um USB dentro do pão das,
+413400	413880	e aqui,
+413880	415160	o legal que a gente consegue armazer,
+415160	416720	não há dentro de um data frame,
+417400	418960	o Google vai executar,
+418960	419840	agora vocês vão ver,
+421120	422680	ele dá uma mentagem,
+422680	423520	aqui foi muito live,
+423520	423680	não é?
+423680	425120	Não deu bem para sentir,
+425840	427120	mas dá para monitorar,
+427120	428520	então, bem legal,
+428520	429040	finalmente.
+429640	431320	E quando a gente tribe aqui embaixo,
+431560	432720	a gente já tem
+432720	434720	a monetização do nosso data frame.
+435200	435360	Então,
+435360	435920	beleza,
+436560	437560	vamos dar uma explorada,
+439200	440440	aqui da Tha Frame,
+441000	442440	para a pessoa que não está
+442440	443880	muito acostumada ainda com parte,
+443880	444800	eu só deixei no cara,
+444800	446080	é muito parecido com a tabela,
+446080	446760	não é que isso é,
+446760	448920	ou qualquer tabela que você pode imaginar.
+449560	450360	É, qualquer tabela,
+450360	452400	esse carácterismo por tecolones e rinhas,
+453040	453200	então,
+453200	454800	aqui as colunas são as variáveis,
+455360	457040	que vão definir as características,
+457600	459440	e as linhas vão ser cadentrada,
+459440	460320	cadentrada,
+460320	463720	vai ser uma nova pessoa,
+463720	464520	aqui no caso,
+464520	467040	e as colunas vão ser as características
+467040	468920	associadas àquela pessoa.
+469720	471120	Então, aqui a gente tem primeiro passo
+471120	471720	um idê,
+471720	472480	um idê na mais,
+472480	473880	é porque não cpf,
+473880	475040	como dizer assim na base,
+475040	476040	em um número que ele a gente fica,
+476040	476560	cada pessoa,
+476560	476880	e,
+476880	477160	que a gente,
+477800	478560	SUV-vive,
+478760	480240	que é justamente que a gente falou,
+480240	481640	você é pessoa sobreviver ou não,
+482840	483640	tem classe,
+483640	485720	é a classe que a pessoa tava no
+485720	486200	tênia,
+486200	487160	que então se ela estava na primeira,
+487160	488760	segundo a outra esse era classe,
+489320	489840	o nome,
+490880	491600	o sexo,
+492480	492760	então,
+492760	493960	se ela era homem ou mulher,
+494520	495520	a idade,
+495800	496800	então a idade,
+496800	497120	nada,
+497120	497880	da pessoa,
+498120	498720	a gente tá vendo aqui,
+498720	500080	a idade tá em número inteiro,
+500080	501760	não tem nenhuma idade que é brada,
+502080	502680	interessante.
+502680	502920	Então,
+502920	504600	provavelmente não devia estar em flote,
+505080	505920	e aqui no sexo,
+505920	506320	eu já vejo,
+506320	506840	por exemplo,
+506840	508120	que tem meio,
+508120	509080	que é homem,
+509080	510040	é em minúsculo,
+510040	510840	e maiúsculo.
+511480	511760	Então,
+511760	512360	isso aqui já,
+512360	513760	já um problema muito característico,
+513760	514280	porque,
+514280	516280	e se acontece em um entre de duas linhas,
+516280	516640	que,
+516640	517960	é no colunas sexo,
+517960	519160	ele tem dois valores,
+519160	520320	que quer dizer a mesma coisa,
+520320	520960	meio,
+521200	522480	e ela só tem o minúsculo,
+522480	523400	é em maiúsculo,
+523400	523760	então,
+523760	524600	quando a gente agrupula,
+524600	525600	se fica separadas,
+525600	526640	não é importante a gente
+526640	527600	padronizar aqui, né?
+532480	534640	Seglim esse peça,
+534640	535680	eu não me engano é o número
+535680	538040	de filhos que a pessoa tinha,
+538040	538200	né,
+538200	538880	seglim esse,
+539880	540920	eu acho que é filhos em inglês,
+540920	541160	então,
+541160	542120	é quando todos os quantos filhos
+542120	542720	a pessoa tinha,
+542720	544080	não havia um filhos ao pais, né?
+544080	544760	Eu acho que é,
+544760	545360	tipo,
+545360	546320	relação direto,
+547360	547920	parxonou,
+547920	548800	lembro o que quer,
+548800	550240	mas não é não é relevante
+550240	550920	para a gente,
+551160	552000	tinha que estar bem,
+552000	553480	não é relevante para a gente,
+553760	555240	isso aqui é bem relevante para a gente,
+555240	556240	que é o fair,
+556240	557000	pera,
+557000	559040	quanta pessoa pagou a passage, né?
+559040	560480	O preço da passage,
+561120	563040	e aqui a gente já viu a presa da passage negativo,
+563040	563320	né?
+563320	564600	Então, já chama atenção,
+564600	566200	você que provavelmente também não está correto,
+566200	567120	porque,
+567120	569600	quem era a gente pagar se receber se pra viajar,
+569600	570360	eu contrai a gente,
+570360	571000	pagar,
+571000	572000	caro,
+572000	572960	e,
+572960	575120	cabinho também é a cabinha da pessoa,
+575120	576600	é em marketing,
+576600	577520	é isso aqui é legal,
+577520	578800	é o porto que ela em barcote,
+578800	579160	também,
+579160	579360	nada,
+579360	582000	que foram três portos que o de tênico passou,
+582000	583520	antes de partir,
+583760	585320	para produzir,
+585320	586000	não quer a nova maior,
+586000	586360	que não,
+586360	587040	então ele passou ali,
+587040	588040	essa é o femp,
+588040	589240	estão sendo me engano,
+589240	590640	se é cá,
+590640	592800	e tem algum outro também menor,
+592800	594320	então ele passou para alguns portos,
+594320	595680	antes de partir,
+595680	597040	para,
+597040	598120	é,
+598120	599040	para,
+599040	599920	não vai eu,
+599920	600920	então beleza,
+600920	602080	esse é o nosso data frame,
+602080	603800	a nossa ideia é que é,
+603800	605040	a gente vai analisar,
+605040	606400	então alguns fatores,
+606400	608000	e eu quero ouvir de vocês agora,
+608000	610000	a gente já olhou aqui nossa base,
+610000	611040	é,
+611040	611680	são aqui,
+611680	612440	aqui interessante,
+612440	612640	né,
+612640	613600	a gente pode dar um hatch,
+613600	615240	para ver assim que o primeiro eslinhas,
+615240	617800	a gente acabou fazendo aqui com ele com plet,
+619000	619880	o shape,
+619880	621480	é uma coisa que eu sei por gosto de deitar,
+621480	623040	porque ele dá uma limão,
+623040	623360	deve,
+623360	624480	ponto shape sem nada,
+624480	625760	né, sem ensinado,
+625760	626360	se é o botão,
+626360	627040	como é uma tuta,
+627040	628480	se eu botar um shape zero,
+629480	631880	eu vou ter a quantidade de linhas,
+631880	634200	então aqui eu posso ver a quantidade de linhas,
+634200	635920	mas que está demorando a execução,
+635920	638080	então aqui eu consigo ver a quantidade de linhas,
+638080	639640	e se eu botar um,
+639640	641480	eu vou eja a quantidade comunas,
+641480	643040	mas no geral eu não preciso botar nada,
+643040	643800	eu deixo da shape,
+643800	644720	porque eu vejo aqui,
+644720	646840	eu sei que meu e 98 não vai ser colunas,
+646840	648600	então eu já vou me dar para a sensação,
+648600	649240	que você,
+649240	650040	são o meu e 98,
+650040	651040	de minhas e dois colunas,
+651040	651960	aí dá para ser tempo ideia,
+651960	653240	ali do tamanho,
+653240	654720	um do data frame, né,
+657120	657920	é,
+657920	660480	vamos continuar aqui um pouquinho,
+660480	662520	eu vou pedir ali de vocês, já já,
+663880	665200	agora aqui no describe,
+665200	666720	o describe,
+666720	667120	pessoal,
+667120	668640	sempre recomendo toda vez que pegar,
+668640	670840	fazer esse passa-pass,
+670840	671680	pega da amolada,
+671680	672800	da amas porada,
+672800	673600	viu formado,
+673600	675720	viu quantas linhas tem em quantos colunas,
+675720	677200	mas o primeiro passo,
+677200	678440	para começar realmente analisar,
+678440	679880	eu describe,
+679880	681080	que no describe a gente consegue,
+681080	682520	tem muita informação,
+682520	684520	a entrocca de muito pouco cóteo,
+684520	685520	então ali,
+685520	686880	uma gente tem aqui,
+686880	687680	um data frame,
+687680	688400	a gente vai ter,
+688400	690560	o método ponto de describe literalmente,
+690560	691680	e ele vai passar,
+691680	693080	em todas as colunas no méricas,
+693080	694200	nós data frame,
+694200	696080	ele vai passar informações importantes,
+696080	696800	mas eu vou passar aqui,
+696800	698200	uma dica para vocês como,
+698200	700080	a gente pode ler isso,
+700080	701400	aqui em o count,
+701400	702960	é a quantidade de valores
+702960	704640	vários dos pra cada colônia,
+704640	705640	antes de tudo,
+705640	707280	aqui a gente tem as colunas,
+707280	709920	no que tem números no nosso data frame,
+710920	712040	primeiro passo,
+712040	713920	para interpretar que o count,
+714640	715960	ele é a quantidade de valores
+715960	717920	vários para cada uma das colunas,
+717920	718640	então,
+718640	719240	sem cheiolea,
+719240	720400	passe de HD,
+720400	721920	ele tem em 1998,
+721920	723800	e interessante que são em 1998,
+723800	725480	ninhas do nosso data frame,
+725480	726240	então isso quer dizer o que,
+726240	728560	que todas as linhas de péssara de HD,
+728560	729600	então preenchidas,
+730240	730920	para a sua viva,
+730920	731760	e também,
+731760	732260	agora,
+732260	733080	para a peclas,
+733080	734640	a gente tem alguns passageiros aqui,
+734640	736800	da 15 e 115 passageiros,
+736800	739800	que não tem a plaza preenchida,
+739800	740720	tudo bem?
+740720	742320	A gente vai tratar isso,
+742320	743480	mas no prinquanto,
+743480	745920	vamos ficar só,
+745920	747120	a guarda essa fação,
+747120	748040	o que o a peclas tem,
+748040	749200	tem valores faltantes,
+749200	749480	aí,
+749480	751920	da gente também tem valores faltantes,
+751920	752320	é,
+752320	752960	se brinza,
+752960	753600	é SP,
+753600	754120	parte,
+754120	754960	não tem,
+754960	756960	e em fera que a gente tem,
+756960	758240	apenas 16,
+758240	758920	que tem valor,
+758920	760040	faltando.
+760440	761240	Em péssara,
+761240	761840	geral,
+761840	763760	a média não quer dizer muita coisa,
+763760	764680	porque,
+764680	765520	porque é uma média
+765520	766800	de uma imaginação se pegar uma lista,
+766800	769160	eu dou uma pessoa de fazer uma média de um CPF,
+769160	771760	por mais que um CPF seja um número,
+771760	772720	quando a gente quer,
+772720	774600	ele é um número basicamente para ação achável,
+774600	775760	para ação registra,
+775760	776840	não como informação,
+776840	778120	por trás desse número,
+778120	780000	diferente no survival,
+780000	782600	que é que a gente já tem 38,
+783320	783720	que você vai ver,
+783720	784400	ponto tem que ter o 88,
+784400	785520	mas é uma média,
+785520	787120	considerando que o survival de um avariado,
+787120	788360	o zero ou um,
+788360	790680	se a média dele é 0.38,
+790680	793400	é o que esporte significar,
+793400	795080	já é uma informação muito melhor
+795080	795560	para a gente,
+795560	798720	solhando a média do survival,
+798720	800720	ela é 0.38,
+800720	802960	alguém tem algum pau pich,
+802960	805560	e não muita gente sobreviva.
+805560	806840	Exato,
+806840	807680	é SP,
+807680	808800	exato do anilborco,
+808800	810000	é palpaulim,
+810000	811000	tipo, na verdade,
+811000	811840	não,
+811840	813160	não dá para falar que foi muita,
+813160	814400	é maior de um morreu,
+814400	814760	tipo,
+814760	816480	essa verdade dá para ver,
+816480	818520	mas não foi tão descrepanho assim,
+818520	819800	não, boa, boa,
+819800	821360	parte da galera do também sobreviva.
+821360	822360	Mas é isso,
+822360	823680	o que mais a gente morreu,
+823680	825160	porque está mais perto do zero,
+825160	826320	do que sobreviva,
+826320	827360	se a gente vai sobreviva,
+827360	828800	eles estaria mais perto do mundo também.
+830040	831240	De ziu padrão,
+832240	833240	aqui, nesse caso,
+833240	835000	também não quer dizer muito,
+835000	836600	porque é uma avariável binária,
+836600	836880	então,
+836880	838520	o ziu padrão zero ou um,
+839640	840760	é só basicamente,
+840760	843040	a média que vai trazer uma sua pra gente aqui,
+843520	844480	mas agora,
+844480	845520	para a peclés,
+845520	847460	olha que com a média a gente consegue também a mesma
+847460	848240	em relação,
+848600	850560	quando a gente tem a classe 1, 2 e 3,
+850560	852000	a maioria do pessoal,
+852000	853720	por uma média de estar em dois pontos de 22,
+853720	854960	quer dizer que a maioria do pessoal
+854960	856400	estava ali na terceira classe.
+856640	858600	E faz sentido, né, igual a classe colonômic,
+858600	859240	não é verão,
+859240	860240	a maioria do pessoal vai,
+860240	861400	vai na classe colonômic.
+862680	863360	Mas aqui,
+863360	864480	nos padrão também,
+864480	865440	de zero para o outro,
+865440	866520	83,
+866520	867800	é significa que,
+867800	869520	que também tinha bastante gente,
+869520	870360	na primeira classe,
+870360	870760	com a gente,
+870760	871040	olha aí,
+871040	872040	e depois no gráfico,
+872040	873520	vai ficar mais claro de entender.
+874240	876520	É, o mínimo aqui não não diz muito
+876520	878680	que é um máximo 3.
+879400	879840	E aqui,
+879840	880480	o nosso pode ver,
+880480	880880	naquele momento,
+880880	881840	que eu não ia falar uma variabinar,
+881840	883880	zero ou um através do mínimo do máximo.
+884200	884960	Agora, a idade,
+884960	885280	a idade,
+885280	886520	a gente vai conseguir analisar
+886520	889240	todas as linhas do describe.
+890000	890480	A idade,
+890480	891640	a gente tem o 165,
+891640	892360	então a gente viu que a gente tem
+892360	893360	algumas linhas soltando,
+893360	894880	mas não analisas que a gente tem.
+895280	897200	A média de idade é 29,
+897200	898160	ponto 45.
+898360	898960	Beleza?
+898960	899560	Padrão,
+899560	900800	ali próximo nos 30 anos,
+900800	902000	a média do pessoal de Tanik.
+902760	904640	É, mas o seu padrão é bem alto.
+904640	906080	O seu padrão de 14,
+906080	907360	e ponto 43 anos.
+907600	909360	E o que isso indica o seu padrão alto?
+909360	909680	Realmente,
+909680	910480	o aumento de alto.
+910800	912440	Que tinham pessoas de várias idades
+912440	913200	diferentes.
+913520	914240	Então,
+914240	916920	se o seu padrão fosse de um ou dois,
+917360	917600	ali,
+917600	918400	vamos dar um exemplo,
+918400	919440	significa que,
+919440	921080	grande maioria do pessoal
+921080	922960	estaria realmente próximo da média.
+923120	923400	Então,
+923400	924960	seria o grande parte do pessoal,
+924960	925920	estaria com 29,
+925920	926600	30,
+926600	927280	27,
+927280	928160	28 anos.
+928160	928400	Então,
+928400	929200	estaria um...
+929200	929680	um...
+929680	929840	um...
+929840	930000	um...
+930000	932840	confusitação de população muito concentrada,
+933200	934520	é próximo da média,
+934520	935320	do 29.
+935840	936240	Como isso,
+936240	936960	não é verdade.
+936960	937320	Então,
+937320	938240	o gente tem que a gente vai ver depois,
+938240	939440	e são muitos pessoas velhas,
+939440	941160	muito pessoas muito bebês,
+941160	941840	também.
+941840	942240	Então,
+942240	944880	eles viupadrão acaba sendo mais alto.
+946320	946880	O mínimo,
+946880	947080	então,
+947080	947760	uma pessoa mais jovem,
+947760	948560	igual a gente fala...
+948560	949680	E a gente vai arrever agora,
+949680	952160	tinha um bebê de 0,42.
+952560	952960	Então,
+952960	953360	pro lado,
+953360	954200	que fosse um bebê,
+954200	954320	não,
+954320	954560	ainda,
+954560	954800	a idade,
+954800	954920	e,
+954920	955280	de meses,
+956280	957320	25%,
+957320	958680	isso é o percentio.
+959080	961040	É o primeiro quartil da nossa mostra,
+961040	962400	e significa que,
+962400	964960	até 25% das pessoas,
+964960	966280	tinha um 20 anos.
+967240	968520	E vai ficar mais claro agora,
+968520	969960	quando a gente olha 50%.
+969960	971000	Os que o 80% é,
+971000	972280	o ponto que de vídeo,
+972280	973840	a nossa mostra em dois.
+973840	974640	Ou seja,
+974640	975840	50% das pessoas,
+975840	977240	sejam mais de 28 anos,
+977240	978280	e 50% das pessoas,
+978280	979520	que são menos 28 anos.
+980680	983920	O ponto de 75% é 38 anos,
+983920	984720	ou seja,
+985240	987320	até 75% das pessoas,
+987320	988480	se tinha 38 anos,
+988480	990400	e, de 35% das pessoas,
+990400	993120	tinha mais de 38 anos.
+993520	994000	E aí,
+994000	994720	já é fleite também,
+994720	995440	outros fatores,
+995440	996400	aquela época era...
+996560	999120	A idade mais da população era muito menor.
+999520	1001640	A expectativa de vida da população era menor,
+1001640	1002320	então,
+1002320	1003440	vai sentir também
+1003440	1005040	por tratar de uma viagem
+1005040	1006320	em transatlântica longa,
+1006320	1008160	que não fosse uma população
+1008160	1009680	com idade tão avançada.
+1009680	1010160	Por isso que a gente viu
+1010160	1011160	uma mediana ali muito
+1011160	1012000	para sua matrínita,
+1012000	1014120	uma população muito jovem assim, né?
+1014520	1015480	Hoje a gente vê
+1015480	1017200	o pessoal
+1017520	1019000	com o itentaneos costindo a vida,
+1019000	1019200	né?
+1019200	1020400	Viam, o mundo, tá?
+1023040	1024760	Então ali eram outros tempos.
+1025760	1027200	Mas de fato,
+1027200	1028640	tinha o pessoal de 80 anos,
+1028640	1029880	e agora falei no Titanic,
+1029880	1030240	tá?
+1031680	1032840	A era a pessoa mais velha,
+1032840	1033440	a gente tênia aqui.
+1034480	1035040	Se cibrem-se,
+1035040	1036080	a esperem tão a média
+1036080	1037240	de dizer a ponto de 52,
+1037240	1038040	a medida de...
+1039040	1039820	próxima entre
+1039820	1041120	não ter um filho,
+1041520	1042400	mas a gente vê o vídeo
+1042400	1043120	padrão muito alto,
+1043120	1043880	que a gente fica também
+1043880	1045520	em que tinham famídeas grandes.
+1047280	1048600	É, aqui eu falei
+1048600	1049960	na família se com até oito
+1049960	1050840	oito pessoas.
+1050840	1051600	Então, de uma família
+1051600	1052640	bem grande lá no Titanic,
+1052640	1053160	também.
+1053840	1054800	E agora o Ferro
+1054800	1056000	parte não vamos analisar
+1056000	1057040	a vô no analisar o Ferro.
+1057360	1057880	A média,
+1057880	1060480	o preço foi 29.27 dólares.
+1060800	1061960	Parece muito barato,
+1061960	1062120	né?
+1062120	1063400	Mas quando a gente bota em fação
+1063400	1064960	isso naquela época,
+1065280	1065920	eu gostaria que
+1065920	1067640	que viacê é um dos mil dólares de hoje,
+1067640	1068280	não sei.
+1068280	1070080	Mas de viacê é muito dinheiro
+1070080	1071160	é na época
+1071160	1072480	clé época 32.
+1073200	1073960	Um dos viupadrão
+1073960	1075440	porém bem a auto-peção,
+1075440	1076640	de viupadrão de 48.
+1077040	1078600	Por que que desveu padrão é alto?
+1078600	1080200	Por que provavelmente
+1080200	1081400	essa média
+1081400	1082440	ela tá sendo puxada
+1082440	1083440	pra cima
+1083440	1084440	por algum
+1084440	1085160	alguém que pagou
+1085160	1086040	uma passagem muito
+1086040	1086680	muito caro.
+1087400	1088040	Então,
+1088040	1088880	isso como a gente tem
+1088880	1090240	uma passagem muito muito caro
+1090240	1092800	e passar isso também bem baratas,
+1093200	1094240	o que vai acontecer?
+1094240	1095520	A média vai ficar
+1095520	1096680	ali no meio, né?
+1096680	1097240	Então, a gente vai
+1097240	1097800	todo mundo
+1097800	1099280	é metade do pessoal
+1099280	1100160	pagando mil
+1100160	1100760	e metade
+1100760	1101560	pagando
+1101800	1102680	50.
+1103280	1104360	A média vai estar
+1104360	1105320	na metade do caminho
+1105320	1106600	e a média vai estar ali no que
+1106600	1107280	a gente se encontre.
+1107280	1107920	Por favor,
+1107920	1109320	mesmo que ninguém
+1109320	1109520	tem pagado
+1109520	1110520	que a gente se encontre.
+1110520	1111280	Mas nesse caso
+1111280	1112680	o desviupadrão vai ser
+1112680	1113080	grande.
+1113080	1115320	Porque uma passagem vai pagar
+1115320	1116120	sem o trapaixa
+1116120	1116720	para pagar mil
+1116720	1118680	mas no fim a média vai ser
+1118680	1119880	a gente se encontre.
+1119880	1120320	É mais uma vez
+1120320	1121320	isso que aconteceu aqui.
+1121320	1122360	A gente vê
+1122360	1123320	25% das pessoas
+1123320	1124320	a gente tem
+1124320	1125320	menos 88,
+1125320	1126320	a gente viu que a gente tem
+1126320	1130320	algumas
+1130320	1131320	aostras erradas
+1131320	1133320	então em possível pagar
+1133320	1134320	uma passagem negativa
+1134320	1135320	de novo.
+1135320	1137920	É 25% das pessoas
+1137920	1138920	pagaram até
+1138920	1140480	7.85 dólares.
+1140480	1140920	Então,
+1140920	1142320	muito parato na imagem
+1142320	1143320	para pagar 7 dólares
+1143320	1143920	para viajar no
+1143920	1145320	trasatulântico.
+1145320	1146120	É
+1146120	1147320	e 50% das pessoas
+1147320	1147920	pagaram até
+1147920	1148920	3 dólares.
+1148920	1150000	Então, a média
+1150000	1150640	na gente pode ver
+1150640	1151640	estava muito distante
+1151640	1152320	da média.
+1152320	1153320	Isso ocorre
+1153320	1153920	em
+1153920	1154720	aostras
+1154720	1155320	que estão sendo
+1155320	1156120	muito puxadas
+1156120	1157000	por alguma
+1157000	1157520	que a gente chama
+1157520	1159320	de Aostra Láes, né?
+1159320	1159920	É
+1159920	1160400	em dia vai ver
+1160400	1161320	que é o exemplo.
+1161320	1163320	75%.
+1164320	1165520	Da
+1165520	1166920	das pessoas pagaram até
+1166920	1167720	3 dólares.
+1167720	1168120	Então, o que a gente
+1168120	1168920	avelma
+1168920	1170120	não
+1170120	1171120	um salto maior, né?
+1171120	1171320	Eles saem
+1171320	1172320	de 7 no
+1172320	1174120	no primeiro quartil, no
+1174120	1174520	peço
+1174520	1175520	em 25%.
+1175520	1176720	Então, eles saem de
+1176720	1178320	7 para 13.
+1178320	1178920	Então, metagens
+1178920	1179920	das pessoas pagaram até
+1179920	1180320	13.
+1180320	1180720	Metagens
+1180720	1181320	pagaram mais
+1181320	1182320	13.
+1182320	1184120	7.85%
+1184120	1185720	pagaram até 30.
+1185720	1187120	Mas
+1187120	1188120	teve uma pessoa
+1188120	1188720	que pagou
+1188720	1188920	que é
+1188920	1190920	em 200 dólares, né?
+1190920	1191720	Na época.
+1191720	1192720	Então,
+1192720	1193720	isso aqui, provavelmente,
+1193720	1194720	de ver se
+1194720	1195720	é uma cabine
+1195720	1196720	ou algo do tipo
+1196720	1197720	ou,
+1197720	1198720	enfim,
+1198720	1199720	pode ser algumas
+1199720	1200520	de se
+1200520	1201720	se
+1201720	1202720	se é capaz de
+1202720	1203720	apesar de
+1203720	1204720	apesar de
+1204720	1205720	se apesar de
+1205720	1206720	apesar de
+1206720	1207720	apesar de
+1207720	1208720	apesar de
+1208720	1210720	apesar de
+1210720	1211720	apesar de
+1211720	1213720	apesar de
+1213720	1215720	apesar de
+1215720	1216720	apesar de
+1216720	1219720	apesar de
+1219720	1221720	apesar de
+1221720	1222720	se criar o modelo pagino
+1222720	1223720	analisário, tentar
+1223720	1224720	prever uma...
+1224720	1225720	o que que leva
+1225720	1226720	uma pessoa sobre
+1226720	1227720	vê o não?
+1227720	1228720	De repente, um preço
+1228720	1229720	de passagem muito alto
+1229720	1230720	e a pessoa sobrevive
+1230720	1231720	vai parecer
+1231720	1232720	que a empresa
+1232720	1233720	da passagem influencia
+1233720	1234720	muito, mas, no caso,
+1234720	1235720	vai ser só uma monstro.
+1235720	1236720	Então, nesse caso,
+1236720	1237720	de repente,
+1237720	1238720	é melhor,
+1238720	1239720	sento que está creando
+1239720	1240720	generalizar bem,
+1240720	1241720	tenta tirar ela
+1241720	1242720	da...
+1242720	1243720	da monstro.
+1243720	1244720	E vale a pena entender,
+1244720	1245720	eu sei
+1245720	1246720	que, para tirar
+1246720	1247720	valores noos,
+1247720	1248720	para ver se o valor
+1248720	1249720	ter errado,
+1249720	1250720	a gente tem que de fato
+1250720	1251220	ali, a moto,
+1251220	1253320	a gente tem que
+1253320	1254220	ver se está fazendo sentido,
+1254220	1255220	mas, no caso,
+1255220	1257220	aqui, a gente vai considerar
+1257220	1259220	que está certo que a pessoa
+1259220	1260220	pagou quem é entre 12
+1260220	1261220	dólares.
+1261220	1262220	E aí, isso, né?
+1262220	1263220	O describe a gente pode ver
+1263220	1264220	quando a gente sabe
+1264220	1265220	interpreter.
+1265220	1266220	É uma ferramenta muito, muito
+1266220	1267220	valiosa.
+1267220	1268220	Tem muita informação aqui
+1268220	1270220	na tela, e uma, um
+1270220	1271220	simples comum, né?
+1271220	1272220	O tanto que coisa que a gente viu
+1272220	1273220	tiver que ter
+1273220	1274220	em valores faltando aqui
+1274220	1276220	em peclas, em age.
+1276220	1278220	A gente viu, que a distribuição
+1278220	1280220	a maioria das pessoas morreu.
+1280220	1281220	E a gente viu
+1281220	1282220	que tem um dos viupadrão
+1282220	1283220	grande das classes, então
+1283220	1284220	também tem muita gente
+1284220	1285220	na primeira,
+1285220	1286220	tive o camége da população
+1286220	1287220	a 29 anos.
+1287220	1289220	E até 60%
+1289220	1290220	das pessoas tinham 28 anos,
+1290220	1291220	mas tinham um pessoal
+1291220	1292220	mais velho também.
+1292220	1293220	A gente viu que tinha
+1293220	1294220	o família de até 8
+1294220	1295220	integrantes.
+1295220	1296220	A gente viu que tem
+1296220	1297220	erros na nossa
+1297220	1298220	nossa presa da passagem,
+1298220	1300220	que não tem passagem negativas
+1300220	1301220	que não deveriam ter.
+1301220	1302220	E a gente viu também
+1302220	1303220	que tem um pessoal que foi
+1303220	1304220	bem guarato no Titanic,
+1304220	1305220	a media,
+1305220	1306220	na Segunda Pistenda
+1306220	1307220	as pessoas pagou
+1307220	1308220	mais têm
+1308220	1310220	a moestras que
+1310220	1311220	bem caras de 1512
+1311220	1312220	por exemplo,
+1312220	1313220	puxando para cima.
+1313220	1315220	Então, muito forna,
+1315220	1318220	em pouco cógio e isso é
+1318220	1319220	interessante para a gente
+1319220	1320220	quando a gente sabe
+1320220	1322220	interpretar, é uma arma
+1322220	1323220	bem útil.
+1323220	1325220	E agora passando
+1325220	1326220	para a moestra,
+1326220	1327220	isso aqui sempre,
+1327220	1328220	é outra forma bem interessante
+1328220	1329220	da gente viu da passagem,
+1329220	1330220	porque eu que acontece.
+1330220	1332220	As vezes quando a gente pagou da passagem
+1332220	1333220	ele vai estar ali
+1333220	1335220	de acordo com o período de tempo.
+1335220	1336220	Então, pode ser que no período de tempo
+1336220	1337220	os dados de diversas incertos
+1337220	1338520	e a partir de
+1338520	1339220	jogos momentos para alguns
+1339220	1340220	em ventres,
+1340220	1341220	como isso não ficar errado.
+1341220	1342220	Se a gente olha
+1342220	1343220	por exemplo, só o rede
+1343220	1344220	ou o seu o Teio,
+1344220	1345220	o que é o acauda
+1345220	1346220	o da passagem,
+1346220	1347220	a gente vai estar deixando
+1347220	1349220	de olhar o que está no meio.
+1349220	1350220	Então, o bom caminho
+1350220	1351220	é usar o sample.
+1351220	1352220	Eu sempre,
+1352220	1353220	a gente pega
+1353220	1354220	uma moestra,
+1354220	1355220	aleatória,
+1355220	1356220	seleciona linhas,
+1356220	1357220	aleatórias do da passagem,
+1357220	1358220	então, talvez,
+1358220	1359220	que a gente executa,
+1359220	1360220	vão vir um minhas diferentes.
+1360220	1361220	Então,
+1361220	1362220	isso é bem legal
+1362220	1363220	para a gente
+1363220	1364220	por exemplo,
+1364220	1365220	da uma espensionada
+1365220	1366220	boa no data 6,
+1366220	1368220	sem precisar
+1368220	1369220	também digital muito coge.
+1369220	1370220	Então, você vai ficar ali
+1370220	1371220	passando pelo índice
+1371220	1373220	se enrolando no índice
+1373220	1374220	aqui é muito fácil,
+1374220	1375220	a gente consegue dar uma
+1375220	1376220	bom boa explorada.
+1382220	1383220	Então, beleza,
+1383220	1384220	uma coisa que a gente viu,
+1384220	1385220	primeiro é coisa
+1385220	1386220	a gente viu que o sexo
+1386220	1387220	não está atpado a organizado.
+1387220	1388220	Estão das coisas que a gente
+1388220	1389220	vai fazer.
+1389220	1390220	A idade,
+1390220	1391220	está em número
+1391220	1392220	que vamos ver,
+1392220	1394220	vamos botar para no meu entero.
+1394220	1395220	Outra coisa aqui no porto
+1395220	1396220	olha que legal,
+1396220	1397220	aqui no sépio,
+1397220	1398220	quando a gente viu ali,
+1398220	1399220	no começo,
+1399220	1400220	estava só sC.
+1400220	1401220	Agora, tem port s,
+1401220	1403220	pode ter port s,
+1403220	1404220	pode que,
+1404220	1405220	então, outra coisa,
+1405220	1406220	vai ter que padrão
+1406220	1407220	exatamente a chasor,
+1407220	1409220	ela aí,
+1409220	1410220	que a gente sabe que ela
+1410220	1411220	só um mês vem formação.
+1411220	1412220	Port s,
+1412220	1413220	e s, só uma vez,
+1413220	1414220	uma coisa.
+1414220	1416220	Vamos ter que preencher os valores no...
+1416220	1417220	Então, vamos lá.
+1417220	1419220	As duas coisas que a gente viu aqui
+1419220	1420220	de cara,
+1420220	1421220	na coluna f6,
+1421220	1422220	então,
+1422220	1423220	vou dar uma metade.
+1425220	1428220	Na coluna f6,
+1428220	1430220	a gente vai acessar ela.
+1430220	1432220	Então, a gente vai chamar o método STR,
+1432220	1434220	que é para converter a string.
+1434220	1436220	Isso é bom fazer,
+1436220	1437220	tipo,
+1437220	1438220	ela provavelmente é string,
+1438220	1439220	mas aqui a gente está garantindo
+1439220	1440220	porque, com STR,
+1440220	1441220	aqui a gente consegue acessar
+1441220	1443220	o método loure,
+1443220	1444220	que é o método que a gente aplica
+1444220	1445220	pra as strings,
+1445220	1447220	pra converter elas todas para o minúsco.
+1447220	1449220	E o que a gente faz?
+1449220	1452220	Ou seja, a gente não atribui.
+1452220	1454220	A gente vê,
+1454220	1455220	olha aqui,
+1455220	1456220	vem só o da F6,
+1456220	1457220	olha aqui tudo o minúsco,
+1457220	1460220	mas se eu voltar no da F,
+1460220	1462220	olha o que acontece.
+1463220	1465220	Ela não foi efetivada.
+1465220	1466220	Então, o que eu tenho que fazer?
+1466220	1468220	Eu tenho que falar aqui,
+1468220	1470220	isso que a gente fez é igual
+1470220	1473220	à operação que a gente já acabou de fazer.
+1473220	1474220	E é isso,
+1474220	1475220	em é,
+1475220	1476220	ela vai ser efetivada.
+1476220	1477220	Eu vou dar aqui embaixo.
+1477220	1478220	Eu vou dar aqui embaixo.
+1478220	1480220	Agora, assim,
+1480220	1481220	pronto,
+1481220	1482220	padronizando agora,
+1482220	1483220	munitinho.
+1483220	1485220	Outra coisa que a gente viu
+1485220	1487220	e aí vamos fazer a mesma lógica de atribuir
+1487220	1489220	o que a gente está criando
+1489220	1490220	é pro embarque,
+1490220	1492220	a gente viu que a gente tem que tirar o porte,
+1492220	1494220	a gente nunca é o porte.
+1494220	1495220	A gente quer só ler,
+1495220	1496220	ela já resolve para a gente.
+1496220	1498220	E muito interessante,
+1498220	1499220	depois do porte a gente tem o espaço.
+1499220	1500220	Se vocês,
+1500220	1501220	em é,
+1501220	1502220	muita atenção,
+1502220	1503220	então,
+1503220	1504220	esse passeinho aqui depois do port,
+1504220	1506220	a gente vai ter que tirar
+1506220	1508220	o que fique exatamente da mesma forma.
+1508220	1508720	Então,
+1508720	1510220	quando a gente está trabalhando com estrem,
+1510220	1512220	tem que ter muita muita atenção,
+1512220	1513220	porque é literal.
+1513220	1514220	Se ela tem espaço,
+1514220	1516220	tem que incluir o espaço.
+1516220	1517220	Então aqui,
+1517220	1519220	não é de outra tirar a sua oporte,
+1519220	1520220	porque ele vai deixar.
+1520220	1522220	E aí vai te dar mais trabalhando,
+1522220	1523220	porque você vai ficar,
+1523220	1525220	porque normal e com o que com espações,
+1525220	1528220	e aí pode demorar para até achar esse problema.
+1528220	1529220	Então aqui no caso,
+1529220	1532220	a gente tem que tirar o porte e o espaço.
+1532220	1533220	Então,
+1533220	1534220	muita atenção também,
+1534220	1535220	quando a gente for usar o replay
+1535220	1536220	isso para depois não ficar perdido,
+1536220	1537220	porque tem dois queies,
+1537220	1538220	porque tem dois esses,
+1538220	1540220	pode ser também o espaço.
+1540220	1541220	E aqui,
+1541220	1543220	no caso a gente vai substituir,
+1543220	1544220	por nada.
+1544220	1546220	Então, como a gente fala bem de ter algo,
+1546220	1548220	eu vou pegar substituir o porte e o espaço,
+1548220	1549220	por nada.
+1549220	1550220	E o que vai acontecer,
+1550220	1552220	ele vai tirar isso aqui,
+1552220	1555220	e vai ficar só o que exatamente o que a gente quer.
+1555220	1558220	E vou atribuir isso ao embarque,
+1558220	1559220	e também.
+1559220	1561220	Pronto,
+1561220	1562220	matando aqui já,
+1562220	1564220	os primeiros ajustes.
+1564220	1566220	Vamos ver como é que ficou.
+1566220	1569220	E aí eu vou dar um sempre o dinógrafo.
+1575220	1576220	Agora, assim,
+1576220	1578220	sex padrana de desado,
+1578220	1579220	e o porto também,
+1579220	1580220	setinho.
+1582220	1583220	Então, boa.
+1583220	1584220	Galórios nuos.
+1585220	1587220	Agora vai ser o nosso ponto 2.2.
+1588220	1589220	Qualquer alguma dúvida,
+1589220	1590220	pessoal tranquilo,
+1590220	1593220	nas manipulações que a gente fez aqui no começo,
+1593220	1594220	e aí,
+1594220	1595220	na análise de via carinho,
+1595220	1596220	sobre o colab,
+1596220	1597220	também.
+1598220	1599220	O que é dúvida também,
+1599220	1601220	só, só enviar no chat.
+1602220	1603220	Beleja,
+1603220	1605220	seguindo aqui, então, pessoal.
+1605220	1606220	Aqui o DF info,
+1606220	1608220	ele é uma meta do muito útil,
+1608220	1609220	para a gente também,
+1609220	1610220	é o similaro describe,
+1610220	1611220	muito informação,
+1611220	1612220	o copo córdico,
+1612220	1614220	aquele traz o número de linhas,
+1614220	1616220	do nosso data frame,
+1616220	1618220	do 0,107,
+1618220	1619220	a indecciação do pai,
+1619220	1620220	que começa no 0,
+1620220	1621220	12 colunas,
+1621220	1622220	igual a gente viu,
+1622220	1623220	982,
+1623220	1625220	era o que a gente botava o DF shape,
+1625220	1628220	e aqui ele traz todas as colunas,
+1628220	1630220	a quantidade de valores no lunes,
+1630220	1632220	justamente o que a gente viu no DF describe no calo,
+1632220	1634220	a gente consegue ver aqui também,
+1634220	1635220	só que aqui fica mais claro,
+1635220	1636220	então,
+1636220	1637220	a gente tem 9803,
+1637220	1638220	8805,
+1638220	1639220	875,
+1639220	1640220	cabinho,
+1640220	1642220	também tem vários valores no os,
+1642220	1643220	porque aqui a diferença é que
+1643220	1645220	não dá só os valores no mérito,
+1645220	1646220	igual a no describe,
+1646220	1647220	e aqui ele dá todos,
+1647220	1648220	que cabem, por exemplo,
+1648220	1650220	é um variado catagoric,
+1650220	1652220	então, quando a gente bota no describe,
+1652220	1654220	o describe ele não,
+1654220	1655220	não vai botar ela,
+1655220	1656220	porque ela não estringa,
+1656220	1658220	mas não tem um leitra,
+1658220	1659220	então,
+1659220	1660220	ela não é interna describe,
+1660220	1661220	porque o describe,
+1661220	1662220	é uma na estatística,
+1662220	1663220	que está analisando o mérito,
+1663220	1664220	então, no faz sentido,
+1664220	1666220	botar numa variado string,
+1666220	1667220	que uma coluna que tem,
+1667220	1668220	variado ficar até golpes,
+1668220	1670220	então, por isso aqui no info,
+1670220	1671220	ela aparece no describe,
+1671220	1672220	não,
+1672220	1673220	mas,
+1673220	1675220	então, a gente vai ter que tratar ela também,
+1675220	1677220	vamos decidir se a gente vai tratar ela,
+1677220	1678220	no caso,
+1678220	1680220	no burro e comendo a recomendação,
+1680220	1681220	com o passo,
+1681220	1683220	se não tiver pelo menos 60,
+1683220	1686220	50, 60% dos valores prendidos,
+1686220	1687220	pessoal,
+1687220	1689220	não é legal trabalhar com essa coluna,
+1689220	1690220	porque,
+1690220	1692220	e talvez fique de figiitender,
+1692220	1693220	mas, pata no princípio,
+1693220	1694220	quando a gente está,
+1694220	1695220	preenchendo o valor no,
+1695220	1697220	a gente está assumindo a uma coisa,
+1697220	1698220	então,
+1698220	1699220	se a gente preenchendo com a média,
+1699220	1700220	a gente vai assumir,
+1700220	1702220	que é aquela pessoa,
+1702220	1703220	full ano,
+1703220	1704220	que não tem a idade,
+1704220	1705220	ele vai ser a média,
+1705220	1706220	então,
+1706220	1707220	é um exemplo,
+1707220	1708220	e,
+1708220	1709220	isso,
+1709220	1710220	pode gerar a problema,
+1710220	1711220	mas também,
+1711220	1713220	que a gente pode criar passos maiores do que é a pena,
+1713220	1714220	então,
+1714220	1715220	imagínem,
+1715220	1716220	não com os vendidados,
+1716220	1717220	que a idade,
+1717220	1719220	para 50% das pessoas,
+1719220	1720220	a idade,
+1720220	1721220	para não tem a idade,
+1721220	1722220	para outra 50%,
+1722220	1724220	a gente vai ter um problema,
+1724220	1725220	que se,
+1725220	1726220	de repente,
+1726220	1727220	eu tiver o,
+1727220	1728220	as ar,
+1728220	1729220	o,
+1729220	1730220	o, a casa,
+1730220	1731220	pegar desse grupo,
+1731220	1732220	tem uma idade muito mais avançada,
+1732220	1733220	do que o grupo que eu estou nem agora,
+1733220	1734220	eu vou,
+1734220	1736220	eu vou estar estimando a idade muito errada,
+1736220	1737220	então,
+1737220	1738220	o ideal é que você tem pelo menos ali,
+1738220	1740220	você sempre está 70%
+1740220	1741220	que o pessoal trabalha,
+1741220	1742220	para preencher,
+1742220	1744220	para te promestrateja
+1744220	1745220	de preenximentos valores noço,
+1745220	1746220	então,
+1746220	1747220	quando a gente tem 250,
+1747220	1748220	são cabines,
+1748220	1750220	seria muita loucura,
+1750220	1751220	a gente está aí preenxendo,
+1751220	1752220	quais são as cabines
+1752220	1753220	das outras pessoas,
+1753220	1754220	com base,
+1754220	1755220	só em 250,
+1755220	1756220	restados, né?
+1756220	1757220	Então, nesse caso,
+1757220	1758220	é uma boa prática,
+1758220	1759220	né,
+1759220	1760220	tem 250,
+1760220	1761220	de 1998,
+1761220	1762220	não dá,
+1762220	1763220	nem 25,
+1763220	1766220	de 1998,
+1766220	1767220	então,
+1767220	1768220	não vale a pena.
+1768220	1771220	E aqui eu vou passar uma sequência
+1771220	1772220	em indímetro dos,
+1772220	1773220	né?
+1773220	1774220	Esse aqui outro,
+1774220	1775220	outro característico do Python,
+1775220	1777220	a gente pode aplicar
+1777220	1778220	método dos nices,
+1778220	1779220	a gente conheceu do outro,
+1779220	1781220	e o resultado vai ser aqui no final,
+1781220	1782220	então,
+1782220	1783220	que vamos seguir pela loja,
+1783220	1784220	primeiro a coisa,
+1784220	1786220	a gente vai aplicar,
+1786220	1787220	vamos estar aqui,
+1787220	1788220	a gente vai aplicar o escená,
+1788220	1790220	que é o método,
+1790220	1791220	e olha que,
+1791220	1792220	pode fazer,
+1792220	1794220	da mesma forma,
+1794220	1795220	vamos fazer no junho.
+1795220	1797220	Então aqui o def,
+1797220	1799220	e isso não é o que ele faz.
+1799220	1800220	Ele pega
+1800220	1802220	para todas as colunas,
+1802220	1804220	e faz o verdadeiro falso,
+1804220	1806220	se for verdadeiro,
+1806220	1807220	tem valor faltando.
+1807220	1808220	Então lembro,
+1808220	1809220	porque a gente tem,
+1809220	1810220	viu alguns valores faltando,
+1810220	1811220	aqui é o verdadeiro,
+1811220	1812220	se falso,
+1812220	1813220	está preenchido.
+1813220	1814220	Em seguida,
+1814220	1816220	a gente vai aplicar a média.
+1816220	1817220	O que é a média faz?
+1817220	1818220	Lembro que a gente viu,
+1818220	1819220	lá,
+1819220	1820220	que a gente vai usar o zero-1,
+1820220	1822220	ele faz a mesma coisa que o trofaz.
+1822220	1824220	Então aqui a gente consegue a proporção,
+1824220	1825220	de valor soltantes,
+1825220	1827220	para cada coluna.
+1827220	1828220	Muito simples,
+1828220	1829220	devem esnaminar,
+1829220	1831220	a gente consegue a proporção de valor soltantes,
+1831220	1834220	porque vai ser a quantidade de tru em relação ao total.
+1834220	1835220	É,
+1835220	1836220	e o próximo passo,
+1836220	1839220	a gente pode usar o sorte velhos,
+1839220	1841220	com a senhora de golfhouse,
+1841220	1843220	aqui basicamente para a motar do maior,
+1843220	1844220	para o menor,
+1844220	1845220	então,
+1845220	1846220	vamos ajudar um,
+1846220	1847220	são tibários,
+1847220	1848220	a senhora de golfhouse,
+1848220	1849220	para vindo o menor,
+1849220	1851220	e que eu vou deixar a bonitinha aqui,
+1851220	1853220	para o meu modo da homenómeno,
+1853220	1854220	da coluna, né?
+1854220	1855220	É,
+1855220	1857220	a legal aqui outra coisa também.
+1857220	1858220	Olha aqui,
+1858220	1860220	se a gente quiser fazer os nossos índices,
+1860220	1861220	né, se reparar,
+1861220	1862220	são as colunas,
+1862220	1864220	se a gente quiser,
+1864220	1866220	por lá elas,
+1866220	1869220	para ser em uma coluna,
+1869220	1870220	também, né?
+1870220	1871220	Tipo a coluna com um,
+1871220	1872220	vai ser tipo,
+1872220	1873220	coluna,
+1873220	1874220	o nome de cada uno,
+1874220	1876220	e a segunda coluna vai ser,
+1876220	1877220	a proposta,
+1877220	1878220	então olha aqui acontece,
+1878220	1880220	quando a gente volta
+1880220	1881220	em um resettinho,
+1881220	1882220	a gente joga para a direita,
+1882220	1883220	a gente pega o índice,
+1883220	1884220	que era Kevin,
+1884220	1885220	e a gente pecolosa,
+1885220	1886220	a gente já no para a direita,
+1886220	1887220	a gente cronvinha,
+1887220	1888220	fizeram um dos três,
+1888220	1889220	então,
+1889220	1890220	então bonitinha.
+1890220	1891220	E agora,
+1891220	1893220	a gente vai dar o remém,
+1893220	1895220	em colos,
+1895220	1896220	então,
+1896220	1898220	a gente vai renomir as colunas,
+1898220	1899220	aí,
+1899220	1900220	ao tamanho que o bichinho já tá ficando,
+1900220	1901220	agora,
+1901220	1905220	agora eu vou estar pra cá,
+1905220	1906220	falando igual,
+1906220	1908220	e aqui é o passar,
+1908220	1910220	como são dois elementos que eu quero passar,
+1910220	1912220	o primeiro vai ser a coluna,
+1912220	1914220	e o segundo vai ser a
+1914220	1916220	porcentagem nisso,
+1916220	1918220	eu vou passar em uma lista,
+1918220	1920220	lembra que a gente viu no primeiro modo,
+1920220	1922220	você tem que a gente quer passar a informação,
+1922220	1923220	que é mais de um valor,
+1923220	1924220	no pai,
+1924220	1925220	e que a gente usa nistas,
+1925220	1926220	o que a gente vai passar a coluna,
+1926220	1928220	porcentagem nisso,
+1928220	1930220	dentro do nosso rinem,
+1930220	1933220	o que a gente sabe vai dar o vivo,
+1933220	1935220	e o meio que que foto,
+1935220	1938220	listo,
+1938220	1939220	a gente não acha que ela tá,
+1939220	1941220	então,
+1941220	1942220	o pão é um dos igual,
+1942220	1944220	então,
+1944220	1945220	então,
+1945220	1946220	eu vou passar a verdade com o pão,
+1946220	1959220	e vou renomir a 1 por 1,
+1960220	1962220	porque aquele pédio,
+1962220	1963220	nesse caso,
+1963220	1964220	quando a gente tá pequeno,
+1964220	1965220	não tem que aplicar no púruno,
+1965220	1966220	então,
+1966220	1968220	eu vou aplicar um diçonário,
+1968220	1969220	do que a gente quer o antigo,
+1969220	1971220	do zero,
+1971220	1972220	o púruno,
+1972220	1973220	então,
+1973220	1974220	aqui a gente vai botar,
+1974220	1976220	você entar a gimícima,
+1976220	1978220	é isso que tava quiser,
+1978220	1980220	contrário,
+1980220	1982220	o zero colunho,
+1982220	1983220	e o 1,
+1983220	1985220	porcentagem nisso,
+1985220	1987220	o zero é o antigo,
+1987220	1988220	e o mísse,
+1989220	1991220	o pão é o antigo,
+1991220	1992220	o pão é o pão,
+1992220	1993220	então aqui,
+1993220	1994220	aqui,
+1994220	1996220	quando a gente vai lá,
+1996220	1997220	a verdade,
+1997220	1998220	então,
+1998220	2000220	pão,
+2000220	2001220	agora,
+2001220	2005220	quando a gente aplicar,
+2005220	2008220	ele vai renomir a,
+2008220	2010220	aqui,
+2010220	2013220	e o legal do funcionário que a gente pode passar,
+2013220	2014220	outro aqui dentro,
+2014220	2015220	então a gente pode botar,
+2015220	2016220	index,
+2017220	2018220	é,
+2018220	2019220	por lo,
+2019220	2020220	e tá,
+2020220	2022220	o trocanômico por nome,
+2022220	2023220	não,
+2023220	2024220	por opção,
+2024220	2025220	aqui nesse caso,
+2025220	2026220	não é possão,
+2026220	2028220	que quando a gente passa do dev.com,
+2028220	2029220	aí é possão,
+2029220	2030220	mas aqui,
+2030220	2031220	o game,
+2031220	2032220	qual é o que é o,
+2032220	2033220	a polícia que ele quer ter errado,
+2033220	2035220	a gente tem que passar no seu narro,
+2035220	2037220	então a gente passou o zero,
+2037220	2038220	o zero,
+2038220	2039220	o pão é o pão,
+2039220	2040220	e o indigo é que se virou colunho,
+2040220	2041220	então,
+2041220	2042220	de parana,
+2042220	2043220	então,
+2043220	2044220	o depara,
+2044220	2045220	e agora,
+2045220	2046220	a gente precisa,
+2046220	2047220	no final,
+2047220	2049220	é o outro métodozinho,
+2049220	2050220	bem fácil,
+2050220	2051220	para a gente filtrar,
+2051220	2053220	então a gente pode filtrar de várias formas,
+2053220	2055220	mas o mais fácil,
+2055220	2057220	talvez seja dentro dele mesmo,
+2057220	2058220	o cuéreo,
+2058220	2060220	a gente passa para metrocóreo,
+2060220	2062220	a gente pode chamar,
+2062220	2063220	por exemplo,
+2063220	2065220	por centagem míssim,
+2065220	2066220	se aqui,
+2066220	2067220	a gente tem,
+2067220	2068220	a gente tem,
+2068220	2069220	a gente tem a gente,
+2069220	2070220	mas,
+2070220	2071220	ela,
+2071220	2072220	é,
+2072220	2073220	ela,
+2073220	2074220	a parinha,
+2074220	2075220	então,
+2075220	2077220	que a gente consegue vira,
+2077220	2078220	no pão das vidas,
+2078220	2079220	mas,
+2079220	2081220	é,
+2081220	2082220	é,
+2082220	2084220	que é uma outra linguagem de bankitados,
+2084220	2086220	que consegue acestar o nome da coluna,
+2086220	2087220	e fazer,
+2087220	2088220	a nossa secoéreo,
+2088220	2089220	então,
+2089220	2090220	que eu tinha fechado,
+2090220	2091220	que é,
+2091220	2092220	por centagem míssim,
+2092220	2093220	por exemplo,
+2093220	2094220	então,
+2094220	2095220	por exemplo,
+2095220	2096220	chengada,
+2096220	2097220	alta,
+2097220	2098220	é,
+2098220	2099220	porque nesse caso aqui,
+2099220	2101220	ela tem que ser realmente,
+2101220	2102220	é,
+2102220	2103220	que não está trabalhando com as
+2103220	2105220	que ela tem que deixar os gultas,
+2109220	2111220	você tá agimíssimo,
+2111220	2112220	ah, tá,
+2112220	2114220	não era isso,
+2114220	2116220	é porque,
+2116220	2117220	aqui,
+2117220	2118220	a gente,
+2118220	2120220	está agimíssimo,
+2120220	2123220	o primeiro nome,
+2123220	2125220	eu acho que eu estou um,
+2125220	2126220	é,
+2126220	2127220	aqui,
+2127220	2128220	a,
+2128220	2129220	bom,
+2129220	2130220	é,
+2130220	2131220	vai,
+2131220	2132220	é,
+2132220	2133220	bom,
+2133220	2134220	sete,
+2134220	2135220	agora aqui,
+2135220	2137220	a gente tem,
+2137220	2139220	e aqui,
+2139220	2140220	a gente pode a gente tá, né,
+2140220	2141220	porque a gente não é porque
+2141220	2142220	se eu quero pegar,
+2142220	2143220	a gente também,
+2143220	2144220	que a gente falou,
+2144220	2145220	é, que a gente vai,
+2145220	2146220	a um códigozinho para pegar as maiores,
+2146220	2147220	do que,
+2147220	2148220	zero ponto,
+2148220	2149220	dois,
+2149220	2150220	na 20%
+2150220	2151220	então,
+2151220	2152220	vou estar na grão,
+2152220	2153220	todo isso,
+2153220	2154220	e ele já fala,
+2154220	2155220	e aqui,
+2155220	2156220	interessante,
+2156220	2157220	olha,
+2157220	2158220	isso aqui não está a treilada,
+2158220	2159220	não queria,
+2159220	2160220	nem um objeto,
+2160220	2161220	depois de método,
+2161220	2162220	depois de método,
+2162220	2163220	depois de método,
+2163220	2164220	o final de deu rename,
+2164220	2165220	aqui o colo,
+2165220	2166220	a gente passou um funcionário,
+2166220	2167220	com de par, né,
+2167220	2168220	e depois,
+2168220	2169220	no final,
+2169220	2170220	a gente chamou o último método,
+2170220	2171220	o coelho,
+2171220	2172220	para dar uma filtrada,
+2172220	2173220	com base em um nome da colo,
+2173220	2174220	a gente fez várias,
+2174220	2175220	várias operações,
+2175220	2177220	mas a gente não queria nada,
+2177220	2178220	então,
+2178220	2179220	se eu quiser,
+2179220	2180220	se eu guardar e sei que eu vou dar,
+2180220	2181220	aí,
+2181220	2183220	eu teria que atribuir,
+2183220	2184220	então,
+2184220	2185220	botar um,
+2185220	2186220	porcentário,
+2186220	2187220	me,
+2187220	2189220	por exemplo,
+2190220	2191220	e a trebuy aqui,
+2191220	2192220	e aí,
+2192220	2193220	ele fica guardada para sempre,
+2193220	2194220	você quer um,
+2194220	2195220	uma um,
+2195220	2196220	bata frame, né,
+2196220	2197220	não beada frame,
+2197220	2198220	pequenininho,
+2198220	2199220	de duas linhas,
+2199220	2200220	duas colonas,
+2200220	2201220	mas a nota frame,
+2201220	2202220	a gente queria,
+2202220	2203220	fazendo várias métas,
+2203220	2205220	no nosso data frame original,
+2205220	2207220	mas isso,
+2207220	2209220	o que foi mais para mostrar,
+2209220	2210220	como que a gente pode fazer,
+2210220	2212220	várias operações na sequência,
+2212220	2214220	e o que eu falei,
+2214220	2215220	vamos remolver a colo,
+2215220	2216220	de que é,
+2216220	2217220	justamente,
+2217220	2219220	a gente se enfairir para setempteis,
+2219220	2220220	de setempteis por cento,
+2220220	2221220	de cento,
+2221220	2222220	de cento,
+2222220	2223220	de cento,
+2223220	2224220	de nossa mostrando.
+2224220	2225220	Então,
+2225220	2226220	como a gente pode fazer isso,
+2226220	2227220	é o método,
+2227220	2229220	é,
+2229220	2231220	de fazer de duas colas,
+2231220	2233220	novamente,
+2233220	2235220	indo na tribuição,
+2235220	2237220	a gente pode fazer,
+2237220	2240220	olha aqui,
+2240220	2241220	vamos criar um bf drop,
+2241220	2242220	no pôr,
+2242220	2244220	a gente vai passar a lista, né,
+2244220	2245220	aqui,
+2245220	2246220	o que gera um data frame igual
+2246220	2247220	que eu tenho,
+2247220	2248220	sem querem,
+2248220	2249220	só que eu que acontece,
+2249220	2251220	aqui não está associado a nada,
+2251220	2253220	para eu enfaite igual,
+2253220	2254220	pelação,
+2254220	2255220	eu tenho que me equinar
+2255220	2256220	a f, igual,
+2256220	2257220	da f drop,
+2257220	2259220	sem colos,
+2259220	2260220	e aí,
+2260220	2261220	sim,
+2261220	2263220	por enquanto eu não fiz isso,
+2263220	2264220	que é,
+2264220	2266220	ainda vai estar aqui,
+2266220	2268220	outra forma,
+2268220	2269220	deu fazer isso,
+2269220	2271220	e evitar ter que fazer o,
+2271220	2272220	da f,
+2272220	2273220	igual,
+2273220	2275220	eu prefiro porque geralmente
+2275220	2276220	seja estar escrevendo
+2276220	2277220	dentro do código,
+2277220	2278220	seta let,
+2278220	2279220	com o drop,
+2279220	2280220	pontos,
+2280220	2281220	igual,
+2281220	2282220	vai retirar que é bem,
+2282220	2286220	e depois,
+2286220	2288220	essa volta viga,
+2288220	2289220	em place,
+2289220	2290220	igual a tru,
+2290220	2291220	e isso é f,
+2291220	2292220	ao pressão,
+2292220	2293220	então,
+2293220	2295220	aqui deu para ver que,
+2295220	2296220	aqui,
+2296220	2298220	que vou com dois,
+2298220	2299220	pontos,
+2299220	2300220	agora deu certo,
+2300220	2301220	então,
+2301220	2302220	isso,
+2302220	2303220	aqui a gente é feitível,
+2303220	2304220	da mesma forma,
+2304220	2305220	do que,
+2305220	2306220	lá, sem,
+2306220	2307220	evita,
+2307220	2309220	né, você tem que fazer a tribuição
+2309220	2310220	ao da f, de novo,
+2310220	2311220	e aí agora,
+2311220	2312220	sem,
+2312220	2313220	sem,
+2313220	2316220	sem,
+2316220	2317220	sem,
+2317220	2319220	que não vale a pena,
+2319220	2322220	então,
+2322220	2323220	agora,
+2323220	2324220	não,
+2324220	2325220	que a gente vai fazer,
+2325220	2326220	que,
+2326220	2327220	f,
+2327220	2328220	e aí,
+2328220	2329220	contagem,
+2329220	2330220	tem dois,
+2330220	2331220	e dois,
+2331220	2332220	e três,
+2332220	2335220	e o que que vocês poderiam pensar?
+2335220	2336220	E aí, minha ajuda,
+2336220	2337220	pessoal,
+2337220	2338220	qual que seria uma boa estratégia para
+2338220	2339220	a gente preencher,
+2339220	2342220	a idade das pessoas que a gente não tem,
+2342220	2343220	é,
+2343220	2345220	com base nos dados que a gente já viu,
+2345220	2346220	né,
+2346220	2347220	no nosso data frame aqui.
+2352220	2353220	Espanhol,
+2353220	2354220	eu queria pensar,
+2354220	2355220	assim,
+2355220	2356220	não tem idade,
+2356220	2357220	mas assim,
+2357220	2358220	hora,
+2358220	2359220	misconstances,
+2361220	2362220	a gente poderia pensar,
+2362220	2364220	alguma estratégia para preencher aqui,
+2364220	2365220	né,
+2365220	2366220	não é?
+2366220	2367220	Bom,
+2367220	2368220	que seria uma estratégia,
+2368220	2369220	a gente poderia pensar,
+2369220	2370220	está,
+2370220	2371220	está bem avançadas,
+2371220	2372220	eu já vi,
+2372220	2373220	isso aqui eu falo porque,
+2373220	2375220	esse data saía muito usado.
+2375220	2376220	É,
+2376220	2377220	mas,
+2377220	2379220	o estratégia bem básico,
+2379220	2380220	seria usar a média.
+2380220	2381220	Então,
+2381220	2382220	sem,
+2382220	2383220	não tem a idade das pessoas,
+2383220	2384220	mas,
+2385220	2386220	na vida real,
+2386220	2387220	então,
+2387220	2388220	é um risco que a gente está correndo.
+2388220	2390220	Vamos olhar a gente tem diferença,
+2390220	2391220	mas,
+2391220	2392220	outro fato que é importante,
+2392220	2393220	a gente tem colar as são
+2393220	2394220	algumas características,
+2394220	2395220	ela cala pesando muito para mim,
+2395220	2396220	todo o repens,
+2396220	2397220	por uma,
+2397220	2398220	uma casa,
+2398220	2399220	muito tênia,
+2399220	2400220	que todo mundo era,
+2400220	2401220	os homens eram,
+2401220	2402220	os jovens,
+2402220	2403220	os mulheres eram velhas.
+2403220	2404220	Então,
+2404220	2405220	de repente,
+2405220	2406220	se eu fosse preencher para a senhora,
+2406220	2407220	de com,
+2407220	2408220	com 30 anos,
+2408220	2409220	estaria bem errado.
+2409220	2410220	Mas então,
+2410220	2411220	que a gente vai ter,
+2411220	2412220	para ver se tem diferença entre algum,
+2412220	2413220	algum fator,
+2413220	2414220	ele leva a ter diferença entre a idade.
+2414220	2415220	Então,
+2415220	2416220	que é um dos séxos quando a gente
+2416220	2417220	a grupo pelo sexo,
+2417220	2420220	a gente vai pegar a colonidade,
+2420220	2421220	e vai,
+2421220	2423220	a gregar para pegar a média.
+2423220	2424220	Então, aqui a gente está,
+2424220	2426220	a gente quer na média da idade,
+2426220	2427220	o sexo.
+2427220	2428220	E aqui,
+2428220	2429220	28 anos,
+2429220	2430220	para a mulher,
+2430220	2431220	30 promenas,
+2431220	2432220	muito parecido.
+2432220	2433220	Agora,
+2433220	2434220	vamos olhar a,
+2434220	2435220	pelo local,
+2435220	2436220	que elas,
+2436220	2437220	em barcaro,
+2437220	2438220	no porto,
+2438220	2439220	o repens,
+2439220	2440220	de espalho,
+2440220	2442220	no fronte,
+2442220	2444220	a gente só muda ali o sexo pelo embarque,
+2444220	2445220	né?
+2445220	2446220	Também,
+2446220	2447220	muito parecido,
+2447220	2448220	né?
+2448220	2449220	27,
+2449220	2450220	para 29,
+2450220	2451220	bem parecido,
+2451220	2452220	então,
+2452220	2454220	desvupadrão muito baixo.
+2454220	2456220	E,
+2456220	2457220	de repente, pelo,
+2457220	2458220	classe,
+2458220	2459220	da pessoa,
+2459220	2461220	isso acho que vocês acham mais sentido.
+2461220	2462220	Pelo esperê-se,
+2462220	2464220	quando vocês vão na primeira classe,
+2464220	2465220	lá do avião,
+2465220	2466220	e algo,
+2466220	2467220	vocês são que já viam pela primeira classe,
+2467220	2468220	né?
+2468220	2469220	Eu viam uma vez,
+2469220	2470220	quando eu fui para a Argentina,
+2470220	2471220	tinha a primeira classe,
+2471220	2472220	bem avançada,
+2472220	2473220	assim,
+2473220	2474220	com mais de 70 anos,
+2474220	2475220	hoje eu viam pessoal,
+2475220	2476220	para o costinavida,
+2476220	2477220	já, já trabalhou muito,
+2477220	2478220	para chegar ali,
+2478220	2479220	então,
+2479220	2480220	faz sentido,
+2480220	2481220	com esse pessoal,
+2481220	2482220	faz sentido,
+2482220	2483220	a gente usava,
+2483220	2484220	por exemplo, aqui,
+2484220	2485220	pela classe.
+2485220	2486220	E,
+2486220	2487220	essa, assim, é uma boa estratégia,
+2487220	2488220	porque,
+2488220	2489220	olha aqui,
+2489220	2491220	quando a gente volta pela média,
+2491220	2492220	exatamente,
+2492220	2493220	que eu falei,
+2493220	2494220	no Titanic,
+2494220	2495220	em 1995,
+2495220	2496220	era já,
+2496220	2497220	já era dessa forma aqui, né?
+2497220	2498220	O pessoal da primeira classe,
+2498220	2500220	era quem trabalhou mais para chegar ali,
+2500220	2501220	era a classe,
+2501220	2502220	extremamente chome.
+2502220	2503220	Então,
+2503220	2504220	24 anos,
+2504220	2505220	pessoal,
+2505220	2506220	o pessoal da terceira classe,
+2506220	2508220	era aqui muito,
+2508220	2509220	muito também,
+2509220	2510220	do primeiro a classe,
+2510220	2511220	era pessoal estava em
+2511220	2512220	fazer turismo,
+2512220	2513220	na gosto,
+2513220	2514220	na maior,
+2514220	2516220	então, o pessoal que estava ali,
+2516220	2517220	na terceira classe,
+2517220	2518220	estava em para,
+2518220	2519220	de mudar,
+2519220	2520220	para cima da mesma,
+2520220	2521220	então,
+2521220	2523220	com a cara e coragem na vida,
+2523220	2524220	muita gente iria estar no
+2524220	2525220	terceira classe,
+2525220	2526220	em condições bem precárias,
+2526220	2527220	então,
+2527220	2529220	o que acontece é,
+2529220	2530220	a classe,
+2530220	2531220	a classe,
+2531220	2532220	a classe é nova,
+2532220	2533220	é muito melhor para
+2533220	2534220	preencher,
+2534220	2535220	quando a gente agrupou pela classe,
+2535220	2537220	a classe é muito melhor para preencher
+2537220	2538220	a média da idade,
+2538220	2540220	do que eu tentar botar a média geral,
+2540220	2541220	que seria,
+2541220	2542220	acho que a gente viu que é
+2542220	2543220	trinta, né?
+2543220	2544220	do que,
+2544220	2545220	ou, por exemplo,
+2545220	2546220	escolhi pelo porto,
+2546220	2547220	pela idade,
+2547220	2548220	então aqui,
+2548220	2549220	nós, caso, por exemplo,
+2549220	2550220	aqui da senhora,
+2550220	2551220	a classe,
+2551220	2552220	que a gente fala,
+2552220	2553220	o uso,
+2553220	2554220	o com exemplo,
+2554220	2555220	tá, tá, a terceira classe,
+2555220	2557220	também,
+2557220	2558220	provável que ela seja,
+2558220	2559220	ou que ela é,
+2559220	2561220	também, o vazio pochasse,
+2561220	2562220	também,
+2562220	2563220	mesmo coisa bem provável,
+2563220	2564220	não tem a idade,
+2564220	2565220	mesmo bem provável que seja
+2565220	2566220	de jovem,
+2566220	2567220	e, por assim,
+2567220	2568220	assim,
+2568220	2569220	por assim,
+2569220	2570220	a gente tá fazendo
+2570220	2571220	previsões,
+2571220	2573220	mas precisam, né?
+2573220	2575220	Quero a gente tá preenchendo
+2575220	2576220	os valores nos,
+2576220	2577220	e também,
+2577220	2578220	a gente poderia usar
+2578220	2579220	as variáveis
+2579220	2581220	em condições também, né?
+2581220	2582220	Ah, dependendo a primeira,
+2582220	2583220	da classe,
+2583220	2584220	do porto,
+2584220	2585220	e também do sexo,
+2585220	2586220	sim,
+2586220	2587220	mas aí,
+2587220	2589220	se chega também num problema aqui,
+2589220	2590220	se tem que ver se você tem a
+2590220	2591220	a mostra,
+2591220	2592220	se eu ficiens,
+2592220	2593220	pra preencher,
+2593220	2594220	que não é repente,
+2594220	2596220	é, tem uma pessoa
+2596220	2597220	que entra no aquele porto
+2597220	2599220	da primeira classe,
+2599220	2600220	que é velho,
+2600220	2602220	mas dependendo naquele,
+2602220	2603220	na tendência,
+2603220	2604220	elas pessoas não,
+2604220	2605220	mas como só tem uma mostra,
+2605220	2606220	de repente não dá pra ver.
+2606220	2608220	Então, você pode agropar nesse nível,
+2608220	2609220	mas você também tem que ver
+2609220	2611220	se o grupo que você tá pegando,
+2611220	2612220	tem gente,
+2612220	2613220	isso ficiens,
+2613220	2615220	pra gerar ali uma mostra de confiança.
+2616220	2618220	E outra coisa também,
+2618220	2619220	em busca de quando o pessoal
+2619220	2620220	usa,
+2620220	2621220	eu ser no meu lugar,
+2621220	2623220	um dos pessoas que usam
+2623220	2624220	para fazer
+2624220	2625220	a cidade da sética,
+2625220	2626220	já vi,
+2626220	2628220	ela usa o título da pessoa.
+2628220	2629220	Então,
+2629220	2630220	se a gente for ver aqui,
+2630220	2632220	tem mister,
+2632220	2633220	mister,
+2633220	2634220	mister,
+2634220	2635220	mister,
+2635220	2636220	no Estados Unidos,
+2636220	2638220	a mulher que não casou,
+2638220	2640220	um pouco,
+2640220	2641220	tem um mister,
+2641220	2642220	também,
+2642220	2643220	não, não,
+2643220	2644220	não,
+2644220	2645220	e tem o MES,
+2645220	2646220	e com a MES.
+2646220	2647220	Então,
+2647220	2648220	se tem que pegar aqui,
+2648220	2649220	pegar a mostra maior,
+2649220	2651220	a gente viu outros cheatros.
+2651220	2652220	Então aqui,
+2652220	2653220	o mister,
+2653220	2655220	e o com o Roneu,
+2655220	2657220	tem gente que era militar,
+2657220	2658220	mister,
+2658220	2659220	mister,
+2659220	2660220	mister e mister,
+2660220	2661220	Mister,
+2661220	2662220	também,
+2662220	2664220	mister,
+2664220	2666220	o com o MES,
+2666220	2667220	e o MES,
+2667220	2669220	e o Mises,
+2669220	2670220	acho né?
+2670220	2672220	É mais velha.
+2672220	2676920	Eu acho que é mais velho. O é casada, é casada.
+2676920	2679420	MMA Reyes é quem casou.
+2679420	2683300	Quem casou. E ou menos, homem é todo mundo da mí, MMA,
+2683300	2687220	e mulher é solter, olha o que vamos me isso faz sentido.
+2687220	2691520	Se eu pegar aqui pelo texto, quem é MMA Reyes, 39 anos,
+2691520	2694220	tinha a dobra, assim, olha aqui, MMA.
+2694220	2697520	E aqui há de cima, ela tinha dezenove, porque ela era mez, então,
+2697520	2699920	eu não tinha casada ainda, tinha dezenove, olha só.
+2699920	2702880	Em 100 vezes, a maioria das miss faz sentido.
+2702880	2704120	São as jovens.
+2704120	2706320	A miss é que é o MMA.
+2707720	2711580	A miss, 14 anos, então, por causa de casar 14 anos, nem na lei,
+2711580	2712920	nem meu acessinho, acho.
+2714420	2716920	E no geral é isso, então, dá para você usar.
+2716920	2719520	E aí, é muito uma mansana de sequer, que era uma estratégia.
+2719520	2722720	Veu que você tem disponível para criar o melhor possível.
+2722720	2727720	E você pegar o pelo tido, você já tá pegar o processo,
+2727720	2730720	por exemplo, porque esse pegado homem é a místia,
+2730720	2732720	mulher não, mulher não, tem algumas clascações.
+2732720	2737720	E aí tem algumas outras clascações, por exemplo, tem alguns religiosos,
+2737720	2740720	por exemplo, bicho, então fica lá bicho, porque,
+2740720	2743720	por geral, em julgar pra fazer bicho, foi bem mais velho, então,
+2743720	2746720	você consegue coronel, eu tô meio cara pra chegar no seu coronel,
+2746720	2750720	não é um... não é uma hora aí da vida aqui, ó, se é tando, então,
+2750720	2756720	você consegue por algumas características saber a alguns inferências
+2756720	2758720	para apencher os valores nudos.
+2760720	2764720	Então, beleza, aqui a gente vai usar o...
+2766720	2768720	Vamos ver aqui, e o que a gente pode fazer?
+2768720	2772720	A gente pode pegar aqui, pessoal, da primeira classe,
+2772720	2775720	vamos usar o mistratagem para pegar o defe.log,
+2775720	2778720	da primeira classe, então, vamos pegar aqui na primeira,
+2778720	2781720	a ideia da primeira, a idade e a média,
+2781720	2783720	gente vai ver aqui, a gente consegue pegar,
+2783720	2786720	é vai dar o 38, né, que a gente viu que a média
+2786720	2788720	do pessoal da primeira classe não liga nisso, e ali,
+2788720	2793720	os outros, né, aqui, pra terceira, 28, 24 anos.
+2793720	2797720	Então, aqui a amazena, essas três, e o que a gente faz,
+2797720	2801720	a gente vai dar o novamente o BF-log, a gente vai pegar as linhas,
+2801720	2806720	que vai que a idade é nula, e a primeira classe,
+2806720	2810720	então, vamos pegar os são duas coisas, a idade tem que ser nulo,
+2810720	2812720	e a classe tem que ser nulo.
+2812720	2815720	E depois, a gente vai na coluna e isso,
+2815720	2820720	dentro da coluna e isso, a gente vai fazer a tribuia e idade,
+2820720	2824720	então, vamos botar aqui, a média, vai ser justamente isso,
+2824720	2829720	a amazena, a idade 2 vai ser a amazena daqui,
+2829720	2834720	e a idade 3, a gente vai chamar a anua que a gente vai preencher aqui.
+2834720	2837720	Então, depois, esse jeito, a gente vai conseguir preencher os valores nulo.
+2838720	2842720	Vamos ver, que acontece, 23,
+2842720	2846720	então a gente tinha, se am ago, 300, quase 300,
+2846720	2853720	agora a gente baixou pra 23, porque tem 23, porque tem pessoas que também não têm a classe,
+2853720	2856720	então, a pessoa tem a idade e não tem a classe também,
+2856720	2859720	e, para isso, que a gente vai fazer, cara,
+2859720	2861720	exatamente se você falou, então, a gente tem que ver,
+2861720	2863720	então, a gente tem informações por níveis, né?
+2863720	2868720	Então, o que carate que eu vou ter a idade o porto e tudo da pessoa, né?
+2868720	2871720	Não tem, nesse caso, então, a gente tem pessoas que a gente tem só,
+2871720	2873720	a gente não tem a idade, não tem a classe também.
+2873720	2875720	E o que a gente pode fazer para as pessoas, cara,
+2875720	2878720	a gente chegou a nosso limite, a gente não consegue inferir,
+2878720	2881720	a idade poderia fazer o que está até, de ver pelo nome da pessoa,
+2881720	2884720	e agora a gente falou que, nesse caso, a gente vai usar a média,
+2884720	2886720	que, por exemplo, a gente geral também na média,
+2886720	2890720	é um bom nunca vai ser também a pior,
+2890720	2892720	a inferência do mundo, né?
+2892720	2894720	No sentido de, eu falo que é melhor usar a média,
+2894720	2896720	que você chegar aí, não,
+2896720	2899720	gostei que o nome dela, estou sentindo 42, não.
+2899720	2904720	Então, é melhor usar a média, porque o número, o número da...
+2904720	2907720	O Bruno, tem uma dúvida,
+2907720	2912720	eu estou pensando aqui, tem alguns momentos,
+2912720	2916720	que vale a pena você, por exemplo, a idade,
+2916720	2918720	não é que eles que falem,
+2918720	2922720	vale a pena excluir aquelas inas faltantes
+2922720	2924720	para uma análise só de idade,
+2924720	2927720	e por isso, às vezes surgem alguns trabalhos,
+2927720	2929720	tipo, até preenchecem,
+2929720	2931720	não tem muitas alternativas,
+2931720	2933720	excluir aquelas inas, aí nesse caso,
+2933720	2935720	para fazer análises somente da idade,
+2935720	2937720	isso vale a pena alguns momentos.
+2937720	2939720	Tá vale, você, entesa,
+2939720	2942720	principalmente, para você tem uma noção,
+2942720	2945720	dá distribuição na idade, mas eu não sei se eu entei de apelhante,
+2945720	2947720	mas, no sentido de que,
+2947720	2949720	se eu não ter a idade, eu vou tirar fora.
+2949720	2954720	É, tipo, e só que aí se acaba perdendo os outros dados,
+2954720	2956720	se tirar fora.
+2956720	2959720	Por isso que eu pensei,
+2959720	2962720	em uma análise que você for fazer somente da idade,
+2962720	2966720	você separa um dataframe das idades e joga fora
+2966720	2968720	às que estão tão mulas, né?
+2968720	2970720	O que eles são para mim, também.
+2970720	2973720	Então, você quer analisar com a idade,
+2973720	2975720	e você não tem tudo, mas, né?
+2975720	2977720	É, é, acaba sendo,
+2977720	2979720	o ideal que nem se fala os forstas são,
+2979720	2981720	porque não foi muito limite de deixar
+2981720	2983720	de muitos valores soltando,
+2983720	2985720	até 20% de preenche,
+2985720	2987720	porque usando uma estratégia de preenchimento,
+2987720	2988720	igual a gente viu aqui,
+2988720	2989720	porque justamente porque,
+2989720	2991720	por, por esse outro fato,
+2991720	2994720	você falou que é aproveitado outras gariáveis.
+2994720	2996720	Então, quando você, ter não ter a idade,
+2996720	2998720	tem o por exemplo, assim, sobreviver ou não,
+2998720	3000720	é, o porco que ela entrou,
+3000720	3002720	tem o celular mulher, ou, me,
+3002720	3005720	eu tenho o, é, o, a cala acelatável,
+3005720	3009720	então, tem outras, variáveis que podem me acrescentar.
+3009720	3010720	Então, que a gente faz pra idade,
+3010720	3012720	é, a gente tenta ferir,
+3012720	3014720	pra, com base, no resto,
+3014720	3015720	mas é, fazer uma inferência,
+3015720	3017720	você é probabilidade, por,
+3017720	3018720	é, poderia também deixar no,
+3018720	3020720	e olhar, é, idade separada,
+3020720	3022720	pra ter uma visão só, só, só,
+3022720	3023720	de idade.
+3023720	3025720	Mas, no geral, é sempre bom se tentar
+3025720	3027720	criar uma estratégia de preenchimento.
+3028720	3030720	Aí mesmo que eu for fazer uma análise,
+3030720	3031720	somente da idade,
+3031720	3033720	que tem lá um gráfico, comparando as idades.
+3033720	3036720	Aí, o jaluso, é,
+3036720	3038720	essas idades modificadas, não é?
+3038720	3039720	Não, então, agora eu entendi,
+3039720	3040720	se eu, esse é um ponto,
+3040720	3042720	você não pode usar as idades modificadas,
+3042720	3043720	você tem que preencher e depurir,
+3043720	3044720	você não vai usar.
+3044720	3045720	Hmm?
+3045720	3047720	Porque, se não, esses idades também,
+3047720	3048720	mas, por, esse é outro ponto,
+3048720	3050720	quando você, tá fazendo a inferência,
+3050720	3051720	tá manipulando,
+3051720	3052720	as tribunções, eu concordo.
+3052720	3053720	Hmm.
+3053720	3054720	Então, deixe a prática,
+3054720	3056720	então, esse listo é um dos problemas
+3056720	3058720	de que eu vou fazer uma análise de idades.
+3058720	3059720	Isso chamou da Teleket,
+3059720	3060720	que é quando você,
+3060720	3062720	isso, inclusive, cara, bom,
+3062720	3064720	eu for no, no primeiro que isso,
+3064720	3066720	quando eu estava começando a minha carreira,
+3066720	3067720	eu, os carafalários,
+3067720	3068720	muito legal,
+3068720	3070720	mas, ser eu vou, porque você fez o,
+3070720	3073720	você preencher o conjunto de idades
+3073720	3075720	com antes de,
+3075720	3077720	essa treinar o seu modelo.
+3077720	3079720	Então, eu desculpa,
+3079720	3080720	com a fizanálise,
+3080720	3082720	preencher o conjunto de idades.
+3082720	3083720	Então, treinei o modelo,
+3083720	3085720	no caso, fizanálise,
+3085720	3087720	preencher o modelo.
+3087720	3088720	Eu devia ter feito análise,
+3088720	3089720	elas se de preencher.
+3089720	3091720	Então, isso que,
+3091720	3093720	a gente não pode fazer,
+3093720	3094720	também,
+3094720	3096720	não pode deixar que o modelo,
+3096720	3097720	outros poucos,
+3097720	3099720	que os dados,
+3099720	3101720	sejam analisados,
+3101720	3102720	sempre,
+3102720	3104720	com a preenvisão das nossas diferenças,
+3104720	3105720	né,
+3105720	3106720	sempre,
+3106720	3108720	fazer análise com que a gente vê,
+3108720	3109720	pegou o e-mail.
+3109720	3110720	E depois,
+3110720	3111720	a gente preencher os valores,
+3111720	3113660	então, acho que eu vou entrar na
+3113660	3114720	travôlita,
+3114720	3115720	hoje.
+3117720	3120720	E, a gente, agora no final,
+3120720	3121720	quando a gente preencher o com a
+3121720	3122720	média,
+3122720	3123720	para os que a gente não tinha.
+3123720	3125720	A idade foi o melhor que a gente
+3125720	3126720	consigo fazer.
+3126720	3127720	Então, a gente tentou chegar
+3127720	3128720	por classe,
+3128720	3129720	que foi a gente de vi uma boa forma de
+3129720	3130720	de agrupar.
+3130720	3131720	E,
+3131720	3133720	agora, a gente viu que sobre o que
+3133720	3134720	o e-mail,
+3134720	3135720	então,
+3135720	3136720	aqui,
+3136720	3137720	tudo preencher.
+3142720	3143720	Pessoal,
+3143720	3145720	vamos mudar uma pausa que
+3145720	3146720	de cinco minutinhos,
+3146720	3148720	só para
+3148720	3149720	buscar um aqui mais a
+3149720	3150720	água e,
+3150720	3151720	no final,
+3151720	3152720	a gente,
+3152720	3153720	vamos ver aqui,
+3153720	3155720	se a gente consegue matar.
+3155720	3156720	Eu acho que vai acabar
+3156720	3157720	sendo muita coisa.
+3157720	3158720	É, tem bastante coisa
+3158720	3159720	ainda para frente.
+3159720	3162720	Vai ser melhor,
+3162720	3164720	a gente deixar
+3164720	3166720	para a próxima semana.
+3166720	3168720	Mais é isso,
+3168720	3170720	a gente deu para
+3170720	3171720	ter uma boa estima.
+3171720	3173720	Acho que havia sendo
+3173720	3174720	muita toria.
+3174720	3175720	Agora,
+3175720	3177720	que a gente começou a botar
+3177720	3178720	a mão na massa mesmo.
+3178720	3179720	É,
+3179720	3180720	próximo passo.
+3180720	3181720	Vamos ter mais um alto aórico,
+3181720	3182720	para continuar funcionando.
+3182720	3184720	Vejam as alas na
+3184720	3185720	dez prime dois.
+3185720	3186720	Também,
+3186720	3187720	se aqui vai ajudar a
+3187720	3188720	muito vocês a fazer
+3188720	3189720	em projeto.
+3189720	3191720	Depois eu vou mandar o link
+3191720	3192720	lá no lutescode.
+3192720	3193720	E,
+3193720	3194720	sem uma hora que vem,
+3194720	3195720	então, a gente
+3195720	3196720	no nosso próximo atividade
+3196720	3198720	para a gente vai terminar.
+3198720	3199720	Acho que é melhor que
+3199720	3201720	o nosso próximo
+3201720	3202720	hoje,
+3202720	3203720	na hora de fazer o nosso
+3203720	3204720	tempo, o serebe começa a
+3204720	3205720	se descansar.
+3205720	3207720	Acho que,
+3207720	3208720	por hoje é só.
+3208720	3209720	Então,
+3209720	3210720	pessoal,
+3210720	3211720	todo espanhido também,
+3211720	3212720	qualquer dúvida sobre
+3212720	3213720	hoje,
+3213720	3214720	o nosso serebe com o que ainda
+3214720	3215720	não chaste,
+3215720	3216720	também pode me chamar.
+3216720	3217720	E,
+3217720	3218720	é isso,
+3218720	3219720	por hoje é só.
+3219720	3220720	Bom,
+3220720	3221720	hoje pessoal,
+3221720	3223720	veja vocês na segunda-feira.
+3223720	3224720	Bom,
+3224720	3225720	não é de problema,
+3225720	3226720	obrigado, lá.
+3226720	3227720	Valeu,
+3227720	3228720	tchau,
+3229720	3230720	tchau,
+3230720	3231720	tchau,
+3231720	3232720	tchau,
+3232720	3233720	tchau,
+3233720	3234720	tchau,
+3234720	3235720	tchau,
+3235720	3236720	tchau,
+3236720	3237720	tchau,
+3237720	3238720	tchau,
+3238720	3239720	tchau,
+3239720	3240720	tchau,
+3240720	3241720	tchau,
+3241720	3242720	tchau,
+3242720	3243720	tchau,
+3243720	3244720	tchau,
+3244720	3245720	tchau,
+3245720	3246720	tchau,
+3246720	3247720	tchau,
+3247720	3248720	tchau,
+3248720	3249720	tchau,
+3249720	3250720	tchau,
+3250720	3251720	tchau,
+3251720	3252720	tchau,
+3252720	3253720	tchau,
+3253720	3254720	tchau,
+3254720	3255720	tchau,
+3255720	3256720	tchau,
+3256720	3257720	tchau,

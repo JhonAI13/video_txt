@@ -1,0 +1,11480 @@
+1
+00:05:30,000 --> 00:05:42,040
+e o álido אחד realizou甚麼?
+
+2
+00:05:46,820 --> 00:05:49,000
+EntãoHello, mesmo?
+
+3
+00:09:00,000 --> 00:09:03,040
+e
+
+4
+00:09:03,040 --> 00:09:04,060
+eu
+
+5
+00:09:04,060 --> 00:09:05,340
+acho que
+
+6
+00:09:05,340 --> 00:09:06,720
+vamos
+
+7
+00:09:06,720 --> 00:09:09,200
+nada
+
+8
+00:09:09,200 --> 00:09:10,780
+eu
+
+9
+00:09:10,780 --> 00:09:13,260
+e
+
+10
+00:09:13,260 --> 00:09:16,740
+eu
+
+11
+00:09:16,740 --> 00:09:18,320
+e
+
+12
+00:09:18,320 --> 00:09:20,360
+tudo
+
+13
+00:09:20,360 --> 00:09:22,600
+para
+
+14
+00:09:22,600 --> 00:09:26,980
+mais
+
+15
+00:09:26,980 --> 00:09:27,740
+hoje
+
+16
+00:09:27,740 --> 00:09:31,280
+2, 2, 2, e, né, pessoal?
+
+17
+00:09:31,280 --> 00:09:32,400
+É, é, é, sim.
+
+18
+00:09:32,400 --> 00:09:35,340
+2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4,
+
+19
+00:09:35,340 --> 00:09:37,220
+dá tão especial, né?
+
+20
+00:09:37,220 --> 00:09:39,720
+No, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1.
+
+21
+00:09:39,720 --> 00:09:44,540
+Então hoje, não tem a primeira aula, até hora que que
+
+22
+00:09:44,540 --> 00:09:47,980
+que eu vou começar a falar sobre a avançar um pouco mais nas ferrametas do
+
+23
+00:09:47,980 --> 00:09:48,980
+Python.
+
+24
+00:09:48,980 --> 00:09:52,680
+Vamos começar ali dar uma pincelada sobre a utilização de dados também,
+
+25
+00:09:52,680 --> 00:09:53,680
+e é, é, é, é, é, é, é, é, é, é,
+
+26
+00:09:53,680 --> 00:09:56,420
+podemos dizer assim mais tudo, uma ferramenta.
+
+27
+00:09:56,420 --> 00:09:59,960
+Portanto, isso, no pra gente que trabalha com dados, e é, é, independente de
+
+28
+00:09:59,960 --> 00:10:07,220
+engerir de dados, é, na legidade de dados, tem a, a, a, a, a abriedade de transportar o que
+
+29
+00:10:07,220 --> 00:10:09,280
+você criou pra visualização de dados.
+
+30
+00:10:09,280 --> 00:10:12,320
+É, uma das coisas ferramentas, mais poutais que a gente tem.
+
+31
+00:10:12,320 --> 00:10:15,060
+É, é uma coisa que passa se é um pouco subjetiva, né?
+
+32
+00:10:15,060 --> 00:10:18,980
+É, é, depende muito do pulo que você tá comunicando, depende de, com quem você
+
+33
+00:10:18,980 --> 00:10:26,420
+vai falar, mas a vez a doença de dados, ela,
+
+34
+00:10:26,420 --> 00:10:27,980
+justamente porque tem tudo isso,
+
+35
+00:10:27,980 --> 00:10:29,180
+a gente tem que levar em conto gráfico,
+
+36
+00:10:29,180 --> 00:10:30,380
+que a gente vai usar o púrico,
+
+37
+00:10:30,380 --> 00:10:31,660
+a gente vai comunicar.
+
+38
+00:10:31,660 --> 00:10:33,620
+E hoje a gente vai começar a trocar o meandés sobre isso.
+
+39
+00:10:33,620 --> 00:10:35,980
+E vai ser o que vai vir naturalmente também,
+
+40
+00:10:35,980 --> 00:10:37,420
+é o longo dos projetos,
+
+41
+00:10:37,420 --> 00:10:38,420
+a longa das principios,
+
+42
+00:10:38,420 --> 00:10:40,100
+é o longo da também da carreira de vocês.
+
+43
+00:10:40,100 --> 00:10:44,020
+Mas é bom a gente deixar uma base fundamental aqui,
+
+44
+00:10:44,020 --> 00:10:46,660
+e eu trazer um pouco da experiência que eu tenho,
+
+45
+00:10:46,660 --> 00:10:49,220
+trabalhando com os aliás são idados.
+
+46
+00:10:49,220 --> 00:10:52,140
+E também, vamos passar um pouco ali sobre as principais
+
+47
+00:10:52,140 --> 00:10:54,100
+claramente as dimensos de manipulação de idados,
+
+48
+00:10:54,100 --> 00:10:57,740
+que vocês estão já pegando agora na Espanha de Cresse,
+
+49
+00:10:57,740 --> 00:10:59,020
+já começou.
+
+50
+00:10:59,020 --> 00:11:02,180
+Então por hoje é isso.
+
+51
+00:11:02,180 --> 00:11:03,860
+Essa é a nossa ideia.
+
+52
+00:11:03,860 --> 00:11:07,980
+Vamos passar aqui primeiro nos objetivos da aula,
+
+53
+00:11:07,980 --> 00:11:10,540
+nosso primeiro objetivo é conhecer
+
+54
+00:11:10,540 --> 00:11:13,180
+os principais tipos de visualização de dados
+
+55
+00:11:13,180 --> 00:11:14,980
+e quando usar cada um deles.
+
+56
+00:11:14,980 --> 00:11:18,020
+E nem dificamos de usar a liação de dados distorcida,
+
+57
+00:11:18,020 --> 00:11:21,220
+isso é muito, muito interessante.
+
+58
+00:11:21,220 --> 00:11:23,020
+A gente vai discutir que um pouco sobre,
+
+59
+00:11:23,020 --> 00:11:27,260
+como a visão de dados é algo que você pode usar a favor ou qualquer.
+
+60
+00:11:27,260 --> 00:11:29,100
+É um arro muito poderoso,
+
+61
+00:11:29,100 --> 00:11:31,660
+então vocês podem manipular de certa forma o público,
+
+62
+00:11:31,660 --> 00:11:33,180
+vocês estão se comunicando.
+
+63
+00:11:33,180 --> 00:11:35,340
+Isso acontece de mais em nosso cotiniano.
+
+64
+00:11:35,340 --> 00:11:38,020
+A gente vai ver que várias exemplos,
+
+65
+00:11:38,020 --> 00:11:42,580
+e que vocês não identificaram também com relação a com de dia.
+
+66
+00:11:42,580 --> 00:11:44,580
+Tivem também falar sobre FITIONE NIRIN,
+
+67
+00:11:44,580 --> 00:11:46,980
+que é uma parte muito importante da manipulação de dados,
+
+68
+00:11:46,980 --> 00:11:49,700
+que a gente vai usar para todo o processo de análise de dados,
+
+69
+00:11:49,700 --> 00:11:52,980
+para a creação de modelos, de licencividados.
+
+70
+00:11:52,980 --> 00:11:56,660
+Então, a parte potantíssima também do processo de dimos de exploração de dados,
+
+71
+00:11:56,660 --> 00:12:00,540
+a gente estrair mais valor e das nossas variáveis que a gente tem,
+
+72
+00:12:00,540 --> 00:12:02,340
+ou se ele dá, das nossas colunas,
+
+73
+00:12:02,340 --> 00:12:04,340
+que eu vejo alguns exemplos também.
+
+74
+00:12:04,340 --> 00:12:07,100
+No final, a gente vai falar um pouco mais técnico,
+
+75
+00:12:07,100 --> 00:12:09,060
+como conseguimos diferenciar a Croix Tab,
+
+76
+00:12:09,060 --> 00:12:11,020
+estabelegina, que os eagofamentos,
+
+77
+00:12:11,020 --> 00:12:12,700
+que são o que a gente vai falar muito, muito,
+
+78
+00:12:12,700 --> 00:12:14,340
+muito ao longo do bootcamp todo,
+
+79
+00:12:14,340 --> 00:12:16,780
+em testes de podes de falar bastante sobre grupos,
+
+80
+00:12:16,780 --> 00:12:19,020
+então a gente vai começar a construir essa vália,
+
+81
+00:12:19,100 --> 00:12:21,300
+sobre o que são os equipamentos.
+
+82
+00:12:21,300 --> 00:12:23,140
+E a gente vai também,
+
+83
+00:12:23,140 --> 00:12:25,580
+um ponto que sempre dá muita dúvida,
+
+84
+00:12:25,580 --> 00:12:27,620
+é quando que os números de quantos pontos,
+
+85
+00:12:27,620 --> 00:12:31,660
+quantos apentes são métodos que a gente usa para data frames,
+
+86
+00:12:31,660 --> 00:12:33,300
+cada um tem a sua utilidade,
+
+87
+00:12:33,300 --> 00:12:36,980
+a gente são métodos no geral para um e-data frames,
+
+88
+00:12:36,980 --> 00:12:38,380
+de diferentes volas,
+
+89
+00:12:38,380 --> 00:12:41,580
+e a gente vai falar um pouco sobre eles, também é um longo da aula.
+
+90
+00:12:41,580 --> 00:12:43,740
+Mas então, primeira coisa,
+
+91
+00:12:43,740 --> 00:12:47,380
+eu quero perguntar para vocês a gente levantou essa bola,
+
+92
+00:12:47,380 --> 00:12:50,020
+e eu quero perguntar se vocês já viram algum gráfico
+
+93
+00:12:50,020 --> 00:12:52,980
+que foi feito para manipular quem está vendo.
+
+94
+00:12:52,980 --> 00:12:55,660
+E se vocês conseguem trazer algum exemplo aqui,
+
+95
+00:12:55,660 --> 00:12:57,420
+lembrada a vida de vocês,
+
+96
+00:12:57,420 --> 00:13:00,060
+mesmo a uma vez que vocês olharam um gráfico e falou,
+
+97
+00:13:00,060 --> 00:13:01,580
+será que é isso mesmo?
+
+98
+00:13:01,580 --> 00:13:03,100
+E depois que vocês foram entendendo,
+
+99
+00:13:03,100 --> 00:13:04,540
+realmente tinha um contexto ali,
+
+100
+00:13:04,540 --> 00:13:08,100
+como o gráfico foi criado feito para manipular quem está vendo.
+
+101
+00:13:09,100 --> 00:13:15,060
+Em uma dica, em um idica,
+
+102
+00:13:15,060 --> 00:13:19,260
+a gente acabou de passar por um momento que isso acontece demais,
+
+103
+00:13:19,260 --> 00:13:20,860
+que é perigual eitoral.
+
+104
+00:13:22,860 --> 00:13:25,420
+Conseguem lembrar de alguma coisa?
+
+105
+00:13:27,780 --> 00:13:32,980
+Agora, nas eleições de, agora me me espais, né?
+
+106
+00:13:32,980 --> 00:13:35,980
+Eu lembro que eu vi uma um posto no Instagram,
+
+107
+00:13:36,340 --> 00:13:38,500
+dois candidatos estavam no segundo tudo,
+
+108
+00:13:38,500 --> 00:13:42,620
+e aí estavam botando o post de uns candidatos falando,
+
+109
+00:13:42,620 --> 00:13:43,340
+ah,
+
+110
+00:13:43,340 --> 00:13:43,620
+eh,
+
+111
+00:13:43,620 --> 00:13:45,620
+fulando disparou.
+
+112
+00:13:45,620 --> 00:13:47,500
+Então, nas pesquisas, né?
+
+113
+00:13:47,500 --> 00:13:49,020
+Disparou nas pesquisas.
+
+114
+00:13:49,020 --> 00:13:51,500
+Aí, botava o gráfico de delo em cima,
+
+115
+00:13:51,500 --> 00:13:53,300
+ao bem alto, sim,
+
+116
+00:13:53,300 --> 00:13:55,820
+e o douto candidato lá embaixo.
+
+117
+00:13:55,820 --> 00:13:58,220
+Então, eu caraca ele disparou mesmo,
+
+118
+00:13:58,220 --> 00:13:59,820
+a isso vai olhar a diferença.
+
+119
+00:13:59,820 --> 00:14:00,380
+Tava,
+
+120
+00:14:00,380 --> 00:14:01,500
+50 e 2,
+
+121
+00:14:01,500 --> 00:14:02,660
+a 48.
+
+122
+00:14:03,620 --> 00:14:05,900
+Então, os caras deram uns um, né?
+
+123
+00:14:05,900 --> 00:14:07,420
+Tipo, como se der, tivesse em dar uns um,
+
+124
+00:14:07,420 --> 00:14:08,300
+eles voltaram o eixo e o eixo,
+
+125
+00:14:08,300 --> 00:14:09,780
+e o eixo, e o número em um miscala,
+
+126
+00:14:09,780 --> 00:14:11,940
+que fica muito distorcida de forma,
+
+127
+00:14:11,940 --> 00:14:13,780
+a pareciação a diferença muito grande.
+
+128
+00:14:13,780 --> 00:14:14,980
+E assim,
+
+129
+00:14:14,980 --> 00:14:15,780
+é aquela, né?
+
+130
+00:14:15,780 --> 00:14:17,220
+Mentira, não é?
+
+131
+00:14:17,220 --> 00:14:18,780
+Mas é uma manipulação,
+
+132
+00:14:18,780 --> 00:14:19,780
+feita para...
+
+133
+00:14:19,780 --> 00:14:20,780
+É...
+
+134
+00:14:20,780 --> 00:14:22,500
+Nem que não ganar quem está vendo, né?
+
+135
+00:14:22,500 --> 00:14:23,260
+Porque,
+
+136
+00:14:23,260 --> 00:14:26,940
+tudo isso, da liera já já entra na parte do marketing,
+
+137
+00:14:26,940 --> 00:14:28,460
+do efeito de monada,
+
+138
+00:14:28,460 --> 00:14:29,300
+que a pessoa vê,
+
+139
+00:14:29,300 --> 00:14:30,300
+não, se ele disparou.
+
+140
+00:14:30,300 --> 00:14:31,020
+Então,
+
+141
+00:14:31,020 --> 00:14:33,100
+a pessoa já já creia a sua opção de afuão,
+
+142
+00:14:33,100 --> 00:14:34,300
+tá na frente,
+
+143
+00:14:34,300 --> 00:14:35,740
+o avonei mesmo.
+
+144
+00:14:35,740 --> 00:14:38,380
+Então, é tudo isso affeito com propósito, né?
+
+145
+00:14:38,380 --> 00:14:39,460
+Então, esse pessoal que,
+
+146
+00:14:39,460 --> 00:14:39,980
+principalmente,
+
+147
+00:14:39,980 --> 00:14:40,980
+que é um panelitoral, né?
+
+148
+00:14:40,980 --> 00:14:42,340
+É um muito dinheiro investido
+
+149
+00:14:42,340 --> 00:14:42,740
+o marketing,
+
+150
+00:14:42,740 --> 00:14:44,500
+então, eles nem vão fazer nada por a casa.
+
+151
+00:14:44,500 --> 00:14:45,900
+O isso é pensado.
+
+152
+00:14:45,900 --> 00:14:46,460
+E a gente vai ver,
+
+153
+00:14:46,460 --> 00:14:47,620
+mas uns exemplos aqui hoje,
+
+154
+00:14:47,620 --> 00:14:49,060
+ao longo da aula.
+
+155
+00:14:49,060 --> 00:14:50,180
+Mas, primeiro,
+
+156
+00:14:50,180 --> 00:14:54,780
+vai falar aqui sobre os principais tipos de visualizações de dados.
+
+157
+00:14:54,780 --> 00:14:56,380
+E vamos começar a construir nossa base.
+
+158
+00:14:56,380 --> 00:14:57,900
+Acho que o mais claro, né,
+
+159
+00:14:57,900 --> 00:14:58,620
+que a gente conhece,
+
+160
+00:14:58,620 --> 00:15:00,540
+que todo mundo
+
+161
+00:15:00,540 --> 00:15:02,780
+já teve experiência.
+
+162
+00:15:02,780 --> 00:15:03,820
+E, pelo menos,
+
+163
+00:15:03,820 --> 00:15:05,820
+algumas vezes na vida já viu,
+
+164
+00:15:05,820 --> 00:15:08,300
+é o gráfico de
+
+165
+00:15:08,300 --> 00:15:10,300
+barras que é isso aqui.
+
+166
+00:15:10,300 --> 00:15:11,180
+É basicamente,
+
+167
+00:15:11,180 --> 00:15:12,540
+para comparar a categoria, né?
+
+168
+00:15:12,540 --> 00:15:13,300
+Então, a gente,
+
+169
+00:15:13,300 --> 00:15:15,060
+aqui, um exemplo número de vendas
+
+170
+00:15:15,060 --> 00:15:16,820
+em uma loja de departamento,
+
+171
+00:15:16,820 --> 00:15:20,460
+é o gráfico mais batido.
+
+172
+00:15:20,460 --> 00:15:22,220
+E aqui a gente tem as categoria,
+
+173
+00:15:22,220 --> 00:15:22,860
+o procedurismo,
+
+174
+00:15:22,860 --> 00:15:23,620
+o procedurismo,
+
+175
+00:15:23,620 --> 00:15:24,860
+o procedurismo,
+
+176
+00:15:24,860 --> 00:15:24,900
+o procedurismo,
+
+177
+00:15:24,900 --> 00:15:26,780
+o mesmo banho e a quantidade de vendas
+
+178
+00:15:26,780 --> 00:15:28,580
+para cada um.
+
+179
+00:15:28,580 --> 00:15:30,180
+Então, esse é o gráfico mais...
+
+180
+00:15:30,180 --> 00:15:31,420
+ele pode ser também,
+
+181
+00:15:31,420 --> 00:15:33,620
+na horizontal,
+
+182
+00:15:33,620 --> 00:15:37,020
+mas ele não deixa de ser um gráfico de barras, né?
+
+183
+00:15:37,020 --> 00:15:39,020
+E,
+
+184
+00:15:39,020 --> 00:15:40,460
+outro gráfico também,
+
+185
+00:15:40,460 --> 00:15:42,260
+muito utilizado que a grande maioria
+
+186
+00:15:42,260 --> 00:15:44,100
+já deve ter visto a o gráfico de linha.
+
+187
+00:15:44,100 --> 00:15:45,660
+Ele serve para mostrar
+
+188
+00:15:45,660 --> 00:15:47,060
+tendência em movimentações,
+
+189
+00:15:47,060 --> 00:15:50,020
+assim, de uma valor ao longo do tempo.
+
+190
+00:15:50,020 --> 00:15:50,980
+Então, aqui,
+
+191
+00:15:50,980 --> 00:15:52,460
+a gente tem, por exemplo,
+
+192
+00:15:52,460 --> 00:15:54,060
+onde ele é muito utilizado
+
+193
+00:15:54,060 --> 00:15:55,580
+em ações,
+
+194
+00:15:55,580 --> 00:15:56,860
+a gente tem o gráfico de ações
+
+195
+00:15:56,860 --> 00:15:57,940
+da Petrobras,
+
+196
+00:15:57,940 --> 00:16:00,700
+a gente vê que é um período de 15 anos,
+
+197
+00:16:00,700 --> 00:16:02,700
+e o gráfico de linha...
+
+198
+00:16:02,700 --> 00:16:04,500
+Eu achei muito interessante
+
+199
+00:16:04,500 --> 00:16:06,140
+porque a gente tem que lidar
+
+200
+00:16:06,140 --> 00:16:07,700
+com todo uma nova dimensão,
+
+201
+00:16:07,700 --> 00:16:09,340
+a gente não precisa
+
+202
+00:16:09,340 --> 00:16:10,260
+com o gráfico de linha.
+
+203
+00:16:10,260 --> 00:16:11,780
+Tem muita informação.
+
+204
+00:16:11,780 --> 00:16:12,940
+Por que eu falo isso?
+
+205
+00:16:12,940 --> 00:16:14,820
+Aqui é uma informação que a gente tem, é...
+
+206
+00:16:14,820 --> 00:16:17,380
+o preço da ação da Petrobras.
+
+207
+00:16:17,380 --> 00:16:18,140
+Por favor, não.
+
+208
+00:16:18,140 --> 00:16:19,060
+Que tem mais nada que...
+
+209
+00:16:19,060 --> 00:16:20,620
+Preci da ação da Petrobras.
+
+210
+00:16:20,620 --> 00:16:22,300
+Então, ela começou aqui no vinte,
+
+211
+00:16:22,300 --> 00:16:25,300
+ela foi para chegar batecincüenta,
+
+212
+00:16:25,300 --> 00:16:26,580
+depois ela desceu,
+
+213
+00:16:26,580 --> 00:16:31,460
+ela foi pegou quase de graça
+
+214
+00:16:31,460 --> 00:16:32,900
+aqui em 2006 por...
+
+215
+00:16:32,900 --> 00:16:34,500
+Só cinco reais.
+
+216
+00:16:34,500 --> 00:16:36,740
+Aí ela voltou a crescer e caiu.
+
+217
+00:16:36,740 --> 00:16:38,740
+Ela voltou a crescer de novo.
+
+218
+00:16:38,740 --> 00:16:39,700
+Ela caiu de novo.
+
+219
+00:16:39,700 --> 00:16:41,340
+Ela voltou a crescer de novo.
+
+220
+00:16:41,340 --> 00:16:42,540
+E...
+
+221
+00:16:42,540 --> 00:16:43,740
+Assim,
+
+222
+00:16:43,740 --> 00:16:44,940
+políticas a parte,
+
+223
+00:16:44,940 --> 00:16:47,380
+o que a gente consegue estraider isso?
+
+224
+00:16:47,380 --> 00:16:49,020
+Muito informação relacionado
+
+225
+00:16:49,020 --> 00:16:51,860
+ao histórico do nosso país do Brasil.
+
+226
+00:16:51,860 --> 00:16:53,580
+Porque todos esses movimentos aqui
+
+227
+00:16:53,580 --> 00:16:55,220
+foram relacionadas ao governo político.
+
+228
+00:16:55,220 --> 00:16:56,700
+Não vou lembrar de cabeça.
+
+229
+00:16:56,700 --> 00:16:59,020
+Não sou muito bom de memória,
+
+230
+00:16:59,020 --> 00:17:02,980
+mas com certeza está relacionado à eventos.
+
+231
+00:17:02,980 --> 00:17:04,220
+Então, por exemplo,
+
+232
+00:17:04,220 --> 00:17:06,460
+acho que é o que fica bem claro que a pandemia,
+
+233
+00:17:06,460 --> 00:17:09,660
+como esse indêche dos mil e vinte
+
+234
+00:17:09,660 --> 00:17:10,220
+está bem...
+
+235
+00:17:10,220 --> 00:17:12,460
+Acho que parece que ser pandemia.
+
+236
+00:17:12,460 --> 00:17:14,300
+Aqui, não lembro que foi,
+
+237
+00:17:14,300 --> 00:17:16,180
+e 2018, ninguém não me ensalou.
+
+238
+00:17:16,180 --> 00:17:17,940
+Ou alguma coisa nesse sentido.
+
+239
+00:17:17,940 --> 00:17:19,940
+Mas todo...
+
+240
+00:17:19,940 --> 00:17:22,180
+Independente, eu não quero entrar em política.
+
+241
+00:17:22,180 --> 00:17:23,060
+E falar alguma pessoa.
+
+242
+00:17:23,060 --> 00:17:24,900
+Mas que eu estou falando, é...
+
+243
+00:17:24,900 --> 00:17:26,500
+Esse gráfico consegue trazer informação
+
+244
+00:17:26,500 --> 00:17:28,100
+para a gente ao longo do tempo.
+
+245
+00:17:28,100 --> 00:17:29,340
+De todo o histórico,
+
+246
+00:17:29,340 --> 00:17:31,460
+que aconteceu com as ações da Petrobras.
+
+247
+00:17:31,460 --> 00:17:34,100
+E, com uma simples informação,
+
+248
+00:17:34,100 --> 00:17:36,180
+que é o valor dação.
+
+249
+00:17:36,180 --> 00:17:38,460
+Então, eu gosto muito disso,
+
+250
+00:17:38,460 --> 00:17:41,780
+porque a gente começa a entrar em várias outras líveis.
+
+251
+00:17:41,780 --> 00:17:44,340
+A gente consegue estrair muita informação
+
+252
+00:17:44,340 --> 00:17:46,700
+a partir de uma única variável
+
+253
+00:17:46,700 --> 00:17:47,780
+porém, o que...
+
+254
+00:17:47,780 --> 00:17:49,900
+Gero valor para ela, que é o...
+
+255
+00:17:49,900 --> 00:17:51,700
+A extensão de tempo que a gente tem dela.
+
+256
+00:17:51,700 --> 00:17:53,500
+Então, olhando 15 anos para trás.
+
+257
+00:17:53,500 --> 00:17:55,300
+O tanto de informação que a gente consegue estrair
+
+258
+00:17:55,300 --> 00:17:57,460
+é o correla acionar outras informações.
+
+259
+00:17:57,460 --> 00:17:59,300
+Tem muitas vezes são subjetivas.
+
+260
+00:17:59,300 --> 00:18:02,260
+Então, imagine que para várias pessoas,
+
+261
+00:18:02,260 --> 00:18:04,220
+não fique claro que aqui, por exemplo,
+
+262
+00:18:04,220 --> 00:18:05,500
+seria pandemia.
+
+263
+00:18:05,500 --> 00:18:07,220
+Mas quando a gente tem informação consegue
+
+264
+00:18:07,220 --> 00:18:08,380
+ir correla acionar,
+
+265
+00:18:08,380 --> 00:18:10,100
+lembrar de que aconteceu aqui no Brasil,
+
+266
+00:18:10,100 --> 00:18:11,380
+na época da pandemia,
+
+267
+00:18:11,380 --> 00:18:13,100
+tudo fechou, né?
+
+268
+00:18:13,100 --> 00:18:15,340
+Então, para o país inteiro fechou,
+
+269
+00:18:15,340 --> 00:18:16,460
+os preços da gasolina,
+
+270
+00:18:16,460 --> 00:18:17,500
+não sei se vocês lembram,
+
+271
+00:18:17,500 --> 00:18:19,420
+mas no primeiro saber se os meus 20s,
+
+272
+00:18:19,420 --> 00:18:21,820
+os preços da pandemia baixaram muito.
+
+273
+00:18:21,820 --> 00:18:23,260
+Porque não tinha demanda.
+
+274
+00:18:23,260 --> 00:18:24,100
+Por gasolina.
+
+275
+00:18:24,100 --> 00:18:26,340
+Então, a minha renta você é a gente caso,
+
+276
+00:18:26,340 --> 00:18:27,340
+tudo o dia lá que dá,
+
+277
+00:18:27,340 --> 00:18:28,860
+então, com isso,
+
+278
+00:18:28,860 --> 00:18:31,260
+os stockes dos posgasolina ficaram muito alto,
+
+279
+00:18:31,260 --> 00:18:33,100
+e o preço da gasolina baixou no país.
+
+280
+00:18:33,100 --> 00:18:35,900
+E, no molentê no aniversário de aconteceu isso, né?
+
+281
+00:18:35,900 --> 00:18:37,340
+Então, provavelmente está...
+
+282
+00:18:37,340 --> 00:18:40,460
+Isso aqui, também relacionado com que aconteceu aqui,
+
+283
+00:18:40,460 --> 00:18:43,500
+em 2020 no preços da Petrodais, né?
+
+284
+00:18:43,500 --> 00:18:44,940
+Então, caiu bastante.
+
+285
+00:18:44,940 --> 00:18:49,180
+Então, esse é o gráfico de bar de linhas,
+
+286
+00:18:49,180 --> 00:18:50,100
+e o gráfico de barza,
+
+287
+00:18:50,100 --> 00:18:51,340
+acho que esses dois são...
+
+288
+00:18:51,340 --> 00:18:53,060
+os que a gente mais tem,
+
+289
+00:18:53,060 --> 00:18:54,780
+é contato ao longo da nossa vida,
+
+290
+00:18:54,780 --> 00:18:55,260
+de...
+
+291
+00:18:55,260 --> 00:18:57,340
+Pode ser apresentados de diferentes formas,
+
+292
+00:18:57,340 --> 00:19:00,380
+mas no fim, eles são o gráfico de barza de linhas.
+
+293
+00:19:00,380 --> 00:19:01,420
+Agora,
+
+294
+00:19:01,420 --> 00:19:03,900
+eu tô aparenta que eles são em vocês,
+
+295
+00:19:03,900 --> 00:19:05,900
+eu vou no botar aqui para cima,
+
+296
+00:19:07,100 --> 00:19:08,860
+e aqui,
+
+297
+00:19:08,860 --> 00:19:10,700
+a gente tem...
+
+298
+00:19:10,700 --> 00:19:13,180
+dois tipos de visualização adicionais.
+
+299
+00:19:13,180 --> 00:19:15,820
+A gente tem o gráfico de dispersão,
+
+300
+00:19:15,820 --> 00:19:17,580
+e o gráfico de área.
+
+301
+00:19:17,580 --> 00:19:19,900
+Então, o gráfico de dispersão
+
+302
+00:19:19,900 --> 00:19:23,020
+é muito bom para corra relacionar duas variáveis.
+
+303
+00:19:23,020 --> 00:19:24,700
+Então, nesse caso aqui, por exemplo,
+
+304
+00:19:24,700 --> 00:19:26,460
+a gente tem uma variável altura,
+
+305
+00:19:26,460 --> 00:19:28,860
+e uma variável peso.
+
+306
+00:19:28,860 --> 00:19:31,180
+O que é muito interessante a gente vem aqui?
+
+307
+00:19:31,180 --> 00:19:33,340
+A corração entre a altura e peso.
+
+308
+00:19:33,340 --> 00:19:35,180
+É bem natural, a gente sabe que,
+
+309
+00:19:35,180 --> 00:19:36,060
+é, ao uma loja que eu digo,
+
+310
+00:19:36,060 --> 00:19:37,100
+quanto mais alto a pessoa,
+
+311
+00:19:37,100 --> 00:19:38,380
+mais pesada ela é.
+
+312
+00:19:38,380 --> 00:19:41,260
+E por isso que esse gráfico tem uma tendência
+
+313
+00:19:41,260 --> 00:19:42,220
+para cá, né?
+
+314
+00:19:42,220 --> 00:19:44,300
+Que aqui quanto maior a altura?
+
+315
+00:19:44,300 --> 00:19:47,340
+Não é, ó, o peso.
+
+316
+00:19:47,340 --> 00:19:48,300
+Isso é lógico, né?
+
+317
+00:19:48,300 --> 00:19:49,420
+Então, nós conhecem a devida,
+
+318
+00:19:49,420 --> 00:19:50,380
+a gente sabe que vai sentir,
+
+319
+00:19:50,380 --> 00:19:52,860
+quanto mais baixas as pessoas,
+
+320
+00:19:52,860 --> 00:19:54,540
+menor eu peço de elas também.
+
+321
+00:19:54,540 --> 00:19:55,900
+Então, esse faz todo sentido,
+
+322
+00:19:55,900 --> 00:19:57,180
+mas o legal desse gráfico,
+
+323
+00:19:57,180 --> 00:19:58,300
+olha que o que a gente consegue fazer,
+
+324
+00:19:58,300 --> 00:20:00,620
+a gente consegue dentro do próprio gráfico,
+
+325
+00:20:00,620 --> 00:20:01,420
+do escado de plot,
+
+326
+00:20:01,420 --> 00:20:02,540
+grafos de dispersão,
+
+327
+00:20:02,540 --> 00:20:04,540
+a gente consegue adicionar uma quembra,
+
+328
+00:20:04,540 --> 00:20:06,860
+por tipo de esponte,
+
+329
+00:20:06,860 --> 00:20:10,140
+e ver como que isso fica claro,
+
+330
+00:20:10,140 --> 00:20:11,580
+que, por exemplo,
+
+331
+00:20:11,580 --> 00:20:13,180
+nesse caso aqui, a gente vai claramente
+
+332
+00:20:13,180 --> 00:20:15,580
+que há uma diferença de corpos,
+
+333
+00:20:15,580 --> 00:20:18,140
+né, de físicos, entre os esportos.
+
+334
+00:20:18,140 --> 00:20:20,140
+Então aqui, por exemplo,
+
+335
+00:20:20,140 --> 00:20:23,260
+vamos empaque, abalmente.
+
+336
+00:20:23,260 --> 00:20:26,620
+A gente vê que nessa área, que tem muito pessoal,
+
+337
+00:20:26,620 --> 00:20:28,060
+é verde, né?
+
+338
+00:20:28,060 --> 00:20:29,660
+E é o pessoal do triato,
+
+339
+00:20:29,660 --> 00:20:31,100
+então, o pessoal ou no triato,
+
+340
+00:20:31,100 --> 00:20:32,620
+não há atletas muito altos,
+
+341
+00:20:32,620 --> 00:20:34,140
+e nem muito pesados,
+
+342
+00:20:34,140 --> 00:20:35,420
+que eu senti for ver,
+
+343
+00:20:35,420 --> 00:20:36,620
+é basicamente até,
+
+344
+00:20:36,620 --> 00:20:37,500
+essa é 35.
+
+345
+00:20:37,500 --> 00:20:39,820
+E eu usaria um pouquinho mais pesado,
+
+346
+00:20:39,820 --> 00:20:40,940
+e se faz todo sentido,
+
+347
+00:20:40,940 --> 00:20:42,300
+não é considerando o gasto calor,
+
+348
+00:20:42,300 --> 00:20:43,340
+porque eu trataria um tempo,
+
+349
+00:20:43,340 --> 00:20:46,140
+que, enfim, o esforço que exige,
+
+350
+00:20:46,140 --> 00:20:47,420
+então, não fa...
+
+351
+00:20:47,420 --> 00:20:48,460
+Se você pensar não,
+
+352
+00:20:48,460 --> 00:20:50,700
+tenha atletas no triato muito pesados,
+
+353
+00:20:50,700 --> 00:20:52,060
+justamente porque,
+
+354
+00:20:52,060 --> 00:20:55,500
+é o esforço que exige muita movimentação, né?
+
+355
+00:20:55,500 --> 00:20:57,340
+É o vole,
+
+356
+00:20:57,340 --> 00:20:59,980
+a gente vê que é um esporte,
+
+357
+00:20:59,980 --> 00:21:03,020
+que tem muitos todos tipos de corpos, né?
+
+358
+00:21:03,020 --> 00:21:04,460
+Então aqui, a gente foi pensar,
+
+359
+00:21:04,460 --> 00:21:05,100
+o vole,
+
+360
+00:21:05,100 --> 00:21:06,620
+ele tem pessoal mais baixo,
+
+361
+00:21:06,620 --> 00:21:09,020
+o pessoal mais pesado,
+
+362
+00:21:09,020 --> 00:21:10,460
+e...
+
+363
+00:21:10,460 --> 00:21:12,060
+ele começa aqui, por exemplo,
+
+364
+00:21:12,060 --> 00:21:14,300
+tem pessoal de um e 60 no vole,
+
+365
+00:21:14,300 --> 00:21:15,260
+é uma minoria,
+
+366
+00:21:15,260 --> 00:21:16,940
+claro, né?
+
+367
+00:21:16,940 --> 00:21:18,220
+Ele é calma mais concentrado aqui,
+
+368
+00:21:18,220 --> 00:21:19,820
+entre um e o item de um e o 90,
+
+369
+00:21:19,820 --> 00:21:23,100
+mas ele também tem vários jogadores altos,
+
+370
+00:21:23,100 --> 00:21:25,260
+então aqui, considerando o vole,
+
+371
+00:21:25,260 --> 00:21:26,460
+onde vê que, por exemplo,
+
+372
+00:21:26,460 --> 00:21:28,140
+ele tem uma tendência,
+
+373
+00:21:28,140 --> 00:21:29,900
+aficar,
+
+374
+00:21:29,900 --> 00:21:31,900
+na parte superior aqui do nosso gráfico,
+
+375
+00:21:31,900 --> 00:21:33,100
+certo?
+
+376
+00:21:33,100 --> 00:21:34,460
+Superior direita,
+
+377
+00:21:34,460 --> 00:21:35,580
+mas, ao mesmo tempo,
+
+378
+00:21:35,580 --> 00:21:37,900
+existem também outros corpos,
+
+379
+00:21:37,900 --> 00:21:38,700
+que,
+
+380
+00:21:38,700 --> 00:21:40,060
+não tão,
+
+381
+00:21:40,060 --> 00:21:42,460
+não nesse grupo principal, né?
+
+382
+00:21:42,460 --> 00:21:44,060
+Mas, concentração principal,
+
+383
+00:21:44,060 --> 00:21:45,100
+e o que são, por exemplo,
+
+384
+00:21:45,100 --> 00:21:46,620
+o vole já fazendo a socialção,
+
+385
+00:21:46,620 --> 00:21:48,380
+são os libros, provavelmente,
+
+386
+00:21:48,380 --> 00:21:49,340
+que são pessoal,
+
+387
+00:21:49,340 --> 00:21:50,140
+o que só defende,
+
+388
+00:21:50,140 --> 00:21:51,100
+não precisa ser alto,
+
+389
+00:21:51,100 --> 00:21:52,220
+geralmente alguém mais móvel,
+
+390
+00:21:52,220 --> 00:21:53,180
+o baixinho,
+
+391
+00:21:53,180 --> 00:21:54,060
+então,
+
+392
+00:21:54,060 --> 00:21:54,620
+é, de provavelmente,
+
+393
+00:21:54,620 --> 00:21:56,060
+esses aqui são os libros do vole,
+
+394
+00:21:56,060 --> 00:21:57,260
+e a gente vê como, por exemplo,
+
+395
+00:21:57,260 --> 00:22:00,300
+estão distanciados aqui do grupo principal.
+
+396
+00:22:02,620 --> 00:22:03,980
+Outro coisa legal,
+
+397
+00:22:03,980 --> 00:22:05,020
+é o basquete, né?
+
+398
+00:22:05,020 --> 00:22:06,380
+Acho que o basquete é o mais claro,
+
+399
+00:22:06,380 --> 00:22:07,180
+para a gente,
+
+400
+00:22:07,180 --> 00:22:07,580
+olha como,
+
+401
+00:22:07,580 --> 00:22:09,020
+o basquete acaba concentrado
+
+402
+00:22:09,020 --> 00:22:11,020
+na parte direita superior.
+
+403
+00:22:11,020 --> 00:22:11,740
+Então,
+
+404
+00:22:11,740 --> 00:22:12,780
+se a gente pegar aqui,
+
+405
+00:22:12,780 --> 00:22:13,580
+acho que,
+
+406
+00:22:13,580 --> 00:22:15,260
+nessa segunda aqui,
+
+407
+00:22:15,260 --> 00:22:15,980
+olha,
+
+408
+00:22:15,980 --> 00:22:17,420
+basquamente quase todo mundo
+
+409
+00:22:17,420 --> 00:22:19,980
+do basquete está concentrada aqui, certo?
+
+410
+00:22:19,980 --> 00:22:20,460
+E,
+
+411
+00:22:20,460 --> 00:22:21,660
+exatamente isso,
+
+412
+00:22:21,660 --> 00:22:23,260
+que a gente tem a noção de basquete,
+
+413
+00:22:23,260 --> 00:22:24,620
+é um pessoal bem mais alto,
+
+414
+00:22:24,620 --> 00:22:25,660
+bem mais,
+
+415
+00:22:25,660 --> 00:22:26,860
+naturalmente pesado,
+
+416
+00:22:26,860 --> 00:22:27,660
+também.
+
+417
+00:22:27,660 --> 00:22:28,700
+É,
+
+418
+00:22:28,700 --> 00:22:29,100
+e,
+
+419
+00:22:29,100 --> 00:22:29,660
+com isso,
+
+420
+00:22:29,660 --> 00:22:30,300
+faz que o pessoal
+
+421
+00:22:30,300 --> 00:22:31,740
+basquete ter de praticado,
+
+422
+00:22:31,740 --> 00:22:33,180
+mas a gente vê também
+
+423
+00:22:33,180 --> 00:22:34,860
+os azuis aqui,
+
+424
+00:22:34,860 --> 00:22:37,500
+pessoal mais baixo do basquete,
+
+425
+00:22:37,500 --> 00:22:38,340
+e,
+
+426
+00:22:38,340 --> 00:22:39,260
+é natural também,
+
+427
+00:22:39,260 --> 00:22:40,140
+esses alguns,
+
+428
+00:22:40,140 --> 00:22:41,740
+no basquete tem uma armadura ali,
+
+429
+00:22:41,740 --> 00:22:41,900
+que,
+
+430
+00:22:41,900 --> 00:22:42,460
+generalmente,
+
+431
+00:22:42,460 --> 00:22:43,500
+não é tão alto,
+
+432
+00:22:43,500 --> 00:22:45,260
+mas a grande concentração,
+
+433
+00:22:45,260 --> 00:22:45,900
+é,
+
+434
+00:22:45,900 --> 00:22:47,500
+na parte do pessoal de pelo menos,
+
+435
+00:22:47,500 --> 00:22:49,340
+com mais de um e novento, né?
+
+436
+00:22:49,340 --> 00:22:50,140
+E,
+
+437
+00:22:50,140 --> 00:22:51,660
+a gente sente o observar aqui,
+
+438
+00:22:51,660 --> 00:22:52,540
+os que são
+
+439
+00:22:52,540 --> 00:22:53,340
+altilais,
+
+440
+00:22:53,340 --> 00:22:53,500
+né?
+
+441
+00:22:53,500 --> 00:22:54,140
+Estou tais,
+
+442
+00:22:54,140 --> 00:22:55,980
+os que estão bem fora da cúver.
+
+443
+00:22:57,260 --> 00:22:57,740
+Então,
+
+444
+00:22:57,740 --> 00:22:59,420
+tanto para baixo aqui,
+
+445
+00:22:59,420 --> 00:23:00,060
+a gente vê que,
+
+446
+00:23:00,060 --> 00:23:00,700
+por o triato,
+
+447
+00:23:00,700 --> 00:23:01,900
+então, pessoal,
+
+448
+00:23:01,900 --> 00:23:03,500
+entre 150,
+
+449
+00:23:03,500 --> 00:23:05,500
+e 160,
+
+450
+00:23:05,500 --> 00:23:06,700
+e,
+
+451
+00:23:06,700 --> 00:23:07,420
+assim,
+
+452
+00:23:07,420 --> 00:23:08,540
+menos de 50,
+
+453
+00:23:08,540 --> 00:23:09,180
+que uns,
+
+454
+00:23:09,180 --> 00:23:10,380
+todos com menos de 50,
+
+455
+00:23:10,380 --> 00:23:11,580
+são os dois de parário,
+
+456
+00:23:11,580 --> 00:23:13,420
+são a pletta de triato,
+
+457
+00:23:13,420 --> 00:23:15,580
+e todos com mais de,
+
+458
+00:23:15,580 --> 00:23:16,780
+todos com exceção de um,
+
+459
+00:23:16,780 --> 00:23:18,780
+dois com mais de dois e dez,
+
+460
+00:23:18,780 --> 00:23:21,020
+são a pletta de basquete.
+
+461
+00:23:21,020 --> 00:23:21,900
+Então, a gente percebe
+
+462
+00:23:21,900 --> 00:23:23,260
+essa extremidade de corcos,
+
+463
+00:23:23,260 --> 00:23:24,300
+tanto no basquete,
+
+464
+00:23:24,300 --> 00:23:25,180
+contra o motoriato,
+
+465
+00:23:25,180 --> 00:23:25,420
+não é?
+
+466
+00:23:25,420 --> 00:23:26,060
+O triato mundialmente,
+
+467
+00:23:26,060 --> 00:23:27,260
+o pessoal bem,
+
+468
+00:23:27,260 --> 00:23:27,820
+é,
+
+469
+00:23:27,820 --> 00:23:29,820
+baixinho e mais bem leve,
+
+470
+00:23:29,820 --> 00:23:30,540
+quanto no basquete,
+
+471
+00:23:30,540 --> 00:23:31,980
+o pessoal bem alto,
+
+472
+00:23:31,980 --> 00:23:33,340
+que naturalmente é mais pesadente.
+
+473
+00:23:33,340 --> 00:23:35,340
+Viam, os atletes aqui do basquete,
+
+474
+00:23:35,340 --> 00:23:36,780
+ou com,
+
+475
+00:23:36,780 --> 00:23:38,300
+como eu estou aqui,
+
+476
+00:23:38,300 --> 00:23:40,060
+mas a gente viu alguns atletas do basquete,
+
+477
+00:23:40,060 --> 00:23:42,460
+com mais de dois mais de 20,
+
+478
+00:23:43,420 --> 00:23:45,660
+então, tem dois atletas aqui do basquete,
+
+479
+00:23:45,660 --> 00:23:47,260
+com mais de dois mais de 20,
+
+480
+00:23:47,260 --> 00:23:47,820
+então,
+
+481
+00:23:47,820 --> 00:23:49,420
+realmente, impressionante,
+
+482
+00:23:49,420 --> 00:23:50,060
+então,
+
+483
+00:23:50,060 --> 00:23:51,260
+o tanto de formação que a gente consegue
+
+484
+00:23:51,260 --> 00:23:51,660
+estar aí,
+
+485
+00:23:51,660 --> 00:23:52,940
+do gráfico de pressão,
+
+486
+00:23:52,940 --> 00:23:54,860
+ou relacionando dos variables,
+
+487
+00:23:54,860 --> 00:23:56,940
+considerando três categorias aqui,
+
+488
+00:23:56,940 --> 00:23:58,380
+e esse é um gráfico real,
+
+489
+00:23:58,380 --> 00:23:58,620
+né?
+
+490
+00:23:58,620 --> 00:24:00,060
+Do as atletas olímpicos
+
+491
+00:24:00,060 --> 00:24:02,060
+da Zermingando a Unipiada Gito,
+
+492
+00:24:02,060 --> 00:24:03,020
+Tokyo.
+
+493
+00:24:03,020 --> 00:24:06,780
+Outro gráfico, acho interessante,
+
+494
+00:24:06,780 --> 00:24:08,300
+é o gráfico de área,
+
+495
+00:24:08,300 --> 00:24:09,580
+o gráfico de área,
+
+496
+00:24:09,580 --> 00:24:11,660
+ele também fala de evolução
+
+497
+00:24:11,660 --> 00:24:12,220
+longo do tempo,
+
+498
+00:24:12,220 --> 00:24:13,820
+assim como o gráfico de linha,
+
+499
+00:24:13,820 --> 00:24:15,420
+mas ele é mais interessante,
+
+500
+00:24:15,420 --> 00:24:17,100
+principalmente para a gente
+
+501
+00:24:17,100 --> 00:24:19,660
+considerar uma acumulação,
+
+502
+00:24:19,660 --> 00:24:20,940
+então considera uma acumulação
+
+503
+00:24:20,940 --> 00:24:23,660
+no sentido de um oixo e oixo e oixo.
+
+504
+00:24:23,660 --> 00:24:24,540
+Eles,
+
+505
+00:24:24,540 --> 00:24:26,300
+eles sempre mais são total,
+
+506
+00:24:26,300 --> 00:24:27,100
+certo?
+
+507
+00:24:27,100 --> 00:24:27,900
+Então aqui,
+
+508
+00:24:27,900 --> 00:24:28,620
+não oixo e oixo,
+
+509
+00:24:28,620 --> 00:24:29,340
+não.
+
+510
+00:24:29,340 --> 00:24:31,020
+A gente tem um total,
+
+511
+00:24:31,020 --> 00:24:32,460
+que será distribuído,
+
+512
+00:24:32,460 --> 00:24:35,020
+entre diferentes grupos ao longo do tempo.
+
+513
+00:24:35,020 --> 00:24:35,580
+Então aqui,
+
+514
+00:24:35,580 --> 00:24:36,460
+a gente tem uma série histórica,
+
+515
+00:24:36,460 --> 00:24:37,740
+igual ao gráfico de linha,
+
+516
+00:24:37,740 --> 00:24:39,340
+mas diferente do gráfico de linha,
+
+517
+00:24:39,340 --> 00:24:41,500
+e a gente poderia fazer do gráfico de linha,
+
+518
+00:24:41,500 --> 00:24:43,500
+sendo cada um desses grupos uma linha,
+
+519
+00:24:44,860 --> 00:24:46,300
+aqui a gente tem um total,
+
+520
+00:24:46,300 --> 00:24:48,460
+então, consolidado de vendas,
+
+521
+00:24:48,460 --> 00:24:50,380
+e por que esse gráfico é muito interessante?
+
+522
+00:24:50,380 --> 00:24:51,900
+Ele traz,
+
+523
+00:24:51,900 --> 00:24:53,100
+justamente,
+
+524
+00:24:53,100 --> 00:24:55,260
+a magnitud de das mudanças
+
+525
+00:24:55,260 --> 00:24:57,340
+em um determinado grupo ao longo do tempo,
+
+526
+00:24:57,340 --> 00:24:58,140
+ainda é,
+
+527
+00:24:58,140 --> 00:25:00,380
+junto a vários grupos ao longo do tempo.
+
+528
+00:25:00,380 --> 00:25:01,500
+Então, um exemplo muito,
+
+529
+00:25:01,500 --> 00:25:02,700
+que eu acho sempre muito interessante,
+
+530
+00:25:02,700 --> 00:25:03,260
+esse gráfico,
+
+531
+00:25:03,260 --> 00:25:04,220
+como os gráficos mais legais,
+
+532
+00:25:04,220 --> 00:25:05,820
+que eu acho que existem,
+
+533
+00:25:05,820 --> 00:25:07,500
+porque a gente pode conseguir relacionar
+
+534
+00:25:07,500 --> 00:25:08,460
+com o nosso vida,
+
+535
+00:25:08,460 --> 00:25:09,260
+assim mesmo,
+
+536
+00:25:10,940 --> 00:25:11,660
+então,
+
+537
+00:25:12,860 --> 00:25:13,820
+vamos lá,
+
+538
+00:25:13,820 --> 00:25:14,780
+a gente tem aqui,
+
+539
+00:25:15,100 --> 00:25:17,900
+o mercado de músicas no Estados Unidos,
+
+540
+00:25:17,900 --> 00:25:19,500
+por formato,
+
+541
+00:25:19,500 --> 00:25:21,020
+ajustado pela inflação,
+
+542
+00:25:21,020 --> 00:25:21,900
+porque, claro,
+
+543
+00:25:21,900 --> 00:25:22,540
+é,
+
+544
+00:25:22,540 --> 00:25:23,340
+antigamente,
+
+545
+00:25:23,340 --> 00:25:23,980
+vale a menos,
+
+546
+00:25:23,980 --> 00:25:26,140
+então a gente tem que ajustar pela inflação.
+
+547
+00:25:27,020 --> 00:25:27,980
+Então,
+
+548
+00:25:28,220 --> 00:25:28,780
+vamos lá,
+
+549
+00:25:28,780 --> 00:25:29,500
+a gente começa aqui,
+
+550
+00:25:29,500 --> 00:25:30,620
+como a gente track,
+
+551
+00:25:30,620 --> 00:25:32,220
+a gente tem o vimil,
+
+552
+00:25:33,420 --> 00:25:34,940
+provavelmente está na geração
+
+553
+00:25:34,940 --> 00:25:36,940
+da grande maioria dos nossos pais,
+
+554
+00:25:37,340 --> 00:25:37,820
+e aí,
+
+555
+00:25:38,780 --> 00:25:39,660
+o casete,
+
+556
+00:25:39,660 --> 00:25:40,460
+já entra aqui,
+
+557
+00:25:41,340 --> 00:25:43,100
+a partir de 1980,
+
+558
+00:25:43,100 --> 00:25:43,660
+então,
+
+559
+00:25:43,660 --> 00:25:45,020
+o que é o período aqui?
+
+560
+00:25:45,900 --> 00:25:46,380
+Vamos lá,
+
+561
+00:25:46,380 --> 00:25:46,940
+me ajudam,
+
+562
+00:25:46,940 --> 00:25:47,500
+vocês?
+
+563
+00:25:47,500 --> 00:25:48,780
+O que é o período entre
+
+564
+00:25:49,580 --> 00:25:51,420
+mil novecentos e o tempo
+
+565
+00:25:51,420 --> 00:25:51,580
+é,
+
+566
+00:25:51,580 --> 00:25:52,220
+sim,
+
+567
+00:25:52,220 --> 00:25:54,220
+e o ano de 1980,
+
+568
+00:25:54,220 --> 00:25:55,180
+o período aqui,
+
+569
+00:25:55,180 --> 00:25:56,540
+entre as duas faixas vozes,
+
+570
+00:25:56,540 --> 00:25:57,420
+indica pra gente.
+
+571
+00:25:59,500 --> 00:26:01,740
+Vamos lá,
+
+572
+00:26:01,740 --> 00:26:02,540
+vamos lá,
+
+573
+00:26:02,540 --> 00:26:05,660
+o lançamento do
+
+574
+00:26:05,660 --> 00:26:06,780
+vídeo de cassette
+
+575
+00:26:06,780 --> 00:26:08,860
+e o Decline do Vinho.
+
+576
+00:26:08,860 --> 00:26:10,060
+A sua instituição,
+
+577
+00:26:10,780 --> 00:26:11,980
+exatamente.
+
+578
+00:26:12,940 --> 00:26:13,740
+Então,
+
+579
+00:26:14,300 --> 00:26:15,900
+foi exatamente isso que aconteceu,
+
+580
+00:26:15,900 --> 00:26:17,580
+o vinho foi morrendo
+
+581
+00:26:17,580 --> 00:26:18,940
+na longo desse 5 anos,
+
+582
+00:26:18,940 --> 00:26:20,220
+enquanto o cassete foi lançado,
+
+583
+00:26:20,220 --> 00:26:21,100
+que ele foi dominando,
+
+584
+00:26:21,100 --> 00:26:21,820
+mercado.
+
+585
+00:26:21,820 --> 00:26:22,780
+E de certa forma,
+
+586
+00:26:22,780 --> 00:26:23,820
+mercado cresceu,
+
+587
+00:26:23,820 --> 00:26:24,220
+certo?
+
+588
+00:26:24,220 --> 00:26:24,620
+Porque aqui,
+
+589
+00:26:24,620 --> 00:26:25,340
+se a gente foi considerando,
+
+590
+00:26:25,340 --> 00:26:26,540
+a mercado estava no ponto de
+
+591
+00:26:26,540 --> 00:26:28,940
+5 bilhões de dólares a um ano,
+
+592
+00:26:29,500 --> 00:26:31,180
+quando ele chegou no áudio do cassette,
+
+593
+00:26:31,180 --> 00:26:32,300
+ele batiu
+
+594
+00:26:32,300 --> 00:26:34,140
+aqui um set de bilhões a um ano.
+
+595
+00:26:34,140 --> 00:26:35,820
+Então, teve um pequeno crescimento.
+
+596
+00:26:36,620 --> 00:26:37,340
+E,
+
+597
+00:26:37,340 --> 00:26:37,900
+ali,
+
+598
+00:26:37,900 --> 00:26:39,180
+para o ano de vinho,
+
+599
+00:26:39,180 --> 00:26:40,140
+91,
+
+600
+00:26:40,140 --> 00:26:40,940
+por ali,
+
+601
+00:26:40,940 --> 00:26:41,900
+começou,
+
+602
+00:26:41,900 --> 00:26:42,780
+chegou com tudo,
+
+603
+00:26:42,780 --> 00:26:43,580
+o CD.
+
+604
+00:26:43,580 --> 00:26:44,220
+E o CD,
+
+605
+00:26:44,220 --> 00:26:45,100
+diferente do cassette,
+
+606
+00:26:45,100 --> 00:26:46,780
+ele já teve um crescimento,
+
+607
+00:26:47,660 --> 00:26:49,820
+tem exponencial aqui no caso,
+
+608
+00:26:49,820 --> 00:26:50,780
+diferente do cassette,
+
+609
+00:26:50,780 --> 00:26:51,740
+que teve um crescimento,
+
+610
+00:26:51,740 --> 00:26:53,580
+muito mais brinac,
+
+611
+00:26:53,580 --> 00:26:54,940
+aqui a gente tem um crescimento,
+
+612
+00:26:54,940 --> 00:26:55,820
+exponencial.
+
+613
+00:26:57,020 --> 00:26:57,580
+E,
+
+614
+00:26:57,580 --> 00:26:58,780
+a gente batou um pico
+
+615
+00:26:58,780 --> 00:27:00,140
+da indústria da música,
+
+616
+00:27:00,140 --> 00:27:01,980
+aqui no ano de...
+
+617
+00:27:01,980 --> 00:27:02,540
+ou pra...
+
+618
+00:27:03,980 --> 00:27:04,700
+um...
+
+619
+00:27:04,700 --> 00:27:05,340
+Bruno.
+
+620
+00:27:06,460 --> 00:27:06,940
+Aqui.
+
+621
+00:27:07,900 --> 00:27:08,860
+No ano de...
+
+622
+00:27:11,260 --> 00:27:12,060
+dois...
+
+623
+00:27:12,060 --> 00:27:12,860
+Ó, de batê,
+
+624
+00:27:12,860 --> 00:27:14,060
+20 bilhões de dólares,
+
+625
+00:27:14,060 --> 00:27:16,540
+lá pro ano de 99, 2000.
+
+626
+00:27:18,140 --> 00:27:19,020
+E aí,
+
+627
+00:27:19,020 --> 00:27:20,380
+eu já lembro dessa época,
+
+628
+00:27:20,380 --> 00:27:21,340
+mas era...
+
+629
+00:27:21,340 --> 00:27:22,700
+realmente as febras do CD,
+
+630
+00:27:22,700 --> 00:27:22,860
+né?
+
+631
+00:27:22,860 --> 00:27:23,660
+Todo mundo me chamava
+
+632
+00:27:23,660 --> 00:27:24,060
+de CD,
+
+633
+00:27:24,060 --> 00:27:24,860
+em casa,
+
+634
+00:27:24,860 --> 00:27:26,140
+os novoes aqui no Brasil
+
+635
+00:27:26,140 --> 00:27:27,020
+eram feitos
+
+636
+00:27:27,020 --> 00:27:27,860
+para...
+
+637
+00:27:27,860 --> 00:27:29,260
+para o pessoal guardar CD.
+
+638
+00:27:30,060 --> 00:27:30,540
+Então,
+
+639
+00:27:30,540 --> 00:27:31,580
+tinha lá até verde,
+
+640
+00:27:31,580 --> 00:27:32,300
+casa,
+
+641
+00:27:32,300 --> 00:27:33,500
+as entradinhas do disco,
+
+642
+00:27:33,500 --> 00:27:34,380
+vocês lembram
+
+643
+00:27:34,380 --> 00:27:35,660
+e para vários CDs,
+
+644
+00:27:35,660 --> 00:27:35,980
+assim,
+
+645
+00:27:35,980 --> 00:27:36,940
+o pessoal guardava do CD,
+
+646
+00:27:36,940 --> 00:27:37,740
+tudo que é tipo...
+
+647
+00:27:38,940 --> 00:27:39,740
+Então era...
+
+648
+00:27:39,740 --> 00:27:40,700
+era uma coisa muito legal,
+
+649
+00:27:40,700 --> 00:27:40,860
+né?
+
+650
+00:27:40,860 --> 00:27:41,740
+Tinha os...
+
+651
+00:27:41,740 --> 00:27:42,460
+aquelas...
+
+652
+00:27:42,940 --> 00:27:43,900
+caixas gigantes,
+
+653
+00:27:43,900 --> 00:27:44,860
+né, que ficar um passando
+
+654
+00:27:44,860 --> 00:27:45,260
+assim,
+
+655
+00:27:45,260 --> 00:27:46,700
+com o f sumar o bucan de passado
+
+656
+00:27:46,700 --> 00:27:47,340
+do CDs,
+
+657
+00:27:47,580 --> 00:27:47,980
+pessoal,
+
+658
+00:27:47,980 --> 00:27:48,780
+mas não vai lembrar,
+
+659
+00:27:48,780 --> 00:27:50,460
+mas era um febre CD,
+
+660
+00:27:50,860 --> 00:27:52,620
+e realmente era a tchau loja de CD,
+
+661
+00:27:52,620 --> 00:27:52,780
+né?
+
+662
+00:27:52,780 --> 00:27:53,660
+Então, várias lojas,
+
+663
+00:27:53,660 --> 00:27:54,780
+eu lembro em Brasília,
+
+664
+00:27:54,780 --> 00:27:55,740
+tinha um ano...
+
+665
+00:27:55,900 --> 00:27:57,500
+era uma rede de lojas,
+
+666
+00:27:57,820 --> 00:27:59,820
+era tinha um dos 20 rede de lojas,
+
+667
+00:28:00,460 --> 00:28:02,380
+era essa loja de CD,
+
+668
+00:28:02,380 --> 00:28:03,580
+então era algo muito,
+
+669
+00:28:03,580 --> 00:28:04,060
+muito grande.
+
+670
+00:28:04,860 --> 00:28:06,620
+E a partir de...
+
+671
+00:28:06,620 --> 00:28:08,060
+ele bateu o áudio ali no
+
+672
+00:28:08,060 --> 00:28:09,580
+venta e vai dois milhão,
+
+673
+00:28:09,580 --> 00:28:10,620
+dois milhão,
+
+674
+00:28:11,020 --> 00:28:12,860
+e a partir de daqui ele começou a cair,
+
+675
+00:28:14,860 --> 00:28:16,140
+ele começou a cair,
+
+676
+00:28:16,140 --> 00:28:17,900
+significativamente.
+
+677
+00:28:19,980 --> 00:28:21,820
+E por que vocês acham que ele começou a cair?
+
+678
+00:28:22,860 --> 00:28:23,500
+Agora,
+
+679
+00:28:26,700 --> 00:28:28,140
+vamos ter que acessar com a nossa vida,
+
+680
+00:28:28,140 --> 00:28:30,700
+por que vocês já estavam vivos, né?
+
+681
+00:28:30,700 --> 00:28:32,700
+O que aconteceu com o mercado da música,
+
+682
+00:28:33,740 --> 00:28:34,860
+depois de 2000,
+
+683
+00:28:35,980 --> 00:28:36,780
+até 2000,
+
+684
+00:28:36,780 --> 00:28:38,380
+e os pessoas pararam de ouvir música?
+
+685
+00:28:39,260 --> 00:28:39,980
+Piracaria?
+
+686
+00:28:41,820 --> 00:28:42,780
+Tem feito,
+
+687
+00:28:42,780 --> 00:28:43,580
+defeitos,
+
+688
+00:28:43,580 --> 00:28:44,780
+era pirataria.
+
+689
+00:28:45,100 --> 00:28:45,740
+E no...
+
+690
+00:28:45,740 --> 00:28:47,340
+A pirataria foi lembra
+
+691
+00:28:47,340 --> 00:28:48,860
+um torrente
+
+692
+00:28:48,860 --> 00:28:49,820
+com casar...
+
+693
+00:28:49,820 --> 00:28:50,300
+Ah,
+
+694
+00:28:50,300 --> 00:28:51,500
+um CD,
+
+695
+00:28:51,500 --> 00:28:52,220
+você era feira,
+
+696
+00:28:52,220 --> 00:28:53,980
+comprava o CD do disco,
+
+697
+00:28:54,060 --> 00:28:55,100
+que o pessoal baixava,
+
+698
+00:28:55,100 --> 00:28:57,020
+e esse botava um MP3.
+
+699
+00:28:57,020 --> 00:28:58,620
+Então, todo mundo dá um jeito
+
+700
+00:28:58,620 --> 00:28:59,100
+ali,
+
+701
+00:28:59,100 --> 00:29:00,700
+então teve um período ali do limbo,
+
+702
+00:29:00,700 --> 00:29:02,060
+né, que todo mundo dá um jeito
+
+703
+00:29:02,060 --> 00:29:02,940
+em dia baixar a música,
+
+704
+00:29:02,940 --> 00:29:05,580
+botanha, um lugar no MP3.
+
+705
+00:29:05,580 --> 00:29:07,740
+E o que aconteceu com o mercado da música?
+
+706
+00:29:07,740 --> 00:29:09,100
+Ele foi morrendo,
+
+707
+00:29:09,100 --> 00:29:10,780
+o mercado de música,
+
+708
+00:29:10,780 --> 00:29:11,580
+vendo de música,
+
+709
+00:29:11,580 --> 00:29:12,700
+começou a morrer.
+
+710
+00:29:12,700 --> 00:29:13,340
+E a gente vê,
+
+711
+00:29:13,340 --> 00:29:14,300
+isso justamente aqui,
+
+712
+00:29:14,300 --> 00:29:15,580
+ele bateu a o áudio de 2020,
+
+713
+00:29:15,580 --> 00:29:16,060
+bilhões,
+
+714
+00:29:16,060 --> 00:29:17,340
+ainda em 2000,
+
+715
+00:29:17,340 --> 00:29:17,740
+nenhum.
+
+716
+00:29:17,740 --> 00:29:19,020
+Ele começou a morrer,
+
+717
+00:29:19,020 --> 00:29:20,940
+considerando que em 2000
+
+718
+00:29:20,940 --> 00:29:22,220
+e dez aqui,
+
+719
+00:29:22,220 --> 00:29:23,260
+ele estava menor do que
+
+720
+00:29:23,260 --> 00:29:23,900
+o que nunca,
+
+721
+00:29:23,900 --> 00:29:24,620
+menor do que ele,
+
+722
+00:29:24,620 --> 00:29:25,820
+lá na década de 70,
+
+723
+00:29:25,820 --> 00:29:27,020
+por vinho.
+
+724
+00:29:27,020 --> 00:29:27,900
+Então,
+
+725
+00:29:27,900 --> 00:29:28,940
+aqui a gente vê também
+
+726
+00:29:28,940 --> 00:29:30,300
+que tem o modelo de download,
+
+727
+00:29:30,300 --> 00:29:31,340
+né, que,
+
+728
+00:29:31,340 --> 00:29:32,140
+bem curto aqui,
+
+729
+00:29:32,140 --> 00:29:34,140
+que veio com a eta,
+
+730
+00:29:34,140 --> 00:29:35,900
+né, no iTunes,
+
+731
+00:29:35,900 --> 00:29:37,500
+que se comprava o CD,
+
+732
+00:29:37,500 --> 00:29:38,700
+digital,
+
+733
+00:29:38,700 --> 00:29:39,900
+mas foi muito pequeno,
+
+734
+00:29:39,900 --> 00:29:40,700
+que as pessoas manderia
+
+735
+00:29:40,700 --> 00:29:41,020
+no carro,
+
+736
+00:29:41,020 --> 00:29:41,740
+não fazia sentido,
+
+737
+00:29:41,740 --> 00:29:42,140
+não producto.
+
+738
+00:29:42,140 --> 00:29:44,380
+Que...
+
+739
+00:29:44,380 --> 00:29:46,140
+A piata aí passou de certa forma,
+
+740
+00:29:46,140 --> 00:29:47,180
+você...
+
+741
+00:29:47,180 --> 00:29:48,300
+aceita na vida das pessoas,
+
+742
+00:29:48,300 --> 00:29:49,820
+que era muito mais fácil.
+
+743
+00:29:49,820 --> 00:29:50,140
+Você...
+
+744
+00:29:50,140 --> 00:29:51,020
+Não fazia muito sentido
+
+745
+00:29:51,020 --> 00:29:52,220
+de você pagar,
+
+746
+00:29:52,220 --> 00:29:52,780
+de enreio,
+
+747
+00:29:52,780 --> 00:29:53,420
+pagar 20,
+
+748
+00:29:53,420 --> 00:29:53,980
+30 reais,
+
+749
+00:29:53,980 --> 00:29:54,380
+no CD,
+
+750
+00:29:54,380 --> 00:29:55,740
+que vai ficar digital,
+
+751
+00:29:55,740 --> 00:29:56,380
+sendo que você pode
+
+752
+00:29:56,380 --> 00:29:57,660
+ter aquele arquivo,
+
+753
+00:29:57,660 --> 00:29:58,140
+e,
+
+754
+00:29:58,140 --> 00:29:58,700
+no épico,
+
+755
+00:29:58,700 --> 00:29:59,100
+por exemplo,
+
+756
+00:29:59,100 --> 00:29:59,500
+a iTunes,
+
+757
+00:29:59,500 --> 00:29:59,820
+nem,
+
+758
+00:29:59,820 --> 00:30:00,460
+só permitir,
+
+759
+00:30:00,460 --> 00:30:00,780
+por exemplo,
+
+760
+00:30:00,780 --> 00:30:02,380
+você cargar as músicas no seu
+
+761
+00:30:02,380 --> 00:30:03,500
+o iPod,
+
+762
+00:30:03,500 --> 00:30:03,580
+né?
+
+763
+00:30:03,580 --> 00:30:03,980
+Então,
+
+764
+00:30:03,980 --> 00:30:04,220
+enfim,
+
+765
+00:30:04,220 --> 00:30:05,580
+já tinha um tchau mais absurdo
+
+766
+00:30:05,580 --> 00:30:06,940
+em termos de...
+
+767
+00:30:06,940 --> 00:30:08,140
+é de...
+
+768
+00:30:08,140 --> 00:30:09,020
+a seisperidades,
+
+769
+00:30:09,020 --> 00:30:09,260
+né,
+
+770
+00:30:09,260 --> 00:30:10,140
+realmente.
+
+771
+00:30:10,140 --> 00:30:11,580
+E as pessoas...
+
+772
+00:30:11,580 --> 00:30:12,940
+seguiram pelo...
+
+773
+00:30:12,940 --> 00:30:14,060
+Porque ela sempre fazem,
+
+774
+00:30:14,060 --> 00:30:14,940
+né, na internet.
+
+775
+00:30:14,940 --> 00:30:15,740
+Pelo caminho,
+
+776
+00:30:15,740 --> 00:30:16,860
+mais fácil,
+
+777
+00:30:16,860 --> 00:30:17,820
+para o...
+
+778
+00:30:17,820 --> 00:30:18,940
+vida das pessoas mesmo,
+
+779
+00:30:18,940 --> 00:30:19,100
+né,
+
+780
+00:30:19,100 --> 00:30:19,660
+então,
+
+781
+00:30:19,660 --> 00:30:21,580
+o que vai ser mais fácil para a minha vida?
+
+782
+00:30:21,580 --> 00:30:22,780
+Consegui baixar uma música aqui,
+
+783
+00:30:22,780 --> 00:30:24,380
+que eu consigo botar em todos os lugares,
+
+784
+00:30:24,380 --> 00:30:25,220
+ou ter que pagar
+
+785
+00:30:25,220 --> 00:30:26,820
+para uma plataforma específica
+
+786
+00:30:26,820 --> 00:30:28,780
+para ter um CD virtual.
+
+787
+00:30:28,780 --> 00:30:29,980
+Então, por isso que eu cedeis
+
+788
+00:30:29,980 --> 00:30:30,340
+virtual,
+
+789
+00:30:30,340 --> 00:30:30,780
+não...
+
+790
+00:30:30,780 --> 00:30:32,540
+não pegaram.
+
+791
+00:30:32,540 --> 00:30:34,460
+Mas...
+
+792
+00:30:34,460 --> 00:30:36,460
+o mercado é...
+
+793
+00:30:36,460 --> 00:30:37,500
+muito exigente, né,
+
+794
+00:30:37,500 --> 00:30:39,260
+em sabe disso.
+
+795
+00:30:39,260 --> 00:30:39,980
+E...
+
+796
+00:30:39,980 --> 00:30:42,380
+A partir de 2015,
+
+797
+00:30:42,380 --> 00:30:44,860
+começou a ter uma viradinha.
+
+798
+00:30:44,860 --> 00:30:46,300
+E essa virada aqui,
+
+799
+00:30:46,300 --> 00:30:47,500
+se eu falar para vocês,
+
+800
+00:30:47,500 --> 00:30:48,220
+que esse gráfico também
+
+801
+00:30:48,220 --> 00:30:49,020
+é atualizado, né?
+
+802
+00:30:49,020 --> 00:30:49,820
+Tá indo em 2018,
+
+803
+00:30:49,820 --> 00:30:50,380
+você quer que não é
+
+804
+00:30:50,380 --> 00:30:51,220
+se eu crescer também
+
+805
+00:30:51,220 --> 00:30:53,180
+continuou crescer exponencialmente,
+
+806
+00:30:53,180 --> 00:30:54,140
+crescer a gente ver aqui,
+
+807
+00:30:54,140 --> 00:30:54,620
+ó...
+
+808
+00:30:54,620 --> 00:30:55,820
+Só teve duas coisas
+
+809
+00:30:55,820 --> 00:30:57,100
+exponenciales
+
+810
+00:30:57,100 --> 00:30:58,220
+nesse gráfico inteiro.
+
+811
+00:30:58,220 --> 00:30:59,580
+Aqui, deixou...
+
+812
+00:31:02,540 --> 00:31:04,220
+Talvez, afirm o comeceiro do vinil,
+
+813
+00:31:04,220 --> 00:31:04,940
+vai,
+
+814
+00:31:04,940 --> 00:31:05,740
+mas, com certeza,
+
+815
+00:31:05,740 --> 00:31:07,260
+aqui no comeceiro do CD.
+
+816
+00:31:08,460 --> 00:31:10,700
+E no comeceiro do streaming.
+
+817
+00:31:11,820 --> 00:31:12,380
+No da noite,
+
+818
+00:31:12,380 --> 00:31:12,860
+gente vê,
+
+819
+00:31:12,860 --> 00:31:14,060
+foi bem...
+
+820
+00:31:14,060 --> 00:31:14,780
+não convivem,
+
+821
+00:31:14,780 --> 00:31:15,020
+bem,
+
+822
+00:31:15,020 --> 00:31:16,460
+pouco em que nada.
+
+823
+00:31:16,460 --> 00:31:17,180
+E...
+
+824
+00:31:17,180 --> 00:31:18,380
+O que vocês acham?
+
+825
+00:31:19,340 --> 00:31:20,780
+Que a gente começou a voltar...
+
+826
+00:31:22,140 --> 00:31:22,620
+Ai...
+
+827
+00:31:22,620 --> 00:31:23,420
+Mecava da música,
+
+828
+00:31:23,420 --> 00:31:24,460
+começou a voltar crescer,
+
+829
+00:31:24,460 --> 00:31:24,620
+né?
+
+830
+00:31:24,620 --> 00:31:25,260
+Em 2018,
+
+831
+00:31:25,260 --> 00:31:26,300
+ele já tinha batido aqui,
+
+832
+00:31:26,940 --> 00:31:29,420
+quase 6, 7 milhões de dólares de novo.
+
+833
+00:31:29,420 --> 00:31:30,620
+Depois de quase morrer, né?
+
+834
+00:31:35,420 --> 00:31:36,300
+Então, o qual vocês acham que
+
+835
+00:31:36,300 --> 00:31:37,260
+foi estratégia deles?
+
+836
+00:31:37,260 --> 00:31:38,860
+Vamos por relação a nossa vida.
+
+837
+00:31:42,620 --> 00:31:43,660
+No caso, ele fingera
+
+838
+00:31:43,660 --> 00:31:45,660
+você em vez de pagar por uma música,
+
+839
+00:31:46,380 --> 00:31:47,740
+pagar por...
+
+840
+00:31:47,740 --> 00:31:49,020
+por toda aquele de oferece,
+
+841
+00:31:49,020 --> 00:31:49,260
+né?
+
+842
+00:31:49,260 --> 00:31:50,940
+No como só uma mensalidade,
+
+843
+00:31:50,940 --> 00:31:51,820
+em vez de uma coisa...
+
+844
+00:31:52,540 --> 00:31:53,580
+uma fidelidade,
+
+845
+00:31:53,580 --> 00:31:55,340
+ele preferiu cobrar por uma mensalidade.
+
+846
+00:31:56,140 --> 00:31:58,060
+Leito feito, foi isso que eles fizeram.
+
+847
+00:31:58,060 --> 00:31:58,860
+Eles pensaram...
+
+848
+00:31:58,860 --> 00:32:01,100
+Ah, já que as pessoas vão ouvir música,
+
+849
+00:32:01,100 --> 00:32:02,460
+que elas querem de qualquer forma,
+
+850
+00:32:03,340 --> 00:32:04,620
+qual qual o problema da usagora?
+
+851
+00:32:04,620 --> 00:32:05,580
+Por um ano, de elas,
+
+852
+00:32:05,580 --> 00:32:07,820
+elas tem que baixar a música de cada um de um lugar.
+
+853
+00:32:08,460 --> 00:32:09,980
+Ellas não tem,
+
+854
+00:32:09,980 --> 00:32:11,260
+muitas vezes, com fibrilidade,
+
+855
+00:32:12,140 --> 00:32:13,820
+esses temos também muitas vezes
+
+856
+00:32:13,820 --> 00:32:15,900
+eram propícios de transmissão de vírus,
+
+857
+00:32:15,900 --> 00:32:18,540
+então, o liu cara botava no casado a vida,
+
+858
+00:32:18,540 --> 00:32:19,740
+botava um vírus junto
+
+859
+00:32:19,740 --> 00:32:22,380
+da música, então, isso aconteceu muito.
+
+860
+00:32:22,380 --> 00:32:23,820
+E é justamente isso, pessoal.
+
+861
+00:32:23,820 --> 00:32:24,860
+Plata forma de música,
+
+862
+00:32:24,860 --> 00:32:27,340
+Spotify, Giza, YouTube, Music,
+
+863
+00:32:27,340 --> 00:32:29,500
+então esse pessoal conseguiu retomar,
+
+864
+00:32:29,500 --> 00:32:31,660
+eles pegaram os problemas que aconteceu.
+
+865
+00:32:31,660 --> 00:32:32,700
+Então, a gente tem que baixar
+
+866
+00:32:32,700 --> 00:32:33,820
+uns cada um em um lugar,
+
+867
+00:32:33,820 --> 00:32:35,180
+não era tão seguro,
+
+868
+00:32:35,180 --> 00:32:36,380
+muitas vezes,
+
+869
+00:32:36,380 --> 00:32:37,900
+e dáva trabalho,
+
+870
+00:32:37,900 --> 00:32:39,020
+também de organizar a passar
+
+871
+00:32:39,020 --> 00:32:39,980
+para o MP3,
+
+872
+00:32:39,980 --> 00:32:42,380
+passar para o IPOD, enfim.
+
+873
+00:32:42,380 --> 00:32:44,300
+E eles começaram a botar
+
+874
+00:32:44,300 --> 00:32:45,340
+dentro dos aplicativos,
+
+875
+00:32:45,340 --> 00:32:46,300
+todos os músicos,
+
+876
+00:32:46,300 --> 00:32:47,740
+e eles conseguiram retomar.
+
+877
+00:32:47,740 --> 00:32:48,780
+Então, hoje eu não sei,
+
+878
+00:32:48,780 --> 00:32:49,740
+acho que até interessante,
+
+879
+00:32:49,740 --> 00:32:50,620
+alguém quiser pesquisar,
+
+880
+00:32:50,620 --> 00:32:53,500
+depois passar na grupo da comunidade,
+
+881
+00:32:53,500 --> 00:32:55,180
+mas muito legal esse gráfico de área,
+
+882
+00:32:55,180 --> 00:32:56,780
+porque ele mostra justamente isso.
+
+883
+00:32:57,420 --> 00:32:59,260
+Como que o mercado de música
+
+884
+00:32:59,260 --> 00:33:00,460
+foi dividido ao longo do tempo,
+
+885
+00:33:00,460 --> 00:33:01,580
+então, a gente consegue relacionar
+
+886
+00:33:01,580 --> 00:33:02,460
+com eventos históricos,
+
+887
+00:33:02,460 --> 00:33:04,300
+que estão na nossa vida,
+
+888
+00:33:04,300 --> 00:33:06,460
+mas o mais interessante é a gente consegue
+
+889
+00:33:06,460 --> 00:33:08,620
+ver o efeito do mercado
+
+890
+00:33:08,620 --> 00:33:09,180
+todo,
+
+891
+00:33:09,180 --> 00:33:11,340
+e como ele foi distribuído ao longo do tempo,
+
+892
+00:33:11,340 --> 00:33:13,660
+nessas transições de tecnologia.
+
+893
+00:33:15,340 --> 00:33:17,500
+Então, o gráfico de área é outra ferramenta
+
+894
+00:33:17,500 --> 00:33:20,460
+muito legal para a gente usar,
+
+895
+00:33:20,460 --> 00:33:22,700
+quando a gente quer pegar essa visualização
+
+896
+00:33:22,700 --> 00:33:24,300
+dos grupos ao longo do tempo.
+
+897
+00:33:26,860 --> 00:33:28,780
+Outro gráfico,
+
+898
+00:33:28,780 --> 00:33:29,820
+muito legal,
+
+899
+00:33:29,820 --> 00:33:31,980
+é o gráfico de 3 maps,
+
+900
+00:33:31,980 --> 00:33:34,860
+que é o gráfico de Jaavuri,
+
+901
+00:33:34,860 --> 00:33:35,340
+são no Minghane,
+
+902
+00:33:35,340 --> 00:33:35,900
+português,
+
+903
+00:33:35,900 --> 00:33:37,020
+eu não lembro do meu minghane,
+
+904
+00:33:37,740 --> 00:33:40,380
+são no Minghane a gráfico de Jaavuri,
+
+905
+00:33:40,380 --> 00:33:41,900
+não, não é o gráfico de Jaavuri.
+
+906
+00:33:41,900 --> 00:33:42,940
+Mas,
+
+907
+00:33:43,020 --> 00:33:43,900
+é o primeiro maps,
+
+908
+00:33:43,900 --> 00:33:46,460
+mas, principais ferramenta de diversas são mesmo.
+
+909
+00:33:46,460 --> 00:33:48,780
+Ele traz a proporção entre categoria,
+
+910
+00:33:49,580 --> 00:33:52,540
+então esse aqui é um gráfico da proporção global,
+
+911
+00:33:53,660 --> 00:33:55,580
+então a gente vê a caixa grandeona,
+
+912
+00:33:55,580 --> 00:33:57,660
+né, o retango grande,
+
+913
+00:33:57,660 --> 00:33:58,860
+ele é a população global,
+
+914
+00:33:58,860 --> 00:34:00,620
+então a população do planeta Terra,
+
+915
+00:34:00,620 --> 00:34:02,060
+e a gente consegue ver,
+
+916
+00:34:02,060 --> 00:34:04,620
+ele é muito bom para trazer proporções.
+
+917
+00:34:04,620 --> 00:34:07,180
+Então a gente vê que toda essa faixa amarela
+
+918
+00:34:07,980 --> 00:34:08,700
+é a aze,
+
+919
+00:34:09,740 --> 00:34:11,740
+e dentro da aze,
+
+920
+00:34:11,900 --> 00:34:13,500
+só isso aqui é a China,
+
+921
+00:34:13,500 --> 00:34:16,300
+então a gente consegue ter uma noção,
+
+922
+00:34:16,300 --> 00:34:18,060
+de uma manhã da população da China,
+
+923
+00:34:18,060 --> 00:34:19,500
+ação a população global,
+
+924
+00:34:19,500 --> 00:34:22,780
+não, tudo isso aqui é China,
+
+925
+00:34:25,420 --> 00:34:26,460
+e o resto,
+
+926
+00:34:26,460 --> 00:34:27,740
+é o resto do mundo,
+
+927
+00:34:27,740 --> 00:34:29,500
+quando a gente volta a China,
+
+928
+00:34:29,500 --> 00:34:29,980
+em um dia,
+
+929
+00:34:29,980 --> 00:34:31,340
+olha que está a mãe das duas,
+
+930
+00:34:31,340 --> 00:34:33,580
+em relação ao planeta Terra,
+
+931
+00:34:35,980 --> 00:34:37,420
+dá mais de um quarto certo,
+
+932
+00:34:37,420 --> 00:34:38,380
+pessoal, com cola,
+
+933
+00:34:38,380 --> 00:34:40,060
+a gente pegar a China,
+
+934
+00:34:40,060 --> 00:34:42,620
+e não de a gente consegue ver mais um quarto do planeta Terra.
+
+935
+00:34:42,620 --> 00:34:45,500
+No caso esse 3 maps,
+
+936
+00:34:45,500 --> 00:34:46,460
+ele faz um,
+
+937
+00:34:46,460 --> 00:34:49,020
+ele fez um de visão por,
+
+938
+00:34:49,020 --> 00:34:50,300
+por continente,
+
+939
+00:34:50,300 --> 00:34:51,340
+e tudo,
+
+940
+00:34:51,340 --> 00:34:54,140
+dentro com o que ele queria entender.
+
+941
+00:34:54,140 --> 00:34:55,100
+Ele não quer a beco,
+
+942
+00:34:55,100 --> 00:34:55,900
+e menusem um ali,
+
+943
+00:34:55,900 --> 00:34:56,700
+ele não colocou nome,
+
+944
+00:34:56,700 --> 00:34:58,700
+mas seria um lugar que vários países,
+
+945
+00:34:58,700 --> 00:34:59,420
+né?
+
+946
+00:34:59,420 --> 00:34:59,820
+Isso dá,
+
+947
+00:34:59,820 --> 00:35:01,100
+realmente vários países,
+
+948
+00:35:01,100 --> 00:35:03,020
+que ele não consegue botar um nome todos,
+
+949
+00:35:03,340 --> 00:35:06,140
+mas cada um desses caixinhas é um país,
+
+950
+00:35:06,140 --> 00:35:07,740
+então a gente consegue ver aqui,
+
+951
+00:35:08,140 --> 00:35:09,500
+a gente, a gente traque,
+
+952
+00:35:10,940 --> 00:35:13,500
+esse é o Brasil em relação a esse do mundo,
+
+953
+00:35:15,340 --> 00:35:16,380
+a gente tá aqui,
+
+954
+00:35:16,380 --> 00:35:18,780
+porque a gente tá aqui na caixinha das américas,
+
+955
+00:35:19,500 --> 00:35:21,020
+então a gente tá aqui no veio,
+
+956
+00:35:21,020 --> 00:35:21,820
+o estado do Unido,
+
+957
+00:35:21,820 --> 00:35:23,180
+é uma população das américas,
+
+958
+00:35:23,180 --> 00:35:24,460
+com 300 milhões,
+
+959
+00:35:24,460 --> 00:35:25,980
+esse aqui é Estados Unidos.
+
+960
+00:35:26,300 --> 00:35:28,620
+E o Brasil, a segunda uma população das américas,
+
+961
+00:35:28,620 --> 00:35:31,180
+com 200 milhões de pessoas,
+
+962
+00:35:31,660 --> 00:35:32,780
+então a gente tem aqui,
+
+963
+00:35:32,780 --> 00:35:35,180
+basicamente é 2º do estado do Unido,
+
+964
+00:35:35,180 --> 00:35:37,900
+e a gente tem outras populações
+
+965
+00:35:37,900 --> 00:35:39,020
+muito grandes da Ásia,
+
+966
+00:35:39,020 --> 00:35:39,420
+da Oneas,
+
+967
+00:35:39,420 --> 00:35:39,980
+E,
+
+968
+00:35:39,980 --> 00:35:40,220
+E,
+
+969
+00:35:40,220 --> 00:35:40,780
+E a Espaquestão,
+
+970
+00:35:40,780 --> 00:35:41,580
+O Japão,
+
+971
+00:35:41,980 --> 00:35:42,540
+Mas,
+
+972
+00:35:42,540 --> 00:35:43,580
+Legal Antebre também,
+
+973
+00:35:44,060 --> 00:35:45,580
+Qualquer a proporção do Brasil,
+
+974
+00:35:45,580 --> 00:35:46,700
+e relação a esse do mundo,
+
+975
+00:35:47,260 --> 00:35:47,660
+a gente vem,
+
+976
+00:35:47,660 --> 00:35:48,380
+por exemplo,
+
+977
+00:35:48,380 --> 00:35:49,420
+o Rente Medio,
+
+978
+00:35:49,420 --> 00:35:49,980
+ao Seneio,
+
+979
+00:35:49,980 --> 00:35:51,260
+Olha o tamanhozinho do Seneio,
+
+980
+00:35:51,260 --> 00:35:52,940
+em população em resto do mundo,
+
+981
+00:35:52,940 --> 00:35:53,980
+em relação a esse do mundo.
+
+982
+00:35:55,740 --> 00:35:56,140
+Então,
+
+983
+00:35:56,140 --> 00:35:56,940
+a gente consegue ver,
+
+984
+00:35:56,940 --> 00:35:58,700
+tanto o Efeito de Continentes,
+
+985
+00:35:58,700 --> 00:36:00,220
+quanto o Efeito de país,
+
+986
+00:36:00,220 --> 00:36:00,380
+né?
+
+987
+00:36:00,380 --> 00:36:01,500
+Esse é o principal,
+
+988
+00:36:02,700 --> 00:36:04,620
+principal característica do Triunipsy,
+
+989
+00:36:04,620 --> 00:36:05,020
+e o Triunipsy traz,
+
+990
+00:36:05,020 --> 00:36:06,780
+ele é muito bom para mostrar para o porcentes.
+
+991
+00:36:12,620 --> 00:36:13,500
+Falando agora,
+
+992
+00:36:13,500 --> 00:36:15,420
+de gráficos de cascat,
+
+993
+00:36:15,420 --> 00:36:16,380
+o gráfico de cascat,
+
+994
+00:36:16,380 --> 00:36:17,260
+ele é muito legal.
+
+995
+00:36:18,060 --> 00:36:18,220
+É,
+
+996
+00:36:18,220 --> 00:36:19,500
+a pressão a gente pessoal que já trabalhou,
+
+997
+00:36:19,500 --> 00:36:20,460
+em área financeira,
+
+998
+00:36:21,180 --> 00:36:23,020
+já já viu muito gráficos de cascat,
+
+999
+00:36:23,020 --> 00:36:23,580
+é,
+
+1000
+00:36:23,580 --> 00:36:24,700
+ele é muito usado para fazer
+
+1001
+00:36:24,700 --> 00:36:25,740
+balance de empresa,
+
+1002
+00:36:26,300 --> 00:36:27,420
+fluxo de caixa,
+
+1003
+00:36:27,420 --> 00:36:29,260
+previsão de investimento,
+
+1004
+00:36:29,980 --> 00:36:30,700
+então,
+
+1005
+00:36:30,700 --> 00:36:31,740
+a pressão a gente pessoal
+
+1006
+00:36:31,740 --> 00:36:32,460
+da área financeira,
+
+1007
+00:36:32,460 --> 00:36:33,340
+que já se aventurou,
+
+1008
+00:36:33,340 --> 00:36:34,140
+já deve ter visto,
+
+1009
+00:36:34,780 --> 00:36:36,220
+e ele serve para fazer
+
+1010
+00:36:36,220 --> 00:36:39,740
+a variação de dos números ao longo do tempo,
+
+1011
+00:36:39,740 --> 00:36:39,980
+né?
+
+1012
+00:36:39,980 --> 00:36:41,020
+Ou por eventos?
+
+1013
+00:36:41,020 --> 00:36:41,820
+Então aqui,
+
+1014
+00:36:41,820 --> 00:36:43,420
+o exemplo do fluxo de caixa,
+
+1015
+00:36:43,420 --> 00:36:43,500
+né?
+
+1016
+00:36:43,500 --> 00:36:46,300
+Então a primeira gráfico de primeira barra,
+
+1017
+00:36:46,300 --> 00:36:47,740
+que é o sal inicial,
+
+1018
+00:36:47,740 --> 00:36:47,980
+então,
+
+1019
+00:36:47,980 --> 00:36:49,420
+ele é acrescido,
+
+1020
+00:36:49,420 --> 00:36:50,780
+aqui por serviços,
+
+1021
+00:36:50,780 --> 00:36:51,580
+por produtos,
+
+1022
+00:36:51,580 --> 00:36:51,900
+então,
+
+1023
+00:36:51,900 --> 00:36:53,580
+ele passou aqui para 200,
+
+1024
+00:36:54,300 --> 00:36:57,580
+para 260,
+
+1025
+00:36:57,580 --> 00:36:58,380
+mas aqui,
+
+1026
+00:36:58,380 --> 00:36:59,660
+quando ele começou a ficar vermelho,
+
+1027
+00:36:59,660 --> 00:37:01,580
+ele começou a ser decrescido.
+
+1028
+00:37:01,580 --> 00:37:02,380
+Então, ele veio aqui,
+
+1029
+00:37:02,380 --> 00:37:03,820
+perdeu 200 em despesa,
+
+1030
+00:37:03,820 --> 00:37:06,220
+perdeu 380 em custo-fixo,
+
+1031
+00:37:06,220 --> 00:37:07,180
+e ele chegou no final,
+
+1032
+00:37:07,180 --> 00:37:08,300
+porque é o sal do final.
+
+1033
+00:37:08,300 --> 00:37:09,340
+Então, ele é muito usado ali
+
+1034
+00:37:09,340 --> 00:37:11,100
+para a balance de empresas,
+
+1035
+00:37:11,900 --> 00:37:12,540
+fluxo de caixa,
+
+1036
+00:37:12,540 --> 00:37:13,420
+que nem eu falei,
+
+1037
+00:37:13,420 --> 00:37:15,020
+tudo isso para a gente ver a relação,
+
+1038
+00:37:15,020 --> 00:37:16,140
+que fez subir,
+
+1039
+00:37:16,140 --> 00:37:16,940
+e o que fez decê,
+
+1040
+00:37:16,940 --> 00:37:17,420
+também,
+
+1041
+00:37:17,420 --> 00:37:18,220
+muito,
+
+1042
+00:37:18,220 --> 00:37:19,020
+muito prático.
+
+1043
+00:37:20,780 --> 00:37:22,220
+Agora, o tema polêmico,
+
+1044
+00:37:23,580 --> 00:37:24,540
+gráfico de pizza,
+
+1045
+00:37:25,500 --> 00:37:27,100
+o gráfico de pizza,
+
+1046
+00:37:27,100 --> 00:37:27,660
+ele,
+
+1047
+00:37:29,580 --> 00:37:31,100
+é usado muito,
+
+1048
+00:37:31,100 --> 00:37:34,140
+mas eu não recomendo de forma alguma usar,
+
+1049
+00:37:34,140 --> 00:37:35,740
+e eu porquê está aqui nesse vídeo,
+
+1050
+00:37:35,740 --> 00:37:37,820
+não nesse vídeo, nesse imagem,
+
+1051
+00:37:37,820 --> 00:37:40,380
+porque você deve usar um gráfico de pizza,
+
+1052
+00:37:40,380 --> 00:37:40,700
+então,
+
+1053
+00:37:40,700 --> 00:37:41,900
+essa é a pergota,
+
+1054
+00:37:41,900 --> 00:37:44,220
+e por incrível que pareça,
+
+1055
+00:37:44,220 --> 00:37:45,260
+a acredita eu não,
+
+1056
+00:37:45,260 --> 00:37:46,780
+esses dois gráficos trázem,
+
+1057
+00:37:46,780 --> 00:37:48,940
+exatamente, a mesma informação.
+
+1058
+00:37:51,180 --> 00:37:52,300
+A acredita eu não.
+
+1059
+00:37:53,500 --> 00:37:55,500
+A única coisa que eu acho aqui
+
+1060
+00:37:55,500 --> 00:37:56,300
+foi,
+
+1061
+00:37:56,300 --> 00:37:57,660
+aqui a gente botou um escala,
+
+1062
+00:37:57,660 --> 00:37:58,460
+se vocês perceberam,
+
+1063
+00:37:58,460 --> 00:37:59,500
+escala não comecei em zero,
+
+1064
+00:37:59,500 --> 00:38:01,020
+escala começa em,
+
+1065
+00:38:01,180 --> 00:38:01,580
+dez,
+
+1066
+00:38:01,580 --> 00:38:02,940
+então, de baixa dez a de oito,
+
+1067
+00:38:03,740 --> 00:38:05,820
+e aqui a gente consegue ver claramente
+
+1068
+00:38:05,820 --> 00:38:06,940
+a diferença entre as classes.
+
+1069
+00:38:08,220 --> 00:38:09,740
+Enquanto no gráfico de pizza,
+
+1070
+00:38:10,780 --> 00:38:11,980
+por essa diferença exutil,
+
+1071
+00:38:11,980 --> 00:38:12,940
+não, negativa aqui,
+
+1072
+00:38:13,740 --> 00:38:14,300
+que, no caso,
+
+1073
+00:38:15,100 --> 00:38:16,620
+é esse no gráfico de pizza,
+
+1074
+00:38:17,740 --> 00:38:19,740
+ele tem muito pouco de diferença
+
+1075
+00:38:19,740 --> 00:38:20,700
+para o novo,
+
+1076
+00:38:20,700 --> 00:38:22,700
+que é o azul grande do lado,
+
+1077
+00:38:23,420 --> 00:38:25,900
+e principalmente tem outra coisa,
+
+1078
+00:38:25,900 --> 00:38:27,260
+e é a mais interessante,
+
+1079
+00:38:27,260 --> 00:38:28,300
+eu li um artigo esse dia,
+
+1080
+00:38:28,300 --> 00:38:29,420
+as palavras justamente,
+
+1081
+00:38:29,740 --> 00:38:31,660
+que no gráfico de pizza,
+
+1082
+00:38:31,660 --> 00:38:32,860
+a gente, como,
+
+1083
+00:38:33,260 --> 00:38:34,220
+como ser humano mesmo,
+
+1084
+00:38:34,220 --> 00:38:35,740
+o nosso cérebro não processa bem,
+
+1085
+00:38:36,620 --> 00:38:37,740
+as cores,
+
+1086
+00:38:37,740 --> 00:38:38,860
+principalmente os azul,
+
+1087
+00:38:39,980 --> 00:38:41,260
+quando eles estão no gráfico de pizza,
+
+1088
+00:38:41,260 --> 00:38:43,180
+porque a gente perde um pouco noção de proporção.
+
+1089
+00:38:43,660 --> 00:38:44,700
+E não sei vocês,
+
+1090
+00:38:45,340 --> 00:38:46,540
+que ele até o vídeo vocês,
+
+1091
+00:38:46,540 --> 00:38:47,660
+é o que vocês acham?
+
+1092
+00:38:47,980 --> 00:38:49,100
+Estes dois azules aqui,
+
+1093
+00:38:49,100 --> 00:38:51,660
+eles parecem muito parecidos
+
+1094
+00:38:51,660 --> 00:38:52,220
+para mim,
+
+1095
+00:38:52,220 --> 00:38:53,420
+mas quando a gente olha a diferença,
+
+1096
+00:38:53,420 --> 00:38:54,780
+é um ano de 8%
+
+1097
+00:38:55,020 --> 00:38:55,580
+e outro,
+
+1098
+00:38:55,580 --> 00:38:56,460
+é menos de,
+
+1099
+00:38:56,540 --> 00:38:58,620
+ali, 11, 10, 10, 10%
+
+1100
+00:38:58,860 --> 00:38:59,580
+vocês,
+
+1101
+00:38:59,580 --> 00:39:00,860
+o que vocês sentem?
+
+1102
+00:39:00,860 --> 00:39:01,740
+Vocês também
+
+1103
+00:39:01,740 --> 00:39:03,180
+vem a diferença tão grande?
+
+1104
+00:39:06,460 --> 00:39:07,820
+Ah, algo tão perceptível,
+
+1105
+00:39:09,740 --> 00:39:10,860
+ois é o azul,
+
+1106
+00:39:10,860 --> 00:39:12,220
+ele é quase limitado,
+
+1107
+00:39:12,220 --> 00:39:13,900
+e ela vai ser bastante divertida.
+
+1108
+00:39:14,380 --> 00:39:16,060
+Ele vai também, ele é quase metade,
+
+1109
+00:39:16,060 --> 00:39:17,100
+um pouquinho mais da metade,
+
+1110
+00:39:17,100 --> 00:39:17,900
+não parece,
+
+1111
+00:39:17,900 --> 00:39:18,380
+tipo,
+
+1112
+00:39:18,380 --> 00:39:19,660
+dá para ver se eu leassem bem,
+
+1113
+00:39:19,660 --> 00:39:20,460
+parece que é menor,
+
+1114
+00:39:20,700 --> 00:39:22,460
+mas principalmente no gráfico de pizza,
+
+1115
+00:39:22,460 --> 00:39:23,340
+quando se olha esse indicar,
+
+1116
+00:39:23,340 --> 00:39:24,460
+não parece que é metade.
+
+1117
+00:39:25,420 --> 00:39:27,100
+Então, a ideia é essa,
+
+1118
+00:39:27,100 --> 00:39:28,220
+nossa cérebro,
+
+1119
+00:39:28,220 --> 00:39:29,820
+o ano ele não processa muito bem,
+
+1120
+00:39:30,940 --> 00:39:31,580
+cores,
+
+1121
+00:39:31,580 --> 00:39:33,180
+muitas cores de juntas,
+
+1122
+00:39:33,180 --> 00:39:35,180
+principalmente no formado de pizza,
+
+1123
+00:39:35,180 --> 00:39:36,940
+e o gráfico de pizza
+
+1124
+00:39:36,940 --> 00:39:38,380
+ele acaba de tão trazendo um pouco das
+
+1125
+00:39:38,380 --> 00:39:40,780
+vezes ilusões visuales,
+
+1126
+00:39:41,180 --> 00:39:42,300
+então claro,
+
+1127
+00:39:42,300 --> 00:39:43,260
+temos que usar alguns sensos,
+
+1128
+00:39:43,260 --> 00:39:44,540
+quando você tem ele duas categorias,
+
+1129
+00:39:44,540 --> 00:39:46,940
+só mostrar ali a gente base 140,
+
+1130
+00:39:46,940 --> 00:39:47,900
+às vezes faz sentido,
+
+1131
+00:39:47,900 --> 00:39:49,180
+às vezes é interessante,
+
+1132
+00:39:49,180 --> 00:39:51,340
+mas aqui como muitas categorias,
+
+1133
+00:39:51,340 --> 00:39:53,580
+não fica muito perceptível
+
+1134
+00:39:53,660 --> 00:39:54,780
+a diferença.
+
+1135
+00:39:54,780 --> 00:39:55,500
+Então,
+
+1136
+00:39:55,500 --> 00:39:57,980
+usam com muito cuidado o gráfico de pizza,
+
+1137
+00:39:57,980 --> 00:39:59,340
+e não recomende falar
+
+1138
+00:39:59,340 --> 00:40:00,140
+no alguns apps,
+
+1139
+00:40:00,140 --> 00:40:01,260
+principalmente quando tiver
+
+1140
+00:40:01,260 --> 00:40:03,180
+muitas categorias igual
+
+1141
+00:40:03,180 --> 00:40:05,420
+nesse gráfico aqui.
+
+1142
+00:40:09,340 --> 00:40:10,140
+Passando agora,
+
+1143
+00:40:10,140 --> 00:40:11,740
+começando a parte look legal,
+
+1144
+00:40:11,740 --> 00:40:13,020
+o livro corresponde demais
+
+1145
+00:40:13,020 --> 00:40:16,060
+para vocês um livro bem curtinho,
+
+1146
+00:40:16,060 --> 00:40:17,260
+eu li ele,
+
+1147
+00:40:17,260 --> 00:40:18,860
+numa viagem avião,
+
+1148
+00:40:18,860 --> 00:40:19,500
+então,
+
+1149
+00:40:19,500 --> 00:40:20,140
+tudo três horas,
+
+1150
+00:40:20,140 --> 00:40:21,020
+acho que eu estava indo de Brasil
+
+1151
+00:40:21,020 --> 00:40:22,060
+para a frontalesa,
+
+1152
+00:40:22,140 --> 00:40:23,020
+eu li ele,
+
+1153
+00:40:23,020 --> 00:40:24,220
+ele é muito interessante,
+
+1154
+00:40:24,220 --> 00:40:25,100
+é,
+
+1155
+00:40:25,100 --> 00:40:25,660
+tão big,
+
+1156
+00:40:25,660 --> 00:40:27,500
+falou bem dentro do livro,
+
+1157
+00:40:27,500 --> 00:40:29,500
+estou trazendo o big aqui toda a obra,
+
+1158
+00:40:29,500 --> 00:40:30,540
+não?
+
+1159
+00:40:30,540 --> 00:40:32,700
+Mas o livro é Houghtylye,
+
+1160
+00:40:32,700 --> 00:40:33,820
+o ifestatístics,
+
+1161
+00:40:33,820 --> 00:40:36,700
+como mentir com estatísticas do Dary Huff,
+
+1162
+00:40:36,700 --> 00:40:38,220
+e tem várias construções
+
+1163
+00:40:38,220 --> 00:40:39,660
+ao longo do livro do livro,
+
+1164
+00:40:39,660 --> 00:40:41,420
+ele foi um da excelha real estázunírus,
+
+1165
+00:40:41,420 --> 00:40:42,540
+então, conseguiu forabolher
+
+1166
+00:40:42,540 --> 00:40:44,780
+sendo do pessoal de dados,
+
+1167
+00:40:44,780 --> 00:40:45,740
+ele é muito legal,
+
+1168
+00:40:45,740 --> 00:40:46,460
+porque ele traz sobre
+
+1169
+00:40:46,460 --> 00:40:47,500
+justamente isso que a gente falou
+
+1170
+00:40:47,500 --> 00:40:49,580
+de minutiras ao longo do tempo,
+
+1171
+00:40:49,580 --> 00:40:50,700
+e quem costuma no que
+
+1172
+00:40:50,700 --> 00:40:52,060
+de muito condados,
+
+1173
+00:40:52,060 --> 00:40:54,460
+em geral, são políticos,
+
+1174
+00:40:54,460 --> 00:40:55,260
+em loto fones,
+
+1175
+00:40:55,260 --> 00:40:56,460
+que ele direita são políticos,
+
+1176
+00:40:56,460 --> 00:40:58,700
+e a área é muito bom em manipulados,
+
+1177
+00:40:58,700 --> 00:41:00,060
+e eles fazem isso quando eles estão,
+
+1178
+00:41:00,060 --> 00:41:01,100
+também, no poder,
+
+1179
+00:41:01,100 --> 00:41:01,740
+então,
+
+1180
+00:41:01,740 --> 00:41:03,340
+esse aqui é um gráfico do
+
+1181
+00:41:03,340 --> 00:41:04,780
+que o governo,
+
+1182
+00:41:04,780 --> 00:41:05,980
+sendo me gano de algum estado
+
+1183
+00:41:05,980 --> 00:41:06,700
+lá no estado de Unidos,
+
+1184
+00:41:06,700 --> 00:41:07,420
+o Zô,
+
+1185
+00:41:07,420 --> 00:41:09,260
+então, o gráfico que eles usaram
+
+1186
+00:41:09,260 --> 00:41:11,020
+foi para falar que a folha de pagamentos,
+
+1187
+00:41:11,020 --> 00:41:13,020
+peiu ou os é folhas de pagamento,
+
+1188
+00:41:13,020 --> 00:41:15,660
+então esse foi o gráfico que eles divulgaram,
+
+1189
+00:41:16,380 --> 00:41:17,580
+eles divulgaram,
+
+1190
+00:41:17,580 --> 00:41:20,620
+que os pacusos salários estavam explodindo,
+
+1191
+00:41:20,620 --> 00:41:22,860
+aqui, eu saindo aqui de Agosto,
+
+1192
+00:41:22,860 --> 00:41:23,580
+de anelho, fevereiro,
+
+1193
+00:41:23,580 --> 00:41:24,380
+massa abril,
+
+1194
+00:41:24,380 --> 00:41:25,980
+então de abril pra mais,
+
+1195
+00:41:25,980 --> 00:41:28,380
+os salários explodiram,
+
+1196
+00:41:28,380 --> 00:41:28,620
+então,
+
+1197
+00:41:28,620 --> 00:41:31,580
+isso é um 19e para 20.
+
+1198
+00:41:31,580 --> 00:41:33,340
+Só que por que eles explodiram,
+
+1199
+00:41:33,340 --> 00:41:36,060
+era novamente a questão da proporção
+
+1200
+00:41:36,060 --> 00:41:37,420
+no eixo eixo.
+
+1201
+00:41:37,420 --> 00:41:40,540
+Esse gráfico que começa no 19e
+
+1202
+00:41:40,540 --> 00:41:41,660
+e vai até o 20,
+
+1203
+00:41:41,660 --> 00:41:42,860
+então ele faz parecer que
+
+1204
+00:41:42,860 --> 00:41:44,940
+teve um crescimento muito grande.
+
+1205
+00:41:44,940 --> 00:41:45,980
+Esse aqui,
+
+1206
+00:41:45,980 --> 00:41:47,340
+ele vai do 30,
+
+1207
+00:41:47,340 --> 00:41:48,540
+do 0, 30.
+
+1208
+00:41:48,540 --> 00:41:49,660
+E quando a gente vê aqui,
+
+1209
+00:41:49,660 --> 00:41:51,100
+é o mesmo crescimento.
+
+1210
+00:41:51,100 --> 00:41:52,780
+Então, isso aqui,
+
+1211
+00:41:52,780 --> 00:41:55,260
+é a mesma coisa que isso aqui.
+
+1212
+00:41:56,380 --> 00:41:57,180
+Opa.
+
+1213
+00:41:58,780 --> 00:42:00,060
+Deixa eu botar caro,
+
+1214
+00:42:00,060 --> 00:42:00,540
+eu te sou...
+
+1215
+00:42:00,540 --> 00:42:01,260
+Isso aqui,
+
+1216
+00:42:01,260 --> 00:42:02,620
+é a mesma coisa que isso.
+
+1217
+00:42:06,460 --> 00:42:08,700
+E a única diferença é a escalana,
+
+1218
+00:42:08,700 --> 00:42:09,660
+porque se a gente foi reparar,
+
+1219
+00:42:09,660 --> 00:42:10,220
+nossa escalá,
+
+1220
+00:42:10,220 --> 00:42:10,620
+provavelmente,
+
+1221
+00:42:10,620 --> 00:42:11,420
+está daqui,
+
+1222
+00:42:12,460 --> 00:42:13,100
+até,
+
+1223
+00:42:14,140 --> 00:42:14,540
+aqui.
+
+1224
+00:42:15,420 --> 00:42:17,260
+Então, faz parecer que o crescimento
+
+1225
+00:42:17,260 --> 00:42:18,140
+foi muito maior,
+
+1226
+00:42:18,140 --> 00:42:19,500
+porque ele realmente foi.
+
+1227
+00:42:19,820 --> 00:42:20,780
+E agora,
+
+1228
+00:42:20,780 --> 00:42:23,340
+trazendo um bem fresquinho
+
+1229
+00:42:23,900 --> 00:42:24,780
+que, imagine, vai estar
+
+1230
+00:42:24,780 --> 00:42:25,740
+na cabeça de vocês.
+
+1231
+00:42:26,700 --> 00:42:27,580
+Mas,
+
+1232
+00:42:27,580 --> 00:42:28,700
+esse é muito interessante.
+
+1233
+00:42:28,700 --> 00:42:30,300
+Isso foi agora dela em São Estados Unidos.
+
+1234
+00:42:30,300 --> 00:42:31,660
+Eu vi, eu acho que
+
+1235
+00:42:31,660 --> 00:42:32,780
+a gente de vê atrás é que,
+
+1236
+00:42:33,660 --> 00:42:34,780
+esse foi a votação
+
+1237
+00:42:35,500 --> 00:42:36,700
+da...
+
+1238
+00:42:36,700 --> 00:42:37,580
+dela em São presidente,
+
+1239
+00:42:37,580 --> 00:42:38,700
+se ela está em Unidos.
+
+1240
+00:42:38,700 --> 00:42:39,660
+Então,
+
+1241
+00:42:39,660 --> 00:42:40,940
+os...
+
+1242
+00:42:40,940 --> 00:42:41,980
+quem era de direita?
+
+1243
+00:42:42,860 --> 00:42:43,340
+Os dois,
+
+1244
+00:42:43,340 --> 00:42:43,980
+é o gráfico aqui.
+
+1245
+00:42:45,500 --> 00:42:46,620
+Quem era de esquerda?
+
+1246
+00:42:46,620 --> 00:42:47,580
+Os dois, esse gráfico aqui.
+
+1247
+00:42:49,500 --> 00:42:50,700
+E o que que isso,
+
+1248
+00:42:50,700 --> 00:42:52,060
+na visão de vocês,
+
+1249
+00:42:52,060 --> 00:42:52,460
+traz?
+
+1250
+00:42:52,460 --> 00:42:53,340
+É muito tempo ao piqui.
+
+1251
+00:42:55,660 --> 00:42:57,500
+E não é entrar na política,
+
+1252
+00:42:57,500 --> 00:42:58,700
+entrar em dados mesmo.
+
+1253
+00:42:59,500 --> 00:42:59,820
+O...
+
+1254
+00:42:59,820 --> 00:43:01,180
+Esse são os mesmos dados.
+
+1255
+00:43:01,660 --> 00:43:03,500
+Mas o que que na visão de vocês
+
+1256
+00:43:03,740 --> 00:43:04,700
+isso aqui,
+
+1257
+00:43:04,700 --> 00:43:05,660
+está dizendo pra gente?
+
+1258
+00:43:07,180 --> 00:43:08,540
+Que a grande maioria
+
+1259
+00:43:08,540 --> 00:43:10,540
+do da população
+
+1260
+00:43:10,540 --> 00:43:12,220
+seria republicana
+
+1261
+00:43:13,180 --> 00:43:14,060
+que ele se
+
+1262
+00:43:14,060 --> 00:43:15,020
+dá impressão que
+
+1263
+00:43:15,020 --> 00:43:16,620
+todo território, né?
+
+1264
+00:43:16,860 --> 00:43:18,140
+Onde é vermelho?
+
+1265
+00:43:18,140 --> 00:43:20,140
+É o pessoal do republicano.
+
+1266
+00:43:20,940 --> 00:43:21,660
+E aqui embaixo,
+
+1267
+00:43:21,660 --> 00:43:22,860
+a gente foi parar tem grandes
+
+1268
+00:43:22,860 --> 00:43:23,660
+pontes useis.
+
+1269
+00:43:25,740 --> 00:43:27,100
+Essas são as grandes
+
+1270
+00:43:27,100 --> 00:43:28,300
+cidades do Estados Unidos.
+
+1271
+00:43:29,580 --> 00:43:30,940
+Então aqui, por exemplo,
+
+1272
+00:43:30,940 --> 00:43:32,380
+é Luzangeres,
+
+1273
+00:43:32,380 --> 00:43:34,140
+aqui é São Francisco,
+
+1274
+00:43:34,140 --> 00:43:35,660
+aqui é Chicago,
+
+1275
+00:43:35,660 --> 00:43:37,180
+aqui é Nova York.
+
+1276
+00:43:37,180 --> 00:43:38,060
+Então aqui tem um bâmbro,
+
+1277
+00:43:38,060 --> 00:43:38,620
+é Nova York,
+
+1278
+00:43:38,620 --> 00:43:40,620
+bom, então aqui é Miami.
+
+1279
+00:43:41,180 --> 00:43:42,540
+Então, você a gente reparar
+
+1280
+00:43:42,540 --> 00:43:45,020
+os democratas,
+
+1281
+00:43:45,020 --> 00:43:46,860
+eles ganharam nas grandes cidades.
+
+1282
+00:43:47,980 --> 00:43:49,100
+Mas o que aconteceu?
+
+1283
+00:43:49,100 --> 00:43:50,140
+Os republicanos,
+
+1284
+00:43:50,140 --> 00:43:51,020
+eles ganharam
+
+1285
+00:43:52,300 --> 00:43:53,900
+nas piquenas cidades,
+
+1286
+00:43:53,900 --> 00:43:54,540
+são aqueles garram
+
+1287
+00:43:54,540 --> 00:43:56,140
+e praticamente todos esse piquenas cidades
+
+1288
+00:43:56,140 --> 00:43:57,340
+do interior do Estados Unidos.
+
+1289
+00:43:57,740 --> 00:43:58,940
+Isso aí foi reparar aqui,
+
+1290
+00:43:58,940 --> 00:44:00,140
+tem grandes cinturão,
+
+1291
+00:44:00,140 --> 00:44:00,940
+republicano,
+
+1292
+00:44:01,340 --> 00:44:02,860
+bem aqui no meio do Estados Unidos.
+
+1293
+00:44:03,740 --> 00:44:05,420
+E o que que isso quer dizer?
+
+1294
+00:44:05,420 --> 00:44:06,220
+Essas são
+
+1295
+00:44:06,220 --> 00:44:07,900
+as cidades em que os republicanos
+
+1296
+00:44:07,900 --> 00:44:08,460
+ganharam.
+
+1297
+00:44:09,420 --> 00:44:10,220
+E aqui,
+
+1298
+00:44:10,220 --> 00:44:11,660
+são as populações
+
+1299
+00:44:11,820 --> 00:44:13,660
+dessas cidades em que os democratas
+
+1300
+00:44:13,660 --> 00:44:14,300
+ganharam.
+
+1301
+00:44:14,300 --> 00:44:15,980
+Então, se você foi republicano,
+
+1302
+00:44:15,980 --> 00:44:17,580
+esse gráfico aqui é muito melhor para você,
+
+1303
+00:44:17,580 --> 00:44:18,380
+com o bolo.
+
+1304
+00:44:18,780 --> 00:44:20,620
+É um gráfico muito mais impactante.
+
+1305
+00:44:20,620 --> 00:44:21,740
+E eu vi muita gente,
+
+1306
+00:44:21,740 --> 00:44:22,780
+posto nesse gráfico.
+
+1307
+00:44:22,780 --> 00:44:24,460
+Agora, se você é democrata,
+
+1308
+00:44:25,660 --> 00:44:26,060
+e agora,
+
+1309
+00:44:26,060 --> 00:44:26,700
+estou falando esse
+
+1310
+00:44:26,700 --> 00:44:27,580
+que eu sempre oricanos que vieram,
+
+1311
+00:44:27,580 --> 00:44:28,140
+agora, certo?
+
+1312
+00:44:28,140 --> 00:44:28,940
+Então, ele sempre vai falar
+
+1313
+00:44:28,940 --> 00:44:30,460
+o país em publicano,
+
+1314
+00:44:30,460 --> 00:44:32,060
+mas a leição não foi
+
+1315
+00:44:33,100 --> 00:44:33,900
+uma lavada,
+
+1316
+00:44:33,900 --> 00:44:34,700
+o trato que eu como,
+
+1317
+00:44:34,700 --> 00:44:35,180
+com a mágica,
+
+1318
+00:44:35,180 --> 00:44:35,900
+o fotado,
+
+1319
+00:44:35,900 --> 00:44:36,380
+sim,
+
+1320
+00:44:36,380 --> 00:44:38,300
+mas se a gente fosse democrata,
+
+1321
+00:44:38,300 --> 00:44:39,340
+seria muito mais dirigente
+
+1322
+00:44:39,340 --> 00:44:39,660
+e os aís,
+
+1323
+00:44:39,660 --> 00:44:40,780
+esse gráfico aqui, certo?
+
+1324
+00:44:41,100 --> 00:44:42,060
+Porque o que a gente vê,
+
+1325
+00:44:42,060 --> 00:44:43,340
+é vários pontos
+
+1326
+00:44:43,340 --> 00:44:44,540
+as duas grandes,
+
+1327
+00:44:44,860 --> 00:44:45,820
+em que o
+
+1328
+00:44:45,820 --> 00:44:47,740
+a camála real,
+
+1329
+00:44:47,740 --> 00:44:48,380
+esse ganhão.
+
+1330
+00:44:48,860 --> 00:44:49,580
+Então,
+
+1331
+00:44:49,580 --> 00:44:50,620
+isso é muito interessante.
+
+1332
+00:44:50,620 --> 00:44:51,340
+É que a gente mostra
+
+1333
+00:44:51,340 --> 00:44:52,300
+mesmo dado,
+
+1334
+00:44:52,300 --> 00:44:53,260
+o mesmo dado.
+
+1335
+00:44:53,980 --> 00:44:55,020
+De duas perspectivas,
+
+1336
+00:44:55,020 --> 00:44:56,060
+totalmente diferentes.
+
+1337
+00:44:56,060 --> 00:44:57,180
+Aqui a gente traz
+
+1338
+00:44:58,060 --> 00:44:58,620
+por
+
+1339
+00:44:59,420 --> 00:45:00,060
+no mapa,
+
+1340
+00:45:00,060 --> 00:45:01,660
+aprendendo as áreas
+
+1341
+00:45:01,660 --> 00:45:02,620
+das cidades,
+
+1342
+00:45:02,620 --> 00:45:03,820
+e aqui a gente traz
+
+1343
+00:45:03,820 --> 00:45:05,500
+como impacto de cada cidade
+
+1344
+00:45:05,500 --> 00:45:06,700
+e tem de população.
+
+1345
+00:45:06,940 --> 00:45:07,820
+Vamos ver o lado das contas,
+
+1346
+00:45:07,820 --> 00:45:08,540
+quem ganhou
+
+1347
+00:45:08,540 --> 00:45:09,500
+foram democratas,
+
+1348
+00:45:09,500 --> 00:45:10,620
+porque acabou que essas
+
+1349
+00:45:10,620 --> 00:45:11,500
+várias cidades
+
+1350
+00:45:12,460 --> 00:45:14,060
+pequenas imedas,
+
+1351
+00:45:14,060 --> 00:45:15,100
+enfim, acabaram pensando
+
+1352
+00:45:15,100 --> 00:45:16,140
+mais, e algumas cidades
+
+1353
+00:45:16,140 --> 00:45:17,100
+grandes também, claro.
+
+1354
+00:45:18,620 --> 00:45:20,300
+Mas, no geral,
+
+1355
+00:45:20,300 --> 00:45:20,940
+a gente vê também,
+
+1356
+00:45:20,940 --> 00:45:21,820
+que tem uma forte
+
+1357
+00:45:22,380 --> 00:45:23,180
+presença de duas
+
+1358
+00:45:23,180 --> 00:45:24,380
+democratas, principalmente
+
+1359
+00:45:24,380 --> 00:45:25,180
+na cidade
+
+1360
+00:45:25,180 --> 00:45:25,980
+grandes, lá, vai estar
+
+1361
+00:45:25,980 --> 00:45:26,380
+dos unidos.
+
+1362
+00:45:29,580 --> 00:45:30,700
+Agora falando de
+
+1363
+00:45:30,700 --> 00:45:31,420
+Feito Indine,
+
+1364
+00:45:33,660 --> 00:45:34,540
+botar com a baixa de
+
+1365
+00:45:34,540 --> 00:45:34,780
+não.
+
+1366
+00:45:37,100 --> 00:45:37,820
+Feito Indine,
+
+1367
+00:45:37,820 --> 00:45:38,540
+em pessoal,
+
+1368
+00:45:38,860 --> 00:45:40,380
+processo que a gente faz
+
+1369
+00:45:40,380 --> 00:45:41,660
+quando a gente trabalha com dados,
+
+1370
+00:45:43,500 --> 00:45:44,140
+basicamente,
+
+1371
+00:45:44,140 --> 00:45:45,900
+para esquecer os dados que a gente tem.
+
+1372
+00:45:46,380 --> 00:45:47,980
+Então, a gente sempre vai ter
+
+1373
+00:45:47,980 --> 00:45:49,100
+o conjunto de dados,
+
+1374
+00:45:49,100 --> 00:45:49,420
+certo?
+
+1375
+00:45:51,340 --> 00:45:52,460
+Que a gente vai ter as frisos.
+
+1376
+00:45:52,460 --> 00:45:53,260
+Pizar os frisos,
+
+1377
+00:45:53,260 --> 00:45:55,180
+são as nossas colunas
+
+1378
+00:45:55,820 --> 00:45:56,860
+e, enfim, das contas,
+
+1379
+00:45:56,860 --> 00:45:58,060
+a gente vai usar aquilo
+
+1380
+00:45:58,060 --> 00:45:59,500
+para criar o modelo,
+
+1381
+00:45:59,500 --> 00:46:00,380
+seja modelo
+
+1382
+00:46:00,540 --> 00:46:01,500
+modelo pode ser
+
+1383
+00:46:01,500 --> 00:46:02,300
+isso aqui acaba sendo
+
+1384
+00:46:02,300 --> 00:46:03,260
+muito subjetivo.
+
+1385
+00:46:03,260 --> 00:46:04,540
+No caso da sensidade
+
+1386
+00:46:04,540 --> 00:46:05,420
+modelo sim, mas ser
+
+1387
+00:46:05,420 --> 00:46:06,140
+muito prohibitivo,
+
+1388
+00:46:06,140 --> 00:46:07,260
+não dá de transgação,
+
+1389
+00:46:07,260 --> 00:46:08,380
+mas no caso da cidade
+
+1390
+00:46:08,380 --> 00:46:10,060
+model pode ser humanálise,
+
+1391
+00:46:10,060 --> 00:46:11,180
+pode ser um teste de
+
+1392
+00:46:11,180 --> 00:46:12,060
+posses ser
+
+1393
+00:46:12,060 --> 00:46:13,580
+realmente um modelo
+
+1394
+00:46:13,580 --> 00:46:14,220
+que a gente cai do
+
+1395
+00:46:14,220 --> 00:46:15,260
+apoio de uma manipulação de
+
+1396
+00:46:15,260 --> 00:46:15,580
+dados.
+
+1397
+00:46:16,940 --> 00:46:18,940
+E depois a gente gera
+
+1398
+00:46:18,940 --> 00:46:20,060
+insites a partidos.
+
+1399
+00:46:21,100 --> 00:46:21,740
+Quando a gente gera
+
+1400
+00:46:21,740 --> 00:46:22,380
+insites,
+
+1401
+00:46:23,500 --> 00:46:24,860
+a gente acaba voltando
+
+1402
+00:46:24,860 --> 00:46:25,820
+e corre o relacionado
+
+1403
+00:46:25,820 --> 00:46:26,380
+isso.
+
+1404
+00:46:26,380 --> 00:46:27,900
+Mas o que que são os insites no
+
+1405
+00:46:27,900 --> 00:46:28,540
+fim do dia?
+
+1406
+00:46:29,660 --> 00:46:30,220
+É
+
+1407
+00:46:30,220 --> 00:46:31,260
+Correlacionalar nossas
+
+1408
+00:46:31,260 --> 00:46:31,660
+periões,
+
+1409
+00:46:31,660 --> 00:46:33,340
+se conhecendo o conjunto de dados
+
+1410
+00:46:33,340 --> 00:46:34,460
+que a gente tem
+
+1411
+00:46:34,460 --> 00:46:35,580
+como que a gente vê
+
+1412
+00:46:35,580 --> 00:46:36,860
+de fato nos dados.
+
+1413
+00:46:37,580 --> 00:46:39,180
+Então, no mundo real
+
+1414
+00:46:39,180 --> 00:46:39,820
+vocês vão ver,
+
+1415
+00:46:41,500 --> 00:46:42,620
+quantos as pegarem
+
+1416
+00:46:42,620 --> 00:46:43,740
+para trabalhar com qualquer
+
+1417
+00:46:43,740 --> 00:46:44,860
+congendida dos.
+
+1418
+00:46:44,860 --> 00:46:46,140
+Não tem muitas fiturs,
+
+1419
+00:46:46,140 --> 00:46:47,340
+muitas colônas que são
+
+1420
+00:46:47,340 --> 00:46:48,140
+irrelevantes,
+
+1421
+00:46:48,700 --> 00:46:50,220
+algumas colônas
+
+1422
+00:46:50,860 --> 00:46:51,660
+irrelevantes
+
+1423
+00:46:51,660 --> 00:46:52,940
+e poucas colônas que são
+
+1424
+00:46:52,940 --> 00:46:54,140
+extremamente irrelevantes
+
+1425
+00:46:54,140 --> 00:46:55,500
+para o que a gente está querendo fazer.
+
+1426
+00:46:55,740 --> 00:46:57,100
+Então, esse geralmente é um papel de
+
+1427
+00:46:57,100 --> 00:46:57,580
+vocês,
+
+1428
+00:46:57,580 --> 00:46:58,540
+toda vez se despegar
+
+1429
+00:46:58,540 --> 00:46:59,420
+e um conjunto de dados
+
+1430
+00:46:59,420 --> 00:47:00,140
+tem que tentar identificar
+
+1431
+00:47:00,140 --> 00:47:00,780
+ali,
+
+1432
+00:47:00,780 --> 00:47:01,820
+onde que está a loro
+
+1433
+00:47:01,820 --> 00:47:03,020
+que temos da análise.
+
+1434
+00:47:03,020 --> 00:47:04,860
+E aí vai muito
+
+1435
+00:47:04,860 --> 00:47:06,380
+também dar experiência
+
+1436
+00:47:06,380 --> 00:47:07,580
+no tipo de dados que você
+
+1437
+00:47:07,580 --> 00:47:08,380
+está trabalhando,
+
+1438
+00:47:08,380 --> 00:47:10,140
+enfim, no projeto que a gente
+
+1439
+00:47:10,140 --> 00:47:11,180
+está trabalhando.
+
+1440
+00:47:11,180 --> 00:47:12,060
+E aqui entre os alguns
+
+1441
+00:47:12,060 --> 00:47:13,020
+as épos de FITIOS no
+
+1442
+00:47:13,020 --> 00:47:13,420
+de Niga.
+
+1443
+00:47:13,420 --> 00:47:15,420
+É...
+
+1444
+00:47:17,020 --> 00:47:18,060
+Eu não sei se está piquendo
+
+1445
+00:47:18,060 --> 00:47:18,780
+na tela,
+
+1446
+00:47:18,780 --> 00:47:19,660
+estão conseguindo ver
+
+1447
+00:47:19,660 --> 00:47:20,220
+pessoal.
+
+1448
+00:47:20,220 --> 00:47:20,780
+O código.
+
+1449
+00:47:23,100 --> 00:47:23,980
+Então,
+
+1450
+00:47:24,620 --> 00:47:25,820
+então, beleza,
+
+1451
+00:47:26,220 --> 00:47:27,580
+aqui a gente tem
+
+1452
+00:47:27,580 --> 00:47:28,860
+um dados tabulados,
+
+1453
+00:47:28,860 --> 00:47:30,060
+aqui a gente tem um exemplo,
+
+1454
+00:47:30,060 --> 00:47:31,180
+nas tabuladas no geral
+
+1455
+00:47:31,180 --> 00:47:32,140
+são a nossa polaríria,
+
+1456
+00:47:32,140 --> 00:47:32,460
+certo?
+
+1457
+00:47:33,500 --> 00:47:34,860
+A gente tem alguns dados
+
+1458
+00:47:34,860 --> 00:47:35,500
+a gente tem aqui,
+
+1459
+00:47:35,500 --> 00:47:36,860
+ó.
+
+1460
+00:47:37,900 --> 00:47:39,260
+O ID
+
+1461
+00:47:39,500 --> 00:47:40,540
+de um cliente
+
+1462
+00:47:40,540 --> 00:47:40,780
+então,
+
+1463
+00:47:40,780 --> 00:47:41,420
+ali,
+
+1464
+00:47:41,420 --> 00:47:42,060
+o CPF
+
+1465
+00:47:42,060 --> 00:47:42,540
+da vida,
+
+1466
+00:47:42,540 --> 00:47:43,260
+o código,
+
+1467
+00:47:44,140 --> 00:47:45,100
+em como,
+
+1468
+00:47:45,100 --> 00:47:45,420
+em como,
+
+1469
+00:47:45,420 --> 00:47:46,140
+é renda,
+
+1470
+00:47:46,140 --> 00:47:46,860
+então,
+
+1471
+00:47:46,860 --> 00:47:48,060
+a renda daquela pessoa,
+
+1472
+00:47:49,180 --> 00:47:50,460
+e a data que ela entrou,
+
+1473
+00:47:50,460 --> 00:47:51,100
+John,
+
+1474
+00:47:51,100 --> 00:47:51,340
+então,
+
+1475
+00:47:51,340 --> 00:47:52,940
+que a gente tem a data que ela entrou.
+
+1476
+00:47:52,940 --> 00:47:54,220
+O que a gente consegue
+
+1477
+00:47:54,220 --> 00:47:55,500
+extrair de informação disso?
+
+1478
+00:47:55,500 --> 00:47:56,460
+A gente consegue
+
+1479
+00:47:56,460 --> 00:47:57,500
+extrair muita coisa,
+
+1480
+00:47:57,500 --> 00:47:58,300
+primeira coisa.
+
+1481
+00:47:58,300 --> 00:47:59,820
+E isso é o processo de FITIOS Niga,
+
+1482
+00:47:59,820 --> 00:48:00,300
+que ia,
+
+1483
+00:48:00,300 --> 00:48:00,940
+vai se formar as
+
+1484
+00:48:00,940 --> 00:48:01,100
+ções,
+
+1485
+00:48:01,100 --> 00:48:02,220
+a partir das famas que a gente já
+
+1486
+00:48:02,220 --> 00:48:03,580
+tem com os nossos dados.
+
+1487
+00:48:03,580 --> 00:48:04,060
+Então,
+
+1488
+00:48:04,060 --> 00:48:05,020
+é o que, que primeira coisa,
+
+1489
+00:48:05,020 --> 00:48:06,220
+mas que é pessoa entrou,
+
+1490
+00:48:06,220 --> 00:48:06,860
+simples,
+
+1491
+00:48:06,860 --> 00:48:07,020
+né?
+
+1492
+00:48:07,020 --> 00:48:07,980
+O que é uma boa medida,
+
+1493
+00:48:07,980 --> 00:48:08,780
+a teu paga aqui
+
+1494
+00:48:08,780 --> 00:48:09,740
+tem uma
+
+1495
+00:48:09,740 --> 00:48:11,500
+e por que que o mês é interessante?
+
+1496
+00:48:13,340 --> 00:48:14,300
+E mês e ano,
+
+1497
+00:48:14,300 --> 00:48:14,620
+também,
+
+1498
+00:48:14,620 --> 00:48:16,140
+eu faço a mesma coisa pro ano,
+
+1499
+00:48:16,140 --> 00:48:17,340
+alguém tem um palpite,
+
+1500
+00:48:18,300 --> 00:48:19,180
+por que que seria,
+
+1501
+00:48:19,180 --> 00:48:19,740
+por exemplo,
+
+1502
+00:48:19,740 --> 00:48:20,380
+o trumanálise,
+
+1503
+00:48:20,380 --> 00:48:21,020
+interessante,
+
+1504
+00:48:21,020 --> 00:48:21,180
+é,
+
+1505
+00:48:21,180 --> 00:48:21,660
+sempre,
+
+1506
+00:48:21,660 --> 00:48:22,220
+no caso,
+
+1507
+00:48:22,220 --> 00:48:22,380
+assim,
+
+1508
+00:48:22,380 --> 00:48:22,620
+que eu tenho,
+
+1509
+00:48:22,620 --> 00:48:23,180
+por exemplo,
+
+1510
+00:48:23,180 --> 00:48:24,140
+a data de cada ásthro,
+
+1511
+00:48:24,140 --> 00:48:24,780
+está aí,
+
+1512
+00:48:24,780 --> 00:48:25,820
+o mês e o ano
+
+1513
+00:48:25,820 --> 00:48:26,620
+da data de cada ásthro.
+
+1514
+00:48:31,180 --> 00:48:31,980
+Eu acho que o mês,
+
+1515
+00:48:31,980 --> 00:48:33,980
+eu tenho para comparar cada ano
+
+1516
+00:48:33,980 --> 00:48:35,900
+se há uma sazonalidade,
+
+1517
+00:48:36,300 --> 00:48:38,140
+e o ano para ver a evolução
+
+1518
+00:48:38,140 --> 00:48:39,420
+no do tempo, né?
+
+1519
+00:48:39,420 --> 00:48:40,700
+É, exatamente,
+
+1520
+00:48:40,700 --> 00:48:41,260
+este,
+
+1521
+00:48:41,260 --> 00:48:42,220
+a ideia é essa,
+
+1522
+00:48:42,220 --> 00:48:42,940
+tipo,
+
+1523
+00:48:42,940 --> 00:48:43,820
+a gente consegue criar mais
+
+1524
+00:48:43,820 --> 00:48:44,540
+uma variável,
+
+1525
+00:48:44,540 --> 00:48:45,740
+eu não preciso ter
+
+1526
+00:48:45,740 --> 00:48:46,300
+a data,
+
+1527
+00:48:46,300 --> 00:48:46,860
+por que, por exemplo,
+
+1528
+00:48:46,860 --> 00:48:48,380
+quando eu quiser agrupar ali,
+
+1529
+00:48:48,380 --> 00:48:49,740
+eu quero agrupar,
+
+1530
+00:48:49,740 --> 00:48:50,700
+pegar a renda média
+
+1531
+00:48:50,700 --> 00:48:51,580
+das pessoas que entraram
+
+1532
+00:48:51,580 --> 00:48:52,860
+a cada mês.
+
+1533
+00:48:52,860 --> 00:48:53,580
+E aí,
+
+1534
+00:48:53,580 --> 00:48:54,300
+eu consigo conversar
+
+1535
+00:48:54,300 --> 00:48:55,340
+na poussera que
+
+1536
+00:48:55,340 --> 00:48:57,340
+em desembrou o dia de 2022,
+
+1537
+00:48:57,340 --> 00:48:58,700
+o pessoal que entrou,
+
+1538
+00:48:58,700 --> 00:48:58,940
+é,
+
+1539
+00:48:58,940 --> 00:49:00,060
+tinha uma renda de mais alto.
+
+1540
+00:49:00,060 --> 00:49:00,780
+O que a gente fez?
+
+1541
+00:49:00,780 --> 00:49:01,900
+Será que foi uma campanha
+
+1542
+00:49:01,900 --> 00:49:03,900
+que a gente fez relacionada
+
+1543
+00:49:03,900 --> 00:49:05,260
+num e at club,
+
+1544
+00:49:05,260 --> 00:49:06,540
+que trouxe clientes
+
+1545
+00:49:06,540 --> 00:49:07,980
+que tem uma renda maior?
+
+1546
+00:49:07,980 --> 00:49:08,620
+Então,
+
+1547
+00:49:08,620 --> 00:49:10,620
+mas é implica que eu poderia trazer.
+
+1548
+00:49:10,620 --> 00:49:12,140
+E com isso,
+
+1549
+00:49:12,140 --> 00:49:12,940
+a gente consegue criar um
+
+1550
+00:49:12,940 --> 00:49:13,660
+variável,
+
+1551
+00:49:13,660 --> 00:49:14,700
+principalmente,
+
+1552
+00:49:14,700 --> 00:49:16,140
+a ideia de medicar a unidade,
+
+1553
+00:49:16,140 --> 00:49:16,940
+e com relação a
+
+1554
+00:49:16,940 --> 00:49:17,900
+também com
+
+1555
+00:49:17,900 --> 00:49:18,780
+outros eventos,
+
+1556
+00:49:18,780 --> 00:49:19,100
+aí,
+
+1557
+00:49:19,100 --> 00:49:19,980
+subjetivos,
+
+1558
+00:49:19,980 --> 00:49:20,860
+de acordo com
+
+1559
+00:49:20,860 --> 00:49:21,980
+com os gentilidades que você
+
+1560
+00:49:21,980 --> 00:49:22,620
+está analisando.
+
+1561
+00:49:24,380 --> 00:49:25,740
+Uma coisa muito legal,
+
+1562
+00:49:25,740 --> 00:49:27,180
+é pegar, por exemplo,
+
+1563
+00:49:27,180 --> 00:49:29,180
+aqui a média,
+
+1564
+00:49:29,180 --> 00:49:30,860
+eu vou ter aqui a média,
+
+1565
+00:49:30,860 --> 00:49:32,060
+criar a média,
+
+1566
+00:49:32,060 --> 00:49:33,420
+de,
+
+1567
+00:49:33,420 --> 00:49:35,420
+vamos supor aqui,
+
+1568
+00:49:35,420 --> 00:49:37,180
+do cadácio de desclintes.
+
+1569
+00:49:37,500 --> 00:49:38,700
+Então,
+
+1570
+00:49:38,700 --> 00:49:40,220
+aqui,
+
+1571
+00:49:40,220 --> 00:49:41,420
+o que eu ganho criando
+
+1572
+00:49:41,420 --> 00:49:42,380
+a média,
+
+1573
+00:49:42,380 --> 00:49:43,980
+do cadácio de desclintes?
+
+1574
+00:49:43,980 --> 00:49:44,940
+Vamos supor
+
+1575
+00:49:44,940 --> 00:49:45,900
+aqui no casamento,
+
+1576
+00:49:45,900 --> 00:49:46,780
+já está pegando a média geral,
+
+1577
+00:49:46,780 --> 00:49:47,580
+mas vamos supor que eu
+
+1578
+00:49:47,580 --> 00:49:48,780
+teria a média
+
+1579
+00:49:48,780 --> 00:49:51,420
+de desembre de 2022.
+
+1580
+00:49:51,420 --> 00:49:51,660
+Então,
+
+1581
+00:49:51,660 --> 00:49:52,700
+pegar a média
+
+1582
+00:49:52,700 --> 00:49:54,060
+do primeiro que do mês do
+
+1583
+00:49:54,060 --> 00:49:54,700
+cliente.
+
+1584
+00:49:54,700 --> 00:49:55,580
+Eu consigo ver,
+
+1585
+00:49:55,580 --> 00:49:56,140
+por exemplo,
+
+1586
+00:49:56,140 --> 00:49:57,420
+se esse cliente aqui,
+
+1587
+00:49:57,420 --> 00:49:58,620
+se o cliente zero,
+
+1588
+00:49:58,620 --> 00:49:59,660
+ele é um cara
+
+1589
+00:49:59,660 --> 00:50:00,620
+que está sim ou abaixo
+
+1590
+00:50:00,620 --> 00:50:02,060
+da média do mês dele.
+
+1591
+00:50:03,100 --> 00:50:03,260
+E aí,
+
+1592
+00:50:03,260 --> 00:50:03,660
+entendeu,
+
+1593
+00:50:03,660 --> 00:50:04,220
+eu vou aportamento.
+
+1594
+00:50:04,220 --> 00:50:05,580
+As vezes dentro do pessoal
+
+1595
+00:50:05,580 --> 00:50:06,220
+do e-atplub,
+
+1596
+00:50:06,220 --> 00:50:07,100
+que eu fiz a campanha,
+
+1597
+00:50:07,100 --> 00:50:08,060
+tem um cara que está
+
+1598
+00:50:08,060 --> 00:50:09,020
+muito alto.
+
+1599
+00:50:09,020 --> 00:50:09,420
+Então,
+
+1600
+00:50:09,420 --> 00:50:10,060
+ou o cara,
+
+1601
+00:50:10,060 --> 00:50:10,380
+por exemplo,
+
+1602
+00:50:10,380 --> 00:50:11,180
+que está muito baixo,
+
+1603
+00:50:11,180 --> 00:50:11,900
+dentro do campanha,
+
+1604
+00:50:11,900 --> 00:50:12,460
+do e-atplub.
+
+1605
+00:50:12,460 --> 00:50:13,100
+Então, esse é um cara,
+
+1606
+00:50:13,100 --> 00:50:13,580
+quando eu vou dar
+
+1607
+00:50:13,580 --> 00:50:14,140
+tanto foco.
+
+1608
+00:50:15,260 --> 00:50:15,500
+Então,
+
+1609
+00:50:15,500 --> 00:50:16,220
+a gente consegue,
+
+1610
+00:50:17,740 --> 00:50:18,140
+também,
+
+1611
+00:50:18,940 --> 00:50:20,300
+quando criando uma comunidade
+
+1612
+00:50:20,940 --> 00:50:22,220
+gerada do isso de infelomção.
+
+1613
+00:50:22,220 --> 00:50:22,780
+A gente consegue
+
+1614
+00:50:22,780 --> 00:50:23,500
+conrelacionar.
+
+1615
+00:50:24,060 --> 00:50:24,940
+Vamos supor aqui,
+
+1616
+00:50:24,940 --> 00:50:25,740
+que isso aqui,
+
+1617
+00:50:25,740 --> 00:50:26,620
+todos os clientes
+
+1618
+00:50:26,620 --> 00:50:27,980
+sejam relacionados
+
+1619
+00:50:27,980 --> 00:50:29,260
+a um tipo de campanha.
+
+1620
+00:50:29,660 --> 00:50:31,180
+Então, a média dessa campanha
+
+1621
+00:50:31,180 --> 00:50:33,340
+foi 65.700 de 18.
+
+1622
+00:50:33,580 --> 00:50:35,020
+Se a gente fizer uma outra campanha
+
+1623
+00:50:35,020 --> 00:50:36,860
+que é média seja 90 mil.
+
+1624
+00:50:36,860 --> 00:50:38,060
+Então, a gente consegue entender,
+
+1625
+00:50:38,060 --> 00:50:38,620
+por exemplo,
+
+1626
+00:50:38,620 --> 00:50:39,740
+a gente queria uma nova
+
+1627
+00:50:39,740 --> 00:50:41,660
+dimensão no nosso análise,
+
+1628
+00:50:41,660 --> 00:50:42,860
+de como que, por exemplo,
+
+1629
+00:50:42,860 --> 00:50:43,740
+o nosso cliente
+
+1630
+00:50:43,740 --> 00:50:44,540
+tem a renda dele
+
+1631
+00:50:44,540 --> 00:50:45,180
+que está relacionado
+
+1632
+00:50:45,180 --> 00:50:46,300
+com a renda mensal.
+
+1633
+00:50:46,300 --> 00:50:48,140
+O renda daquela campanha,
+
+1634
+00:50:48,140 --> 00:50:49,020
+igual a gente falou,
+
+1635
+00:50:49,020 --> 00:50:50,540
+para que ela
+
+1636
+00:50:50,540 --> 00:50:51,980
+se determina a situação.
+
+1637
+00:50:54,140 --> 00:50:54,860
+Agora,
+
+1638
+00:50:54,860 --> 00:50:55,100
+ou,
+
+1639
+00:50:55,100 --> 00:50:55,820
+outro exemplo aqui,
+
+1640
+00:50:55,820 --> 00:50:57,340
+em NLP,
+
+1641
+00:50:57,340 --> 00:50:58,380
+em NLP,
+
+1642
+00:50:58,380 --> 00:50:59,820
+já já entrando um pouquinho,
+
+1643
+00:50:59,820 --> 00:51:00,300
+é neto,
+
+1644
+00:51:00,300 --> 00:51:00,540
+ou lém,
+
+1645
+00:51:00,540 --> 00:51:00,700
+hoje,
+
+1646
+00:51:00,700 --> 00:51:01,420
+processina.
+
+1647
+00:51:01,420 --> 00:51:02,140
+Então, a processamento
+
+1648
+00:51:02,140 --> 00:51:04,300
+natural de linguagem
+
+1649
+00:51:04,300 --> 00:51:05,260
+é um área também
+
+1650
+00:51:05,260 --> 00:51:06,380
+do conhecimento gigante
+
+1651
+00:51:06,380 --> 00:51:07,740
+para quem trabalha com dados.
+
+1652
+00:51:07,740 --> 00:51:07,820
+E,
+
+1653
+00:51:07,820 --> 00:51:07,980
+e,
+
+1654
+00:51:07,980 --> 00:51:08,700
+basicamente,
+
+1655
+00:51:08,700 --> 00:51:09,740
+trabalhar com
+
+1656
+00:51:09,740 --> 00:51:10,620
+conjunto de dados
+
+1657
+00:51:10,620 --> 00:51:11,420
+em fomos de texto.
+
+1658
+00:51:12,380 --> 00:51:13,100
+Então,
+
+1659
+00:51:13,100 --> 00:51:15,260
+um processo do NLP,
+
+1660
+00:51:15,260 --> 00:51:15,820
+muito legal,
+
+1661
+00:51:15,820 --> 00:51:16,860
+é o POS,
+
+1662
+00:51:16,860 --> 00:51:19,740
+que é o Part of Speed Tegnes,
+
+1663
+00:51:19,740 --> 00:51:20,700
+postegnes,
+
+1664
+00:51:20,700 --> 00:51:22,300
+e o que é o postegnes
+
+1665
+00:51:22,300 --> 00:51:22,860
+em NLP.
+
+1666
+00:51:22,860 --> 00:51:23,100
+Então,
+
+1667
+00:51:23,100 --> 00:51:24,700
+aqui já vem mais amosados,
+
+1668
+00:51:24,700 --> 00:51:25,580
+mas é um processo
+
+1669
+00:51:25,580 --> 00:51:26,540
+que a gente faz
+
+1670
+00:51:26,540 --> 00:51:27,260
+para tentar
+
+1671
+00:51:27,260 --> 00:51:27,900
+prever,
+
+1672
+00:51:28,220 --> 00:51:29,500
+é um processo de classificação
+
+1673
+00:51:29,500 --> 00:51:30,380
+que a gente tem para prever.
+
+1674
+00:51:30,380 --> 00:51:30,780
+O que é,
+
+1675
+00:51:31,820 --> 00:51:32,540
+bem,
+
+1676
+00:51:32,540 --> 00:51:33,660
+o que é cada coisa
+
+1677
+00:51:33,660 --> 00:51:35,260
+dentro da uma estrutura de uma frase.
+
+1678
+00:51:35,260 --> 00:51:36,460
+Então, o que é um adjetivo,
+
+1679
+00:51:36,460 --> 00:51:37,100
+o que é um verbo,
+
+1680
+00:51:37,100 --> 00:51:38,140
+o que é um pronome,
+
+1681
+00:51:38,140 --> 00:51:39,100
+o que é um número
+
+1682
+00:51:39,100 --> 00:51:40,700
+o que é um sujeito,
+
+1683
+00:51:40,700 --> 00:51:40,940
+então,
+
+1684
+00:51:40,940 --> 00:51:42,620
+essa ideia do POSTAGnes,
+
+1685
+00:51:42,620 --> 00:51:44,380
+ele nem fica dentro de uma frase,
+
+1686
+00:51:44,380 --> 00:51:45,340
+o que é cada coisa.
+
+1687
+00:51:46,300 --> 00:51:47,580
+E o que a gente pega?
+
+1688
+00:51:47,580 --> 00:51:48,300
+Você a gente pensar?
+
+1689
+00:51:49,660 --> 00:51:50,940
+Vamos pensar assim um comentário
+
+1690
+00:51:50,940 --> 00:51:52,620
+que vocês fizeram de algum produto
+
+1691
+00:51:52,620 --> 00:51:53,340
+da Amazon,
+
+1692
+00:51:53,340 --> 00:51:54,460
+mercado livre.
+
+1693
+00:51:54,460 --> 00:51:55,500
+O que é aquilo?
+
+1694
+00:51:55,500 --> 00:51:56,220
+Nada mais é,
+
+1695
+00:51:56,220 --> 00:51:57,420
+do que é um conjunto de dados,
+
+1696
+00:51:57,420 --> 00:51:57,980
+preves.
+
+1697
+00:51:57,980 --> 00:51:59,020
+Então, eles vão pegar aquilo
+
+1698
+00:51:59,020 --> 00:52:00,460
+como forma de texto,
+
+1699
+00:52:00,460 --> 00:52:01,420
+e eles vão fazer o que?
+
+1700
+00:52:01,420 --> 00:52:02,460
+Não fazer um processo de
+
+1701
+00:52:02,460 --> 00:52:03,500
+filtro indivíria e ali,
+
+1702
+00:52:03,500 --> 00:52:05,020
+para criar várias variáveis,
+
+1703
+00:52:05,020 --> 00:52:06,700
+então aqui, por exemplo, o POSTAGnes,
+
+1704
+00:52:06,700 --> 00:52:09,420
+é um processo de filtro indivíria.
+
+1705
+00:52:09,740 --> 00:52:11,260
+E vão criar várias variáveis
+
+1706
+00:52:11,260 --> 00:52:12,380
+para fazer as análises
+
+1707
+00:52:12,380 --> 00:52:12,940
+da gente depois.
+
+1708
+00:52:12,940 --> 00:52:13,340
+Entendeu?
+
+1709
+00:52:13,340 --> 00:52:14,300
+Será que eu comentário?
+
+1710
+00:52:14,300 --> 00:52:15,260
+O Bruno fez aqui?
+
+1711
+00:52:15,260 --> 00:52:16,220
+É um comentário positivo,
+
+1712
+00:52:16,220 --> 00:52:17,340
+negativo.
+
+1713
+00:52:17,340 --> 00:52:18,140
+Esse produto,
+
+1714
+00:52:18,140 --> 00:52:19,500
+muita gente está recomando
+
+1715
+00:52:19,500 --> 00:52:21,740
+do fecho de abertura dele.
+
+1716
+00:52:21,740 --> 00:52:22,380
+Então,
+
+1717
+00:52:22,380 --> 00:52:24,380
+isso aqui pode ser um ponto de atenção.
+
+1718
+00:52:24,380 --> 00:52:25,420
+Vou avisar para o
+
+1719
+00:52:25,420 --> 00:52:26,780
+cliente no anunço.
+
+1720
+00:52:26,780 --> 00:52:27,820
+Então, hoje,
+
+1721
+00:52:27,820 --> 00:52:28,620
+essa empresa já faz
+
+1722
+00:52:28,620 --> 00:52:29,980
+isso no nível de analisar,
+
+1723
+00:52:29,980 --> 00:52:31,980
+por exemplo, o texto de comentários,
+
+1724
+00:52:31,980 --> 00:52:34,060
+e que conseguir fazer
+
+1725
+00:52:34,060 --> 00:52:35,180
+a processo de filtro indivíria
+
+1726
+00:52:35,180 --> 00:52:37,260
+para esquecer toda essa parte
+
+1727
+00:52:37,260 --> 00:52:39,260
+desse conjunto de dados.
+
+1728
+00:52:39,260 --> 00:52:40,140
+E o mais legal também,
+
+1729
+00:52:40,140 --> 00:52:41,900
+é que isso vai muito além.
+
+1730
+00:52:41,900 --> 00:52:42,860
+Então, você não se foupem
+
+1731
+00:52:42,860 --> 00:52:44,220
+está tudo,
+
+1732
+00:52:44,220 --> 00:52:46,700
+hoje, isso não convirtir dados.
+
+1733
+00:52:46,700 --> 00:52:48,300
+Esse algoritmo de exemplo,
+
+1734
+00:52:48,300 --> 00:52:50,300
+duas exemplos do Espacial.
+
+1735
+00:52:50,300 --> 00:52:51,180
+Cara, eu não lembro.
+
+1736
+00:52:51,180 --> 00:52:52,220
+Esse aqui foi só um exemplo que eu
+
+1737
+00:52:52,220 --> 00:52:54,220
+não peguei mesmo,
+
+1738
+00:52:54,220 --> 00:52:55,340
+mas provavelmente,
+
+1739
+00:52:55,340 --> 00:52:56,060
+os Espacial,
+
+1740
+00:52:56,060 --> 00:52:56,860
+porque não espês,
+
+1741
+00:52:56,860 --> 00:52:58,380
+o Espacial é um biotech
+
+1742
+00:52:58,380 --> 00:52:59,580
+de NLP.
+
+1743
+00:52:59,580 --> 00:53:00,380
+Então, lá para frente,
+
+1744
+00:53:00,380 --> 00:53:01,580
+vamos ver o Espacial.
+
+1745
+00:53:01,580 --> 00:53:02,220
+Mas a gente consegue
+
+1746
+00:53:02,220 --> 00:53:04,220
+carregar, por exemplo,
+
+1747
+00:53:04,220 --> 00:53:04,860
+alinguei.
+
+1748
+00:53:04,860 --> 00:53:05,360
+Então, a gente consegue
+
+1749
+00:53:05,360 --> 00:53:06,380
+carregar o português,
+
+1750
+00:53:06,380 --> 00:53:07,660
+Brasil, no Espacial.
+
+1751
+00:53:07,660 --> 00:53:10,220
+E fazer esse processo de postagens
+
+1752
+00:53:10,220 --> 00:53:11,660
+no para um
+
+1753
+00:53:11,660 --> 00:53:13,580
+computador que use
+
+1754
+00:53:13,580 --> 00:53:14,300
+português.
+
+1755
+00:53:14,300 --> 00:53:15,100
+Então, por exemplo,
+
+1756
+00:53:15,100 --> 00:53:15,580
+tudo que a gente
+
+1757
+00:53:15,580 --> 00:53:16,540
+comentaria em social,
+
+1758
+00:53:16,540 --> 00:53:17,180
+o intuito.
+
+1759
+00:53:17,180 --> 00:53:17,900
+Essa é a saída
+
+1760
+00:53:17,900 --> 00:53:19,180
+o VNLP.
+
+1761
+00:53:19,180 --> 00:53:20,140
+Já foi gratuita
+
+1762
+00:53:20,140 --> 00:53:21,740
+essa peí, bons tempos,
+
+1763
+00:53:21,740 --> 00:53:22,780
+eu aproveitei
+
+1764
+00:53:22,780 --> 00:53:24,220
+porque foi gratuita,
+
+1765
+00:53:24,220 --> 00:53:26,220
+mas
+
+1766
+00:53:26,220 --> 00:53:27,580
+ela não é gratuita no gandês
+
+1767
+00:53:27,580 --> 00:53:29,260
+do foi, não é lomas que já,
+
+1768
+00:53:29,260 --> 00:53:30,140
+quando ela lomas pegou
+
+1769
+00:53:30,140 --> 00:53:31,420
+desbotaram,
+
+1770
+00:53:31,420 --> 00:53:32,780
+começaram a metabolizar,
+
+1771
+00:53:32,780 --> 00:53:33,500
+mas do IITAN,
+
+1772
+00:53:33,500 --> 00:53:34,540
+então eles começaram a
+
+1773
+00:53:34,540 --> 00:53:35,500
+cobrar pela peí,
+
+1774
+00:53:35,500 --> 00:53:37,180
+eu nunca mais, nunca mais na
+
+1775
+00:53:37,180 --> 00:53:37,820
+VGLAT.
+
+1776
+00:53:37,820 --> 00:53:39,020
+É, mas, por exemplo,
+
+1777
+00:53:39,020 --> 00:53:39,260
+a gente conseguir
+
+1778
+00:53:39,260 --> 00:53:39,900
+extrair com o gente
+
+1779
+00:53:39,900 --> 00:53:40,460
+estudar,
+
+1780
+00:53:40,460 --> 00:53:41,660
+sobre o intuito,
+
+1781
+00:53:41,660 --> 00:53:42,940
+sobre ele
+
+1782
+00:53:42,940 --> 00:53:43,500
+recheteguei,
+
+1783
+00:53:43,500 --> 00:53:45,100
+se de determinada marca.
+
+1784
+00:53:45,100 --> 00:53:45,740
+Então, na época,
+
+1785
+00:53:45,740 --> 00:53:47,100
+fiz um projeto de indisto,
+
+1786
+00:53:47,100 --> 00:53:48,300
+para avaliar,
+
+1787
+00:53:48,300 --> 00:53:49,020
+sobre ele,
+
+1788
+00:53:49,020 --> 00:53:50,140
+são de 2022,
+
+1789
+00:53:50,140 --> 00:53:51,020
+fiz um projeto
+
+1790
+00:53:51,020 --> 00:53:52,380
+para um político
+
+1791
+00:53:52,380 --> 00:53:53,660
+para analisar,
+
+1792
+00:53:53,660 --> 00:53:54,860
+sobre
+
+1793
+00:53:54,860 --> 00:53:56,140
+a
+
+1794
+00:53:56,140 --> 00:53:57,900
+o intuito, sobre ele,
+
+1795
+00:53:57,900 --> 00:53:58,460
+como frio,
+
+1796
+00:53:58,460 --> 00:54:00,060
+zinho, confiso na época.
+
+1797
+00:54:00,060 --> 00:54:00,860
+E a gente todo dia,
+
+1798
+00:54:00,860 --> 00:54:01,660
+tinha um relatório,
+
+1799
+00:54:01,660 --> 00:54:02,620
+automatizado,
+
+1800
+00:54:02,620 --> 00:54:04,700
+que gerava o,
+
+1801
+00:54:04,700 --> 00:54:04,940
+mas,
+
+1802
+00:54:04,940 --> 00:54:05,900
+finalmente, um relatório
+
+1803
+00:54:05,900 --> 00:54:06,860
+do das redes sociais,
+
+1804
+00:54:06,860 --> 00:54:08,860
+do impacto das redes sociais.
+
+1805
+00:54:08,860 --> 00:54:09,900
+Tinha alguns problemas,
+
+1806
+00:54:09,900 --> 00:54:10,140
+também,
+
+1807
+00:54:10,140 --> 00:54:10,860
+tinha um muito perfil
+
+1808
+00:54:10,860 --> 00:54:11,340
+esse veio,
+
+1809
+00:54:11,340 --> 00:54:12,300
+que a oposição
+
+1810
+00:54:12,300 --> 00:54:13,340
+também fazia perfil feio,
+
+1811
+00:54:13,340 --> 00:54:14,700
+e que, então,
+
+1812
+00:54:14,700 --> 00:54:15,740
+temos alguns problemas,
+
+1813
+00:54:15,740 --> 00:54:16,540
+mas,
+
+1814
+00:54:16,540 --> 00:54:17,340
+era uma ferramenta
+
+1815
+00:54:17,340 --> 00:54:18,140
+muito muito legal.
+
+1816
+00:54:19,020 --> 00:54:23,100
+E, no fim,
+
+1817
+00:54:23,100 --> 00:54:24,220
+toda testa, né?
+
+1818
+00:54:24,220 --> 00:54:25,740
+Ainda é muita coisa,
+
+1819
+00:54:25,740 --> 00:54:26,220
+é testa.
+
+1820
+00:54:26,220 --> 00:54:29,020
+Agora, passando
+
+1821
+00:54:29,020 --> 00:54:30,540
+para estrutura
+
+1822
+00:54:30,540 --> 00:54:31,340
+de agrupamentos,
+
+1823
+00:54:31,340 --> 00:54:32,620
+é,
+
+1824
+00:54:32,620 --> 00:54:34,380
+primeiro esse projeto de agrupamento,
+
+1825
+00:54:34,380 --> 00:54:35,580
+da actually legal de
+
+1826
+00:54:35,580 --> 00:54:36,060
+transeste,
+
+1827
+00:54:36,060 --> 00:54:37,260
+que vem de muito,
+
+1828
+00:54:37,260 --> 00:54:37,900
+muito tempo.
+
+1829
+00:54:37,900 --> 00:54:38,460
+Se é,
+
+1830
+00:54:38,460 --> 00:54:39,260
+são uns estabaginando,
+
+1831
+00:54:39,260 --> 00:54:39,900
+que é a questão.
+
+1832
+00:54:39,900 --> 00:54:40,700
+Então, acho que é
+
+1833
+00:54:40,700 --> 00:54:41,580
+essa primeira pessoa
+
+1834
+00:54:41,580 --> 00:54:42,300
+que já mexeu,
+
+1835
+00:54:42,300 --> 00:54:42,700
+naquela,
+
+1836
+00:54:42,700 --> 00:54:43,580
+e queria uma tabela de
+
+1837
+00:54:43,580 --> 00:54:44,220
+ramquessável,
+
+1838
+00:54:44,220 --> 00:54:45,100
+que fome o Tio,
+
+1839
+00:54:45,100 --> 00:54:45,500
+é.
+
+1840
+00:54:45,500 --> 00:54:46,940
+Então, essa é uma ferramenta
+
+1841
+00:54:46,940 --> 00:54:47,340
+muito,
+
+1842
+00:54:47,340 --> 00:54:47,660
+muito,
+
+1843
+00:54:47,660 --> 00:54:48,540
+muito de agrupamento,
+
+1844
+00:54:49,100 --> 00:54:49,740
+até hoje,
+
+1845
+00:54:49,740 --> 00:54:49,980
+assim,
+
+1846
+00:54:49,980 --> 00:54:51,100
+para ela resolver
+
+1847
+00:54:51,100 --> 00:54:52,860
+a grande maioria dos problemas,
+
+1848
+00:54:52,860 --> 00:54:53,980
+pensando
+
+1849
+00:54:53,980 --> 00:54:54,940
+em testes potas,
+
+1850
+00:54:54,940 --> 00:54:55,820
+em arregunha,
+
+1851
+00:54:55,820 --> 00:54:57,180
+gosto,
+
+1852
+00:54:57,180 --> 00:54:57,500
+a gente consegue
+
+1853
+00:54:57,500 --> 00:54:58,140
+estar em muito forna,
+
+1854
+00:54:58,140 --> 00:54:58,940
+são com ela,
+
+1855
+00:54:58,940 --> 00:54:59,740
+porque ela é muito
+
+1856
+00:54:59,740 --> 00:55:00,780
+versátil.
+
+1857
+00:55:01,020 --> 00:55:02,780
+A gente consegue botar
+
+1858
+00:55:02,780 --> 00:55:03,420
+o coquete
+
+1859
+00:55:03,420 --> 00:55:04,540
+e pro de coluna,
+
+1860
+00:55:04,540 --> 00:55:05,980
+aqui nas linhas,
+
+1861
+00:55:05,980 --> 00:55:07,260
+qualquer tipo de
+
+1862
+00:55:07,260 --> 00:55:08,060
+dado,
+
+1863
+00:55:08,060 --> 00:55:09,020
+nas colunas,
+
+1864
+00:55:09,020 --> 00:55:10,060
+a gente consegue filtrar
+
+1865
+00:55:10,060 --> 00:55:11,100
+os valores,
+
+1866
+00:55:11,100 --> 00:55:12,860
+a gente consegue escolher,
+
+1867
+00:55:12,860 --> 00:55:14,140
+o que a gente vai botar no valor,
+
+1868
+00:55:14,140 --> 00:55:14,780
+a gente consegue botar
+
+1869
+00:55:14,780 --> 00:55:15,900
+a ser uma soma,
+
+1870
+00:55:15,900 --> 00:55:17,100
+ser uma contagia,
+
+1871
+00:55:17,100 --> 00:55:17,980
+a média,
+
+1872
+00:55:17,980 --> 00:55:19,100
+uma simulminima,
+
+1873
+00:55:19,100 --> 00:55:20,540
+então a gente consegue fazer,
+
+1874
+00:55:20,540 --> 00:55:21,340
+ela é um ferramenta
+
+1875
+00:55:21,340 --> 00:55:22,060
+muito emversato
+
+1876
+00:55:22,060 --> 00:55:22,780
+para a gente pegar
+
+1877
+00:55:22,780 --> 00:55:23,580
+essas informações
+
+1878
+00:55:23,580 --> 00:55:24,220
+sobre os condensão de
+
+1879
+00:55:24,220 --> 00:55:24,780
+os estudos que a gente
+
+1880
+00:55:24,780 --> 00:55:25,420
+está trabalhando.
+
+1881
+00:55:27,900 --> 00:55:28,380
+E,
+
+1882
+00:55:29,820 --> 00:55:30,220
+claro,
+
+1883
+00:55:30,220 --> 00:55:31,420
+o que o pai tem um paralelo,
+
+1884
+00:55:31,420 --> 00:55:32,060
+é pessoal.
+
+1885
+00:55:33,420 --> 00:55:34,620
+Ele é a cross-tab.
+
+1886
+00:55:35,260 --> 00:55:36,220
+No cross-tab,
+
+1887
+00:55:36,220 --> 00:55:37,260
+a gente consegue fazer
+
+1888
+00:55:37,260 --> 00:55:38,300
+exatamente o que a gente consegue
+
+1889
+00:55:38,300 --> 00:55:39,340
+fazer no atavella de nome
+
+1890
+00:55:39,340 --> 00:55:39,900
+que no pai.
+
+1891
+00:55:40,540 --> 00:55:41,420
+Então, a gente consegue
+
+1892
+00:55:41,420 --> 00:55:42,620
+chamar ela no pãs,
+
+1893
+00:55:42,620 --> 00:55:43,420
+no PDP,
+
+1894
+00:55:43,420 --> 00:55:44,140
+cross-tab,
+
+1895
+00:55:44,140 --> 00:55:45,020
+e ela é muito legal
+
+1896
+00:55:45,020 --> 00:55:45,580
+para a gente fazer
+
+1897
+00:55:45,580 --> 00:55:46,540
+são primeira análise
+
+1898
+00:55:46,540 --> 00:55:47,500
+do nosso convididade.
+
+1899
+00:55:47,980 --> 00:55:49,340
+Então, o que seria
+
+1900
+00:55:49,340 --> 00:55:49,980
+a linha?
+
+1901
+00:55:49,980 --> 00:55:51,420
+A gente volta aqui no começo
+
+1902
+00:55:51,420 --> 00:55:52,460
+no íncina,
+
+1903
+00:55:52,460 --> 00:55:53,660
+é o parametro íncina.
+
+1904
+00:55:53,660 --> 00:55:56,220
+O que seria a coluna
+
+1905
+00:55:56,220 --> 00:55:57,020
+na tabla dinâmica?
+
+1906
+00:55:57,020 --> 00:55:58,060
+A gente volta aqui depois,
+
+1907
+00:55:58,060 --> 00:55:59,260
+é o segundo parametro.
+
+1908
+00:55:59,260 --> 00:56:00,220
+O valor
+
+1909
+00:56:00,220 --> 00:56:00,940
+que a justamente
+
+1910
+00:56:00,940 --> 00:56:02,380
+que seria o valor da tabla dinâmica,
+
+1911
+00:56:02,380 --> 00:56:02,940
+a gente volta aqui,
+
+1912
+00:56:02,940 --> 00:56:03,660
+velhos.
+
+1913
+00:56:03,980 --> 00:56:04,540
+E,
+
+1914
+00:56:04,540 --> 00:56:05,260
+por fim,
+
+1915
+00:56:05,260 --> 00:56:06,220
+a gente pode passar
+
+1916
+00:56:06,220 --> 00:56:07,580
+com a função de agregação,
+
+1917
+00:56:07,580 --> 00:56:08,380
+a gente quer.
+
+1918
+00:56:08,380 --> 00:56:08,860
+Então, a gente passa
+
+1919
+00:56:08,860 --> 00:56:09,820
+aqui no funcionário,
+
+1920
+00:56:09,820 --> 00:56:10,140
+certo?
+
+1921
+00:56:11,100 --> 00:56:12,380
+Com os principais
+
+1922
+00:56:12,380 --> 00:56:13,180
+parametro que a gente quer,
+
+1923
+00:56:13,180 --> 00:56:13,660
+no nosso caso,
+
+1924
+00:56:13,660 --> 00:56:15,100
+a gente vai querer a média,
+
+1925
+00:56:15,100 --> 00:56:15,820
+é a minha,
+
+1926
+00:56:15,820 --> 00:56:16,540
+a média,
+
+1927
+00:56:16,540 --> 00:56:17,420
+e o máximo.
+
+1928
+00:56:17,740 --> 00:56:18,700
+Para cada um,
+
+1929
+00:56:19,660 --> 00:56:20,780
+desses conjuntidades,
+
+1930
+00:56:20,780 --> 00:56:21,100
+então,
+
+1931
+00:56:21,100 --> 00:56:22,540
+vai quererbrar por sexo,
+
+1932
+00:56:22,540 --> 00:56:23,500
+por cor,
+
+1933
+00:56:23,500 --> 00:56:24,380
+por cor aqui,
+
+1934
+00:56:24,380 --> 00:56:25,260
+no estuxtista,
+
+1935
+00:56:25,260 --> 00:56:26,540
+nas linhas,
+
+1936
+00:56:26,540 --> 00:56:28,300
+por sexo, no estuíptico,
+
+1937
+00:56:28,300 --> 00:56:28,860
+perfeito.
+
+1938
+00:56:29,900 --> 00:56:31,340
+E os valores são a renda.
+
+1939
+00:56:31,340 --> 00:56:31,900
+Então, a gente consegue
+
+1940
+00:56:31,900 --> 00:56:33,100
+ver aqui no caso a renda,
+
+1941
+00:56:34,140 --> 00:56:35,020
+máxima,
+
+1942
+00:56:35,020 --> 00:56:35,740
+a média,
+
+1943
+00:56:35,740 --> 00:56:36,540
+e a meijana,
+
+1944
+00:56:37,500 --> 00:56:39,100
+por mulheres,
+
+1945
+00:56:39,100 --> 00:56:39,900
+feminino,
+
+1946
+00:56:39,900 --> 00:56:40,860
+e por homens,
+
+1947
+00:56:40,860 --> 00:56:41,580
+no masculino.
+
+1948
+00:56:42,300 --> 00:56:43,020
+Então,
+
+1949
+00:56:43,660 --> 00:56:45,500
+aqui no caso de visão.
+
+1950
+00:56:45,500 --> 00:56:46,300
+Perfeito?
+
+1951
+00:56:46,300 --> 00:56:46,620
+Então,
+
+1952
+00:56:46,620 --> 00:56:47,820
+aqui a gente consegue ver que
+
+1953
+00:56:47,820 --> 00:56:48,860
+uma,
+
+1954
+00:56:48,860 --> 00:56:49,500
+a média,
+
+1955
+00:56:49,500 --> 00:56:51,260
+a renda média,
+
+1956
+00:56:51,260 --> 00:56:53,580
+do homenim branco,
+
+1957
+00:56:53,580 --> 00:56:54,860
+máximo a esse aqui,
+
+1958
+00:56:54,860 --> 00:56:56,220
+200 mil,
+
+1959
+00:56:56,220 --> 00:56:57,980
+a média é 2,925,
+
+1960
+00:56:57,980 --> 00:56:59,260
+é mais alta,
+
+1961
+00:56:59,260 --> 00:57:02,060
+enquanto do mamulher preta,
+
+1962
+00:57:02,060 --> 00:57:03,660
+aqui é 1,34,
+
+1963
+00:57:03,660 --> 00:57:03,900
+não.
+
+1964
+00:57:03,900 --> 00:57:04,700
+Então,
+
+1965
+00:57:04,700 --> 00:57:06,060
+tudo o que a gente
+
+1966
+00:57:06,060 --> 00:57:08,060
+vê no cotinho de ano está aqui.
+
+1967
+00:57:08,060 --> 00:57:08,620
+É,
+
+1968
+00:57:08,620 --> 00:57:10,140
+e com o costéber,
+
+1969
+00:57:10,140 --> 00:57:11,900
+a gente consegue analisar
+
+1970
+00:57:11,900 --> 00:57:12,540
+muita,
+
+1971
+00:57:12,540 --> 00:57:13,900
+muito tranquilamente.
+
+1972
+00:57:13,900 --> 00:57:14,620
+Então, aqui, por exemplo,
+
+1973
+00:57:14,620 --> 00:57:15,580
+a renda média dos,
+
+1974
+00:57:15,580 --> 00:57:17,180
+a maelos que é pessoal,
+
+1975
+00:57:17,180 --> 00:57:17,740
+àse por,
+
+1976
+00:57:17,740 --> 00:57:18,700
+então,
+
+1977
+00:57:18,700 --> 00:57:19,740
+aí, no sensíveis,
+
+1978
+00:57:19,740 --> 00:57:21,180
+o sistema amarelo,
+
+1979
+00:57:21,180 --> 00:57:21,740
+enfim,
+
+1980
+00:57:22,940 --> 00:57:24,380
+se não usado de scuba,
+
+1981
+00:57:24,380 --> 00:57:25,180
+mas,
+
+1982
+00:57:25,180 --> 00:57:25,900
+aqui,
+
+1983
+00:57:25,900 --> 00:57:26,860
+4,748,
+
+1984
+00:57:26,860 --> 00:57:28,380
+uma renda muito mais alta,
+
+1985
+00:57:28,380 --> 00:57:29,580
+do que eu resdapoculação.
+
+1986
+00:57:30,780 --> 00:57:31,180
+Então,
+
+1987
+00:57:31,180 --> 00:57:32,300
+a meijerao é isso,
+
+1988
+00:57:32,300 --> 00:57:32,860
+a meijana,
+
+1989
+00:57:32,860 --> 00:57:33,660
+também.
+
+1990
+00:57:33,660 --> 00:57:34,140
+E aqui,
+
+1991
+00:57:34,140 --> 00:57:34,780
+o que a gente faz
+
+1992
+00:57:34,780 --> 00:57:37,260
+como o costéber é conseguir gerar
+
+1993
+00:57:37,260 --> 00:57:38,780
+tudo isso de formação,
+
+1994
+00:57:38,780 --> 00:57:40,060
+uma forma muito simples,
+
+1995
+00:57:40,060 --> 00:57:40,460
+então,
+
+1996
+00:57:40,460 --> 00:57:41,820
+quem é acostumado com a Excel,
+
+1997
+00:57:41,820 --> 00:57:43,020
+e quem é manter uma estrutura,
+
+1998
+00:57:43,020 --> 00:57:43,820
+e te consegue fazer isso
+
+1999
+00:57:43,820 --> 00:57:44,540
+muito simplesmente,
+
+2000
+00:57:45,260 --> 00:57:47,020
+aqui a gente só deu um rename,
+
+2001
+00:57:47,020 --> 00:57:48,780
+para botar o índice como o corpo,
+
+2002
+00:57:48,780 --> 00:57:50,060
+e as colunas como sexa,
+
+2003
+00:57:50,060 --> 00:57:50,460
+então,
+
+2004
+00:57:50,460 --> 00:57:52,140
+só garantir que bonitinha aqui,
+
+2005
+00:57:52,140 --> 00:57:52,780
+por sexo.
+
+2006
+00:57:53,900 --> 00:57:54,380
+E no final,
+
+2007
+00:57:54,380 --> 00:57:55,580
+a gente imprimiu.
+
+2008
+00:57:56,540 --> 00:57:56,860
+Então,
+
+2009
+00:57:56,860 --> 00:57:57,820
+o costéber é uma ferramenta
+
+2010
+00:57:57,820 --> 00:57:58,460
+muito versátil,
+
+2011
+00:57:58,460 --> 00:57:59,820
+ela lembra muito a estabelegina,
+
+2012
+00:57:59,820 --> 00:58:00,380
+em queus,
+
+2013
+00:58:00,380 --> 00:58:01,820
+do Excel,
+
+2014
+00:58:02,460 --> 00:58:03,100
+mas,
+
+2015
+00:58:03,100 --> 00:58:03,900
+no pai,
+
+2016
+00:58:03,900 --> 00:58:04,140
+também,
+
+2017
+00:58:04,140 --> 00:58:04,780
+a gente acaba usando
+
+2018
+00:58:04,780 --> 00:58:05,900
+muito mais agrotamente,
+
+2019
+00:58:05,900 --> 00:58:06,060
+né,
+
+2020
+00:58:06,060 --> 00:58:06,540
+porque eles são mais
+
+2021
+00:58:06,540 --> 00:58:07,260
+girecionados.
+
+2022
+00:58:07,660 --> 00:58:07,900
+Então,
+
+2023
+00:58:07,900 --> 00:58:08,140
+aqui,
+
+2024
+00:58:08,140 --> 00:58:08,940
+a gente passa,
+
+2025
+00:58:08,940 --> 00:58:09,420
+um,
+
+2026
+00:58:09,420 --> 00:58:09,580
+vai,
+
+2027
+00:58:09,580 --> 00:58:09,660
+um,
+
+2028
+00:58:09,660 --> 00:58:11,020
+quando a speed de agropear,
+
+2029
+00:58:11,020 --> 00:58:11,820
+dentro do pai,
+
+2030
+00:58:12,780 --> 00:58:13,900
+não usar
+
+2031
+00:58:13,980 --> 00:58:14,860
+um atupo,
+
+2032
+00:58:14,860 --> 00:58:15,660
+muito cuidado.
+
+2033
+00:58:15,660 --> 00:58:17,180
+Então, se for mais de uma lima,
+
+2034
+00:58:17,180 --> 00:58:19,020
+mais de uma coluna pra agrupar,
+
+2035
+00:58:19,020 --> 00:58:21,100
+usem uma lista,
+
+2036
+00:58:21,100 --> 00:58:22,140
+uma,
+
+2037
+00:58:22,140 --> 00:58:23,820
+desculpa chave das listas,
+
+2038
+00:58:23,820 --> 00:58:24,460
+e dentro,
+
+2039
+00:58:24,460 --> 00:58:25,660
+vocês não passaram os parâmetros,
+
+2040
+00:58:25,660 --> 00:58:26,380
+correto.
+
+2041
+00:58:26,380 --> 00:58:27,740
+Mas se for só uma,
+
+2042
+00:58:27,740 --> 00:58:29,340
+o correto é usado,
+
+2043
+00:58:29,340 --> 00:58:30,540
+igual a gente fez aqui.
+
+2044
+00:58:30,540 --> 00:58:31,500
+Só,
+
+2045
+00:58:31,500 --> 00:58:32,940
+vocês ainda precisam passar o pai,
+
+2046
+00:58:32,940 --> 00:58:35,420
+porque o pai é o parâmetro padrão,
+
+2047
+00:58:35,420 --> 00:58:37,020
+e só passar uma extra em gladenta,
+
+2048
+00:58:37,020 --> 00:58:37,100
+então,
+
+2049
+00:58:37,100 --> 00:58:38,700
+o jeito que eu recomendo mais,
+
+2050
+00:58:38,700 --> 00:58:39,580
+faça,
+
+2051
+00:58:39,580 --> 00:58:40,780
+é, com menos coge,
+
+2052
+00:58:40,780 --> 00:58:41,180
+então,
+
+2053
+00:58:41,180 --> 00:58:42,780
+é só dar um grupo pai,
+
+2054
+00:58:42,780 --> 00:58:44,620
+não nem precisa escrever o pai,
+
+2055
+00:58:44,620 --> 00:58:45,580
+é o que eu recomendo,
+
+2056
+00:58:45,580 --> 00:58:47,100
+você quer mais explicar
+
+2057
+00:58:47,100 --> 00:58:48,140
+como é que fica sentados,
+
+2058
+00:58:48,140 --> 00:58:49,900
+então quando o fogo não para o problema coisa,
+
+2059
+00:58:49,900 --> 00:58:51,020
+só o bota ela,
+
+2060
+00:58:51,020 --> 00:58:51,900
+e não lembrando,
+
+2061
+00:58:51,900 --> 00:58:53,340
+sempre que o mais de uma coisa,
+
+2062
+00:58:53,340 --> 00:58:55,020
+quer algo para o mais de uma coluna,
+
+2063
+00:58:55,020 --> 00:58:55,740
+o bota,
+
+2064
+00:58:57,340 --> 00:58:57,900
+é,
+
+2065
+00:58:57,900 --> 00:58:59,340
+o,
+
+2066
+00:58:59,340 --> 00:59:00,140
+em forma de lista,
+
+2067
+00:59:00,140 --> 00:59:00,700
+correto,
+
+2068
+00:59:00,700 --> 00:59:01,900
+igual a gente viu,
+
+2069
+00:59:01,900 --> 00:59:02,860
+essa estrutura do pai,
+
+2070
+00:59:02,860 --> 00:59:04,620
+e quando a gente vai fazer mais de uma coisa.
+
+2071
+00:59:04,620 --> 00:59:05,820
+E depois que você agrupar,
+
+2072
+00:59:05,820 --> 00:59:06,780
+você tem que ver
+
+2073
+00:59:06,780 --> 00:59:08,300
+o que você vai querer extrair,
+
+2074
+00:59:08,300 --> 00:59:09,260
+de agregador,
+
+2075
+00:59:09,260 --> 00:59:10,300
+naquele agrupamento.
+
+2076
+00:59:10,300 --> 00:59:11,260
+Perfecto.
+
+2077
+00:59:11,260 --> 00:59:11,980
+Nossa, caso aqui,
+
+2078
+00:59:11,980 --> 00:59:13,580
+a gente agrupou o prônimo álfo,
+
+2079
+00:59:13,580 --> 00:59:16,220
+e a gente quer pegar a média.
+
+2080
+00:59:16,220 --> 00:59:16,860
+Então aqui,
+
+2081
+00:59:16,860 --> 00:59:19,020
+a gente tem os animais,
+
+2082
+00:59:19,020 --> 00:59:19,740
+e o que ele faz?
+
+2083
+00:59:19,740 --> 00:59:20,780
+Quando a gente bota aqui,
+
+2084
+00:59:20,780 --> 00:59:21,900
+nesse caso, a gente não se alessando,
+
+2085
+00:59:21,900 --> 00:59:22,700
+nem uma coluna,
+
+2086
+00:59:22,700 --> 00:59:24,060
+depois da agrupamento.
+
+2087
+00:59:24,060 --> 00:59:25,100
+Então o que ele vai trazer?
+
+2088
+00:59:25,100 --> 00:59:26,780
+As duas colunas.
+
+2089
+00:59:26,780 --> 00:59:27,660
+A gente poderia,
+
+2090
+00:59:27,660 --> 00:59:28,780
+e se alessando ao modelas,
+
+2091
+00:59:28,780 --> 00:59:29,580
+como que a gente faz isso,
+
+2092
+00:59:29,580 --> 00:59:30,540
+a gente bota,
+
+2093
+00:59:30,540 --> 00:59:32,540
+depois do animal,
+
+2094
+00:59:32,540 --> 00:59:33,100
+a gente vai pegar,
+
+2095
+00:59:33,100 --> 00:59:33,660
+e gotar,
+
+2096
+00:59:33,660 --> 00:59:34,540
+o Nick,
+
+2097
+00:59:36,940 --> 00:59:37,420
+ponto,
+
+2098
+00:59:37,420 --> 00:59:38,540
+aí de,
+
+2099
+00:59:38,540 --> 00:59:39,580
+e o que ele vai fazer?
+
+2100
+00:59:39,580 --> 00:59:41,020
+Ele vai selecionar a sua ela,
+
+2101
+00:59:41,020 --> 00:59:41,660
+e depois,
+
+2102
+00:59:41,660 --> 00:59:43,020
+eu vou botar o ponto 1.
+
+2103
+00:59:46,460 --> 00:59:47,580
+Aí eu conseguir esse alessão
+
+2104
+00:59:47,580 --> 00:59:47,900
+nação,
+
+2105
+00:59:47,900 --> 00:59:48,700
+vou das duas colunas.
+
+2106
+00:59:48,700 --> 00:59:49,020
+Então,
+
+2107
+00:59:49,020 --> 00:59:50,140
+a gente às vezes usa isso,
+
+2108
+00:59:50,140 --> 00:59:51,020
+quando a gente quer fazer
+
+2109
+00:59:51,020 --> 00:59:51,660
+agrupamento,
+
+2110
+00:59:51,660 --> 00:59:52,380
+e pegar,
+
+2111
+00:59:52,380 --> 00:59:53,740
+fazer essa uma contagem rápida.
+
+2112
+00:59:53,740 --> 00:59:53,980
+Então,
+
+2113
+00:59:53,980 --> 00:59:55,500
+a gente pode botar o I.
+
+2114
+00:59:55,500 --> 00:59:56,620
+Perfecto.
+
+2115
+00:59:56,620 --> 00:59:57,660
+Então, no nosso caso aqui,
+
+2116
+00:59:57,660 --> 00:59:58,300
+o Nick,
+
+2117
+00:59:58,300 --> 00:59:59,900
+ele traz a contagem,
+
+2118
+00:59:59,900 --> 01:00:00,540
+propriamente,
+
+2119
+01:00:00,540 --> 01:00:01,900
+isso aqui,
+
+2120
+01:00:01,900 --> 01:00:02,300
+a média,
+
+2121
+01:00:02,300 --> 01:00:03,260
+no caso,
+
+2122
+01:00:03,260 --> 01:00:04,700
+dá pra pedir a média,
+
+2123
+01:00:04,700 --> 01:00:05,740
+e a modelia,
+
+2124
+01:00:05,740 --> 01:00:06,460
+outro coluna,
+
+2125
+01:00:06,460 --> 01:00:06,940
+dá.
+
+2126
+01:00:06,940 --> 01:00:07,100
+Então,
+
+2127
+01:00:07,100 --> 01:00:08,540
+você pode passar também,
+
+2128
+01:00:08,540 --> 01:00:09,100
+é,
+
+2129
+01:00:09,100 --> 01:00:10,060
+no funcionário.
+
+2130
+01:00:10,060 --> 01:00:10,140
+E,
+
+2131
+01:00:10,140 --> 01:00:11,100
+é,
+
+2132
+01:00:11,100 --> 01:00:12,540
+pode passar no funcionário.
+
+2133
+01:00:12,540 --> 01:00:13,820
+Então,
+
+2134
+01:00:13,820 --> 01:00:15,340
+quando você quiser pegar,
+
+2135
+01:00:15,340 --> 01:00:16,620
+que nem o jolo tá se perguntando,
+
+2136
+01:00:16,620 --> 01:00:17,820
+dá pra pedir a média,
+
+2137
+01:00:17,820 --> 01:00:19,500
+de uma coluna em a moda da outra.
+
+2138
+01:00:19,500 --> 01:00:20,860
+A moda,
+
+2139
+01:00:20,860 --> 01:00:21,660
+se eu não me engano,
+
+2140
+01:00:21,660 --> 01:00:22,060
+os jolo,
+
+2141
+01:00:22,060 --> 01:00:22,620
+no caso,
+
+2142
+01:00:22,620 --> 01:00:24,140
+ela não é uma das funções
+
+2143
+01:00:24,140 --> 01:00:25,900
+padrão do,
+
+2144
+01:00:25,900 --> 01:00:26,860
+do pândor,
+
+2145
+01:00:26,860 --> 01:00:29,020
+então, tem construído a forma diferente,
+
+2146
+01:00:29,020 --> 01:00:29,660
+mas,
+
+2147
+01:00:29,660 --> 01:00:30,700
+por exemplo,
+
+2148
+01:00:30,700 --> 01:00:30,860
+a,
+
+2149
+01:00:30,860 --> 01:00:32,780
+carpegar a média a média,
+
+2150
+01:00:32,780 --> 01:00:32,940
+então,
+
+2151
+01:00:32,940 --> 01:00:33,820
+você teria construído,
+
+2152
+01:00:33,820 --> 01:00:34,940
+prevamente,
+
+2153
+01:00:34,940 --> 01:00:36,140
+mas aqui no caso,
+
+2154
+01:00:36,140 --> 01:00:37,580
+a gente que apegar a média a média,
+
+2155
+01:00:37,580 --> 01:00:38,380
+a gente pode
+
+2156
+01:00:38,380 --> 01:00:39,580
+fazer isso,
+
+2157
+01:00:39,580 --> 01:00:40,780
+deixa eu ver se consigo escrever aqui,
+
+2158
+01:00:42,780 --> 01:00:44,140
+a gente pode botar o ponto,
+
+2159
+01:00:45,020 --> 01:00:46,620
+a g, a g,
+
+2160
+01:00:46,620 --> 01:00:47,100
+né,
+
+2161
+01:00:47,100 --> 01:00:48,140
+efeito,
+
+2162
+01:00:48,140 --> 01:00:49,900
+e aqui a gente consegue botar,
+
+2163
+01:00:49,900 --> 01:00:51,340
+a eu quero pegar prão,
+
+2164
+01:00:51,340 --> 01:00:52,940
+a g,
+
+2165
+01:00:52,940 --> 01:00:53,660
+como é a liga,
+
+2166
+01:00:53,660 --> 01:00:53,900
+prão,
+
+2167
+01:00:53,900 --> 01:00:54,620
+a g,
+
+2168
+01:00:54,620 --> 01:00:54,940
+vai pegar,
+
+2169
+01:00:54,940 --> 01:00:55,420
+provavelmente,
+
+2170
+01:00:55,420 --> 01:00:55,980
+não acontece,
+
+2171
+01:00:55,980 --> 01:00:56,300
+não certo?
+
+2172
+01:00:56,300 --> 01:00:57,660
+Eu pegar um caunti,
+
+2173
+01:00:57,980 --> 01:00:59,420
+eu vou passar assim,
+
+2174
+01:00:59,420 --> 01:01:00,460
+noito para o water,
+
+2175
+01:01:00,460 --> 01:01:01,100
+a enige,
+
+2176
+01:01:01,100 --> 01:01:01,980
+que é, no caso,
+
+2177
+01:01:01,980 --> 01:01:03,100
+necessidade de água,
+
+2178
+01:01:03,100 --> 01:01:04,540
+né, por animal,
+
+2179
+01:01:04,540 --> 01:01:05,340
+então,
+
+2180
+01:01:05,340 --> 01:01:06,140
+no caso aqui,
+
+2181
+01:01:06,140 --> 01:01:07,500
+ele está pegando a média do idê,
+
+2182
+01:01:07,500 --> 01:01:08,300
+se a gente foi pensar,
+
+2183
+01:01:08,300 --> 01:01:10,060
+a média do ideal que não faz sentido,
+
+2184
+01:01:10,060 --> 01:01:10,940
+né, novamente,
+
+2185
+01:01:10,940 --> 01:01:12,380
+tipo pegar a média de um
+
+2186
+01:01:12,380 --> 01:01:13,340
+um CPF,
+
+2187
+01:01:13,340 --> 01:01:14,380
+não faz sentido nenhum,
+
+2188
+01:01:14,380 --> 01:01:15,580
+é uma chave,
+
+2189
+01:01:15,580 --> 01:01:16,380
+então,
+
+2190
+01:01:16,380 --> 01:01:17,980
+como unicadif faz sentido a
+
+2191
+01:01:17,980 --> 01:01:19,180
+enxusar o caunti,
+
+2192
+01:01:19,180 --> 01:01:20,220
+com o maternídio,
+
+2193
+01:01:20,220 --> 01:01:21,340
+que é esse é uma variável
+
+2194
+01:01:21,340 --> 01:01:21,980
+no mérica,
+
+2195
+01:01:21,980 --> 01:01:23,020
+que é necessidade de água,
+
+2196
+01:01:23,020 --> 01:01:23,420
+provavelmente,
+
+2197
+01:01:23,420 --> 01:01:25,020
+necessidade de água do animal,
+
+2198
+01:01:25,020 --> 01:01:25,740
+e faz sentido,
+
+2199
+01:01:25,740 --> 01:01:25,900
+né,
+
+2200
+01:01:25,900 --> 01:01:26,860
+se a gente foi ver aqui,
+
+2201
+01:01:26,860 --> 01:01:28,860
+a necessidade de água do
+
+2202
+01:01:28,860 --> 01:01:29,180
+ele foi,
+
+2203
+01:01:29,180 --> 01:01:30,620
+tinha muito maior do que,
+
+2204
+01:01:30,620 --> 01:01:31,580
+de uma zebra,
+
+2205
+01:01:33,340 --> 01:01:34,300
+a gente,
+
+2206
+01:01:34,300 --> 01:01:35,340
+não vai ter que pegar,
+
+2207
+01:01:36,300 --> 01:01:37,340
+ou não conseguir estar
+
+2208
+01:01:37,340 --> 01:01:39,340
+onde estiver,
+
+2209
+01:01:44,300 --> 01:01:44,860
+deixa ver,
+
+2210
+01:01:44,860 --> 01:01:45,260
+ah,
+
+2211
+01:01:46,780 --> 01:01:47,340
+não,
+
+2212
+01:01:47,340 --> 01:01:48,300
+não conseguir estar,
+
+2213
+01:01:50,780 --> 01:01:51,180
+tá bom,
+
+2214
+01:01:51,180 --> 01:01:52,060
+pode ser a junta,
+
+2215
+01:01:52,060 --> 01:01:53,340
+então, a gente teria que fazer,
+
+2216
+01:01:54,380 --> 01:01:55,180
+imager de aí,
+
+2217
+01:01:57,340 --> 01:01:57,820
+e aí,
+
+2218
+01:01:57,820 --> 01:02:00,620
+passar o unicadif,
+
+2219
+01:02:01,580 --> 01:02:03,100
+e colocar onde,
+
+2220
+01:02:03,100 --> 01:02:04,780
+e pro o atenígico,
+
+2221
+01:02:04,780 --> 01:02:05,820
+a gente já queria pegar,
+
+2222
+01:02:05,820 --> 01:02:06,780
+por exemplo, a média,
+
+2223
+01:02:07,340 --> 01:02:09,340
+e aí,
+
+2224
+01:02:10,140 --> 01:02:11,340
+eu posso pegar a média,
+
+2225
+01:02:11,340 --> 01:02:12,700
+mas se quiser pegar,
+
+2226
+01:02:12,700 --> 01:02:13,980
+além do pro atenígico,
+
+2227
+01:02:13,980 --> 01:02:14,300
+a média,
+
+2228
+01:02:14,300 --> 01:02:15,100
+e a média,
+
+2229
+01:02:15,100 --> 01:02:16,780
+é só jogar uma lista aqui dentro,
+
+2230
+01:02:16,780 --> 01:02:17,900
+porque eu peguei a
+
+2231
+01:02:17,900 --> 01:02:19,340
+média,
+
+2232
+01:02:20,940 --> 01:02:21,900
+e,
+
+2233
+01:02:21,900 --> 01:02:22,300
+aí,
+
+2234
+01:02:22,300 --> 01:02:23,180
+aqui eu posso fechar,
+
+2235
+01:02:23,180 --> 01:02:23,420
+então,
+
+2236
+01:02:23,420 --> 01:02:24,380
+aqui dentro do,
+
+2237
+01:02:24,380 --> 01:02:25,820
+quando eu uso o AGG,
+
+2238
+01:02:25,820 --> 01:02:26,620
+ao invés do que,
+
+2239
+01:02:26,620 --> 01:02:27,580
+a necessidade de ir a
+
+2240
+01:02:27,580 --> 01:02:29,260
+é tudo a função,
+
+2241
+01:02:29,260 --> 01:02:30,460
+a grega dura do pai,
+
+2242
+01:02:30,460 --> 01:02:30,620
+então,
+
+2243
+01:02:30,620 --> 01:02:31,260
+aqui eu tocessão,
+
+2244
+01:02:31,260 --> 01:02:31,660
+não,
+
+2245
+01:02:32,220 --> 01:02:33,900
+aqui eu posso usar o AGG,
+
+2246
+01:02:33,900 --> 01:02:35,020
+e dentro do AGG,
+
+2247
+01:02:35,020 --> 01:02:35,660
+então,
+
+2248
+01:02:35,660 --> 01:02:36,060
+é,
+
+2249
+01:02:36,060 --> 01:02:36,860
+fazer,
+
+2250
+01:02:38,220 --> 01:02:39,340
+já conto com que eu quero
+
+2251
+01:02:39,340 --> 01:02:40,220
+para cada condo,
+
+2252
+01:02:44,700 --> 01:02:46,460
+as novas dedicionarem a função,
+
+2253
+01:02:48,620 --> 01:02:50,220
+tem muito com que eu poder usar a função,
+
+2254
+01:02:50,220 --> 01:02:50,940
+que eu construir,
+
+2255
+01:02:50,940 --> 01:02:52,140
+como a da Moga, que se torna,
+
+2256
+01:02:52,140 --> 01:02:52,460
+sim,
+
+2257
+01:02:55,340 --> 01:02:55,980
+então,
+
+2258
+01:02:56,780 --> 01:02:58,140
+eu não sei se entendi a pergunta,
+
+2259
+01:02:58,140 --> 01:02:58,460
+mesmo,
+
+2260
+01:02:58,460 --> 01:02:58,780
+mas,
+
+2261
+01:03:00,700 --> 01:03:02,380
+seria usar o AGGGG,
+
+2262
+01:03:02,380 --> 01:03:03,740
+você consegue usar o AGGG,
+
+2263
+01:03:03,740 --> 01:03:04,860
+não o AGG,
+
+2264
+01:03:04,860 --> 01:03:06,460
+não falou do dicionário,
+
+2265
+01:03:07,020 --> 01:03:08,220
+o Aplai,
+
+2266
+01:03:08,220 --> 01:03:10,220
+então, ao invés de usar,
+
+2267
+01:03:10,220 --> 01:03:11,820
+o A função,
+
+2268
+01:03:11,820 --> 01:03:13,100
+nativa do,
+
+2269
+01:03:13,100 --> 01:03:14,380
+aqui que a gente botou a
+
+2270
+01:03:14,380 --> 01:03:15,420
+a média,
+
+2271
+01:03:15,420 --> 01:03:17,020
+a média,
+
+2272
+01:03:17,020 --> 01:03:18,380
+a média,
+
+2273
+01:03:18,380 --> 01:03:19,820
+você pode usar um agregador,
+
+2274
+01:03:19,820 --> 01:03:20,780
+com a função que você
+
+2275
+01:03:20,780 --> 01:03:21,180
+construiu,
+
+2276
+01:03:23,020 --> 01:03:23,900
+também,
+
+2277
+01:03:23,900 --> 01:03:24,700
+usando o AGG,
+
+2278
+01:03:24,700 --> 01:03:25,180
+perfeito?
+
+2279
+01:03:29,580 --> 01:03:30,220
+É, é,
+
+2280
+01:03:30,220 --> 01:03:31,740
+por isso que eu botei as duas,
+
+2281
+01:03:31,740 --> 01:03:32,940
+agora eu estou lembrando,
+
+2282
+01:03:32,940 --> 01:03:34,140
+porque a gente pode fazer disso,
+
+2283
+01:03:34,140 --> 01:03:34,540
+então,
+
+2284
+01:03:34,540 --> 01:03:35,100
+a gente pode fazer
+
+2285
+01:03:35,100 --> 01:03:36,140
+dessa forma do píreo,
+
+2286
+01:03:36,540 --> 01:03:38,540
+chamando o mindiretamente,
+
+2287
+01:03:39,740 --> 01:03:41,180
+que é o nativo na do píreo,
+
+2288
+01:03:41,180 --> 01:03:42,620
+ou a gente pode fazer um AGG,
+
+2289
+01:03:42,620 --> 01:03:44,060
+que, igual a gente fez aqui,
+
+2290
+01:03:44,060 --> 01:03:45,020
+e construí,
+
+2291
+01:03:45,020 --> 01:03:46,060
+dentro da AGG,
+
+2292
+01:03:46,060 --> 01:03:47,100
+então, o que eu posso fazer,
+
+2293
+01:03:47,100 --> 01:03:48,220
+igual a gente é uma transformada,
+
+2294
+01:03:48,220 --> 01:03:49,100
+e a gente tem falada,
+
+2295
+01:03:49,100 --> 01:03:49,500
+é o pós,
+
+2296
+01:03:50,780 --> 01:03:52,140
+supondo que a gente construiu
+
+2297
+01:03:52,140 --> 01:03:53,900
+a função para a modo,
+
+2298
+01:03:53,900 --> 01:03:54,940
+eu posso fazer,
+
+2299
+01:03:54,940 --> 01:03:56,140
+com o AGG,
+
+2300
+01:03:57,340 --> 01:03:57,740
+modo,
+
+2301
+01:03:59,260 --> 01:03:59,980
+simples assim,
+
+2302
+01:04:01,900 --> 01:04:03,020
+desde que eu tenho uma função
+
+2303
+01:04:03,020 --> 01:04:04,780
+definida para pegar a modo,
+
+2304
+01:04:04,780 --> 01:04:05,420
+perfeito?
+
+2305
+01:04:06,460 --> 01:04:09,020
+Então,
+
+2306
+01:04:09,020 --> 01:04:11,020
+agora vamos passar,
+
+2307
+01:04:13,500 --> 01:04:15,820
+para a próxima parte,
+
+2308
+01:04:16,860 --> 01:04:18,460
+que é entender diferença
+
+2309
+01:04:18,460 --> 01:04:19,820
+do merge de pro-concate
+
+2310
+01:04:19,820 --> 01:04:21,100
+para o Appende Pro-Joy.
+
+2311
+01:04:21,100 --> 01:04:23,100
+Então, são muitas possibilidades,
+
+2312
+01:04:23,100 --> 01:04:24,380
+vão tentar entender um ao longo,
+
+2313
+01:04:24,380 --> 01:04:25,340
+vamos ver uns exemplos.
+
+2314
+01:04:26,300 --> 01:04:26,940
+O Concate,
+
+2315
+01:04:28,940 --> 01:04:31,340
+é muito flexível para o Mi,
+
+2316
+01:04:31,340 --> 01:04:32,060
+então, com o Cate,
+
+2317
+01:04:32,060 --> 01:04:32,860
+é a palavra chave,
+
+2318
+01:04:32,860 --> 01:04:34,220
+porque a gente tem que pensar no Concate,
+
+2319
+01:04:34,220 --> 01:04:34,780
+é o Nião,
+
+2320
+01:04:35,740 --> 01:04:36,700
+e o Concate,
+
+2321
+01:04:36,700 --> 01:04:37,500
+é muito pra o Nião,
+
+2322
+01:04:37,500 --> 01:04:39,100
+tanto para o Ojo X,
+
+2323
+01:04:39,100 --> 01:04:40,180
+para a direita quanto
+
+2324
+01:04:40,180 --> 01:04:40,860
+para o Ojo X,
+
+2325
+01:04:40,860 --> 01:04:42,380
+não quanto para a abaixo,
+
+2326
+01:04:42,380 --> 01:04:43,180
+não dá pra frente.
+
+2327
+01:04:43,820 --> 01:04:44,940
+Então, que a gente tem que pensar
+
+2328
+01:04:44,940 --> 01:04:45,500
+em um Nião,
+
+2329
+01:04:45,500 --> 01:04:46,780
+linhas ou colunas
+
+2330
+01:04:46,780 --> 01:04:47,660
+de dois da tafreia
+
+2331
+01:04:47,660 --> 01:04:48,220
+em diferentes.
+
+2332
+01:04:48,860 --> 01:04:49,660
+O Appende,
+
+2333
+01:04:49,660 --> 01:04:50,460
+ele é um tipo
+
+2334
+01:04:50,460 --> 01:04:52,060
+específico de Concate.
+
+2335
+01:04:52,460 --> 01:04:54,060
+Quando a gente usa
+
+2336
+01:04:54,060 --> 01:04:54,860
+a acesero,
+
+2337
+01:04:55,980 --> 01:04:56,700
+que é
+
+2338
+01:04:56,700 --> 01:04:57,420
+para botar,
+
+2339
+01:04:57,420 --> 01:04:57,900
+para baixo,
+
+2340
+01:04:57,900 --> 01:04:58,220
+e não então,
+
+2341
+01:04:58,220 --> 01:04:59,500
+os que são jogados
+
+2342
+01:04:59,500 --> 01:05:00,380
+linhas para baixo,
+
+2343
+01:05:00,380 --> 01:05:01,180
+e o alto.
+
+2344
+01:05:01,420 --> 01:05:03,340
+Então, a gente tem dois tipos de concate,
+
+2345
+01:05:03,340 --> 01:05:04,300
+tem um comcalte,
+
+2346
+01:05:04,300 --> 01:05:05,100
+e, né,
+
+2347
+01:05:05,100 --> 01:05:06,700
+que ele verifica,
+
+2348
+01:05:06,700 --> 01:05:07,980
+é se tem uma coluna
+
+2349
+01:05:07,980 --> 01:05:09,420
+do aplicada entre os dois da tafreia,
+
+2350
+01:05:09,420 --> 01:05:10,780
+e se existe,
+
+2351
+01:05:10,780 --> 01:05:11,980
+ele não traz ela,
+
+2352
+01:05:11,980 --> 01:05:12,540
+e o alto,
+
+2353
+01:05:12,540 --> 01:05:13,980
+que ele traz as colunas,
+
+2354
+01:05:13,980 --> 01:05:15,820
+todos os colunas, dos dois da tafreia.
+
+2355
+01:05:15,820 --> 01:05:16,780
+Então, o Appende,
+
+2356
+01:05:16,780 --> 01:05:17,340
+é isso, né?
+
+2357
+01:05:17,340 --> 01:05:19,900
+Ele é um caso específico de Concate,
+
+2358
+01:05:19,900 --> 01:05:21,180
+um ex-acesero,
+
+2359
+01:05:21,180 --> 01:05:22,220
+que é para a linha,
+
+2360
+01:05:22,220 --> 01:05:23,420
+e com de oianhauta,
+
+2361
+01:05:23,420 --> 01:05:24,700
+então, ele vai estar a Z tudo,
+
+2362
+01:05:24,700 --> 01:05:25,180
+então,
+
+2363
+01:05:25,180 --> 01:05:26,460
+podem haver linhas do aplicado,
+
+2364
+01:05:26,460 --> 01:05:28,220
+as conenxia, um Appende,
+
+2365
+01:05:28,220 --> 01:05:28,620
+e então,
+
+2366
+01:05:28,620 --> 01:05:29,580
+ele está sendo depressiado.
+
+2367
+01:05:29,580 --> 01:05:30,860
+Não está sendo mais utilizado,
+
+2368
+01:05:30,860 --> 01:05:31,580
+na...
+
+2369
+01:05:31,580 --> 01:05:32,380
+enfim,
+
+2370
+01:05:32,380 --> 01:05:33,420
+a ideia é que ele vai sair
+
+2371
+01:05:33,420 --> 01:05:35,500
+das próximas bibliotecas do Pandas,
+
+2372
+01:05:35,500 --> 01:05:35,740
+então,
+
+2373
+01:05:35,740 --> 01:05:37,260
+o Pandas faz assim quando ele
+
+2374
+01:05:37,260 --> 01:05:37,980
+se quer entrar um método,
+
+2375
+01:05:37,980 --> 01:05:39,500
+eles olvezando para você,
+
+2376
+01:05:39,500 --> 01:05:40,780
+por várias reissões,
+
+2377
+01:05:40,780 --> 01:05:41,980
+ele vai avisando,
+
+2378
+01:05:41,980 --> 01:05:43,740
+está sendo depreciado a Pente,
+
+2379
+01:05:43,740 --> 01:05:44,940
+está sendo deprecado a Pente,
+
+2380
+01:05:44,940 --> 01:05:46,460
+está sendo deprecado a Pente,
+
+2381
+01:05:46,460 --> 01:05:47,340
+e daqui ali,
+
+2382
+01:05:47,340 --> 01:05:48,220
+a senhora,
+
+2383
+01:05:48,220 --> 01:05:48,620
+cinco,
+
+2384
+01:05:48,620 --> 01:05:49,180
+seis reissões,
+
+2385
+01:05:49,180 --> 01:05:50,220
+eles vão tirar.
+
+2386
+01:05:50,220 --> 01:05:50,780
+Então,
+
+2387
+01:05:50,780 --> 01:05:51,420
+se você,
+
+2388
+01:05:51,420 --> 01:05:52,140
+isso,
+
+2389
+01:05:52,140 --> 01:05:53,340
+dá muito problema,
+
+2390
+01:05:53,340 --> 01:05:54,460
+que é a taba que,
+
+2391
+01:05:54,460 --> 01:05:55,100
+eu já peguei,
+
+2392
+01:05:55,100 --> 01:05:55,260
+isso,
+
+2393
+01:05:55,260 --> 01:05:56,220
+um coge construído
+
+2394
+01:05:56,220 --> 01:05:59,260
+com um meia de do que foi tirado,
+
+2395
+01:05:59,260 --> 01:05:59,420
+então,
+
+2396
+01:05:59,420 --> 01:05:59,980
+o que aconteceu,
+
+2397
+01:05:59,980 --> 01:06:02,220
+quando o pessoal atualiza o versão do Python,
+
+2398
+01:06:03,180 --> 01:06:04,900
+o que eu já paro de ser na
+
+2399
+01:06:04,900 --> 01:06:05,340
+como é tudo,
+
+2400
+01:06:05,340 --> 01:06:06,540
+não existe mais.
+
+2401
+01:06:06,540 --> 01:06:07,580
+Então, ainda o problema,
+
+2402
+01:06:07,580 --> 01:06:08,620
+até entender,
+
+2403
+01:06:08,620 --> 01:06:10,540
+é a tiveram que fazer a justi,
+
+2404
+01:06:10,540 --> 01:06:11,340
+então,
+
+2405
+01:06:11,340 --> 01:06:12,860
+esse é um bom exemplo aqui,
+
+2406
+01:06:12,860 --> 01:06:14,940
+acho que o Appende nem vale,
+
+2407
+01:06:14,940 --> 01:06:15,660
+focar,
+
+2408
+01:06:15,660 --> 01:06:16,940
+justamente porque o concate,
+
+2409
+01:06:16,940 --> 01:06:18,060
+a gente consegue fazer exatamente
+
+2410
+01:06:18,060 --> 01:06:19,340
+a mesma coisa.
+
+2411
+01:06:19,340 --> 01:06:20,700
+Usando os parâmetros,
+
+2412
+01:06:20,700 --> 01:06:22,700
+Axis de Gossero e Gaut,
+
+2413
+01:06:23,740 --> 01:06:24,540
+o Giong,
+
+2414
+01:06:24,540 --> 01:06:24,700
+então,
+
+2415
+01:06:24,700 --> 01:06:26,540
+não confuja com parâmetro Giong,
+
+2416
+01:06:26,540 --> 01:06:27,660
+como o método Giong,
+
+2417
+01:06:27,660 --> 01:06:28,300
+certo?
+
+2418
+01:06:28,300 --> 01:06:30,380
+O método Giong,
+
+2419
+01:06:30,380 --> 01:06:31,820
+ele é para fazer um cruzamento,
+
+2420
+01:06:31,820 --> 01:06:33,980
+baseado no synthesis.
+
+2421
+01:06:33,980 --> 01:06:34,940
+Então,
+
+2422
+01:06:34,940 --> 01:06:36,540
+lembre-se dos índices do nosso
+
+2423
+01:06:36,540 --> 01:06:37,740
+data frames,
+
+2424
+01:06:37,740 --> 01:06:39,180
+porque o Giong é ele,
+
+2425
+01:06:39,180 --> 01:06:40,060
+então, a gente consegue definir o
+
+2426
+01:06:40,060 --> 01:06:41,100
+índice por exemplo usando
+
+2427
+01:06:41,100 --> 01:06:42,780
+o set index do PANDAS,
+
+2428
+01:06:42,780 --> 01:06:43,740
+e ele pode ser feito de
+
+2429
+01:06:43,740 --> 01:06:45,580
+acordo com as variadas.
+
+2430
+01:06:45,580 --> 01:06:47,260
+Então, a gente pode pensar,
+
+2431
+01:06:47,260 --> 01:06:48,220
+num left join,
+
+2432
+01:06:48,220 --> 01:06:49,020
+num right join,
+
+2433
+01:06:49,020 --> 01:06:49,420
+num inedio,
+
+2434
+01:06:49,420 --> 01:06:50,140
+e num altas join.
+
+2435
+01:06:50,140 --> 01:06:50,940
+Então, a gente já vai ver
+
+2436
+01:06:50,940 --> 01:06:52,220
+que, no detalhe,
+
+2437
+01:06:52,220 --> 01:06:53,420
+é o caso de cada um.
+
+2438
+01:06:54,620 --> 01:06:55,580
+E o que eu acredito,
+
+2439
+01:06:55,580 --> 01:06:56,860
+vocês mais vão utilizar,
+
+2440
+01:06:56,860 --> 01:06:58,060
+os iluminos projetos
+
+2441
+01:06:58,060 --> 01:06:59,500
+é o merge,
+
+2442
+01:06:59,500 --> 01:07:01,500
+o merge diferente do Giong,
+
+2443
+01:07:02,140 --> 01:07:03,180
+ele pode ser feito
+
+2444
+01:07:03,180 --> 01:07:04,380
+para fazer o cruzamento
+
+2445
+01:07:04,380 --> 01:07:05,580
+por qualquer poluna.
+
+2446
+01:07:06,380 --> 01:07:08,220
+Então, a gente depende do índice,
+
+2447
+01:07:08,220 --> 01:07:08,940
+o Giong,
+
+2448
+01:07:08,940 --> 01:07:10,620
+sempre associado ao índice,
+
+2449
+01:07:10,620 --> 01:07:11,500
+e o merge,
+
+2450
+01:07:11,500 --> 01:07:13,100
+é a gente depende de qualquer poluna,
+
+2451
+01:07:13,100 --> 01:07:14,620
+específica de um dos
+
+2452
+01:07:14,620 --> 01:07:15,740
+dois data frames.
+
+2453
+01:07:15,740 --> 01:07:17,420
+Então, a gente consegue usar
+
+2454
+01:07:17,420 --> 01:07:19,900
+3 parametros no mês.
+
+2455
+01:07:19,900 --> 01:07:22,780
+Se o nome da coluna foi igual,
+
+2456
+01:07:22,780 --> 01:07:23,500
+na esquerda,
+
+2457
+01:07:23,500 --> 01:07:24,700
+inedireita,
+
+2458
+01:07:24,700 --> 01:07:26,460
+a gente pode usar só algum.
+
+2459
+01:07:26,460 --> 01:07:27,420
+Então, por exemplo,
+
+2460
+01:07:27,420 --> 01:07:29,260
+eu tenho um adi na esquerda,
+
+2461
+01:07:29,260 --> 01:07:30,140
+uma coluna chamada,
+
+2462
+01:07:30,140 --> 01:07:30,700
+a esquerda,
+
+2463
+01:07:30,700 --> 01:07:32,300
+e uma coluna chamada a idina de lei.
+
+2464
+01:07:32,300 --> 01:07:33,340
+Eu quero cruzar
+
+2465
+01:07:33,340 --> 01:07:35,100
+para quem mexeu Giong,
+
+2466
+01:07:35,100 --> 01:07:35,820
+que você vai eu para o que ver,
+
+2467
+01:07:35,820 --> 01:07:37,020
+e famoso para o que ver.
+
+2468
+01:07:37,020 --> 01:07:38,780
+Eu quero usar essas duas colunas
+
+2469
+01:07:38,780 --> 01:07:40,300
+para fazer essa busca.
+
+2470
+01:07:40,300 --> 01:07:41,660
+Quando o nome da esses colunas
+
+2471
+01:07:41,660 --> 01:07:42,140
+é igual,
+
+2472
+01:07:42,140 --> 01:07:42,860
+eu posso usar um.
+
+2473
+01:07:44,060 --> 01:07:45,580
+Quando o nome dessas colunas
+
+2474
+01:07:45,580 --> 01:07:46,860
+é diferente,
+
+2475
+01:07:46,860 --> 01:07:48,060
+então, o nome surform
+
+2476
+01:07:48,940 --> 01:07:50,060
+a multiplação aqui.
+
+2477
+01:07:50,940 --> 01:07:52,140
+Então, vamos surpor
+
+2478
+01:07:52,140 --> 01:07:53,100
+num...
+
+2479
+01:07:53,500 --> 01:07:55,260
+se no nosso data frame da esquerda,
+
+2480
+01:07:55,260 --> 01:07:57,340
+é a id compra.
+
+2481
+01:07:57,580 --> 01:07:59,180
+E no nosso data frame da direita,
+
+2482
+01:07:59,180 --> 01:08:00,380
+é só id.
+
+2483
+01:08:00,380 --> 01:08:01,660
+Então, eu tenho que botar
+
+2484
+01:08:01,660 --> 01:08:03,180
+lefte-on igual,
+
+2485
+01:08:03,180 --> 01:08:05,180
+id compra
+
+2486
+01:08:06,540 --> 01:08:08,300
+e righte-on igual,
+
+2487
+01:08:08,300 --> 01:08:09,020
+id.
+
+2488
+01:08:09,020 --> 01:08:10,460
+Então, eu tenho que atribuir
+
+2489
+01:08:10,460 --> 01:08:11,740
+para cada um,
+
+2490
+01:08:11,740 --> 01:08:12,940
+se eles não forem iguais,
+
+2491
+01:08:12,940 --> 01:08:14,060
+dizendo qual é qual?
+
+2492
+01:08:14,060 --> 01:08:15,500
+Para fazer esse cruzamento.
+
+2493
+01:08:15,500 --> 01:08:17,580
+Então, o merge acaba sendo mais utilizado
+
+2494
+01:08:17,580 --> 01:08:18,540
+do que eu diões,
+
+2495
+01:08:18,540 --> 01:08:19,740
+o que muitas vezes
+
+2496
+01:08:19,740 --> 01:08:20,860
+a coluna que a gente quer usar
+
+2497
+01:08:20,860 --> 01:08:21,740
+para fazer o cruzamento
+
+2498
+01:08:21,740 --> 01:08:22,860
+não está no índice.
+
+2499
+01:08:22,860 --> 01:08:23,420
+Mas,
+
+2500
+01:08:23,420 --> 01:08:24,060
+eventualmente,
+
+2501
+01:08:24,060 --> 01:08:25,500
+a gente vai acabar utilizando de ointamei.
+
+2502
+01:08:26,940 --> 01:08:27,420
+Então, aqui,
+
+2503
+01:08:27,420 --> 01:08:29,500
+por exemplo, o merge exatamente
+
+2504
+01:08:29,500 --> 01:08:30,140
+que a gente falou,
+
+2505
+01:08:30,140 --> 01:08:32,700
+a gente tem um data frame
+
+2506
+01:08:32,700 --> 01:08:34,300
+aqui da esquerda
+
+2507
+01:08:34,300 --> 01:08:35,580
+e um da direita.
+
+2508
+01:08:35,580 --> 01:08:37,260
+Quando a gente cruz os dois,
+
+2509
+01:08:37,580 --> 01:08:39,660
+aqui, no caso, a gente está fazendo
+
+2510
+01:08:39,660 --> 01:08:40,140
+o índice,
+
+2511
+01:08:40,140 --> 01:08:40,860
+perfeito.
+
+2512
+01:08:40,860 --> 01:08:42,140
+O que ele faz?
+
+2513
+01:08:42,140 --> 01:08:44,860
+Ele pega o casero a zero-b zero,
+
+2514
+01:08:44,860 --> 01:08:46,140
+então, o casero,
+
+2515
+01:08:46,140 --> 01:08:47,420
+se a gente for perceber,
+
+2516
+01:08:48,780 --> 01:08:50,300
+ele é uma chave comum,
+
+2517
+01:08:51,900 --> 01:08:53,980
+a coluna aqui, perfeito.
+
+2518
+01:08:53,980 --> 01:08:56,300
+Ela é comum para os dois data frames.
+
+2519
+01:08:56,300 --> 01:08:57,260
+Então, ela que a gente vai
+
+2520
+01:08:57,260 --> 01:08:58,580
+usar, a gente vai usar o que
+
+2521
+01:08:58,580 --> 01:09:00,620
+só um um o que,
+
+2522
+01:09:00,620 --> 01:09:02,220
+então, a gente vai pegar o left
+
+2523
+01:09:02,220 --> 01:09:03,820
+os data que compre o primeiro paramento
+
+2524
+01:09:03,820 --> 01:09:04,460
+no merge,
+
+2525
+01:09:04,460 --> 01:09:05,500
+o right
+
+2526
+01:09:05,500 --> 01:09:07,340
+usar como segundo paramento,
+
+2527
+01:09:07,340 --> 01:09:09,100
+porque ele é o nosso segundo data frame.
+
+2528
+01:09:09,100 --> 01:09:11,180
+O o vai ser no que,
+
+2529
+01:09:11,180 --> 01:09:12,380
+o rau vai ser o índice.
+
+2530
+01:09:12,380 --> 01:09:14,060
+Então, a gente vai trazer tudo isso,
+
+2531
+01:09:14,060 --> 01:09:15,900
+que está dentro dos dois
+
+2532
+01:09:15,900 --> 01:09:17,500
+e não vamos repetir a coluna
+
+2533
+01:09:17,500 --> 01:09:18,380
+que é como um prozo dois,
+
+2534
+01:09:18,380 --> 01:09:19,500
+que é aqui, perfeito.
+
+2535
+01:09:19,500 --> 01:09:20,540
+Então, a gente vai pegar a oazero
+
+2536
+01:09:20,540 --> 01:09:21,100
+bezero,
+
+2537
+01:09:21,100 --> 01:09:22,300
+e bem do left,
+
+2538
+01:09:22,300 --> 01:09:24,300
+vai ser que a parte que era do left,
+
+2539
+01:09:24,300 --> 01:09:25,260
+e é esse aqui,
+
+2540
+01:09:25,260 --> 01:09:26,620
+é a parte que era do
+
+2541
+01:09:26,780 --> 01:09:28,380
+right.
+
+2542
+01:09:28,380 --> 01:09:30,140
+E aqui, um bom esqueminho,
+
+2543
+01:09:30,140 --> 01:09:32,140
+sempre que vocês tiverem na dúvida,
+
+2544
+01:09:32,140 --> 01:09:33,980
+é veja um esse aqui,
+
+2545
+01:09:33,980 --> 01:09:35,020
+para entender o que é o índice,
+
+2546
+01:09:35,020 --> 01:09:36,060
+o que é um alta,
+
+2547
+01:09:36,060 --> 01:09:37,020
+o que é um right,
+
+2548
+01:09:37,020 --> 01:09:38,380
+o que vai um left.
+
+2549
+01:09:38,380 --> 01:09:39,980
+O left quando a gente faz,
+
+2550
+01:09:39,980 --> 01:09:41,260
+ele pega tudo
+
+2551
+01:09:41,260 --> 01:09:42,940
+que tem no da esquerda,
+
+2552
+01:09:42,940 --> 01:09:44,380
+e mais o que tem nos dois,
+
+2553
+01:09:45,500 --> 01:09:46,220
+o right,
+
+2554
+01:09:46,220 --> 01:09:47,260
+ele pega tudo
+
+2555
+01:09:47,260 --> 01:09:48,540
+que tem no da direita,
+
+2556
+01:09:48,540 --> 01:09:49,260
+inclusive,
+
+2557
+01:09:49,260 --> 01:09:50,540
+os que não tem no cruzamento,
+
+2558
+01:09:50,540 --> 01:09:50,780
+tá?
+
+2559
+01:09:50,780 --> 01:09:51,740
+É isso que a gente está falando.
+
+2560
+01:09:51,740 --> 01:09:52,460
+Então,
+
+2561
+01:09:52,460 --> 01:09:54,460
+é o que vai fazer
+
+2562
+01:09:54,460 --> 01:09:55,980
+aqui
+
+2563
+01:09:55,980 --> 01:09:57,580
+no cruzamento do right,
+
+2564
+01:09:57,580 --> 01:09:58,300
+por exemplo,
+
+2565
+01:09:58,300 --> 01:09:59,340
+com os que não tem left,
+
+2566
+01:09:59,340 --> 01:10:00,540
+ele vai botar no mundo,
+
+2567
+01:10:00,540 --> 01:10:01,260
+nas colomas,
+
+2568
+01:10:01,260 --> 01:10:02,300
+que ele traz do
+
+2569
+01:10:02,300 --> 01:10:03,340
+do right, ele bota no...
+
+2570
+01:10:04,860 --> 01:10:05,580
+a gente vai ver isso aqui,
+
+2571
+01:10:05,580 --> 01:10:06,460
+já já os exemplos.
+
+2572
+01:10:06,460 --> 01:10:07,180
+Então, aqui,
+
+2573
+01:10:08,380 --> 01:10:08,860
+o right,
+
+2574
+01:10:08,860 --> 01:10:10,220
+de trás pulgo no da direita,
+
+2575
+01:10:10,220 --> 01:10:10,860
+e o que foi como um
+
+2576
+01:10:10,860 --> 01:10:11,500
+pros dois,
+
+2577
+01:10:11,500 --> 01:10:12,380
+o iné,
+
+2578
+01:10:12,380 --> 01:10:13,420
+ele traz,
+
+2579
+01:10:13,420 --> 01:10:14,700
+só o que é como um pros dois,
+
+2580
+01:10:14,700 --> 01:10:15,580
+e o for o alta adion,
+
+2581
+01:10:16,460 --> 01:10:18,220
+ele traz exatamente tudo.
+
+2582
+01:10:20,860 --> 01:10:21,420
+Então,
+
+2583
+01:10:22,620 --> 01:10:23,020
+aqui,
+
+2584
+01:10:23,020 --> 01:10:23,420
+um exemplo,
+
+2585
+01:10:23,420 --> 01:10:24,380
+agora do concate,
+
+2586
+01:10:25,340 --> 01:10:26,940
+é igual a gente falou
+
+2587
+01:10:26,940 --> 01:10:29,500
+com o card de serve para a gente jogar.
+
+2588
+01:10:29,500 --> 01:10:29,900
+Então,
+
+2589
+01:10:29,900 --> 01:10:31,180
+seja no oixo x,
+
+2590
+01:10:31,180 --> 01:10:31,980
+ou no oixo y,
+
+2591
+01:10:31,980 --> 01:10:33,500
+ou seja,
+
+2592
+01:10:33,500 --> 01:10:34,300
+para baixo,
+
+2593
+01:10:34,300 --> 01:10:35,420
+ou para a direita,
+
+2594
+01:10:35,420 --> 01:10:36,700
+de um data frame.
+
+2595
+01:10:36,700 --> 01:10:37,980
+Então, aqui no concate,
+
+2596
+01:10:37,980 --> 01:10:38,620
+a gente tem uns
+
+2597
+01:10:38,620 --> 01:10:39,740
+nós três data frames,
+
+2598
+01:10:39,740 --> 01:10:40,220
+set,
+
+2599
+01:10:40,220 --> 01:10:41,340
+da f1,
+
+2600
+01:10:41,340 --> 01:10:42,380
+da f2,
+
+2601
+01:10:42,380 --> 01:10:43,580
+e da f3,
+
+2602
+01:10:43,580 --> 01:10:44,940
+que aqui no nosso caso,
+
+2603
+01:10:44,940 --> 01:10:46,460
+lembre-se sempre que a gente passar
+
+2604
+01:10:46,460 --> 01:10:47,580
+algo que é mais de um
+
+2605
+01:10:47,580 --> 01:10:48,700
+e a gente vai passar na forma de malista.
+
+2606
+01:10:48,700 --> 01:10:49,420
+Então, a gente passaria.
+
+2607
+01:10:52,700 --> 01:10:53,500
+É difícil.
+
+2608
+01:10:53,900 --> 01:10:54,940
+Então, a gente poderia passar,
+
+2609
+01:10:56,860 --> 01:10:58,540
+per ver com o concate,
+
+2610
+01:11:00,300 --> 01:11:01,260
+e aqui,
+
+2611
+01:11:01,260 --> 01:11:02,700
+uma lista, perfeito,
+
+2612
+01:11:02,700 --> 01:11:03,820
+da f1,
+
+2613
+01:11:03,820 --> 01:11:04,700
+da f2,
+
+2614
+01:11:05,580 --> 01:11:06,300
+da f3.
+
+2615
+01:11:07,580 --> 01:11:08,620
+Eu passo a x,
+
+2616
+01:11:08,620 --> 01:11:09,500
+igual a zero,
+
+2617
+01:11:09,500 --> 01:11:10,380
+porque
+
+2618
+01:11:10,380 --> 01:11:11,900
+é um omancara tristico do pai,
+
+2619
+01:11:11,900 --> 01:11:13,180
+então sempre que eu falar de axyz,
+
+2620
+01:11:13,180 --> 01:11:14,300
+igual a zero, axyz,
+
+2621
+01:11:14,300 --> 01:11:15,420
+a tradução,
+
+2622
+01:11:15,420 --> 01:11:16,300
+então aqui,
+
+2623
+01:11:16,300 --> 01:11:17,580
+eu falar de eixo zero,
+
+2624
+01:11:18,380 --> 01:11:19,100
+são as linhas,
+
+2625
+01:11:19,100 --> 01:11:20,060
+eu falar de eixo zero,
+
+2626
+01:11:20,060 --> 01:11:21,100
+só as polunas.
+
+2627
+01:11:21,100 --> 01:11:22,380
+Então, aqui, como a gente quer soar
+
+2628
+01:11:22,380 --> 01:11:23,020
+nas linhas,
+
+2629
+01:11:23,580 --> 01:11:24,380
+é,
+
+2630
+01:11:24,380 --> 01:11:25,820
+a gente vai usar o eixo
+
+2631
+01:11:25,820 --> 01:11:26,780
+axyz, igual a zero,
+
+2632
+01:11:26,780 --> 01:11:28,460
+e o join igual a altem,
+
+2633
+01:11:28,460 --> 01:11:30,060
+porque eu falo altem,
+
+2634
+01:11:30,060 --> 01:11:32,140
+para se eu ver a linha ser pitidas,
+
+2635
+01:11:32,140 --> 01:11:33,100
+elas repetindo,
+
+2636
+01:11:33,100 --> 01:11:34,060
+porque eu quero adicionar
+
+2637
+01:11:34,060 --> 01:11:34,860
+tudo
+
+2638
+01:11:34,860 --> 01:11:37,100
+de todos data frames, perfeito?
+
+2639
+01:11:37,340 --> 01:11:38,460
+Então, a isso é o nosso estade,
+
+2640
+01:11:38,460 --> 01:11:39,660
+que você vai empingar
+
+2641
+01:11:39,660 --> 01:11:40,940
+uma partizinha do 1,
+
+2642
+01:11:40,940 --> 01:11:42,860
+que vai até linha 3,
+
+2643
+01:11:42,860 --> 01:11:44,300
+outra partizinha do 2,
+
+2644
+01:11:44,300 --> 01:11:45,340
+que vai da linha 4,
+
+2645
+01:11:45,340 --> 01:11:46,140
+até linha 7,
+
+2646
+01:11:47,100 --> 01:11:48,540
+outra partizinha do 3,
+
+2647
+01:11:48,540 --> 01:11:49,740
+vai aqui da linha 8,
+
+2648
+01:11:49,740 --> 01:11:50,700
+até a linha 1.
+
+2649
+01:11:52,540 --> 01:11:52,940
+Então,
+
+2650
+01:11:52,940 --> 01:11:53,580
+mundo real,
+
+2651
+01:11:53,580 --> 01:11:54,060
+muitas vezes,
+
+2652
+01:11:54,060 --> 01:11:55,500
+vamos fazer esse join,
+
+2653
+01:11:55,500 --> 01:11:56,300
+e o índice não vai
+
+2654
+01:11:56,300 --> 01:11:57,020
+tabulitinha aqui,
+
+2655
+01:11:57,020 --> 01:11:57,580
+perfeito?
+
+2656
+01:11:58,220 --> 01:11:58,860
+Vai ser raro,
+
+2657
+01:11:58,860 --> 01:11:59,820
+a gente fazão um join,
+
+2658
+01:11:59,820 --> 01:12:00,060
+e está,
+
+2659
+01:12:00,060 --> 01:12:00,620
+por exemplo,
+
+2660
+01:12:00,620 --> 01:12:01,660
+aqui o join
+
+2661
+01:12:01,660 --> 01:12:02,860
+do primeiro data frame,
+
+2662
+01:12:02,860 --> 01:12:03,820
+vai estar até o 3,
+
+2663
+01:12:03,820 --> 01:12:04,060
+o outro,
+
+2664
+01:12:04,060 --> 01:12:05,660
+vai começar a partir do 4.
+
+2665
+01:12:05,660 --> 01:12:06,300
+Mundo real,
+
+2666
+01:12:06,300 --> 01:12:06,700
+muitas vezes,
+
+2667
+01:12:06,700 --> 01:12:07,580
+não vai acontecer.
+
+2668
+01:12:07,580 --> 01:12:07,740
+Então,
+
+2669
+01:12:07,740 --> 01:12:08,060
+as vezes,
+
+2670
+01:12:08,060 --> 01:12:09,500
+a gente vai ter que fazer esse join,
+
+2671
+01:12:09,500 --> 01:12:10,780
+o índice vai ficar
+
+2672
+01:12:10,780 --> 01:12:11,260
+errado,
+
+2673
+01:12:12,220 --> 01:12:13,420
+e o que a gente pode fazer
+
+2674
+01:12:13,420 --> 01:12:14,220
+nessa equência aqui,
+
+2675
+01:12:14,220 --> 01:12:14,780
+para acertar,
+
+2676
+01:12:15,500 --> 01:12:17,340
+a gente bota um ponto 7,
+
+2677
+01:12:17,340 --> 01:12:18,220
+Reset,
+
+2678
+01:12:18,220 --> 01:12:18,780
+Perna,
+
+2679
+01:12:18,780 --> 01:12:19,500
+Index.
+
+2680
+01:12:19,500 --> 01:12:22,620
+E geralmente,
+
+2681
+01:12:22,620 --> 01:12:23,900
+o paramento do golpe 4.
+
+2682
+01:12:23,900 --> 01:12:29,580
+O que isso faz?
+
+2683
+01:12:29,580 --> 01:12:30,300
+Isso reseto,
+
+2684
+01:12:30,300 --> 01:12:30,700
+o índice,
+
+2685
+01:12:30,700 --> 01:12:31,900
+então, ele vai começar a bonitinho,
+
+2686
+01:12:32,540 --> 01:12:34,220
+e se a gente não bota o
+
+2687
+01:12:34,220 --> 01:12:35,100
+golpe 4,
+
+2688
+01:12:35,100 --> 01:12:36,540
+ele vai pegar um índice entinho
+
+2689
+01:12:36,540 --> 01:12:37,500
+e jogar
+
+2690
+01:12:37,500 --> 01:12:38,940
+para,
+
+2691
+01:12:38,940 --> 01:12:39,500
+para a primeira
+
+2692
+01:12:40,540 --> 01:12:41,420
+coluna, certo?
+
+2693
+01:12:41,420 --> 01:12:42,060
+Então,
+
+2694
+01:12:42,060 --> 01:12:42,540
+a gente geralmente
+
+2695
+01:12:42,540 --> 01:12:43,500
+dá o golpe 4,
+
+2696
+01:12:43,500 --> 01:12:44,540
+para pegar esse entice
+
+2697
+01:12:44,540 --> 01:12:46,380
+e o índice que está errado,
+
+2698
+01:12:46,380 --> 01:12:47,180
+e revolvei ele.
+
+2699
+01:12:50,460 --> 01:12:52,700
+Por fim, o join,
+
+2700
+01:12:52,700 --> 01:12:53,580
+o Guajem falou,
+
+2701
+01:12:53,580 --> 01:12:54,620
+é a mesma lógica do
+
+2702
+01:12:54,620 --> 01:12:55,260
+merge,
+
+2703
+01:12:55,260 --> 01:12:56,860
+mais a diferença do join,
+
+2704
+01:12:56,860 --> 01:12:57,980
+é que a gente usa
+
+2705
+01:12:57,980 --> 01:12:59,180
+diferente de qualquer
+
+2706
+01:12:59,180 --> 01:13:00,700
+do merge que a gente usa com a coluna,
+
+2707
+01:13:00,700 --> 01:13:03,260
+no join a gente usa o índice perfeito,
+
+2708
+01:13:03,260 --> 01:13:03,820
+então,
+
+2709
+01:13:03,820 --> 01:13:04,060
+aqui,
+
+2710
+01:13:04,060 --> 01:13:04,860
+nesses dois,
+
+2711
+01:13:04,860 --> 01:13:06,460
+a gente tem a coluna 4,
+
+2712
+01:13:07,660 --> 01:13:09,660
+que está somente no data 6,
+
+2713
+01:13:09,660 --> 01:13:11,340
+dá pra frente da direita,
+
+2714
+01:13:11,340 --> 01:13:12,060
+perfeito,
+
+2715
+01:13:12,060 --> 01:13:12,940
+e então,
+
+2716
+01:13:12,940 --> 01:13:13,820
+o que a gente está fazendo?
+
+2717
+01:13:13,820 --> 01:13:14,620
+A gente está pegando,
+
+2718
+01:13:14,620 --> 01:13:16,140
+a gente está fazendo o left,
+
+2719
+01:13:16,140 --> 01:13:16,540
+então,
+
+2720
+01:13:16,540 --> 01:13:17,260
+a gente chama
+
+2721
+01:13:17,260 --> 01:13:18,380
+direto,
+
+2722
+01:13:18,380 --> 01:13:19,340
+a gente não usa
+
+2723
+01:13:19,340 --> 01:13:20,700
+o PD pra chamar,
+
+2724
+01:13:20,700 --> 01:13:21,740
+e chama direto do primeiro,
+
+2725
+01:13:21,740 --> 01:13:22,140
+da tafreia,
+
+2726
+01:13:22,140 --> 01:13:23,180
+e chama o left,
+
+2727
+01:13:23,180 --> 01:13:24,540
+o método join,
+
+2728
+01:13:24,540 --> 01:13:25,580
+chamando o right,
+
+2729
+01:13:25,580 --> 01:13:26,780
+então a gente começa pelo left,
+
+2730
+01:13:27,900 --> 01:13:28,620
+chamo right,
+
+2731
+01:13:29,820 --> 01:13:31,180
+e a gente vai fazer um índice,
+
+2732
+01:13:31,180 --> 01:13:32,140
+então, a gente quer trazer tudo
+
+2733
+01:13:32,140 --> 01:13:33,020
+que tem os dois,
+
+2734
+01:13:33,020 --> 01:13:34,380
+e vai provinul,
+
+2735
+01:13:34,380 --> 01:13:34,700
+então,
+
+2736
+01:13:34,700 --> 01:13:37,020
+nós justamente para as colunas,
+
+2737
+01:13:38,140 --> 01:13:38,620
+que,
+
+2738
+01:13:39,180 --> 01:13:39,580
+no caso,
+
+2739
+01:13:39,580 --> 01:13:40,140
+aqui é um alto,
+
+2740
+01:13:40,140 --> 01:13:40,940
+a gente tem feito,
+
+2741
+01:13:40,940 --> 01:13:41,820
+porque ele vai trazer
+
+2742
+01:13:41,820 --> 01:13:42,620
+tudo dos dois,
+
+2743
+01:13:42,620 --> 01:13:43,420
+e vai trazer um
+
+2744
+01:13:43,420 --> 01:13:43,980
+o,
+
+2745
+01:13:43,980 --> 01:13:44,620
+então,
+
+2746
+01:13:44,620 --> 01:13:44,780
+aqui,
+
+2747
+01:13:44,780 --> 01:13:45,420
+acho que está errado,
+
+2748
+01:13:45,420 --> 01:13:45,740
+pessoal,
+
+2749
+01:13:45,740 --> 01:13:46,700
+tinha feito errado,
+
+2750
+01:13:46,700 --> 01:13:47,420
+aqui é um alto,
+
+2751
+01:13:49,340 --> 01:13:51,340
+aqui é um alto,
+
+2752
+01:13:52,060 --> 01:13:53,260
+aqui é o que,
+
+2753
+01:13:53,980 --> 01:13:55,260
+nosso está vivo,
+
+2754
+01:13:55,260 --> 01:13:55,980
+acho que pegar outra
+
+2755
+01:13:55,980 --> 01:13:57,100
+fênate,
+
+2756
+01:13:57,100 --> 01:13:58,380
+no caso aqui,
+
+2757
+01:13:58,380 --> 01:13:59,100
+não é índice,
+
+2758
+01:13:59,100 --> 01:13:59,900
+ele é um alto,
+
+2759
+01:13:59,900 --> 01:14:00,700
+porque,
+
+2760
+01:14:02,700 --> 01:14:04,460
+ele vai pegar justamente
+
+2761
+01:14:04,460 --> 01:14:05,260
+tudo,
+
+2762
+01:14:06,540 --> 01:14:07,340
+das,
+
+2763
+01:14:08,460 --> 01:14:09,580
+duas,
+
+2764
+01:14:09,580 --> 01:14:11,180
+nos gás dos nossos dois
+
+2765
+01:14:11,180 --> 01:14:11,740
+da tafreia,
+
+2766
+01:14:11,740 --> 01:14:12,220
+e com condo,
+
+2767
+01:14:12,220 --> 01:14:13,980
+tanto dos as linhas dos dois,
+
+2768
+01:14:13,980 --> 01:14:14,540
+e,
+
+2769
+01:14:14,540 --> 01:14:15,980
+para as que não tem no,
+
+2770
+01:14:15,980 --> 01:14:17,020
+no right,
+
+2771
+01:14:17,020 --> 01:14:17,340
+então,
+
+2772
+01:14:17,340 --> 01:14:17,980
+aqui no caso,
+
+2773
+01:14:17,980 --> 01:14:18,380
+no right,
+
+2774
+01:14:18,380 --> 01:14:20,380
+a gente não tem o achave calo,
+
+2775
+01:14:20,380 --> 01:14:21,180
+como é isso aqui,
+
+2776
+01:14:21,180 --> 01:14:22,300
+na chave casero,
+
+2777
+01:14:22,300 --> 01:14:23,020
+no caso,
+
+2778
+01:14:23,020 --> 01:14:23,580
+é o cado,
+
+2779
+01:14:23,580 --> 01:14:24,300
+esse cado,
+
+2780
+01:14:24,300 --> 01:14:25,820
+então aqui no resultado,
+
+2781
+01:14:25,820 --> 01:14:26,140
+no caso,
+
+2782
+01:14:26,140 --> 01:14:27,180
+não só vou trazer
+
+2783
+01:14:28,140 --> 01:14:29,500
+os dados do calo daqui,
+
+2784
+01:14:33,180 --> 01:14:35,020
+e o mesmo acontece para o cado,
+
+2785
+01:14:35,020 --> 01:14:35,660
+porém,
+
+2786
+01:14:35,660 --> 01:14:36,380
+por 3,
+
+2787
+01:14:36,380 --> 01:14:36,780
+perna,
+
+2788
+01:14:36,780 --> 01:14:37,020
+porém,
+
+2789
+01:14:37,020 --> 01:14:37,980
+isso é para o right,
+
+2790
+01:14:37,980 --> 01:14:38,620
+então,
+
+2791
+01:14:38,620 --> 01:14:39,500
+por 3 aqui,
+
+2792
+01:14:39,500 --> 01:14:40,620
+eu não tenho cado,
+
+2793
+01:14:41,500 --> 01:14:42,060
+eu tenho,
+
+2794
+01:14:42,060 --> 01:14:42,300
+aqui,
+
+2795
+01:14:42,300 --> 01:14:43,020
+no cado,
+
+2796
+01:14:43,020 --> 01:14:43,500
+então,
+
+2797
+01:14:43,500 --> 01:14:44,300
+vou levar aqui as
+
+2798
+01:14:44,300 --> 01:14:45,020
+chaves nulos,
+
+2799
+01:14:46,060 --> 01:14:46,860
+os valores nulos,
+
+2800
+01:14:46,860 --> 01:14:48,860
+pedão para o abe que vem do left,
+
+2801
+01:14:48,860 --> 01:14:49,500
+e por right,
+
+2802
+01:14:49,500 --> 01:14:49,740
+aí sim,
+
+2803
+01:14:49,740 --> 01:14:50,380
+vou preencher.
+
+2804
+01:14:53,820 --> 01:14:54,780
+E pessoal,
+
+2805
+01:14:54,780 --> 01:14:55,820
+por hoje é só,
+
+2806
+01:14:56,540 --> 01:14:56,860
+então,
+
+2807
+01:14:56,860 --> 01:14:58,860
+conseguimos passar bem sobre o que a gente
+
+2808
+01:14:58,860 --> 01:14:59,900
+prometeu para aula,
+
+2809
+01:15:00,700 --> 01:15:02,780
+espero que que tenham gostado um pouquinho
+
+2810
+01:15:02,780 --> 01:15:04,300
+da página de audios,
+
+2811
+01:15:04,300 --> 01:15:05,100
+é muito interessante,
+
+2812
+01:15:05,100 --> 01:15:06,700
+acho que dá uma orang de moçinha,
+
+2813
+01:15:06,700 --> 01:15:07,740
+a gente começa,
+
+2814
+01:15:07,740 --> 01:15:08,540
+agora,
+
+2815
+01:15:08,540 --> 01:15:09,340
+e nos projetos,
+
+2816
+01:15:09,340 --> 01:15:10,540
+envolvam cada vez mais,
+
+2817
+01:15:11,580 --> 01:15:11,900
+então,
+
+2818
+01:15:11,900 --> 01:15:12,700
+vamos conversar com relação
+
+2819
+01:15:12,700 --> 01:15:13,740
+na muito com o condo,
+
+2820
+01:15:13,740 --> 01:15:14,140
+sabido,
+
+2821
+01:15:14,140 --> 01:15:15,180
+com as nossas experiências,
+
+2822
+01:15:15,740 --> 01:15:16,300
+e,
+
+2823
+01:15:16,300 --> 01:15:16,780
+é,
+
+2824
+01:15:16,780 --> 01:15:18,140
+continuando nessa pegada,
+
+2825
+01:15:18,140 --> 01:15:18,380
+agora,
+
+2826
+01:15:18,380 --> 01:15:19,180
+os 23,
+
+2827
+01:15:19,180 --> 01:15:20,620
+a gente vai avançar bem
+
+2828
+01:15:20,620 --> 01:15:21,420
+na parte de pai,
+
+2829
+01:15:21,420 --> 01:15:21,580
+então,
+
+2830
+01:15:21,580 --> 01:15:22,620
+vocês vão ver,
+
+2831
+01:15:22,620 --> 01:15:22,940
+e,
+
+2832
+01:15:22,940 --> 01:15:23,980
+em termos de dificuldade
+
+2833
+01:15:23,980 --> 01:15:24,460
+em guaz,
+
+2834
+01:15:24,460 --> 01:15:25,660
+não fica mais difícil,
+
+2835
+01:15:25,660 --> 01:15:26,460
+daqui para a frente,
+
+2836
+01:15:26,460 --> 01:15:27,180
+a gente vai falar muito,
+
+2837
+01:15:27,180 --> 01:15:28,460
+mas sobre o mundo de dados,
+
+2838
+01:15:28,460 --> 01:15:29,900
+e cada vez menos sobre Python,
+
+2839
+01:15:29,900 --> 01:15:31,340
+acho que é esse é o objetivo,
+
+2840
+01:15:31,340 --> 01:15:32,220
+então,
+
+2841
+01:15:32,220 --> 01:15:33,260
+é legal também,
+
+2842
+01:15:33,260 --> 01:15:34,380
+dizer que eu estou disponível
+
+2843
+01:15:34,380 --> 01:15:35,740
+com o KW sobre Python,
+
+2844
+01:15:35,740 --> 01:15:37,340
+ainda sobre os projetos antigos,
+
+2845
+01:15:37,340 --> 01:15:38,460
+só me procurar,
+
+2846
+01:15:38,460 --> 01:15:39,180
+é,
+
+2847
+01:15:39,180 --> 01:15:40,140
+descorde,
+
+2848
+01:15:40,140 --> 01:15:41,100
+macaram,
+
+2849
+01:15:41,660 --> 01:15:42,460
+e,
+
+2850
+01:15:42,940 --> 01:15:43,900
+acho que é esse pessoal,
+
+2851
+01:15:43,900 --> 01:15:45,500
+continuem em 23,
+
+2852
+01:15:45,500 --> 01:15:47,420
+qualquer dúvida do teu disponível,
+
+2853
+01:15:47,420 --> 01:15:48,620
+e, em conto vocês,
+
+2854
+01:15:48,620 --> 01:15:49,500
+na semana que vem,
+
+2855
+01:15:49,500 --> 01:15:50,380
+me já adiantando,
+
+2856
+01:15:50,380 --> 01:15:52,300
+bom fronho de semana para todos,
+
+2857
+01:15:52,300 --> 01:15:53,740
+e aqui a gente tem uma valiação,
+
+2858
+01:15:53,740 --> 01:15:54,940
+que ele puder responder,
+
+2859
+01:15:54,940 --> 01:15:56,460
+e depois da chamada,
+
+2860
+01:15:56,460 --> 01:15:57,020
+quando a gente se rara,
+
+2861
+01:15:57,020 --> 01:15:58,380
+vai aparecer aí,
+
+2862
+01:15:58,380 --> 01:15:59,340
+bom fronho de semana,
+
+2863
+01:15:59,340 --> 01:15:59,820
+pessoal,
+
+2864
+01:15:59,820 --> 01:16:00,300
+valeu,
+
+2865
+01:16:00,300 --> 01:16:01,340
+eu te achava,
+
+2866
+01:16:01,740 --> 01:16:02,300
+valeu,
+
+2867
+01:16:02,300 --> 01:16:03,100
+não é gomente,
+
+2868
+01:16:03,100 --> 01:16:03,980
+bom fronho de semana,
+
+2869
+01:16:03,980 --> 01:16:04,940
+obrigado,
+
+2870
+01:16:04,940 --> 01:16:05,580
+valeu,
+

@@ -1,0 +1,2870 @@
+e o álido אחד realizou甚麼?
+EntãoHello, mesmo?
+e
+eu
+acho que
+vamos
+nada
+eu
+e
+eu
+e
+tudo
+para
+mais
+hoje
+2, 2, 2, e, né, pessoal?
+É, é, é, sim.
+2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4,
+dá tão especial, né?
+No, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1.
+Então hoje, não tem a primeira aula, até hora que que
+que eu vou começar a falar sobre a avançar um pouco mais nas ferrametas do
+Python.
+Vamos começar ali dar uma pincelada sobre a utilização de dados também,
+e é, é, é, é, é, é, é, é, é, é,
+podemos dizer assim mais tudo, uma ferramenta.
+Portanto, isso, no pra gente que trabalha com dados, e é, é, independente de
+engerir de dados, é, na legidade de dados, tem a, a, a, a, a abriedade de transportar o que
+você criou pra visualização de dados.
+É, uma das coisas ferramentas, mais poutais que a gente tem.
+É, é uma coisa que passa se é um pouco subjetiva, né?
+É, é, depende muito do pulo que você tá comunicando, depende de, com quem você
+vai falar, mas a vez a doença de dados, ela,
+justamente porque tem tudo isso,
+a gente tem que levar em conto gráfico,
+que a gente vai usar o púrico,
+a gente vai comunicar.
+E hoje a gente vai começar a trocar o meandés sobre isso.
+E vai ser o que vai vir naturalmente também,
+é o longo dos projetos,
+a longa das principios,
+é o longo da também da carreira de vocês.
+Mas é bom a gente deixar uma base fundamental aqui,
+e eu trazer um pouco da experiência que eu tenho,
+trabalhando com os aliás são idados.
+E também, vamos passar um pouco ali sobre as principais
+claramente as dimensos de manipulação de idados,
+que vocês estão já pegando agora na Espanha de Cresse,
+já começou.
+Então por hoje é isso.
+Essa é a nossa ideia.
+Vamos passar aqui primeiro nos objetivos da aula,
+nosso primeiro objetivo é conhecer
+os principais tipos de visualização de dados
+e quando usar cada um deles.
+E nem dificamos de usar a liação de dados distorcida,
+isso é muito, muito interessante.
+A gente vai discutir que um pouco sobre,
+como a visão de dados é algo que você pode usar a favor ou qualquer.
+É um arro muito poderoso,
+então vocês podem manipular de certa forma o público,
+vocês estão se comunicando.
+Isso acontece de mais em nosso cotiniano.
+A gente vai ver que várias exemplos,
+e que vocês não identificaram também com relação a com de dia.
+Tivem também falar sobre FITIONE NIRIN,
+que é uma parte muito importante da manipulação de dados,
+que a gente vai usar para todo o processo de análise de dados,
+para a creação de modelos, de licencividados.
+Então, a parte potantíssima também do processo de dimos de exploração de dados,
+a gente estrair mais valor e das nossas variáveis que a gente tem,
+ou se ele dá, das nossas colunas,
+que eu vejo alguns exemplos também.
+No final, a gente vai falar um pouco mais técnico,
+como conseguimos diferenciar a Croix Tab,
+estabelegina, que os eagofamentos,
+que são o que a gente vai falar muito, muito,
+muito ao longo do bootcamp todo,
+em testes de podes de falar bastante sobre grupos,
+então a gente vai começar a construir essa vália,
+sobre o que são os equipamentos.
+E a gente vai também,
+um ponto que sempre dá muita dúvida,
+é quando que os números de quantos pontos,
+quantos apentes são métodos que a gente usa para data frames,
+cada um tem a sua utilidade,
+a gente são métodos no geral para um e-data frames,
+de diferentes volas,
+e a gente vai falar um pouco sobre eles, também é um longo da aula.
+Mas então, primeira coisa,
+eu quero perguntar para vocês a gente levantou essa bola,
+e eu quero perguntar se vocês já viram algum gráfico
+que foi feito para manipular quem está vendo.
+E se vocês conseguem trazer algum exemplo aqui,
+lembrada a vida de vocês,
+mesmo a uma vez que vocês olharam um gráfico e falou,
+será que é isso mesmo?
+E depois que vocês foram entendendo,
+realmente tinha um contexto ali,
+como o gráfico foi criado feito para manipular quem está vendo.
+Em uma dica, em um idica,
+a gente acabou de passar por um momento que isso acontece demais,
+que é perigual eitoral.
+Conseguem lembrar de alguma coisa?
+Agora, nas eleições de, agora me me espais, né?
+Eu lembro que eu vi uma um posto no Instagram,
+dois candidatos estavam no segundo tudo,
+e aí estavam botando o post de uns candidatos falando,
+ah,
+eh,
+fulando disparou.
+Então, nas pesquisas, né?
+Disparou nas pesquisas.
+Aí, botava o gráfico de delo em cima,
+ao bem alto, sim,
+e o douto candidato lá embaixo.
+Então, eu caraca ele disparou mesmo,
+a isso vai olhar a diferença.
+Tava,
+50 e 2,
+a 48.
+Então, os caras deram uns um, né?
+Tipo, como se der, tivesse em dar uns um,
+eles voltaram o eixo e o eixo,
+e o eixo, e o número em um miscala,
+que fica muito distorcida de forma,
+a pareciação a diferença muito grande.
+E assim,
+é aquela, né?
+Mentira, não é?
+Mas é uma manipulação,
+feita para...
+É...
+Nem que não ganar quem está vendo, né?
+Porque,
+tudo isso, da liera já já entra na parte do marketing,
+do efeito de monada,
+que a pessoa vê,
+não, se ele disparou.
+Então,
+a pessoa já já creia a sua opção de afuão,
+tá na frente,
+o avonei mesmo.
+Então, é tudo isso affeito com propósito, né?
+Então, esse pessoal que,
+principalmente,
+que é um panelitoral, né?
+É um muito dinheiro investido
+o marketing,
+então, eles nem vão fazer nada por a casa.
+O isso é pensado.
+E a gente vai ver,
+mas uns exemplos aqui hoje,
+ao longo da aula.
+Mas, primeiro,
+vai falar aqui sobre os principais tipos de visualizações de dados.
+E vamos começar a construir nossa base.
+Acho que o mais claro, né,
+que a gente conhece,
+que todo mundo
+já teve experiência.
+E, pelo menos,
+algumas vezes na vida já viu,
+é o gráfico de
+barras que é isso aqui.
+É basicamente,
+para comparar a categoria, né?
+Então, a gente,
+aqui, um exemplo número de vendas
+em uma loja de departamento,
+é o gráfico mais batido.
+E aqui a gente tem as categoria,
+o procedurismo,
+o procedurismo,
+o procedurismo,
+o procedurismo,
+o mesmo banho e a quantidade de vendas
+para cada um.
+Então, esse é o gráfico mais...
+ele pode ser também,
+na horizontal,
+mas ele não deixa de ser um gráfico de barras, né?
+E,
+outro gráfico também,
+muito utilizado que a grande maioria
+já deve ter visto a o gráfico de linha.
+Ele serve para mostrar
+tendência em movimentações,
+assim, de uma valor ao longo do tempo.
+Então, aqui,
+a gente tem, por exemplo,
+onde ele é muito utilizado
+em ações,
+a gente tem o gráfico de ações
+da Petrobras,
+a gente vê que é um período de 15 anos,
+e o gráfico de linha...
+Eu achei muito interessante
+porque a gente tem que lidar
+com todo uma nova dimensão,
+a gente não precisa
+com o gráfico de linha.
+Tem muita informação.
+Por que eu falo isso?
+Aqui é uma informação que a gente tem, é...
+o preço da ação da Petrobras.
+Por favor, não.
+Que tem mais nada que...
+Preci da ação da Petrobras.
+Então, ela começou aqui no vinte,
+ela foi para chegar batecincüenta,
+depois ela desceu,
+ela foi pegou quase de graça
+aqui em 2006 por...
+Só cinco reais.
+Aí ela voltou a crescer e caiu.
+Ela voltou a crescer de novo.
+Ela caiu de novo.
+Ela voltou a crescer de novo.
+E...
+Assim,
+políticas a parte,
+o que a gente consegue estraider isso?
+Muito informação relacionado
+ao histórico do nosso país do Brasil.
+Porque todos esses movimentos aqui
+foram relacionadas ao governo político.
+Não vou lembrar de cabeça.
+Não sou muito bom de memória,
+mas com certeza está relacionado à eventos.
+Então, por exemplo,
+acho que é o que fica bem claro que a pandemia,
+como esse indêche dos mil e vinte
+está bem...
+Acho que parece que ser pandemia.
+Aqui, não lembro que foi,
+e 2018, ninguém não me ensalou.
+Ou alguma coisa nesse sentido.
+Mas todo...
+Independente, eu não quero entrar em política.
+E falar alguma pessoa.
+Mas que eu estou falando, é...
+Esse gráfico consegue trazer informação
+para a gente ao longo do tempo.
+De todo o histórico,
+que aconteceu com as ações da Petrobras.
+E, com uma simples informação,
+que é o valor dação.
+Então, eu gosto muito disso,
+porque a gente começa a entrar em várias outras líveis.
+A gente consegue estrair muita informação
+a partir de uma única variável
+porém, o que...
+Gero valor para ela, que é o...
+A extensão de tempo que a gente tem dela.
+Então, olhando 15 anos para trás.
+O tanto de informação que a gente consegue estrair
+é o correla acionar outras informações.
+Tem muitas vezes são subjetivas.
+Então, imagine que para várias pessoas,
+não fique claro que aqui, por exemplo,
+seria pandemia.
+Mas quando a gente tem informação consegue
+ir correla acionar,
+lembrar de que aconteceu aqui no Brasil,
+na época da pandemia,
+tudo fechou, né?
+Então, para o país inteiro fechou,
+os preços da gasolina,
+não sei se vocês lembram,
+mas no primeiro saber se os meus 20s,
+os preços da pandemia baixaram muito.
+Porque não tinha demanda.
+Por gasolina.
+Então, a minha renta você é a gente caso,
+tudo o dia lá que dá,
+então, com isso,
+os stockes dos posgasolina ficaram muito alto,
+e o preço da gasolina baixou no país.
+E, no molentê no aniversário de aconteceu isso, né?
+Então, provavelmente está...
+Isso aqui, também relacionado com que aconteceu aqui,
+em 2020 no preços da Petrodais, né?
+Então, caiu bastante.
+Então, esse é o gráfico de bar de linhas,
+e o gráfico de barza,
+acho que esses dois são...
+os que a gente mais tem,
+é contato ao longo da nossa vida,
+de...
+Pode ser apresentados de diferentes formas,
+mas no fim, eles são o gráfico de barza de linhas.
+Agora,
+eu tô aparenta que eles são em vocês,
+eu vou no botar aqui para cima,
+e aqui,
+a gente tem...
+dois tipos de visualização adicionais.
+A gente tem o gráfico de dispersão,
+e o gráfico de área.
+Então, o gráfico de dispersão
+é muito bom para corra relacionar duas variáveis.
+Então, nesse caso aqui, por exemplo,
+a gente tem uma variável altura,
+e uma variável peso.
+O que é muito interessante a gente vem aqui?
+A corração entre a altura e peso.
+É bem natural, a gente sabe que,
+é, ao uma loja que eu digo,
+quanto mais alto a pessoa,
+mais pesada ela é.
+E por isso que esse gráfico tem uma tendência
+para cá, né?
+Que aqui quanto maior a altura?
+Não é, ó, o peso.
+Isso é lógico, né?
+Então, nós conhecem a devida,
+a gente sabe que vai sentir,
+quanto mais baixas as pessoas,
+menor eu peço de elas também.
+Então, esse faz todo sentido,
+mas o legal desse gráfico,
+olha que o que a gente consegue fazer,
+a gente consegue dentro do próprio gráfico,
+do escado de plot,
+grafos de dispersão,
+a gente consegue adicionar uma quembra,
+por tipo de esponte,
+e ver como que isso fica claro,
+que, por exemplo,
+nesse caso aqui, a gente vai claramente
+que há uma diferença de corpos,
+né, de físicos, entre os esportos.
+Então aqui, por exemplo,
+vamos empaque, abalmente.
+A gente vê que nessa área, que tem muito pessoal,
+é verde, né?
+E é o pessoal do triato,
+então, o pessoal ou no triato,
+não há atletas muito altos,
+e nem muito pesados,
+que eu senti for ver,
+é basicamente até,
+essa é 35.
+E eu usaria um pouquinho mais pesado,
+e se faz todo sentido,
+não é considerando o gasto calor,
+porque eu trataria um tempo,
+que, enfim, o esforço que exige,
+então, não fa...
+Se você pensar não,
+tenha atletas no triato muito pesados,
+justamente porque,
+é o esforço que exige muita movimentação, né?
+É o vole,
+a gente vê que é um esporte,
+que tem muitos todos tipos de corpos, né?
+Então aqui, a gente foi pensar,
+o vole,
+ele tem pessoal mais baixo,
+o pessoal mais pesado,
+e...
+ele começa aqui, por exemplo,
+tem pessoal de um e 60 no vole,
+é uma minoria,
+claro, né?
+Ele é calma mais concentrado aqui,
+entre um e o item de um e o 90,
+mas ele também tem vários jogadores altos,
+então aqui, considerando o vole,
+onde vê que, por exemplo,
+ele tem uma tendência,
+aficar,
+na parte superior aqui do nosso gráfico,
+certo?
+Superior direita,
+mas, ao mesmo tempo,
+existem também outros corpos,
+que,
+não tão,
+não nesse grupo principal, né?
+Mas, concentração principal,
+e o que são, por exemplo,
+o vole já fazendo a socialção,
+são os libros, provavelmente,
+que são pessoal,
+o que só defende,
+não precisa ser alto,
+geralmente alguém mais móvel,
+o baixinho,
+então,
+é, de provavelmente,
+esses aqui são os libros do vole,
+e a gente vê como, por exemplo,
+estão distanciados aqui do grupo principal.
+Outro coisa legal,
+é o basquete, né?
+Acho que o basquete é o mais claro,
+para a gente,
+olha como,
+o basquete acaba concentrado
+na parte direita superior.
+Então,
+se a gente pegar aqui,
+acho que,
+nessa segunda aqui,
+olha,
+basquamente quase todo mundo
+do basquete está concentrada aqui, certo?
+E,
+exatamente isso,
+que a gente tem a noção de basquete,
+é um pessoal bem mais alto,
+bem mais,
+naturalmente pesado,
+também.
+É,
+e,
+com isso,
+faz que o pessoal
+basquete ter de praticado,
+mas a gente vê também
+os azuis aqui,
+pessoal mais baixo do basquete,
+e,
+é natural também,
+esses alguns,
+no basquete tem uma armadura ali,
+que,
+generalmente,
+não é tão alto,
+mas a grande concentração,
+é,
+na parte do pessoal de pelo menos,
+com mais de um e novento, né?
+E,
+a gente sente o observar aqui,
+os que são
+altilais,
+né?
+Estou tais,
+os que estão bem fora da cúver.
+Então,
+tanto para baixo aqui,
+a gente vê que,
+por o triato,
+então, pessoal,
+entre 150,
+e 160,
+e,
+assim,
+menos de 50,
+que uns,
+todos com menos de 50,
+são os dois de parário,
+são a pletta de triato,
+e todos com mais de,
+todos com exceção de um,
+dois com mais de dois e dez,
+são a pletta de basquete.
+Então, a gente percebe
+essa extremidade de corcos,
+tanto no basquete,
+contra o motoriato,
+não é?
+O triato mundialmente,
+o pessoal bem,
+é,
+baixinho e mais bem leve,
+quanto no basquete,
+o pessoal bem alto,
+que naturalmente é mais pesadente.
+Viam, os atletes aqui do basquete,
+ou com,
+como eu estou aqui,
+mas a gente viu alguns atletas do basquete,
+com mais de dois mais de 20,
+então, tem dois atletas aqui do basquete,
+com mais de dois mais de 20,
+então,
+realmente, impressionante,
+então,
+o tanto de formação que a gente consegue
+estar aí,
+do gráfico de pressão,
+ou relacionando dos variables,
+considerando três categorias aqui,
+e esse é um gráfico real,
+né?
+Do as atletas olímpicos
+da Zermingando a Unipiada Gito,
+Tokyo.
+Outro gráfico, acho interessante,
+é o gráfico de área,
+o gráfico de área,
+ele também fala de evolução
+longo do tempo,
+assim como o gráfico de linha,
+mas ele é mais interessante,
+principalmente para a gente
+considerar uma acumulação,
+então considera uma acumulação
+no sentido de um oixo e oixo e oixo.
+Eles,
+eles sempre mais são total,
+certo?
+Então aqui,
+não oixo e oixo,
+não.
+A gente tem um total,
+que será distribuído,
+entre diferentes grupos ao longo do tempo.
+Então aqui,
+a gente tem uma série histórica,
+igual ao gráfico de linha,
+mas diferente do gráfico de linha,
+e a gente poderia fazer do gráfico de linha,
+sendo cada um desses grupos uma linha,
+aqui a gente tem um total,
+então, consolidado de vendas,
+e por que esse gráfico é muito interessante?
+Ele traz,
+justamente,
+a magnitud de das mudanças
+em um determinado grupo ao longo do tempo,
+ainda é,
+junto a vários grupos ao longo do tempo.
+Então, um exemplo muito,
+que eu acho sempre muito interessante,
+esse gráfico,
+como os gráficos mais legais,
+que eu acho que existem,
+porque a gente pode conseguir relacionar
+com o nosso vida,
+assim mesmo,
+então,
+vamos lá,
+a gente tem aqui,
+o mercado de músicas no Estados Unidos,
+por formato,
+ajustado pela inflação,
+porque, claro,
+é,
+antigamente,
+vale a menos,
+então a gente tem que ajustar pela inflação.
+Então,
+vamos lá,
+a gente começa aqui,
+como a gente track,
+a gente tem o vimil,
+provavelmente está na geração
+da grande maioria dos nossos pais,
+e aí,
+o casete,
+já entra aqui,
+a partir de 1980,
+então,
+o que é o período aqui?
+Vamos lá,
+me ajudam,
+vocês?
+O que é o período entre
+mil novecentos e o tempo
+é,
+sim,
+e o ano de 1980,
+o período aqui,
+entre as duas faixas vozes,
+indica pra gente.
+Vamos lá,
+vamos lá,
+o lançamento do
+vídeo de cassette
+e o Decline do Vinho.
+A sua instituição,
+exatamente.
+Então,
+foi exatamente isso que aconteceu,
+o vinho foi morrendo
+na longo desse 5 anos,
+enquanto o cassete foi lançado,
+que ele foi dominando,
+mercado.
+E de certa forma,
+mercado cresceu,
+certo?
+Porque aqui,
+se a gente foi considerando,
+a mercado estava no ponto de
+5 bilhões de dólares a um ano,
+quando ele chegou no áudio do cassette,
+ele batiu
+aqui um set de bilhões a um ano.
+Então, teve um pequeno crescimento.
+E,
+ali,
+para o ano de vinho,
+91,
+por ali,
+começou,
+chegou com tudo,
+o CD.
+E o CD,
+diferente do cassette,
+ele já teve um crescimento,
+tem exponencial aqui no caso,
+diferente do cassette,
+que teve um crescimento,
+muito mais brinac,
+aqui a gente tem um crescimento,
+exponencial.
+E,
+a gente batou um pico
+da indústria da música,
+aqui no ano de...
+ou pra...
+um...
+Bruno.
+Aqui.
+No ano de...
+dois...
+Ó, de batê,
+20 bilhões de dólares,
+lá pro ano de 99, 2000.
+E aí,
+eu já lembro dessa época,
+mas era...
+realmente as febras do CD,
+né?
+Todo mundo me chamava
+de CD,
+em casa,
+os novoes aqui no Brasil
+eram feitos
+para...
+para o pessoal guardar CD.
+Então,
+tinha lá até verde,
+casa,
+as entradinhas do disco,
+vocês lembram
+e para vários CDs,
+assim,
+o pessoal guardava do CD,
+tudo que é tipo...
+Então era...
+era uma coisa muito legal,
+né?
+Tinha os...
+aquelas...
+caixas gigantes,
+né, que ficar um passando
+assim,
+com o f sumar o bucan de passado
+do CDs,
+pessoal,
+mas não vai lembrar,
+mas era um febre CD,
+e realmente era a tchau loja de CD,
+né?
+Então, várias lojas,
+eu lembro em Brasília,
+tinha um ano...
+era uma rede de lojas,
+era tinha um dos 20 rede de lojas,
+era essa loja de CD,
+então era algo muito,
+muito grande.
+E a partir de...
+ele bateu o áudio ali no
+venta e vai dois milhão,
+dois milhão,
+e a partir de daqui ele começou a cair,
+ele começou a cair,
+significativamente.
+E por que vocês acham que ele começou a cair?
+Agora,
+vamos ter que acessar com a nossa vida,
+por que vocês já estavam vivos, né?
+O que aconteceu com o mercado da música,
+depois de 2000,
+até 2000,
+e os pessoas pararam de ouvir música?
+Piracaria?
+Tem feito,
+defeitos,
+era pirataria.
+E no...
+A pirataria foi lembra
+um torrente
+com casar...
+Ah,
+um CD,
+você era feira,
+comprava o CD do disco,
+que o pessoal baixava,
+e esse botava um MP3.
+Então, todo mundo dá um jeito
+ali,
+então teve um período ali do limbo,
+né, que todo mundo dá um jeito
+em dia baixar a música,
+botanha, um lugar no MP3.
+E o que aconteceu com o mercado da música?
+Ele foi morrendo,
+o mercado de música,
+vendo de música,
+começou a morrer.
+E a gente vê,
+isso justamente aqui,
+ele bateu a o áudio de 2020,
+bilhões,
+ainda em 2000,
+nenhum.
+Ele começou a morrer,
+considerando que em 2000
+e dez aqui,
+ele estava menor do que
+o que nunca,
+menor do que ele,
+lá na década de 70,
+por vinho.
+Então,
+aqui a gente vê também
+que tem o modelo de download,
+né, que,
+bem curto aqui,
+que veio com a eta,
+né, no iTunes,
+que se comprava o CD,
+digital,
+mas foi muito pequeno,
+que as pessoas manderia
+no carro,
+não fazia sentido,
+não producto.
+Que...
+A piata aí passou de certa forma,
+você...
+aceita na vida das pessoas,
+que era muito mais fácil.
+Você...
+Não fazia muito sentido
+de você pagar,
+de enreio,
+pagar 20,
+30 reais,
+no CD,
+que vai ficar digital,
+sendo que você pode
+ter aquele arquivo,
+e,
+no épico,
+por exemplo,
+a iTunes,
+nem,
+só permitir,
+por exemplo,
+você cargar as músicas no seu
+o iPod,
+né?
+Então,
+enfim,
+já tinha um tchau mais absurdo
+em termos de...
+é de...
+a seisperidades,
+né,
+realmente.
+E as pessoas...
+seguiram pelo...
+Porque ela sempre fazem,
+né, na internet.
+Pelo caminho,
+mais fácil,
+para o...
+vida das pessoas mesmo,
+né,
+então,
+o que vai ser mais fácil para a minha vida?
+Consegui baixar uma música aqui,
+que eu consigo botar em todos os lugares,
+ou ter que pagar
+para uma plataforma específica
+para ter um CD virtual.
+Então, por isso que eu cedeis
+virtual,
+não...
+não pegaram.
+Mas...
+o mercado é...
+muito exigente, né,
+em sabe disso.
+E...
+A partir de 2015,
+começou a ter uma viradinha.
+E essa virada aqui,
+se eu falar para vocês,
+que esse gráfico também
+é atualizado, né?
+Tá indo em 2018,
+você quer que não é
+se eu crescer também
+continuou crescer exponencialmente,
+crescer a gente ver aqui,
+ó...
+Só teve duas coisas
+exponenciales
+nesse gráfico inteiro.
+Aqui, deixou...
+Talvez, afirm o comeceiro do vinil,
+vai,
+mas, com certeza,
+aqui no comeceiro do CD.
+E no comeceiro do streaming.
+No da noite,
+gente vê,
+foi bem...
+não convivem,
+bem,
+pouco em que nada.
+E...
+O que vocês acham?
+Que a gente começou a voltar...
+Ai...
+Mecava da música,
+começou a voltar crescer,
+né?
+Em 2018,
+ele já tinha batido aqui,
+quase 6, 7 milhões de dólares de novo.
+Depois de quase morrer, né?
+Então, o qual vocês acham que
+foi estratégia deles?
+Vamos por relação a nossa vida.
+No caso, ele fingera
+você em vez de pagar por uma música,
+pagar por...
+por toda aquele de oferece,
+né?
+No como só uma mensalidade,
+em vez de uma coisa...
+uma fidelidade,
+ele preferiu cobrar por uma mensalidade.
+Leito feito, foi isso que eles fizeram.
+Eles pensaram...
+Ah, já que as pessoas vão ouvir música,
+que elas querem de qualquer forma,
+qual qual o problema da usagora?
+Por um ano, de elas,
+elas tem que baixar a música de cada um de um lugar.
+Ellas não tem,
+muitas vezes, com fibrilidade,
+esses temos também muitas vezes
+eram propícios de transmissão de vírus,
+então, o liu cara botava no casado a vida,
+botava um vírus junto
+da música, então, isso aconteceu muito.
+E é justamente isso, pessoal.
+Plata forma de música,
+Spotify, Giza, YouTube, Music,
+então esse pessoal conseguiu retomar,
+eles pegaram os problemas que aconteceu.
+Então, a gente tem que baixar
+uns cada um em um lugar,
+não era tão seguro,
+muitas vezes,
+e dáva trabalho,
+também de organizar a passar
+para o MP3,
+passar para o IPOD, enfim.
+E eles começaram a botar
+dentro dos aplicativos,
+todos os músicos,
+e eles conseguiram retomar.
+Então, hoje eu não sei,
+acho que até interessante,
+alguém quiser pesquisar,
+depois passar na grupo da comunidade,
+mas muito legal esse gráfico de área,
+porque ele mostra justamente isso.
+Como que o mercado de música
+foi dividido ao longo do tempo,
+então, a gente consegue relacionar
+com eventos históricos,
+que estão na nossa vida,
+mas o mais interessante é a gente consegue
+ver o efeito do mercado
+todo,
+e como ele foi distribuído ao longo do tempo,
+nessas transições de tecnologia.
+Então, o gráfico de área é outra ferramenta
+muito legal para a gente usar,
+quando a gente quer pegar essa visualização
+dos grupos ao longo do tempo.
+Outro gráfico,
+muito legal,
+é o gráfico de 3 maps,
+que é o gráfico de Jaavuri,
+são no Minghane,
+português,
+eu não lembro do meu minghane,
+são no Minghane a gráfico de Jaavuri,
+não, não é o gráfico de Jaavuri.
+Mas,
+é o primeiro maps,
+mas, principais ferramenta de diversas são mesmo.
+Ele traz a proporção entre categoria,
+então esse aqui é um gráfico da proporção global,
+então a gente vê a caixa grandeona,
+né, o retango grande,
+ele é a população global,
+então a população do planeta Terra,
+e a gente consegue ver,
+ele é muito bom para trazer proporções.
+Então a gente vê que toda essa faixa amarela
+é a aze,
+e dentro da aze,
+só isso aqui é a China,
+então a gente consegue ter uma noção,
+de uma manhã da população da China,
+ação a população global,
+não, tudo isso aqui é China,
+e o resto,
+é o resto do mundo,
+quando a gente volta a China,
+em um dia,
+olha que está a mãe das duas,
+em relação ao planeta Terra,
+dá mais de um quarto certo,
+pessoal, com cola,
+a gente pegar a China,
+e não de a gente consegue ver mais um quarto do planeta Terra.
+No caso esse 3 maps,
+ele faz um,
+ele fez um de visão por,
+por continente,
+e tudo,
+dentro com o que ele queria entender.
+Ele não quer a beco,
+e menusem um ali,
+ele não colocou nome,
+mas seria um lugar que vários países,
+né?
+Isso dá,
+realmente vários países,
+que ele não consegue botar um nome todos,
+mas cada um desses caixinhas é um país,
+então a gente consegue ver aqui,
+a gente, a gente traque,
+esse é o Brasil em relação a esse do mundo,
+a gente tá aqui,
+porque a gente tá aqui na caixinha das américas,
+então a gente tá aqui no veio,
+o estado do Unido,
+é uma população das américas,
+com 300 milhões,
+esse aqui é Estados Unidos.
+E o Brasil, a segunda uma população das américas,
+com 200 milhões de pessoas,
+então a gente tem aqui,
+basicamente é 2º do estado do Unido,
+e a gente tem outras populações
+muito grandes da Ásia,
+da Oneas,
+E,
+E,
+E a Espaquestão,
+O Japão,
+Mas,
+Legal Antebre também,
+Qualquer a proporção do Brasil,
+e relação a esse do mundo,
+a gente vem,
+por exemplo,
+o Rente Medio,
+ao Seneio,
+Olha o tamanhozinho do Seneio,
+em população em resto do mundo,
+em relação a esse do mundo.
+Então,
+a gente consegue ver,
+tanto o Efeito de Continentes,
+quanto o Efeito de país,
+né?
+Esse é o principal,
+principal característica do Triunipsy,
+e o Triunipsy traz,
+ele é muito bom para mostrar para o porcentes.
+Falando agora,
+de gráficos de cascat,
+o gráfico de cascat,
+ele é muito legal.
+É,
+a pressão a gente pessoal que já trabalhou,
+em área financeira,
+já já viu muito gráficos de cascat,
+é,
+ele é muito usado para fazer
+balance de empresa,
+fluxo de caixa,
+previsão de investimento,
+então,
+a pressão a gente pessoal
+da área financeira,
+que já se aventurou,
+já deve ter visto,
+e ele serve para fazer
+a variação de dos números ao longo do tempo,
+né?
+Ou por eventos?
+Então aqui,
+o exemplo do fluxo de caixa,
+né?
+Então a primeira gráfico de primeira barra,
+que é o sal inicial,
+então,
+ele é acrescido,
+aqui por serviços,
+por produtos,
+então,
+ele passou aqui para 200,
+para 260,
+mas aqui,
+quando ele começou a ficar vermelho,
+ele começou a ser decrescido.
+Então, ele veio aqui,
+perdeu 200 em despesa,
+perdeu 380 em custo-fixo,
+e ele chegou no final,
+porque é o sal do final.
+Então, ele é muito usado ali
+para a balance de empresas,
+fluxo de caixa,
+que nem eu falei,
+tudo isso para a gente ver a relação,
+que fez subir,
+e o que fez decê,
+também,
+muito,
+muito prático.
+Agora, o tema polêmico,
+gráfico de pizza,
+o gráfico de pizza,
+ele,
+é usado muito,
+mas eu não recomendo de forma alguma usar,
+e eu porquê está aqui nesse vídeo,
+não nesse vídeo, nesse imagem,
+porque você deve usar um gráfico de pizza,
+então,
+essa é a pergota,
+e por incrível que pareça,
+a acredita eu não,
+esses dois gráficos trázem,
+exatamente, a mesma informação.
+A acredita eu não.
+A única coisa que eu acho aqui
+foi,
+aqui a gente botou um escala,
+se vocês perceberam,
+escala não comecei em zero,
+escala começa em,
+dez,
+então, de baixa dez a de oito,
+e aqui a gente consegue ver claramente
+a diferença entre as classes.
+Enquanto no gráfico de pizza,
+por essa diferença exutil,
+não, negativa aqui,
+que, no caso,
+é esse no gráfico de pizza,
+ele tem muito pouco de diferença
+para o novo,
+que é o azul grande do lado,
+e principalmente tem outra coisa,
+e é a mais interessante,
+eu li um artigo esse dia,
+as palavras justamente,
+que no gráfico de pizza,
+a gente, como,
+como ser humano mesmo,
+o nosso cérebro não processa bem,
+as cores,
+principalmente os azul,
+quando eles estão no gráfico de pizza,
+porque a gente perde um pouco noção de proporção.
+E não sei vocês,
+que ele até o vídeo vocês,
+é o que vocês acham?
+Estes dois azules aqui,
+eles parecem muito parecidos
+para mim,
+mas quando a gente olha a diferença,
+é um ano de 8%
+e outro,
+é menos de,
+ali, 11, 10, 10, 10%
+vocês,
+o que vocês sentem?
+Vocês também
+vem a diferença tão grande?
+Ah, algo tão perceptível,
+ois é o azul,
+ele é quase limitado,
+e ela vai ser bastante divertida.
+Ele vai também, ele é quase metade,
+um pouquinho mais da metade,
+não parece,
+tipo,
+dá para ver se eu leassem bem,
+parece que é menor,
+mas principalmente no gráfico de pizza,
+quando se olha esse indicar,
+não parece que é metade.
+Então, a ideia é essa,
+nossa cérebro,
+o ano ele não processa muito bem,
+cores,
+muitas cores de juntas,
+principalmente no formado de pizza,
+e o gráfico de pizza
+ele acaba de tão trazendo um pouco das
+vezes ilusões visuales,
+então claro,
+temos que usar alguns sensos,
+quando você tem ele duas categorias,
+só mostrar ali a gente base 140,
+às vezes faz sentido,
+às vezes é interessante,
+mas aqui como muitas categorias,
+não fica muito perceptível
+a diferença.
+Então,
+usam com muito cuidado o gráfico de pizza,
+e não recomende falar
+no alguns apps,
+principalmente quando tiver
+muitas categorias igual
+nesse gráfico aqui.
+Passando agora,
+começando a parte look legal,
+o livro corresponde demais
+para vocês um livro bem curtinho,
+eu li ele,
+numa viagem avião,
+então,
+tudo três horas,
+acho que eu estava indo de Brasil
+para a frontalesa,
+eu li ele,
+ele é muito interessante,
+é,
+tão big,
+falou bem dentro do livro,
+estou trazendo o big aqui toda a obra,
+não?
+Mas o livro é Houghtylye,
+o ifestatístics,
+como mentir com estatísticas do Dary Huff,
+e tem várias construções
+ao longo do livro do livro,
+ele foi um da excelha real estázunírus,
+então, conseguiu forabolher
+sendo do pessoal de dados,
+ele é muito legal,
+porque ele traz sobre
+justamente isso que a gente falou
+de minutiras ao longo do tempo,
+e quem costuma no que
+de muito condados,
+em geral, são políticos,
+em loto fones,
+que ele direita são políticos,
+e a área é muito bom em manipulados,
+e eles fazem isso quando eles estão,
+também, no poder,
+então,
+esse aqui é um gráfico do
+que o governo,
+sendo me gano de algum estado
+lá no estado de Unidos,
+o Zô,
+então, o gráfico que eles usaram
+foi para falar que a folha de pagamentos,
+peiu ou os é folhas de pagamento,
+então esse foi o gráfico que eles divulgaram,
+eles divulgaram,
+que os pacusos salários estavam explodindo,
+aqui, eu saindo aqui de Agosto,
+de anelho, fevereiro,
+massa abril,
+então de abril pra mais,
+os salários explodiram,
+então,
+isso é um 19e para 20.
+Só que por que eles explodiram,
+era novamente a questão da proporção
+no eixo eixo.
+Esse gráfico que começa no 19e
+e vai até o 20,
+então ele faz parecer que
+teve um crescimento muito grande.
+Esse aqui,
+ele vai do 30,
+do 0, 30.
+E quando a gente vê aqui,
+é o mesmo crescimento.
+Então, isso aqui,
+é a mesma coisa que isso aqui.
+Opa.
+Deixa eu botar caro,
+eu te sou...
+Isso aqui,
+é a mesma coisa que isso.
+E a única diferença é a escalana,
+porque se a gente foi reparar,
+nossa escalá,
+provavelmente,
+está daqui,
+até,
+aqui.
+Então, faz parecer que o crescimento
+foi muito maior,
+porque ele realmente foi.
+E agora,
+trazendo um bem fresquinho
+que, imagine, vai estar
+na cabeça de vocês.
+Mas,
+esse é muito interessante.
+Isso foi agora dela em São Estados Unidos.
+Eu vi, eu acho que
+a gente de vê atrás é que,
+esse foi a votação
+da...
+dela em São presidente,
+se ela está em Unidos.
+Então,
+os...
+quem era de direita?
+Os dois,
+é o gráfico aqui.
+Quem era de esquerda?
+Os dois, esse gráfico aqui.
+E o que que isso,
+na visão de vocês,
+traz?
+É muito tempo ao piqui.
+E não é entrar na política,
+entrar em dados mesmo.
+O...
+Esse são os mesmos dados.
+Mas o que que na visão de vocês
+isso aqui,
+está dizendo pra gente?
+Que a grande maioria
+do da população
+seria republicana
+que ele se
+dá impressão que
+todo território, né?
+Onde é vermelho?
+É o pessoal do republicano.
+E aqui embaixo,
+a gente foi parar tem grandes
+pontes useis.
+Essas são as grandes
+cidades do Estados Unidos.
+Então aqui, por exemplo,
+é Luzangeres,
+aqui é São Francisco,
+aqui é Chicago,
+aqui é Nova York.
+Então aqui tem um bâmbro,
+é Nova York,
+bom, então aqui é Miami.
+Então, você a gente reparar
+os democratas,
+eles ganharam nas grandes cidades.
+Mas o que aconteceu?
+Os republicanos,
+eles ganharam
+nas piquenas cidades,
+são aqueles garram
+e praticamente todos esse piquenas cidades
+do interior do Estados Unidos.
+Isso aí foi reparar aqui,
+tem grandes cinturão,
+republicano,
+bem aqui no meio do Estados Unidos.
+E o que que isso quer dizer?
+Essas são
+as cidades em que os republicanos
+ganharam.
+E aqui,
+são as populações
+dessas cidades em que os democratas
+ganharam.
+Então, se você foi republicano,
+esse gráfico aqui é muito melhor para você,
+com o bolo.
+É um gráfico muito mais impactante.
+E eu vi muita gente,
+posto nesse gráfico.
+Agora, se você é democrata,
+e agora,
+estou falando esse
+que eu sempre oricanos que vieram,
+agora, certo?
+Então, ele sempre vai falar
+o país em publicano,
+mas a leição não foi
+uma lavada,
+o trato que eu como,
+com a mágica,
+o fotado,
+sim,
+mas se a gente fosse democrata,
+seria muito mais dirigente
+e os aís,
+esse gráfico aqui, certo?
+Porque o que a gente vê,
+é vários pontos
+as duas grandes,
+em que o
+a camála real,
+esse ganhão.
+Então,
+isso é muito interessante.
+É que a gente mostra
+mesmo dado,
+o mesmo dado.
+De duas perspectivas,
+totalmente diferentes.
+Aqui a gente traz
+por
+no mapa,
+aprendendo as áreas
+das cidades,
+e aqui a gente traz
+como impacto de cada cidade
+e tem de população.
+Vamos ver o lado das contas,
+quem ganhou
+foram democratas,
+porque acabou que essas
+várias cidades
+pequenas imedas,
+enfim, acabaram pensando
+mais, e algumas cidades
+grandes também, claro.
+Mas, no geral,
+a gente vê também,
+que tem uma forte
+presença de duas
+democratas, principalmente
+na cidade
+grandes, lá, vai estar
+dos unidos.
+Agora falando de
+Feito Indine,
+botar com a baixa de
+não.
+Feito Indine,
+em pessoal,
+processo que a gente faz
+quando a gente trabalha com dados,
+basicamente,
+para esquecer os dados que a gente tem.
+Então, a gente sempre vai ter
+o conjunto de dados,
+certo?
+Que a gente vai ter as frisos.
+Pizar os frisos,
+são as nossas colunas
+e, enfim, das contas,
+a gente vai usar aquilo
+para criar o modelo,
+seja modelo
+modelo pode ser
+isso aqui acaba sendo
+muito subjetivo.
+No caso da sensidade
+modelo sim, mas ser
+muito prohibitivo,
+não dá de transgação,
+mas no caso da cidade
+model pode ser humanálise,
+pode ser um teste de
+posses ser
+realmente um modelo
+que a gente cai do
+apoio de uma manipulação de
+dados.
+E depois a gente gera
+insites a partidos.
+Quando a gente gera
+insites,
+a gente acaba voltando
+e corre o relacionado
+isso.
+Mas o que que são os insites no
+fim do dia?
+É
+Correlacionalar nossas
+periões,
+se conhecendo o conjunto de dados
+que a gente tem
+como que a gente vê
+de fato nos dados.
+Então, no mundo real
+vocês vão ver,
+quantos as pegarem
+para trabalhar com qualquer
+congendida dos.
+Não tem muitas fiturs,
+muitas colônas que são
+irrelevantes,
+algumas colônas
+irrelevantes
+e poucas colônas que são
+extremamente irrelevantes
+para o que a gente está querendo fazer.
+Então, esse geralmente é um papel de
+vocês,
+toda vez se despegar
+e um conjunto de dados
+tem que tentar identificar
+ali,
+onde que está a loro
+que temos da análise.
+E aí vai muito
+também dar experiência
+no tipo de dados que você
+está trabalhando,
+enfim, no projeto que a gente
+está trabalhando.
+E aqui entre os alguns
+as épos de FITIOS no
+de Niga.
+É...
+Eu não sei se está piquendo
+na tela,
+estão conseguindo ver
+pessoal.
+O código.
+Então,
+então, beleza,
+aqui a gente tem
+um dados tabulados,
+aqui a gente tem um exemplo,
+nas tabuladas no geral
+são a nossa polaríria,
+certo?
+A gente tem alguns dados
+a gente tem aqui,
+ó.
+O ID
+de um cliente
+então,
+ali,
+o CPF
+da vida,
+o código,
+em como,
+em como,
+é renda,
+então,
+a renda daquela pessoa,
+e a data que ela entrou,
+John,
+então,
+que a gente tem a data que ela entrou.
+O que a gente consegue
+extrair de informação disso?
+A gente consegue
+extrair muita coisa,
+primeira coisa.
+E isso é o processo de FITIOS Niga,
+que ia,
+vai se formar as
+ções,
+a partir das famas que a gente já
+tem com os nossos dados.
+Então,
+é o que, que primeira coisa,
+mas que é pessoa entrou,
+simples,
+né?
+O que é uma boa medida,
+a teu paga aqui
+tem uma
+e por que que o mês é interessante?
+E mês e ano,
+também,
+eu faço a mesma coisa pro ano,
+alguém tem um palpite,
+por que que seria,
+por exemplo,
+o trumanálise,
+interessante,
+é,
+sempre,
+no caso,
+assim,
+que eu tenho,
+por exemplo,
+a data de cada ásthro,
+está aí,
+o mês e o ano
+da data de cada ásthro.
+Eu acho que o mês,
+eu tenho para comparar cada ano
+se há uma sazonalidade,
+e o ano para ver a evolução
+no do tempo, né?
+É, exatamente,
+este,
+a ideia é essa,
+tipo,
+a gente consegue criar mais
+uma variável,
+eu não preciso ter
+a data,
+por que, por exemplo,
+quando eu quiser agrupar ali,
+eu quero agrupar,
+pegar a renda média
+das pessoas que entraram
+a cada mês.
+E aí,
+eu consigo conversar
+na poussera que
+em desembrou o dia de 2022,
+o pessoal que entrou,
+é,
+tinha uma renda de mais alto.
+O que a gente fez?
+Será que foi uma campanha
+que a gente fez relacionada
+num e at club,
+que trouxe clientes
+que tem uma renda maior?
+Então,
+mas é implica que eu poderia trazer.
+E com isso,
+a gente consegue criar um
+variável,
+principalmente,
+a ideia de medicar a unidade,
+e com relação a
+também com
+outros eventos,
+aí,
+subjetivos,
+de acordo com
+com os gentilidades que você
+está analisando.
+Uma coisa muito legal,
+é pegar, por exemplo,
+aqui a média,
+eu vou ter aqui a média,
+criar a média,
+de,
+vamos supor aqui,
+do cadácio de desclintes.
+Então,
+aqui,
+o que eu ganho criando
+a média,
+do cadácio de desclintes?
+Vamos supor
+aqui no casamento,
+já está pegando a média geral,
+mas vamos supor que eu
+teria a média
+de desembre de 2022.
+Então,
+pegar a média
+do primeiro que do mês do
+cliente.
+Eu consigo ver,
+por exemplo,
+se esse cliente aqui,
+se o cliente zero,
+ele é um cara
+que está sim ou abaixo
+da média do mês dele.
+E aí,
+entendeu,
+eu vou aportamento.
+As vezes dentro do pessoal
+do e-atplub,
+que eu fiz a campanha,
+tem um cara que está
+muito alto.
+Então,
+ou o cara,
+por exemplo,
+que está muito baixo,
+dentro do campanha,
+do e-atplub.
+Então, esse é um cara,
+quando eu vou dar
+tanto foco.
+Então,
+a gente consegue,
+também,
+quando criando uma comunidade
+gerada do isso de infelomção.
+A gente consegue
+conrelacionar.
+Vamos supor aqui,
+que isso aqui,
+todos os clientes
+sejam relacionados
+a um tipo de campanha.
+Então, a média dessa campanha
+foi 65.700 de 18.
+Se a gente fizer uma outra campanha
+que é média seja 90 mil.
+Então, a gente consegue entender,
+por exemplo,
+a gente queria uma nova
+dimensão no nosso análise,
+de como que, por exemplo,
+o nosso cliente
+tem a renda dele
+que está relacionado
+com a renda mensal.
+O renda daquela campanha,
+igual a gente falou,
+para que ela
+se determina a situação.
+Agora,
+ou,
+outro exemplo aqui,
+em NLP,
+em NLP,
+já já entrando um pouquinho,
+é neto,
+ou lém,
+hoje,
+processina.
+Então, a processamento
+natural de linguagem
+é um área também
+do conhecimento gigante
+para quem trabalha com dados.
+E,
+e,
+basicamente,
+trabalhar com
+conjunto de dados
+em fomos de texto.
+Então,
+um processo do NLP,
+muito legal,
+é o POS,
+que é o Part of Speed Tegnes,
+postegnes,
+e o que é o postegnes
+em NLP.
+Então,
+aqui já vem mais amosados,
+mas é um processo
+que a gente faz
+para tentar
+prever,
+é um processo de classificação
+que a gente tem para prever.
+O que é,
+bem,
+o que é cada coisa
+dentro da uma estrutura de uma frase.
+Então, o que é um adjetivo,
+o que é um verbo,
+o que é um pronome,
+o que é um número
+o que é um sujeito,
+então,
+essa ideia do POSTAGnes,
+ele nem fica dentro de uma frase,
+o que é cada coisa.
+E o que a gente pega?
+Você a gente pensar?
+Vamos pensar assim um comentário
+que vocês fizeram de algum produto
+da Amazon,
+mercado livre.
+O que é aquilo?
+Nada mais é,
+do que é um conjunto de dados,
+preves.
+Então, eles vão pegar aquilo
+como forma de texto,
+e eles vão fazer o que?
+Não fazer um processo de
+filtro indivíria e ali,
+para criar várias variáveis,
+então aqui, por exemplo, o POSTAGnes,
+é um processo de filtro indivíria.
+E vão criar várias variáveis
+para fazer as análises
+da gente depois.
+Entendeu?
+Será que eu comentário?
+O Bruno fez aqui?
+É um comentário positivo,
+negativo.
+Esse produto,
+muita gente está recomando
+do fecho de abertura dele.
+Então,
+isso aqui pode ser um ponto de atenção.
+Vou avisar para o
+cliente no anunço.
+Então, hoje,
+essa empresa já faz
+isso no nível de analisar,
+por exemplo, o texto de comentários,
+e que conseguir fazer
+a processo de filtro indivíria
+para esquecer toda essa parte
+desse conjunto de dados.
+E o mais legal também,
+é que isso vai muito além.
+Então, você não se foupem
+está tudo,
+hoje, isso não convirtir dados.
+Esse algoritmo de exemplo,
+duas exemplos do Espacial.
+Cara, eu não lembro.
+Esse aqui foi só um exemplo que eu
+não peguei mesmo,
+mas provavelmente,
+os Espacial,
+porque não espês,
+o Espacial é um biotech
+de NLP.
+Então, lá para frente,
+vamos ver o Espacial.
+Mas a gente consegue
+carregar, por exemplo,
+alinguei.
+Então, a gente consegue
+carregar o português,
+Brasil, no Espacial.
+E fazer esse processo de postagens
+no para um
+computador que use
+português.
+Então, por exemplo,
+tudo que a gente
+comentaria em social,
+o intuito.
+Essa é a saída
+o VNLP.
+Já foi gratuita
+essa peí, bons tempos,
+eu aproveitei
+porque foi gratuita,
+mas
+ela não é gratuita no gandês
+do foi, não é lomas que já,
+quando ela lomas pegou
+desbotaram,
+começaram a metabolizar,
+mas do IITAN,
+então eles começaram a
+cobrar pela peí,
+eu nunca mais, nunca mais na
+VGLAT.
+É, mas, por exemplo,
+a gente conseguir
+extrair com o gente
+estudar,
+sobre o intuito,
+sobre ele
+recheteguei,
+se de determinada marca.
+Então, na época,
+fiz um projeto de indisto,
+para avaliar,
+sobre ele,
+são de 2022,
+fiz um projeto
+para um político
+para analisar,
+sobre
+a
+o intuito, sobre ele,
+como frio,
+zinho, confiso na época.
+E a gente todo dia,
+tinha um relatório,
+automatizado,
+que gerava o,
+mas,
+finalmente, um relatório
+do das redes sociais,
+do impacto das redes sociais.
+Tinha alguns problemas,
+também,
+tinha um muito perfil
+esse veio,
+que a oposição
+também fazia perfil feio,
+e que, então,
+temos alguns problemas,
+mas,
+era uma ferramenta
+muito muito legal.
+E, no fim,
+toda testa, né?
+Ainda é muita coisa,
+é testa.
+Agora, passando
+para estrutura
+de agrupamentos,
+é,
+primeiro esse projeto de agrupamento,
+da actually legal de
+transeste,
+que vem de muito,
+muito tempo.
+Se é,
+são uns estabaginando,
+que é a questão.
+Então, acho que é
+essa primeira pessoa
+que já mexeu,
+naquela,
+e queria uma tabela de
+ramquessável,
+que fome o Tio,
+é.
+Então, essa é uma ferramenta
+muito,
+muito,
+muito de agrupamento,
+até hoje,
+assim,
+para ela resolver
+a grande maioria dos problemas,
+pensando
+em testes potas,
+em arregunha,
+gosto,
+a gente consegue
+estar em muito forna,
+são com ela,
+porque ela é muito
+versátil.
+A gente consegue botar
+o coquete
+e pro de coluna,
+aqui nas linhas,
+qualquer tipo de
+dado,
+nas colunas,
+a gente consegue filtrar
+os valores,
+a gente consegue escolher,
+o que a gente vai botar no valor,
+a gente consegue botar
+a ser uma soma,
+ser uma contagia,
+a média,
+uma simulminima,
+então a gente consegue fazer,
+ela é um ferramenta
+muito emversato
+para a gente pegar
+essas informações
+sobre os condensão de
+os estudos que a gente
+está trabalhando.
+E,
+claro,
+o que o pai tem um paralelo,
+é pessoal.
+Ele é a cross-tab.
+No cross-tab,
+a gente consegue fazer
+exatamente o que a gente consegue
+fazer no atavella de nome
+que no pai.
+Então, a gente consegue
+chamar ela no pãs,
+no PDP,
+cross-tab,
+e ela é muito legal
+para a gente fazer
+são primeira análise
+do nosso convididade.
+Então, o que seria
+a linha?
+A gente volta aqui no começo
+no íncina,
+é o parametro íncina.
+O que seria a coluna
+na tabla dinâmica?
+A gente volta aqui depois,
+é o segundo parametro.
+O valor
+que a justamente
+que seria o valor da tabla dinâmica,
+a gente volta aqui,
+velhos.
+E,
+por fim,
+a gente pode passar
+com a função de agregação,
+a gente quer.
+Então, a gente passa
+aqui no funcionário,
+certo?
+Com os principais
+parametro que a gente quer,
+no nosso caso,
+a gente vai querer a média,
+é a minha,
+a média,
+e o máximo.
+Para cada um,
+desses conjuntidades,
+então,
+vai quererbrar por sexo,
+por cor,
+por cor aqui,
+no estuxtista,
+nas linhas,
+por sexo, no estuíptico,
+perfeito.
+E os valores são a renda.
+Então, a gente consegue
+ver aqui no caso a renda,
+máxima,
+a média,
+e a meijana,
+por mulheres,
+feminino,
+e por homens,
+no masculino.
+Então,
+aqui no caso de visão.
+Perfeito?
+Então,
+aqui a gente consegue ver que
+uma,
+a média,
+a renda média,
+do homenim branco,
+máximo a esse aqui,
+200 mil,
+a média é 2,925,
+é mais alta,
+enquanto do mamulher preta,
+aqui é 1,34,
+não.
+Então,
+tudo o que a gente
+vê no cotinho de ano está aqui.
+É,
+e com o costéber,
+a gente consegue analisar
+muita,
+muito tranquilamente.
+Então, aqui, por exemplo,
+a renda média dos,
+a maelos que é pessoal,
+àse por,
+então,
+aí, no sensíveis,
+o sistema amarelo,
+enfim,
+se não usado de scuba,
+mas,
+aqui,
+4,748,
+uma renda muito mais alta,
+do que eu resdapoculação.
+Então,
+a meijerao é isso,
+a meijana,
+também.
+E aqui,
+o que a gente faz
+como o costéber é conseguir gerar
+tudo isso de formação,
+uma forma muito simples,
+então,
+quem é acostumado com a Excel,
+e quem é manter uma estrutura,
+e te consegue fazer isso
+muito simplesmente,
+aqui a gente só deu um rename,
+para botar o índice como o corpo,
+e as colunas como sexa,
+então,
+só garantir que bonitinha aqui,
+por sexo.
+E no final,
+a gente imprimiu.
+Então,
+o costéber é uma ferramenta
+muito versátil,
+ela lembra muito a estabelegina,
+em queus,
+do Excel,
+mas,
+no pai,
+também,
+a gente acaba usando
+muito mais agrotamente,
+né,
+porque eles são mais
+girecionados.
+Então,
+aqui,
+a gente passa,
+um,
+vai,
+um,
+quando a speed de agropear,
+dentro do pai,
+não usar
+um atupo,
+muito cuidado.
+Então, se for mais de uma lima,
+mais de uma coluna pra agrupar,
+usem uma lista,
+uma,
+desculpa chave das listas,
+e dentro,
+vocês não passaram os parâmetros,
+correto.
+Mas se for só uma,
+o correto é usado,
+igual a gente fez aqui.
+Só,
+vocês ainda precisam passar o pai,
+porque o pai é o parâmetro padrão,
+e só passar uma extra em gladenta,
+então,
+o jeito que eu recomendo mais,
+faça,
+é, com menos coge,
+então,
+é só dar um grupo pai,
+não nem precisa escrever o pai,
+é o que eu recomendo,
+você quer mais explicar
+como é que fica sentados,
+então quando o fogo não para o problema coisa,
+só o bota ela,
+e não lembrando,
+sempre que o mais de uma coisa,
+quer algo para o mais de uma coluna,
+o bota,
+é,
+o,
+em forma de lista,
+correto,
+igual a gente viu,
+essa estrutura do pai,
+e quando a gente vai fazer mais de uma coisa.
+E depois que você agrupar,
+você tem que ver
+o que você vai querer extrair,
+de agregador,
+naquele agrupamento.
+Perfecto.
+Nossa, caso aqui,
+a gente agrupou o prônimo álfo,
+e a gente quer pegar a média.
+Então aqui,
+a gente tem os animais,
+e o que ele faz?
+Quando a gente bota aqui,
+nesse caso, a gente não se alessando,
+nem uma coluna,
+depois da agrupamento.
+Então o que ele vai trazer?
+As duas colunas.
+A gente poderia,
+e se alessando ao modelas,
+como que a gente faz isso,
+a gente bota,
+depois do animal,
+a gente vai pegar,
+e gotar,
+o Nick,
+ponto,
+aí de,
+e o que ele vai fazer?
+Ele vai selecionar a sua ela,
+e depois,
+eu vou botar o ponto 1.
+Aí eu conseguir esse alessão
+nação,
+vou das duas colunas.
+Então,
+a gente às vezes usa isso,
+quando a gente quer fazer
+agrupamento,
+e pegar,
+fazer essa uma contagem rápida.
+Então,
+a gente pode botar o I.
+Perfecto.
+Então, no nosso caso aqui,
+o Nick,
+ele traz a contagem,
+propriamente,
+isso aqui,
+a média,
+no caso,
+dá pra pedir a média,
+e a modelia,
+outro coluna,
+dá.
+Então,
+você pode passar também,
+é,
+no funcionário.
+E,
+é,
+pode passar no funcionário.
+Então,
+quando você quiser pegar,
+que nem o jolo tá se perguntando,
+dá pra pedir a média,
+de uma coluna em a moda da outra.
+A moda,
+se eu não me engano,
+os jolo,
+no caso,
+ela não é uma das funções
+padrão do,
+do pândor,
+então, tem construído a forma diferente,
+mas,
+por exemplo,
+a,
+carpegar a média a média,
+então,
+você teria construído,
+prevamente,
+mas aqui no caso,
+a gente que apegar a média a média,
+a gente pode
+fazer isso,
+deixa eu ver se consigo escrever aqui,
+a gente pode botar o ponto,
+a g, a g,
+né,
+efeito,
+e aqui a gente consegue botar,
+a eu quero pegar prão,
+a g,
+como é a liga,
+prão,
+a g,
+vai pegar,
+provavelmente,
+não acontece,
+não certo?
+Eu pegar um caunti,
+eu vou passar assim,
+noito para o water,
+a enige,
+que é, no caso,
+necessidade de água,
+né, por animal,
+então,
+no caso aqui,
+ele está pegando a média do idê,
+se a gente foi pensar,
+a média do ideal que não faz sentido,
+né, novamente,
+tipo pegar a média de um
+um CPF,
+não faz sentido nenhum,
+é uma chave,
+então,
+como unicadif faz sentido a
+enxusar o caunti,
+com o maternídio,
+que é esse é uma variável
+no mérica,
+que é necessidade de água,
+provavelmente,
+necessidade de água do animal,
+e faz sentido,
+né,
+se a gente foi ver aqui,
+a necessidade de água do
+ele foi,
+tinha muito maior do que,
+de uma zebra,
+a gente,
+não vai ter que pegar,
+ou não conseguir estar
+onde estiver,
+deixa ver,
+ah,
+não,
+não conseguir estar,
+tá bom,
+pode ser a junta,
+então, a gente teria que fazer,
+imager de aí,
+e aí,
+passar o unicadif,
+e colocar onde,
+e pro o atenígico,
+a gente já queria pegar,
+por exemplo, a média,
+e aí,
+eu posso pegar a média,
+mas se quiser pegar,
+além do pro atenígico,
+a média,
+e a média,
+é só jogar uma lista aqui dentro,
+porque eu peguei a
+média,
+e,
+aí,
+aqui eu posso fechar,
+então,
+aqui dentro do,
+quando eu uso o AGG,
+ao invés do que,
+a necessidade de ir a
+é tudo a função,
+a grega dura do pai,
+então,
+aqui eu tocessão,
+não,
+aqui eu posso usar o AGG,
+e dentro do AGG,
+então,
+é,
+fazer,
+já conto com que eu quero
+para cada condo,
+as novas dedicionarem a função,
+tem muito com que eu poder usar a função,
+que eu construir,
+como a da Moga, que se torna,
+sim,
+então,
+eu não sei se entendi a pergunta,
+mesmo,
+mas,
+seria usar o AGGGG,
+você consegue usar o AGGG,
+não o AGG,
+não falou do dicionário,
+o Aplai,
+então, ao invés de usar,
+o A função,
+nativa do,
+aqui que a gente botou a
+a média,
+a média,
+a média,
+você pode usar um agregador,
+com a função que você
+construiu,
+também,
+usando o AGG,
+perfeito?
+É, é,
+por isso que eu botei as duas,
+agora eu estou lembrando,
+porque a gente pode fazer disso,
+então,
+a gente pode fazer
+dessa forma do píreo,
+chamando o mindiretamente,
+que é o nativo na do píreo,
+ou a gente pode fazer um AGG,
+que, igual a gente fez aqui,
+e construí,
+dentro da AGG,
+então, o que eu posso fazer,
+igual a gente é uma transformada,
+e a gente tem falada,
+é o pós,
+supondo que a gente construiu
+a função para a modo,
+eu posso fazer,
+com o AGG,
+modo,
+simples assim,
+desde que eu tenho uma função
+definida para pegar a modo,
+perfeito?
+Então,
+agora vamos passar,
+para a próxima parte,
+que é entender diferença
+do merge de pro-concate
+para o Appende Pro-Joy.
+Então, são muitas possibilidades,
+vão tentar entender um ao longo,
+vamos ver uns exemplos.
+O Concate,
+é muito flexível para o Mi,
+então, com o Cate,
+é a palavra chave,
+porque a gente tem que pensar no Concate,
+é o Nião,
+e o Concate,
+é muito pra o Nião,
+tanto para o Ojo X,
+para a direita quanto
+para o Ojo X,
+não quanto para a abaixo,
+não dá pra frente.
+Então, que a gente tem que pensar
+em um Nião,
+linhas ou colunas
+de dois da tafreia
+em diferentes.
+O Appende,
+ele é um tipo
+específico de Concate.
+Quando a gente usa
+a acesero,
+que é
+para botar,
+para baixo,
+e não então,
+os que são jogados
+linhas para baixo,
+e o alto.
+Então, a gente tem dois tipos de concate,
+tem um comcalte,
+e, né,
+que ele verifica,
+é se tem uma coluna
+do aplicada entre os dois da tafreia,
+e se existe,
+ele não traz ela,
+e o alto,
+que ele traz as colunas,
+todos os colunas, dos dois da tafreia.
+Então, o Appende,
+é isso, né?
+Ele é um caso específico de Concate,
+um ex-acesero,
+que é para a linha,
+e com de oianhauta,
+então, ele vai estar a Z tudo,
+então,
+podem haver linhas do aplicado,
+as conenxia, um Appende,
+e então,
+ele está sendo depressiado.
+Não está sendo mais utilizado,
+na...
+enfim,
+a ideia é que ele vai sair
+das próximas bibliotecas do Pandas,
+então,
+o Pandas faz assim quando ele
+se quer entrar um método,
+eles olvezando para você,
+por várias reissões,
+ele vai avisando,
+está sendo depreciado a Pente,
+está sendo deprecado a Pente,
+está sendo deprecado a Pente,
+e daqui ali,
+a senhora,
+cinco,
+seis reissões,
+eles vão tirar.
+Então,
+se você,
+isso,
+dá muito problema,
+que é a taba que,
+eu já peguei,
+isso,
+um coge construído
+com um meia de do que foi tirado,
+então,
+o que aconteceu,
+quando o pessoal atualiza o versão do Python,
+o que eu já paro de ser na
+como é tudo,
+não existe mais.
+Então, ainda o problema,
+até entender,
+é a tiveram que fazer a justi,
+então,
+esse é um bom exemplo aqui,
+acho que o Appende nem vale,
+focar,
+justamente porque o concate,
+a gente consegue fazer exatamente
+a mesma coisa.
+Usando os parâmetros,
+Axis de Gossero e Gaut,
+o Giong,
+então,
+não confuja com parâmetro Giong,
+como o método Giong,
+certo?
+O método Giong,
+ele é para fazer um cruzamento,
+baseado no synthesis.
+Então,
+lembre-se dos índices do nosso
+data frames,
+porque o Giong é ele,
+então, a gente consegue definir o
+índice por exemplo usando
+o set index do PANDAS,
+e ele pode ser feito de
+acordo com as variadas.
+Então, a gente pode pensar,
+num left join,
+num right join,
+num inedio,
+e num altas join.
+Então, a gente já vai ver
+que, no detalhe,
+é o caso de cada um.
+E o que eu acredito,
+vocês mais vão utilizar,
+os iluminos projetos
+é o merge,
+o merge diferente do Giong,
+ele pode ser feito
+para fazer o cruzamento
+por qualquer poluna.
+Então, a gente depende do índice,
+o Giong,
+sempre associado ao índice,
+e o merge,
+é a gente depende de qualquer poluna,
+específica de um dos
+dois data frames.
+Então, a gente consegue usar
+3 parametros no mês.
+Se o nome da coluna foi igual,
+na esquerda,
+inedireita,
+a gente pode usar só algum.
+Então, por exemplo,
+eu tenho um adi na esquerda,
+uma coluna chamada,
+a esquerda,
+e uma coluna chamada a idina de lei.
+Eu quero cruzar
+para quem mexeu Giong,
+que você vai eu para o que ver,
+e famoso para o que ver.
+Eu quero usar essas duas colunas
+para fazer essa busca.
+Quando o nome da esses colunas
+é igual,
+eu posso usar um.
+Quando o nome dessas colunas
+é diferente,
+então, o nome surform
+a multiplação aqui.
+Então, vamos surpor
+num...
+se no nosso data frame da esquerda,
+é a id compra.
+E no nosso data frame da direita,
+é só id.
+Então, eu tenho que botar
+lefte-on igual,
+id compra
+e righte-on igual,
+id.
+Então, eu tenho que atribuir
+para cada um,
+se eles não forem iguais,
+dizendo qual é qual?
+Para fazer esse cruzamento.
+Então, o merge acaba sendo mais utilizado
+do que eu diões,
+o que muitas vezes
+a coluna que a gente quer usar
+para fazer o cruzamento
+não está no índice.
+Mas,
+eventualmente,
+a gente vai acabar utilizando de ointamei.
+Então, aqui,
+por exemplo, o merge exatamente
+que a gente falou,
+a gente tem um data frame
+aqui da esquerda
+e um da direita.
+Quando a gente cruz os dois,
+aqui, no caso, a gente está fazendo
+o índice,
+perfeito.
+O que ele faz?
+Ele pega o casero a zero-b zero,
+então, o casero,
+se a gente for perceber,
+ele é uma chave comum,
+a coluna aqui, perfeito.
+Ela é comum para os dois data frames.
+Então, ela que a gente vai
+usar, a gente vai usar o que
+só um um o que,
+então, a gente vai pegar o left
+os data que compre o primeiro paramento
+no merge,
+o right
+usar como segundo paramento,
+porque ele é o nosso segundo data frame.
+O o vai ser no que,
+o rau vai ser o índice.
+Então, a gente vai trazer tudo isso,
+que está dentro dos dois
+e não vamos repetir a coluna
+que é como um prozo dois,
+que é aqui, perfeito.
+Então, a gente vai pegar a oazero
+bezero,
+e bem do left,
+vai ser que a parte que era do left,
+e é esse aqui,
+é a parte que era do
+right.
+E aqui, um bom esqueminho,
+sempre que vocês tiverem na dúvida,
+é veja um esse aqui,
+para entender o que é o índice,
+o que é um alta,
+o que é um right,
+o que vai um left.
+O left quando a gente faz,
+ele pega tudo
+que tem no da esquerda,
+e mais o que tem nos dois,
+o right,
+ele pega tudo
+que tem no da direita,
+inclusive,
+os que não tem no cruzamento,
+tá?
+É isso que a gente está falando.
+Então,
+é o que vai fazer
+aqui
+no cruzamento do right,
+por exemplo,
+com os que não tem left,
+ele vai botar no mundo,
+nas colomas,
+que ele traz do
+do right, ele bota no...
+a gente vai ver isso aqui,
+já já os exemplos.
+Então, aqui,
+o right,
+de trás pulgo no da direita,
+e o que foi como um
+pros dois,
+o iné,
+ele traz,
+só o que é como um pros dois,
+e o for o alta adion,
+ele traz exatamente tudo.
+Então,
+aqui,
+um exemplo,
+agora do concate,
+é igual a gente falou
+com o card de serve para a gente jogar.
+Então,
+seja no oixo x,
+ou no oixo y,
+ou seja,
+para baixo,
+ou para a direita,
+de um data frame.
+Então, aqui no concate,
+a gente tem uns
+nós três data frames,
+set,
+da f1,
+da f2,
+e da f3,
+que aqui no nosso caso,
+lembre-se sempre que a gente passar
+algo que é mais de um
+e a gente vai passar na forma de malista.
+Então, a gente passaria.
+É difícil.
+Então, a gente poderia passar,
+per ver com o concate,
+e aqui,
+uma lista, perfeito,
+da f1,
+da f2,
+da f3.
+Eu passo a x,
+igual a zero,
+porque
+é um omancara tristico do pai,
+então sempre que eu falar de axyz,
+igual a zero, axyz,
+a tradução,
+então aqui,
+eu falar de eixo zero,
+são as linhas,
+eu falar de eixo zero,
+só as polunas.
+Então, aqui, como a gente quer soar
+nas linhas,
+é,
+a gente vai usar o eixo
+axyz, igual a zero,
+e o join igual a altem,
+porque eu falo altem,
+para se eu ver a linha ser pitidas,
+elas repetindo,
+porque eu quero adicionar
+tudo
+de todos data frames, perfeito?
+Então, a isso é o nosso estade,
+que você vai empingar
+uma partizinha do 1,
+que vai até linha 3,
+outra partizinha do 2,
+que vai da linha 4,
+até linha 7,
+outra partizinha do 3,
+vai aqui da linha 8,
+até a linha 1.
+Então,
+mundo real,
+muitas vezes,
+vamos fazer esse join,
+e o índice não vai
+tabulitinha aqui,
+perfeito?
+Vai ser raro,
+a gente fazão um join,
+e está,
+por exemplo,
+aqui o join
+do primeiro data frame,
+vai estar até o 3,
+o outro,
+vai começar a partir do 4.
+Mundo real,
+muitas vezes,
+não vai acontecer.
+Então,
+as vezes,
+a gente vai ter que fazer esse join,
+o índice vai ficar
+errado,
+e o que a gente pode fazer
+nessa equência aqui,
+para acertar,
+a gente bota um ponto 7,
+Reset,
+Perna,
+Index.
+E geralmente,
+o paramento do golpe 4.
+O que isso faz?
+Isso reseto,
+o índice,
+então, ele vai começar a bonitinho,
+e se a gente não bota o
+golpe 4,
+ele vai pegar um índice entinho
+e jogar
+para,
+para a primeira
+coluna, certo?
+Então,
+a gente geralmente
+dá o golpe 4,
+para pegar esse entice
+e o índice que está errado,
+e revolvei ele.
+Por fim, o join,
+o Guajem falou,
+é a mesma lógica do
+merge,
+mais a diferença do join,
+é que a gente usa
+diferente de qualquer
+do merge que a gente usa com a coluna,
+no join a gente usa o índice perfeito,
+então,
+aqui,
+nesses dois,
+a gente tem a coluna 4,
+que está somente no data 6,
+dá pra frente da direita,
+perfeito,
+e então,
+o que a gente está fazendo?
+A gente está pegando,
+a gente está fazendo o left,
+então,
+a gente chama
+direto,
+a gente não usa
+o PD pra chamar,
+e chama direto do primeiro,
+da tafreia,
+e chama o left,
+o método join,
+chamando o right,
+então a gente começa pelo left,
+chamo right,
+e a gente vai fazer um índice,
+então, a gente quer trazer tudo
+que tem os dois,
+e vai provinul,
+então,
+nós justamente para as colunas,
+que,
+no caso,
+aqui é um alto,
+a gente tem feito,
+porque ele vai trazer
+tudo dos dois,
+e vai trazer um
+o,
+então,
+aqui,
+acho que está errado,
+pessoal,
+tinha feito errado,
+aqui é um alto,
+aqui é um alto,
+aqui é o que,
+nosso está vivo,
+acho que pegar outra
+fênate,
+no caso aqui,
+não é índice,
+ele é um alto,
+porque,
+ele vai pegar justamente
+tudo,
+das,
+duas,
+nos gás dos nossos dois
+da tafreia,
+e com condo,
+tanto dos as linhas dos dois,
+e,
+para as que não tem no,
+no right,
+então,
+aqui no caso,
+no right,
+a gente não tem o achave calo,
+como é isso aqui,
+na chave casero,
+no caso,
+é o cado,
+esse cado,
+então aqui no resultado,
+no caso,
+não só vou trazer
+os dados do calo daqui,
+e o mesmo acontece para o cado,
+porém,
+por 3,
+perna,
+porém,
+isso é para o right,
+então,
+por 3 aqui,
+eu não tenho cado,
+eu tenho,
+aqui,
+no cado,
+então,
+vou levar aqui as
+chaves nulos,
+os valores nulos,
+pedão para o abe que vem do left,
+e por right,
+aí sim,
+vou preencher.
+E pessoal,
+por hoje é só,
+então,
+conseguimos passar bem sobre o que a gente
+prometeu para aula,
+espero que que tenham gostado um pouquinho
+da página de audios,
+é muito interessante,
+acho que dá uma orang de moçinha,
+a gente começa,
+agora,
+e nos projetos,
+envolvam cada vez mais,
+então,
+vamos conversar com relação
+na muito com o condo,
+sabido,
+com as nossas experiências,
+e,
+é,
+continuando nessa pegada,
+agora,
+os 23,
+a gente vai avançar bem
+na parte de pai,
+então,
+vocês vão ver,
+e,
+em termos de dificuldade
+em guaz,
+não fica mais difícil,
+daqui para a frente,
+a gente vai falar muito,
+mas sobre o mundo de dados,
+e cada vez menos sobre Python,
+acho que é esse é o objetivo,
+então,
+é legal também,
+dizer que eu estou disponível
+com o KW sobre Python,
+ainda sobre os projetos antigos,
+só me procurar,
+é,
+descorde,
+macaram,
+e,
+acho que é esse pessoal,
+continuem em 23,
+qualquer dúvida do teu disponível,
+e, em conto vocês,
+na semana que vem,
+me já adiantando,
+bom fronho de semana para todos,
+e aqui a gente tem uma valiação,
+que ele puder responder,
+e depois da chamada,
+quando a gente se rara,
+vai aparecer aí,
+bom fronho de semana,
+pessoal,
+valeu,
+eu te achava,
+valeu,
+não é gomente,
+bom fronho de semana,
+obrigado,
+valeu,

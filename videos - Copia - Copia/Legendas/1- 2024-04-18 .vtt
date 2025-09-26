@@ -1,0 +1,3218 @@
+WEBVTT
+
+00:00.000 --> 00:04.000
+Gravando, certinho. Bom pessoal.
+
+00:04.000 --> 00:06.000
+Muito prazer estar com vocês hoje.
+
+00:06.000 --> 00:09.000
+E sejam todos muito bem-vindo, seu sou ouga.
+
+00:09.000 --> 00:13.000
+Eu seria a mentora de dormirmos de vocês, de análise e ciência de dados.
+
+00:13.000 --> 00:15.000
+Estamos começando hoje.
+
+00:15.000 --> 00:18.000
+E nessa reunião que vai durar mais ou menos uma orinha,
+
+00:18.000 --> 00:20.000
+é vou explicar tudo sobre nosso curso,
+
+00:20.000 --> 00:22.000
+nosso bootcamp, como funciona.
+
+00:22.000 --> 00:25.000
+Respondéssito, desde vocês.
+
+00:25.000 --> 00:28.000
+Tá bom? Então, vou hora começar.
+
+00:28.000 --> 00:33.000
+Não se introdução aqui, quem quiser por favor manter a câmera ligada.
+
+00:33.000 --> 00:36.000
+E me cronvone, desligado também, né?
+
+00:36.000 --> 00:38.000
+Pra ele estar assim, barulhos externos.
+
+00:38.000 --> 00:41.000
+Mas se você quiser comentar alguma coisa,
+
+00:41.000 --> 00:44.000
+por favor, fique a vontade da pra levantar o meu mandaço,
+
+00:44.000 --> 00:46.000
+ou do vio no chat.
+
+00:46.000 --> 00:52.000
+A gente vai ter também no final um tempo em ir pra tirar essas dúvidas de vocês,
+
+00:52.000 --> 00:56.000
+mas também dá pra conversar ao longo dessa nossa reunião.
+
+00:56.000 --> 00:57.000
+Tá bom?
+
+00:57.000 --> 01:03.000
+Amanhã, essa reunião será já disponível para quem quiser assistir novamente.
+
+01:03.000 --> 01:07.000
+Eu vou compartilhar com vocês o link no Discord, né?
+
+01:07.000 --> 01:13.000
+Quem não entrou no Discord, vou também explicar hoje como finalizar esse processo.
+
+01:13.000 --> 01:17.000
+Tá bom? Vamos conversar sobre o plataforma, tudo mais.
+
+01:17.000 --> 01:20.000
+Então, eu desejo uma boa reunião pra todos nós.
+
+01:20.000 --> 01:23.000
+Vamos para nossa agenda.
+
+01:23.000 --> 01:26.000
+Vou apresentar para vocês, não sei que ping,
+
+01:26.000 --> 01:30.000
+o pessoal que vai cuidar de vocês ao longo desses meses.
+
+01:30.000 --> 01:34.000
+É nosso processo educacional, medo dos de aprendizagem,
+
+01:34.000 --> 01:37.000
+curso de preparação de carreira.
+
+01:37.000 --> 01:42.000
+E claro, dicas de sucesso e nossos próximos passos, a partir de hoje.
+
+01:42.000 --> 01:45.000
+Com a opção, não sei que peda tripodém.
+
+01:45.000 --> 01:48.000
+Temos o Manolo.
+
+01:48.000 --> 01:52.000
+Ele é o nosso gerente de experiência de aluno.
+
+01:52.000 --> 01:54.000
+Eu sou a mentor da turma de vocês.
+
+01:54.000 --> 01:58.000
+Então, eu cuido da parte de administrativa do curso.
+
+01:58.000 --> 02:02.000
+E estou aqui pra ajudar se no geral o que for necessário.
+
+02:02.000 --> 02:08.000
+Então, a gente vai também conversar bastante quase todos os dias.
+
+02:08.000 --> 02:13.000
+Temos com a gente também presente nos tutores,
+
+02:13.000 --> 02:16.000
+estrutura e gerente de sucesso de carreira.
+
+02:16.000 --> 02:21.000
+Pessoal, se quiser se apresentar alguém, a Nil, Tom Alvaro, o seu favor.
+
+02:22.000 --> 02:26.000
+Bom, boa noite.
+
+02:26.000 --> 02:28.000
+A todo mundo é muito legal.
+
+02:28.000 --> 02:30.000
+Está aqui com vocês.
+
+02:30.000 --> 02:32.000
+Mais uma toma com uma comissão.
+
+02:32.000 --> 02:35.000
+Sempre muito impolgante, né?
+
+02:35.000 --> 02:37.000
+Com essa toma turma nova.
+
+02:37.000 --> 02:41.000
+Veja que o pessoal parece que está animado.
+
+02:41.000 --> 02:45.000
+Então, a pessoa já ligando a câmera, então, legal demais.
+
+02:45.000 --> 02:49.000
+Vocês vão ainda ver qual vai ser o meu papel, né?
+
+02:49.000 --> 02:51.000
+Na durante o curso de vocês.
+
+02:51.000 --> 02:53.000
+Mas a gente já possa te entrar aqui.
+
+02:53.000 --> 02:57.000
+A gente vai estar juntos aí muito durante o curso.
+
+02:57.000 --> 02:59.000
+Então, vamos nos ver aí bastante.
+
+02:59.000 --> 03:01.000
+Acho que vocês vão canção um pouquinho da minha voz.
+
+03:01.000 --> 03:07.000
+Mas, que isso é dizer pra vocês que, bom, primeiro bem-vindos aí,
+
+03:07.000 --> 03:08.000
+eu atribotendo.
+
+03:08.000 --> 03:10.000
+Conta em comigo, dá.
+
+03:10.000 --> 03:13.000
+E eu papel na verdade, ajudava vocês.
+
+03:13.000 --> 03:17.000
+Então, se vocês fecharem o curso, para mim é um sucesso.
+
+03:17.000 --> 03:19.000
+Você entra em área.
+
+03:19.000 --> 03:20.000
+É um sucesso maior ainda.
+
+03:20.000 --> 03:22.000
+Esse é meu principal objetivo.
+
+03:22.000 --> 03:26.000
+Então, ao longo do curso aí, meu objetivo é integrar o conteúdo que vocês estão
+
+03:26.000 --> 03:28.000
+ouvindo com o mercado.
+
+03:28.000 --> 03:33.000
+Então, vou tentar passar ao máximo que ter acontecido na industria dos últimos tempos.
+
+03:33.000 --> 03:35.000
+Sim, clicar os conselhos, né?
+
+03:35.000 --> 03:38.000
+Ententar ajudar em vocês da melhor forma possível.
+
+03:38.000 --> 03:41.000
+Então, quanto em comigo, eu tô aqui desde para ajudar
+
+03:41.000 --> 03:46.000
+pessoas a fazer o TCCFaculdade até passar no próprio curso.
+
+03:46.000 --> 03:49.000
+Então, não tem um vergonha de manifestar, né?
+
+03:49.000 --> 03:53.000
+De tirar dúvida e de me chamar aí pra qualquer coisa.
+
+03:53.000 --> 03:54.000
+Beleza?
+
+03:54.000 --> 03:55.000
+Bom, prazer aí com esse é vocês.
+
+03:55.000 --> 03:57.000
+Eu tô disponível no Discord.
+
+03:57.000 --> 04:00.000
+Novamente, vocês vão já ter acesso aos canais e tudo mais.
+
+04:00.000 --> 04:02.000
+A gente vai se interagir por lá.
+
+04:02.000 --> 04:05.000
+Então, quem quiser mandar um alôlan dos códigos,
+
+04:05.000 --> 04:09.000
+já tá com alguma dúvida, que é tirar alguma dúvida comigo.
+
+04:09.000 --> 04:11.000
+Já fiquem a vontade, beleza?
+
+04:11.000 --> 04:14.000
+Então, isso gente, prazer zam aí com esse é vocês.
+
+04:15.000 --> 04:19.000
+E eu sou o Alvaro, prazer normalizar com vocês nesse começo de curso.
+
+04:19.000 --> 04:22.000
+Já foi um aluno de bootcamp também.
+
+04:22.000 --> 04:26.000
+Então, não tô talvez no mesmo lugar aqui, vocês, mas já passei por um post-bootcamp.
+
+04:26.000 --> 04:29.000
+Me senti, senti esse frio na barreira de tá começando.
+
+04:29.000 --> 04:32.000
+Já fiquei nervoso no meio.
+
+04:32.000 --> 04:35.000
+E até hoje, fica nervoso, quando tem que aprender alguma coisa nova.
+
+04:35.000 --> 04:38.000
+Também, mas acho esse processo muito prazeroso.
+
+04:38.000 --> 04:41.000
+Tô com vocês também pra acompanhar todo esse processo.
+
+04:42.000 --> 04:45.000
+Junto com o aluno, então a gente tem um papel é um pouquinho diferente,
+
+04:45.000 --> 04:50.000
+mas o objetivo é o mesmo, que vocês aprendam bem, aprendam um gostoso,
+
+04:50.000 --> 04:53.000
+se divir, então, quando estão fazendo com isso,
+
+04:53.000 --> 04:57.000
+e guardem essa experiência pra vocês.
+
+04:57.000 --> 04:59.000
+É muito legal passar por isso.
+
+04:59.000 --> 05:05.000
+Eu aluniu, Tom, Aluiza, Aloga e uma no utama que pra ajudar vocês a passar por isso.
+
+05:05.000 --> 05:08.000
+E a gente conta também quando é de cação de vocês.
+
+05:08.000 --> 05:11.000
+Aproveita e mesmo, interagem ao mesmo.
+
+05:11.000 --> 05:16.000
+Pode pegar a vergonha que vocês algum dia se sentiram na vida e deixar fora dessas seções,
+
+05:16.000 --> 05:19.000
+porque não vai ajudar em nada aqui.
+
+05:19.000 --> 05:22.000
+O que vai ajudar muito é muito curiosidade, muito a vontade de aprender,
+
+05:22.000 --> 05:26.000
+muito interesse, muito a vontade de fazer a ponta esse mesmo.
+
+05:26.000 --> 05:29.000
+Adoro conversar sobre as experiências que eu já tive,
+
+05:29.000 --> 05:33.000
+sobre toda essa parte de data science, minha empolga demais,
+
+05:33.000 --> 05:35.000
+e de análise de dados também.
+
+05:35.000 --> 05:37.000
+Então, se quem é vontade pra entrar em contato comigo também,
+
+05:37.000 --> 05:44.000
+a parte de agora já aproveita muito, muito, muito mesmo.
+
+05:44.000 --> 05:49.000
+E se você avontar de procurar cada um de nós pra tornar essa experiência só dar.
+
+05:49.000 --> 05:51.000
+Por falta de uma palavra melhor.
+
+05:51.000 --> 05:52.000
+Valeu.
+
+05:55.000 --> 05:59.000
+E pra crana, Aluiza, esse gostarendo de acrescentar alguma coisa da safátia,
+
+05:59.000 --> 06:03.000
+então, um bom dia vai atrás de uma noite a todos que nos assistem,
+
+06:03.000 --> 06:07.000
+hoje do Zoi do Quapha, do Sol que está em áreas.
+
+06:07.000 --> 06:12.000
+Eu tenho pra hoje, gente, estava com a mesa, a da parada, mas resalhando aqui entre a noite daqui a pouco.
+
+06:12.000 --> 06:19.000
+Nunca eu vi ao Procapelois, ao vivo, parece muito com a meio do meu cara de verdade.
+
+06:19.000 --> 06:23.000
+Agora, realmente, sim, cristra, realmente parece muito mais infito.
+
+06:23.000 --> 06:28.000
+E doito que tal conta todo o visto, o algo gostei da pessoa.
+
+06:28.000 --> 06:33.000
+Bom, soluz a cor, já sou gerenci e se acessar a sua carreira que dá que portene.
+
+06:33.000 --> 06:37.000
+Se vocês têm contato comigo desde o momento 1, bem-vindado de vocês,
+
+06:37.000 --> 06:43.000
+onde vocês podem assistir a exávida de carreira, então, faz a voz ao vivo,
+
+06:43.000 --> 06:47.000
+segundo a sextas, segundo a federal hoje de carreira,
+
+06:47.000 --> 06:49.000
+vocês podem trazer dúvidas, o que vocês quiserem,
+
+06:49.000 --> 06:52.000
+se isso é feira com que o programa é tipo de habilidades com o complementar.
+
+06:52.000 --> 06:56.000
+No meu morário, tudo que foi feito pra crastar, grava,
+
+06:56.000 --> 07:00.000
+vocês têm acesso a tudo linda de maravilhoso caso queiram,
+
+07:00.000 --> 07:05.000
+mas dos sópices que especificamente resalhando, que em algum momento de mais barra,
+
+07:05.000 --> 07:09.000
+junto com essa regravar, e aí tem um conteúdo mais bonitinho.
+
+07:09.000 --> 07:12.000
+Quando eu fico a primeira vez, eu tava faz uma propótica,
+
+07:12.000 --> 07:16.000
+que bom que deu certo, mas agora tem que ficar numa versão educacional,
+
+07:16.000 --> 07:23.000
+padrão formal, essas coisas sim, né? Mas enfim, vou fazer um resumão do que
+
+07:23.000 --> 07:27.000
+a gente tem como o produto serviço, e tudo mais, da área de carreiras,
+
+07:27.000 --> 07:33.000
+eu sei que tem que ir lá, em desíduos momentos pra vocês,
+
+07:33.000 --> 07:43.000
+os vimleres e gravarem isso, mas vou dar um overview pra vocês aqui sobre o que
+
+07:43.000 --> 07:47.000
+tem a gente produzir esses naros que havia. Bom,
+
+07:47.000 --> 07:51.000
+o primeiro produto que vocês tenham acesso ao que eu estou falando em relação aos
+
+07:51.000 --> 07:57.000
+encontros que vocês podem ter acesso, vão vou ratificar todas as pessoas
+
+07:57.000 --> 08:05.000
+em todos os níveis, de todos os cursos podem participar das alas de carreira e desalas do sópice.
+
+08:05.000 --> 08:08.000
+Desde o momento, um até de que formada, depois de um anime, e tal,
+
+08:08.000 --> 08:16.000
+também tem gente assistindo até o que a esalda do sópice, todo mundo também,
+
+08:16.000 --> 08:22.000
+pode participar qualquer momento, sem do, algo. Bom, sei, seja sempre muito bem abraçado,
+
+08:22.000 --> 08:26.000
+bem vindo, e bem vindo a tudo que a área de carreira pode oferecer. Então,
+
+08:26.000 --> 08:29.000
+esse é o primeiro produto que vocês podem ter acesso desde o momento.
+
+08:29.000 --> 08:32.000
+Quando vocês atizem, se você é 100% do curso de carreira,
+
+08:32.000 --> 08:37.000
+do discupado do curso de vocês ajudados, seja a na área de cê-ja,
+
+08:37.000 --> 08:41.000
+cê-ja, você são com os dados econvidados, e aí quando você chegar
+
+08:41.000 --> 08:44.000
+nessa tapa, já vai tal, tomate, nada para a forma,
+
+08:44.000 --> 08:48.000
+a parte supada o curso de preparação de carreira. Ele não é obrigatório.
+
+08:48.000 --> 08:54.000
+Claro, se você pensa em peixe-me, a maneira que a gente é o povo cheguere.
+
+08:54.000 --> 08:58.000
+O obrigatório, a maneira que a gente se é a nossa política,
+
+08:58.000 --> 09:03.000
+se você não considera, entre depois de seis meses, depois, todo a parte de o curso de carreira.
+
+09:03.000 --> 09:06.000
+Você tem direito ao seu dinheiro de um...
+
+09:06.000 --> 09:10.000
+de volta, fazendo o tudo bonitinho, seguindo todos os tempos,
+
+09:10.000 --> 09:13.000
+as qual a aula eu vou ser teria direito caso não consideri sempre.
+
+09:13.000 --> 09:16.000
+Todo mundo que faz o faço todo bonitinho,
+
+09:16.000 --> 09:18.000
+a grande maioria das vezes, acho que no mundo consegue,
+
+09:18.000 --> 09:20.000
+isso é o que eu nem podia, seu funcionário,
+
+09:20.000 --> 09:25.000
+e aí ele dura três semanas para vocês vão durar três semanas,
+
+09:25.000 --> 09:29.000
+está mais curto, mais estratégico, já focado a estratégia de esconílio,
+
+09:29.000 --> 09:32.000
+melhores práticas de corrítico, o linker de ingue, de rub,
+
+09:32.000 --> 09:35.000
+cartas de apresandação, tem um ano-o-o-o-o-o comigo,
+
+09:35.000 --> 09:38.000
+aí, beleza, vocês formaram o curso de vocês, dados,
+
+09:38.000 --> 09:41.000
+e acabaram o CPC, né?
+
+09:41.000 --> 09:44.000
+Os preparações, podem acabar durante,
+
+09:44.000 --> 09:47.000
+você, o curso de dados, ou talvez você não consigo,
+
+09:47.000 --> 09:49.000
+não deu para conciliar,
+
+09:49.000 --> 09:54.000
+vocês têm 15 dias depois de formar, para acabar o curso de...
+
+09:54.000 --> 09:57.000
+o curso de carreira, com entregáveis e tudo mais.
+
+09:57.000 --> 09:59.000
+Aí, se ainda vocês podem ser confidados e confidados,
+
+09:59.000 --> 10:01.000
+ao programa de aceleração de carreira,
+
+10:01.000 --> 10:05.000
+perceba a parte, o produto, talvez,
+
+10:06.000 --> 10:11.000
+do centro de carreira, no qual lá vocês terão várias,
+
+10:11.000 --> 10:13.000
+ou é, ver os vários o ano-o-o-o-o-o-o,
+
+10:13.000 --> 10:16.000
+você pode intervista,
+
+10:16.000 --> 10:20.000
+simulada técnica, entrevista, simulada de regar,
+
+10:20.000 --> 10:24.000
+são fortemente indicados, quase que obriga,
+
+10:24.000 --> 10:26.000
+aparemente, tá? A parte se parêndia raca,
+
+10:26.000 --> 10:28.000
+são maratona, é onde eu junto,
+
+10:28.000 --> 10:31.000
+pessoas de todas as áreas dos cursos,
+
+10:31.000 --> 10:34.000
+para entregar a solução de um desafio pro posto,
+
+10:35.000 --> 10:39.000
+porque eu faço isso, isso aumenta muito entregar a habilidade de você,
+
+10:39.000 --> 10:42.000
+e deixe um vocês tindo com um projeto,
+
+10:42.000 --> 10:44.000
+o mais próximo da realidade possível,
+
+10:44.000 --> 10:45.000
+vale bastante afena,
+
+10:45.000 --> 10:48.000
+também normalmente acontece na aceleração de carreira,
+
+10:48.000 --> 10:51.000
+fora todos os outros eventos possíveis,
+
+10:51.000 --> 10:53.000
+o e-e na receita do mais,
+
+10:53.000 --> 10:55.000
+e eu acompanhamento de vocês,
+
+10:55.000 --> 10:58.000
+que, em geralmente, de aplicação de vago,
+
+10:58.000 --> 11:00.000
+como tudo está acontecendo.
+
+11:01.000 --> 11:06.000
+E, em geral, esses são os produtos,
+
+11:06.000 --> 11:08.000
+esses são serviços.
+
+11:08.000 --> 11:10.000
+Eu estou sempre disponível no Discord,
+
+11:10.000 --> 11:12.000
+e se mandarem uma saçada do do mesmo falaco,
+
+11:12.000 --> 11:13.000
+todo sempre disponível,
+
+11:13.000 --> 11:15.000
+é, se as mães se pio na mensagem,
+
+11:15.000 --> 11:17.000
+ou se não se manda a feita.
+
+11:17.000 --> 11:19.000
+E, na hora da conversa,
+
+11:19.000 --> 11:21.000
+todo sempre disponível no Discord,
+
+11:21.000 --> 11:24.000
+e, sento sempre muito bem vindos e bem vindos,
+
+11:24.000 --> 11:27.000
+vocês têm um novo desafio pela frente,
+
+11:27.000 --> 11:29.000
+muitas coisas aprendem,
+
+11:29.000 --> 11:31.000
+uma coisa aprendem a cadeia,
+
+11:31.000 --> 11:33.000
+ou ficar acabando branco,
+
+11:33.000 --> 11:35.000
+mas se vocês realmente definiram
+
+11:35.000 --> 11:38.000
+como objetivo que vocês querem trabalhar com dados,
+
+11:38.000 --> 11:39.000
+não foi só um achismo,
+
+11:39.000 --> 11:41.000
+não foi só para ganhar mais dinheiro,
+
+11:41.000 --> 11:42.000
+ou seja, eu opto for,
+
+11:42.000 --> 11:44.000
+vocês conseguem acabar assim,
+
+11:44.000 --> 11:45.000
+vocês conseguem improve vocês,
+
+11:45.000 --> 11:47.000
+a gente tem histórias de sucesso,
+
+11:47.000 --> 11:49.000
+e eu gostaria que vocês inspirassem
+
+11:49.000 --> 11:50.000
+desde um momento um,
+
+11:50.000 --> 11:53.000
+que ninguém vai trazer por vocês.
+
+11:53.000 --> 11:55.000
+Se vocês não definerem objetivo de vocês,
+
+11:55.000 --> 11:57.000
+porque vocês querem e,
+
+11:57.000 --> 12:00.000
+e eu estrando os e barróngulos com preciso.
+
+12:00.000 --> 12:02.000
+Aí, aí, aí, aí, eu trein o trein,
+
+12:02.000 --> 12:03.000
+ou trein, ou lá.
+
+12:03.000 --> 12:04.000
+Vocês estão em um namão,
+
+12:04.000 --> 12:07.000
+o que, ao ver o, é, a primeira vez que eu tenho acesso,
+
+12:07.000 --> 12:10.000
+mas ali eu contigo, já tiga acesso várias vezes,
+
+12:10.000 --> 12:12.000
+rádio,
+
+12:12.000 --> 12:14.000
+eu logia os até cansáfrecios,
+
+12:14.000 --> 12:16.000
+e não só só eu,
+
+12:16.000 --> 12:17.000
+meu digníssimo,
+
+12:17.000 --> 12:18.000
+a voz do além,
+
+12:18.000 --> 12:21.000
+vocês nas mesavas mantis que eu bricam a voz do além,
+
+12:21.000 --> 12:22.000
+e a voz do além,
+
+12:22.000 --> 12:23.000
+e a meu digníssimo,
+
+12:23.000 --> 12:24.000
+namorado,
+
+12:24.000 --> 12:25.000
+marido que foi a lúnica,
+
+12:25.000 --> 12:26.000
+de um alífrica,
+
+12:26.000 --> 12:27.000
+também rádio que assim,
+
+12:27.000 --> 12:29.000
+uma lista de grandes,
+
+12:29.000 --> 12:30.000
+de,
+
+12:30.000 --> 12:31.000
+de a logística,
+
+12:31.000 --> 12:32.000
+na minha conclusão,
+
+12:32.000 --> 12:33.000
+se vocês estão em boa esmãos,
+
+12:33.000 --> 12:34.000
+mas, ali,
+
+12:34.000 --> 12:36.000
+eu não faz projeto para vocês,
+
+12:36.000 --> 12:38.000
+não passe o entrevista,
+
+12:38.000 --> 12:39.000
+a da dícica,
+
+12:39.000 --> 12:40.000
+ensinar fazer projeto,
+
+12:40.000 --> 12:41.000
+da bronca,
+
+12:41.000 --> 12:42.000
+enfim,
+
+12:42.000 --> 12:43.000
+vocês estão bem amparados,
+
+12:43.000 --> 12:44.000
+com todas as contas,
+
+12:44.000 --> 12:45.000
+por vocês,
+
+12:45.000 --> 12:46.000
+às mais nada,
+
+12:46.000 --> 12:47.000
+os passam melhor de vocês,
+
+12:47.000 --> 12:48.000
+que o objetivo,
+
+12:48.000 --> 12:49.000
+falou ali,
+
+12:49.000 --> 12:50.000
+e a gente tá aqui pra,
+
+12:50.000 --> 12:51.000
+da bronca,
+
+12:51.000 --> 12:52.000
+chorar,
+
+12:52.000 --> 12:53.000
+e,
+
+12:53.000 --> 12:54.000
+e cantar a vitória,
+
+12:54.000 --> 12:55.000
+e a química a química,
+
+12:55.000 --> 12:57.000
+e a química,
+
+12:57.000 --> 12:58.000
+também,
+
+12:58.000 --> 13:00.000
+de ver que não quando é bom.
+
+13:00.000 --> 13:02.000
+Sendo o super bem-vindas,
+
+13:02.000 --> 13:03.000
+deixa aia aqui,
+
+13:03.000 --> 13:04.000
+e o boca da oc final,
+
+13:04.000 --> 13:05.000
+um beijo aqui,
+
+13:05.000 --> 13:06.000
+e uma boa etapa,
+
+13:06.000 --> 13:07.000
+mas,
+
+13:07.000 --> 13:08.000
+bem de pra vocês,
+
+13:08.000 --> 13:09.000
+nem,
+
+13:09.000 --> 13:10.000
+fio,
+
+13:10.000 --> 13:11.000
+fio,
+
+13:11.000 --> 13:12.000
+fio,
+
+13:12.000 --> 13:14.000
+e aí...
+
+13:14.000 --> 13:15.000
+e aí,
+
+13:15.000 --> 13:16.000
+e aí,
+
+13:16.000 --> 13:18.000
+e aí,
+
+13:18.000 --> 13:19.000
+e aí,
+
+13:19.000 --> 13:20.000
+e aí,
+
+13:20.000 --> 13:22.000
+mas,
+
+13:22.000 --> 13:28.960
+como entra em contato. Primeiro vocês todos têm esse chat de supporte na plataforma do curso.
+
+13:28.960 --> 13:36.720
+Ou também vocês conseguem entrar com o contato com a gente de supporte através do email
+
+13:36.720 --> 13:39.120
+www.realmear.com.
+
+13:39.120 --> 13:46.380
+O pessoal atende das nove da manhã até nove horas da noite ou hora de Brasil.
+
+13:46.380 --> 13:51.340
+E também, claro, vocês podem sempre me chamar no Discord.
+
+13:51.340 --> 13:55.540
+Vocês vão ver esse meu nickname, né, ouga dias.
+
+13:55.540 --> 14:04.380
+Sou eu que posto e formações normalmente sobre a parte de organizacional do nosso curso.
+
+14:04.380 --> 14:10.880
+Então, fique vontade para me enviar mensagem no privado ou marcar também nos comentários
+
+14:10.880 --> 14:17.160
+de algum post caso vocês tiveram algumas dúvidas, os distões perguntas, tá bom?
+
+14:17.160 --> 14:23.760
+Passando para parte de processo e educacional, vamos conversar com pouco sobre os modulos,
+
+14:23.760 --> 14:32.280
+os prinhos, capítulos, ilições, porque esses são os passos do nosso bootcamp, do nosso curso.
+
+14:32.280 --> 14:37.880
+A gente sempre fala que o professor de vocês será a própria plataforma da Tripolten.
+
+14:37.880 --> 14:43.520
+O conteúdo já está lá, 100% online disponível para vocês a qualquer momento.
+
+14:43.520 --> 14:48.160
+Agora vamos trabalhar com vocês sobre a sprint número 1.
+
+14:48.160 --> 14:53.360
+Mas, fique entre aqueles que são usais aqui, peda Tripolten, vamos auxiliar vocês ao longo dessa
+
+14:53.360 --> 15:00.520
+jornada, tá no caso de dúvidas, no caso de dificuldade, que é super normal, né, a gente
+
+15:00.520 --> 15:06.960
+todos sabemos que esse caminho de aprendizagem não é fácil, né, porém, quando você não
+
+15:06.960 --> 15:10.960
+está sozinho, o processo vai fluir bem melhor.
+
+15:10.960 --> 15:18.840
+Então, pessoal, aqui, o Nessus Light, eu trouxe, cronograma, fluxo de aprendizagem do curso,
+
+15:18.840 --> 15:25.920
+análise de dados, como podem ver, tem vários modulos, né, um, um, dois e três, vários
+
+15:25.920 --> 15:27.920
+prestas também.
+
+15:27.920 --> 15:36.280
+E dentro de cada sprint, a gente vai ter, lições, exercícios, capítulos, aqui vocês precisam
+
+15:36.280 --> 15:41.960
+fazer, né, na própria plataforma, temos também prazos para início e final de cada
+
+15:41.960 --> 15:46.800
+sprint, vocês podem ver que eles duram de duas a três semanas normalmente.
+
+15:46.800 --> 15:53.680
+Eu sempre vou avisar para vocês os prazos, mas também e vita em por favor, geral, uns
+
+15:53.680 --> 15:59.240
+atrasos significativos, porque nesse caso vai ser cada vez mais difícil ao cansar o resto
+
+15:59.240 --> 16:00.240
+da turma.
+
+16:00.240 --> 16:06.560
+Então, é sempre importante e interessante, termente, data de início e, de final, de cada
+
+16:06.560 --> 16:09.560
+muda-lo, de cada sprint.
+
+16:09.560 --> 16:14.160
+É também interessante saber que vocês vão ter duas semanas de descanso, depois do mundo
+
+16:14.160 --> 16:16.160
+1 e depois do mundo 2.
+
+16:16.160 --> 16:23.080
+Então, vai ter duas pausas de descanso para cada turma, cada curso, nesses lá, de aqui,
+
+16:23.080 --> 16:26.520
+temos fluxo de cência de dados.
+
+16:26.520 --> 16:33.000
+É um curso um pouco mais longo, ele vai durar 9 meses enquanto analis de dados edicete meses.
+
+16:33.000 --> 16:39.440
+Tá bom, mas a princípio é a mesma coisa, também temos os vários modos, os printes.
+
+16:39.440 --> 16:45.640
+Tá bom, aqui vocês também conseguem ver os temas que a gente vai abordar de cada sprint.
+
+16:45.640 --> 16:52.940
+Se alguém tiver alguma dúvida, alguma pergunta, fique a vontade de perguntar agora, ou se
+
+16:52.940 --> 16:59.940
+precisa deixar para depois, ou se está tudo ok, a gente pode seguir.
+
+16:59.940 --> 17:02.780
+Tá, tudo certo.
+
+17:02.780 --> 17:09.700
+Passando aqui pessoal, uma parte importante, também é sobre os sobre os projetos.
+
+17:09.700 --> 17:15.380
+No final de cada sprint, vocês vão ter que elaborar o projeto, cada um de vocês,
+
+17:15.380 --> 17:16.380
+está bom.
+
+17:16.380 --> 17:20.900
+Esses projetos depois foram parte de portfolio profissional de vocês.
+
+17:20.900 --> 17:27.900
+Então, por isso, a gente sempre recomenda caprichar, fazer o seu melhor para entregar o projeto.
+
+17:27.900 --> 17:32.500
+Então, como que funciona assim na prática?
+
+17:32.500 --> 17:37.380
+Durante primeira e segundo semana vocês vão trabalhar na parte histórica do curso.
+
+17:37.380 --> 17:42.900
+Ou seja, vão fazer exercícios na plataforma, aprendendo a teoria.
+
+17:42.900 --> 17:47.980
+Vocês não precisam baixar nenhum programa ou procurar matérias fora, porque tudo que vocês
+
+17:47.980 --> 17:52.980
+não precisaram já está no curso, não é a própria plataforma da tripletem.
+
+17:52.980 --> 17:58.460
+E depois na terceira semana, a gente recomenda iniciar o trabalho sobre o projeto.
+
+17:58.460 --> 18:01.820
+Aquele que sempre finaliza cada sprint.
+
+18:01.820 --> 18:07.420
+Depois que o projeto estiver pronto, vocês enviam ele para revisão.
+
+18:07.420 --> 18:09.740
+E como será feita a revisão?
+
+18:09.740 --> 18:14.660
+Revisão será feita sempre pelo nosso equipe de revisores.
+
+18:14.660 --> 18:20.620
+Então, vocês podem aguardar um feedback no máximo, 40 tos.
+
+18:20.620 --> 18:24.500
+Muitas vezes vocês vão receber o feedback bem antes.
+
+18:24.500 --> 18:29.300
+O revisor será sempre atribuído de uma forma a laatória.
+
+18:29.300 --> 18:32.300
+O projeto pode ser aceito de primeira.
+
+18:32.300 --> 18:35.540
+E vocês vão passar para a próxima parte do curso.
+
+18:35.540 --> 18:41.700
+Ou se precisar fazer algumas corissões, o projeto será devolvido com os comentários do revisor.
+
+18:41.700 --> 18:44.980
+Super normal também, isso pode acontecer.
+
+18:44.980 --> 18:50.220
+Mas, mesmo assim, a gente sempre recomenda, que apreixando primeiro o vio para já seguir
+
+18:50.220 --> 18:51.220
+para frente.
+
+18:51.220 --> 18:56.580
+De qualquer forma, vocês vão ter a apoio da nossa equipe de tutora, instrutor.
+
+18:56.580 --> 19:02.380
+Caso precisarem a ajuda com o projeto ou estiver em dúvida com a parte tônica.
+
+19:02.380 --> 19:10.820
+Bom, aqui também troce esse passo a passo, como funciona o projeto, o louco se eu de revisão mesmo.
+
+19:10.820 --> 19:17.540
+Então, passando para a próxima esprete, vocês vão, assim, seguindo no sprint de a
+
+19:17.540 --> 19:23.380
+postprete, também respeitando as datas de início e de final do, de cada sprint,
+
+19:23.380 --> 19:25.380
+é o nosso cronograma.
+
+19:25.380 --> 19:31.140
+Também vou passar para vocês e formação importante sobre a licença acadêmica.
+
+19:31.140 --> 19:32.140
+E que é isso?
+
+19:32.140 --> 19:40.500
+A durante o curso, o aluno pode solicitar uma pausa no trancamento que chamamos de licença acadêmica.
+
+19:40.500 --> 19:44.620
+Essa pausa pode durar uma mesa até o mês, normalmente.
+
+19:44.620 --> 19:47.620
+E eu uma opção de último caso, tá, pessoal?
+
+19:47.620 --> 19:54.780
+Porque nesse caso, vocês serão alocados na outra enturma e a formação de vocês vai ser,
+
+19:54.780 --> 19:56.620
+assim, outra data em outro momento.
+
+20:00.860 --> 20:05.220
+Se estão conseguindo ver minha tela.
+
+20:06.220 --> 20:07.700
+Ops.
+
+20:09.700 --> 20:10.900
+Travo, logo.
+
+20:10.900 --> 20:12.700
+Tchau, dado uma travada.
+
+20:12.700 --> 20:18.460
+E agora, se tudo trocou, o slide então não dá para ver.
+
+20:18.460 --> 20:21.700
+Estou agora, agora.
+
+20:21.700 --> 20:23.340
+Agora voltou, né?
+
+20:23.340 --> 20:26.340
+Sim, tá bom, pessoal.
+
+20:26.340 --> 20:27.340
+Beleza.
+
+20:27.340 --> 20:30.700
+Então, eu estou falando sobre a nossa licença acadêmica, pessoal.
+
+20:31.100 --> 20:36.660
+E vocês conseguiu usar essa pausa no máximo duas vezes durante o curso.
+
+20:37.660 --> 20:43.860
+Interessante saber que vocês serão alocados, então, na próxima turma existente, tá?
+
+20:43.860 --> 20:48.860
+Assim que finalizar essa pausa, o fluxo de pagamentos é mantido também.
+
+20:48.860 --> 20:53.820
+E sobre mais detalhes, a gente sempre recomenda acessar no sistema de uso.
+
+20:53.820 --> 20:55.820
+Eu passei aqui o link para vocês.
+
+20:55.820 --> 21:02.780
+E também vocês conseguem verificar os termos abrindo através de código que ele,
+
+21:02.780 --> 21:04.780
+que estão vendo na plataforma.
+
+21:04.780 --> 21:08.900
+Tá sempre interessante acessar a termos de uso para ver regras,
+
+21:08.900 --> 21:11.940
+e tudo mais, tá tem bastante informação importante,
+
+21:11.940 --> 21:15.260
+que a gente segue, tá, nossas instruções.
+
+21:16.460 --> 21:22.100
+Também pessoal, vou passar para vocês algumas regras importantes.
+
+21:22.460 --> 21:25.820
+A referente alocês só porta a forma de estudos.
+
+21:25.820 --> 21:29.220
+Então, acessam, ele será automaticamente fechado.
+
+21:29.220 --> 21:35.860
+No caso de falta de acês só porta a forma de estudos por duas semanas consecutivas.
+
+21:35.860 --> 21:37.980
+Falta de pagamento de imensalidade.
+
+21:37.980 --> 21:40.780
+E no caso de falta das graves, tá?
+
+21:40.780 --> 21:46.740
+A gente totalmente contra o clágio, não dá para compartilhar seu trabalho com os alunos.
+
+21:46.740 --> 21:48.780
+Então, por favor, ficar atentos.
+
+21:48.860 --> 21:55.260
+E também, não perseguia a sediante medalcos alunos ou membros da equipe, tá?
+
+21:55.260 --> 21:59.140
+Nunca aconteceu mais a gente, mesmo assim, passa essa informação.
+
+21:59.140 --> 22:03.540
+É, a obra o professor, você gostaria de acrescentar alguma coisa.
+
+22:03.540 --> 22:04.220
+Claro, claro.
+
+22:04.220 --> 22:05.340
+Pode falar.
+
+22:05.340 --> 22:08.260
+Ah, mas eu não posso compar, eu não posso compar chamar o trabalho,
+
+22:08.260 --> 22:10.460
+que eu decono posso ajudar o da pessoa.
+
+22:10.460 --> 22:12.180
+Estão duas coisas bem diferentes, tá?
+
+22:12.180 --> 22:15.660
+Eu e o anilto, uma gente tá aqui, para ajudar.
+
+22:15.660 --> 22:18.820
+E uma das cações que rola, que é que rola comigo,
+
+22:18.820 --> 22:23.020
+é uma cação que chama de colar em aprendizados junto.
+
+22:23.020 --> 22:26.700
+A ideia dessa cação, a Olga vai explicar mais para frente um pouco,
+
+22:26.700 --> 22:27.980
+mas só para...
+
+22:27.980 --> 22:31.420
+E às vezes, parece que essas regras são muito...
+
+22:31.420 --> 22:36.020
+Sabido, gravado em pedra e não pode mudar nada, e são meio chatas.
+
+22:36.020 --> 22:37.980
+Mas é que a ideia é só assim.
+
+22:37.980 --> 22:42.540
+Pô, se tá pagando para aprender, outra pessoa tá pagando para aprender,
+
+22:42.540 --> 22:44.860
+todo mundo tá adulto aqui.
+
+22:44.940 --> 22:47.740
+Não vai dar um trabalho para o seu copiar igual.
+
+22:47.740 --> 22:50.660
+Aprendi, estimulo, aprendizado.
+
+22:50.660 --> 22:54.020
+Na acessões de color em acontece em todo dia de manhã e a noite,
+
+22:54.020 --> 22:55.500
+a noite comigo.
+
+22:55.500 --> 22:58.220
+E nessa exceção a gente se junta para ajudar,
+
+22:58.220 --> 23:01.740
+para discutir, para conversar, para estimular o aprendizado.
+
+23:01.740 --> 23:06.460
+Então, eu vou poder deixar claro que oportunidades de aprender em conjunto.
+
+23:06.460 --> 23:10.060
+E de se ajudar, existem.
+
+23:10.060 --> 23:13.100
+E são super legais, não te visto, né, porque eu fiz boticâmico,
+
+23:13.100 --> 23:14.460
+que era muito atrai.
+
+23:14.460 --> 23:16.340
+É só uma questão aqui de tipo assim,
+
+23:16.340 --> 23:16.900
+não...
+
+23:16.900 --> 23:20.220
+Judimente, de novo, vai evitar plágio, vai evitar que...
+
+23:20.220 --> 23:23.820
+Ah, se fez um trabalho legal e algum pessoa só copiu aí color?
+
+23:23.820 --> 23:25.060
+Não, vamos aprender junto, galera.
+
+23:25.060 --> 23:27.300
+Tamo aqui para aprender, é massa, é gostoso.
+
+23:27.300 --> 23:30.140
+Vocês vão achar isso, o importante, só na frente.
+
+23:30.140 --> 23:31.140
+Beleza?
+
+23:33.660 --> 23:37.140
+É isso aí, Alvaro, muito obrigado pela seu comentário.
+
+23:37.140 --> 23:38.940
+Bom, pessoal, para o seguinte aqui,
+
+23:38.940 --> 23:41.740
+vou falar um pouco sobre a nossa plataforma,
+
+23:41.740 --> 23:46.380
+o Discord, e do estudante e calendário também.
+
+23:46.380 --> 23:50.540
+Então, primeiro, vamos dar uma olhada na plataforma de estudos,
+
+23:50.540 --> 23:52.780
+que é um nosso grande professor,
+
+23:52.780 --> 23:56.460
+e onde vocês vão achar o conteúdo do curso inteiro.
+
+23:56.460 --> 23:59.500
+Então, vocês já fizeram cada astron certo,
+
+23:59.500 --> 24:03.820
+estão já assessando a plataforma, a parte introduitoria do curso,
+
+24:03.820 --> 24:06.140
+que ainda não finalizou esse processo,
+
+24:06.140 --> 24:08.140
+temos aqui um passo a passo,
+
+24:08.140 --> 24:11.740
+então, primeiro, vocês precisam acessar o site,
+
+24:11.740 --> 24:13.900
+triple-tencom, PTB-A,
+
+24:13.900 --> 24:15.580
+e escolher o curso de vocês.
+
+24:15.580 --> 24:18.780
+Pode ser analcededados ou ciência de dados.
+
+24:18.780 --> 24:22.940
+E vocês serão jogados na outra, a boa, outra página,
+
+24:22.940 --> 24:24.460
+para fazer login,
+
+24:24.460 --> 24:27.100
+colocando o login e a senha,
+
+24:27.100 --> 24:29.580
+ou fazer aquele cadastro,
+
+24:29.580 --> 24:31.660
+quando a gente colocou nosso email,
+
+24:31.660 --> 24:33.740
+e inventa a senha que vamos usar,
+
+24:33.740 --> 24:36.700
+vocês vão ter acesso a parte do curso,
+
+24:36.700 --> 24:39.100
+vocês vão ver o cada modulo,
+
+24:39.100 --> 24:41.340
+todas todas as informações.
+
+24:41.340 --> 24:44.300
+Os prínstos, no meudo, os três,
+
+24:44.300 --> 24:47.340
+e, em diante, vão ficar com o cadadinho no momento,
+
+24:47.340 --> 24:50.460
+porque a gente está agora trabalhando na primeira sprint.
+
+24:50.460 --> 24:52.140
+Então, isso é feito para,
+
+24:52.140 --> 24:55.500
+assim, não atrapalhar o processo de vocês,
+
+24:55.500 --> 24:58.620
+então, vamos focar agora na sprint número 1,
+
+24:58.620 --> 25:00.220
+que é parte um básico.
+
+25:01.340 --> 25:03.580
+Agora, falando sobre o Discord,
+
+25:03.580 --> 25:05.500
+a gente fala muito sobre ele,
+
+25:05.500 --> 25:09.180
+porque eu não sou meio principal de comunicação com os alunos.
+
+25:09.180 --> 25:13.500
+A gente atende também vocês através do email,
+
+25:13.500 --> 25:16.460
+mas isso é, mais para os alunos,
+
+25:16.460 --> 25:17.900
+que ainda vão começar,
+
+25:17.900 --> 25:20.060
+naturalmente, nas turmas futuras.
+
+25:20.060 --> 25:23.340
+Quem já está fazendo as prínstas,
+
+25:23.340 --> 25:24.860
+já está seguindo a agenda,
+
+25:24.860 --> 25:28.060
+e tudo mais, a gente prefere falar no Discord,
+
+25:28.060 --> 25:29.740
+mais prático,
+
+25:29.740 --> 25:32.860
+vocês vão receber ajuda da nossa tina,
+
+25:32.860 --> 25:34.540
+também no Discord,
+
+25:34.540 --> 25:38.380
+você comunicar comigo com o albro,
+
+25:38.380 --> 25:40.700
+qual o isa, tudo no Discord.
+
+25:40.700 --> 25:43.740
+E vocês já estão fazendo parte dos canais,
+
+25:43.740 --> 25:45.340
+cada um de vocês,
+
+25:45.340 --> 25:48.300
+está fazendo parte do canal infô,
+
+25:48.300 --> 25:49.420
+onde eu,
+
+25:49.420 --> 25:52.380
+como um mintora, eu vou postar informações importantes sobre
+
+25:52.380 --> 25:53.660
+nossa agenda,
+
+25:53.660 --> 25:55.420
+há risos sobre os prazos,
+
+25:55.420 --> 25:56.300
+lembretes,
+
+25:56.300 --> 25:57.100
+tudo mais,
+
+25:57.100 --> 25:58.620
+os links importantes,
+
+25:58.620 --> 26:01.740
+assim, vocês nunca vão ficar perdidos,
+
+26:01.740 --> 26:02.860
+também no canal comim,
+
+26:02.860 --> 26:04.700
+se eu já percebeiro,
+
+26:04.700 --> 26:06.780
+eu não sou o canal de bate-papo,
+
+26:06.780 --> 26:09.340
+de passar uns links interessantes,
+
+26:09.340 --> 26:11.740
+de caslegagem, aprendizagem,
+
+26:11.740 --> 26:13.660
+momentos de como é moração,
+
+26:13.660 --> 26:14.220
+sabe?
+
+26:14.220 --> 26:15.900
+Vocês também fique a vontade
+
+26:15.900 --> 26:18.060
+para se apresentar no canal comim,
+
+26:18.060 --> 26:21.020
+e o canal de apoio de,
+
+26:21.020 --> 26:22.540
+para a gente relaxa mesmo,
+
+26:22.540 --> 26:26.060
+porque não é só de estudo que a gente vive,
+
+26:26.060 --> 26:27.820
+o canal de projeto,
+
+26:27.820 --> 26:29.580
+o producteno,
+
+26:29.580 --> 26:31.900
+vocês vão utilizar mais para frente,
+
+26:31.900 --> 26:35.020
+quando vão começar trabalhar sobre o projeto,
+
+26:35.020 --> 26:37.980
+mas neste canal a gente acostuma postar
+
+26:37.980 --> 26:40.940
+as dúvidas sobre a parte de projetos.
+
+26:40.940 --> 26:43.500
+Agora, o platform contendata,
+
+26:43.500 --> 26:45.260
+é um canal importante
+
+26:45.260 --> 26:48.380
+para vocês enviarem dúvidas sobre a teoria,
+
+26:48.380 --> 26:49.660
+tá bom?
+
+26:49.660 --> 26:54.620
+Também vocês vão participar do canal Colourning Data,
+
+26:54.620 --> 26:57.100
+que é um canal onde o álbum vai fazer ceções,
+
+26:57.100 --> 26:59.660
+teoramente nos horários diferentes,
+
+26:59.660 --> 27:01.660
+que vou passar para vocês também,
+
+27:01.660 --> 27:03.180
+é um canal de voz,
+
+27:03.180 --> 27:05.260
+então vocês vão conseguir conversar,
+
+27:05.260 --> 27:07.740
+bater papo, compartilhar tela,
+
+27:07.740 --> 27:08.940
+tirar as dúvidas.
+
+27:12.380 --> 27:14.140
+Aqui uma pergunta no chat,
+
+27:14.140 --> 27:15.740
+tem grupo de WhatsApp para usá-los,
+
+27:15.740 --> 27:16.300
+não tem.
+
+27:16.300 --> 27:19.980
+Assim, a gente não costuma criar grupos no WhatsApp
+
+27:19.980 --> 27:21.420
+para os alunos,
+
+27:21.420 --> 27:24.780
+porque a comunicação aconteceu no Discord mesmo,
+
+27:24.780 --> 27:27.900
+então para não duplicar as informações,
+
+27:27.900 --> 27:30.540
+a gente não costuma usar o WhatsApp muito, pessoal.
+
+27:30.540 --> 27:31.180
+Tá bom?
+
+27:31.180 --> 27:33.180
+Então, por isso é importante,
+
+27:33.180 --> 27:36.540
+vocês baixarem o Discord no computador,
+
+27:36.540 --> 27:38.700
+no celular de vocês.
+
+27:38.700 --> 27:39.900
+Aqui nesse slide,
+
+27:39.900 --> 27:41.660
+eu trouxe o código que erre,
+
+27:41.660 --> 27:45.980
+assim, cada um vai conseguir baixar mesmo,
+
+27:45.980 --> 27:47.340
+para solar,
+
+27:47.340 --> 27:49.340
+porque a gente mexe no celular,
+
+27:49.340 --> 27:52.060
+bastante tempo durante o dia,
+
+27:52.060 --> 27:54.060
+se quiser estiver na edificação,
+
+27:54.780 --> 27:56.780
+então,
+
+27:56.780 --> 27:59.900
+já o afunção do canal infô,
+
+27:59.900 --> 28:01.900
+principalmente para mim,
+
+28:01.900 --> 28:03.180
+porque eu passo lá,
+
+28:03.180 --> 28:07.420
+informações sobre a nossa jornada,
+
+28:07.420 --> 28:09.180
+de segunda-feira,
+
+28:09.180 --> 28:10.380
+vocês vão receber,
+
+28:10.380 --> 28:12.380
+neste canal agenda,
+
+28:12.380 --> 28:14.620
+então eu vou explicar a esse dia,
+
+28:14.620 --> 28:15.180
+vai ter,
+
+28:15.180 --> 28:15.660
+vibernar,
+
+28:15.660 --> 28:16.620
+computador,
+
+28:16.620 --> 28:18.620
+está a hora,
+
+28:18.620 --> 28:19.580
+e vamos ter,
+
+28:19.580 --> 28:20.460
+a sessão de colore,
+
+28:20.460 --> 28:21.660
+em comestrutor.
+
+28:21.660 --> 28:21.900
+Então,
+
+28:21.900 --> 28:22.620
+importante,
+
+28:22.620 --> 28:24.620
+vocês acompanharem este canal
+
+28:24.620 --> 28:26.620
+para receber os avisos.
+
+28:26.620 --> 28:27.020
+Tá bom?
+
+28:27.020 --> 28:28.620
+Sobre os prazos,
+
+28:28.620 --> 28:30.940
+links de gravação
+
+28:30.940 --> 28:31.820
+de bebernar,
+
+28:31.820 --> 28:32.780
+tudo mais.
+
+28:32.780 --> 28:33.020
+Então,
+
+28:33.020 --> 28:34.460
+é um canal bem interessante
+
+28:34.460 --> 28:35.420
+para acompanhar,
+
+28:35.420 --> 28:36.780
+para seguir,
+
+28:36.780 --> 28:38.300
+tá?
+
+28:38.300 --> 28:39.740
+E também a gente fede,
+
+28:39.740 --> 28:41.740
+que vocês verifique os
+
+28:41.740 --> 28:43.420
+os canais no Discord,
+
+28:44.540 --> 28:45.500
+de era mente,
+
+28:45.500 --> 28:45.900
+né?
+
+28:45.900 --> 28:47.500
+Na伸ista seria um,
+
+28:48.700 --> 28:49.740
+um caso ideal,
+
+28:49.740 --> 28:51.260
+mas cada dois,
+
+28:51.260 --> 28:51.900
+três dias,
+
+28:51.900 --> 28:53.980
+é importante você se verificarem,
+
+28:53.980 --> 28:55.100
+porque eu também
+
+28:55.100 --> 28:56.940
+posso entrar em contato com vocês no
+
+28:56.940 --> 28:57.900
+deeme,
+
+28:57.900 --> 29:00.220
+para perguntar se está tudo certo,
+
+29:00.220 --> 29:02.460
+se você precisa de ajuda,
+
+29:02.460 --> 29:05.500
+ofereciar alguma solução personalizada,
+
+29:05.500 --> 29:07.500
+tudo isso é feito no Discord.
+
+29:09.580 --> 29:11.900
+Agora falando sobre o guia do estudante,
+
+29:12.700 --> 29:14.300
+eu vamos dizer,
+
+29:14.300 --> 29:15.340
+uma biblioteca,
+
+29:15.340 --> 29:18.460
+hoje a gente guarda informações importantes,
+
+29:18.460 --> 29:19.100
+por exemplo,
+
+29:19.100 --> 29:20.140
+neste canal,
+
+29:20.300 --> 29:21.100
+não é o canal,
+
+29:21.100 --> 29:23.580
+é um site do nochão,
+
+29:23.580 --> 29:24.300
+né?
+
+29:24.300 --> 29:26.700
+Hoje vamos guardar as gravações
+
+29:26.700 --> 29:28.060
+de todos os webinars,
+
+29:28.060 --> 29:29.420
+com o tutor,
+
+29:29.420 --> 29:30.540
+então o qual falou,
+
+29:30.540 --> 29:31.500
+ele fique a vontade,
+
+29:31.500 --> 29:32.540
+também de acessar,
+
+29:33.660 --> 29:34.940
+esse,
+
+29:34.940 --> 29:36.300
+em seguida do estudante,
+
+29:36.300 --> 29:37.100
+o link,
+
+29:37.100 --> 29:39.260
+já está disponível no canal infô.
+
+29:41.580 --> 29:42.060
+Lemmo,
+
+29:42.060 --> 29:44.860
+se você não está vendo o canal infô,
+
+29:44.860 --> 29:46.700
+eu acho que vou ter que verificar
+
+29:46.700 --> 29:47.820
+seu usuário,
+
+29:47.820 --> 29:48.220
+tá?
+
+29:48.220 --> 29:49.740
+Se você já está com a 6,
+
+29:49.740 --> 29:50.460
+então,
+
+29:50.460 --> 29:52.620
+se você pode me passar seu usuário,
+
+29:52.620 --> 29:54.300
+vou verificar para você,
+
+29:54.300 --> 29:54.620
+tá?
+
+29:54.620 --> 29:55.660
+E tão quem,
+
+29:55.660 --> 29:57.420
+agora consegue verificar também
+
+29:57.420 --> 29:58.620
+seu acesso,
+
+29:58.620 --> 29:59.340
+ao Discord,
+
+29:59.340 --> 30:00.220
+aos canais,
+
+30:00.220 --> 30:00.780
+por favor,
+
+30:00.780 --> 30:02.060
+faça um isso.
+
+30:02.060 --> 30:02.780
+É importante,
+
+30:02.780 --> 30:04.300
+a gente já alinhar tudo,
+
+30:04.300 --> 30:05.420
+a partir de hoje,
+
+30:05.420 --> 30:06.700
+tá?
+
+30:06.700 --> 30:08.700
+Pra ninguém tiver nenhuma dúvida.
+
+30:09.900 --> 30:12.300
+Então, pessoal falando do Guia do estudante,
+
+30:12.300 --> 30:12.860
+o link,
+
+30:12.860 --> 30:13.660
+para estigir,
+
+30:13.660 --> 30:15.420
+fica disponível no canal,
+
+30:15.420 --> 30:16.860
+e do mundo discord.
+
+30:16.860 --> 30:17.660
+Então, agora,
+
+30:17.660 --> 30:18.460
+neste momento,
+
+30:18.460 --> 30:20.780
+a gente está fazendo essa reunião,
+
+30:20.780 --> 30:21.820
+estamos gravando,
+
+30:21.820 --> 30:22.700
+ela.
+
+30:22.700 --> 30:24.460
+E assim que a gente finalizar,
+
+30:24.460 --> 30:25.900
+eu vou receber no meio,
+
+30:25.900 --> 30:26.460
+no meio,
+
+30:26.460 --> 30:27.500
+a gravação,
+
+30:27.500 --> 30:27.660
+tá?
+
+30:27.660 --> 30:29.420
+E vou disponibilizar essa gravação,
+
+30:29.420 --> 30:30.220
+pra vocês,
+
+30:30.220 --> 30:31.740
+nesse guia do estudante,
+
+30:31.740 --> 30:33.020
+amanhã de manhã,
+
+30:33.020 --> 30:35.900
+vocês já vão ver,
+
+30:35.900 --> 30:37.740
+essa gravação disponível para vocês.
+
+30:37.740 --> 30:38.060
+Tá bom?
+
+30:38.060 --> 30:39.660
+Vou avisar também no Discord.
+
+30:41.900 --> 30:43.340
+Falando sobre o calendário,
+
+30:43.340 --> 30:45.340
+pessoal, no assagenda,
+
+30:45.340 --> 30:47.580
+eu gostaria de chamar atenção de você,
+
+30:47.580 --> 30:50.140
+porque o calendário é super importante,
+
+30:50.140 --> 30:51.500
+não se rotina.
+
+30:51.500 --> 30:52.460
+Como sabe,
+
+30:52.460 --> 30:54.140
+isso é um bústicamp,
+
+30:54.140 --> 30:55.900
+então, esse significa que a gente
+
+30:55.900 --> 30:57.900
+tem prazo de início e de final,
+
+30:57.900 --> 30:59.260
+para cada sprint,
+
+30:59.260 --> 31:01.340
+é bem corrido,
+
+31:01.340 --> 31:03.500
+falando honestamente,
+
+31:03.500 --> 31:05.740
+o tem bastante conteúdo.
+
+31:05.740 --> 31:08.700
+Então, a gente precisa estudar,
+
+31:08.700 --> 31:12.060
+de acordo com os prazos suggeridos.
+
+31:12.060 --> 31:12.860
+Tá, pessoal?
+
+31:12.860 --> 31:14.300
+Então, por exemplo, agora,
+
+31:14.300 --> 31:17.100
+a gente começa a sprint um paito
+
+31:17.100 --> 31:20.140
+básico e já no dia 1 de maio,
+
+31:20.140 --> 31:22.380
+a gente vai finalizar essas prites.
+
+31:22.380 --> 31:25.020
+E no dia 2, vamos começar a segunda sprint.
+
+31:25.020 --> 31:26.700
+Tá bom?
+
+31:26.700 --> 31:29.260
+Então, falando sobre o calendário,
+
+31:29.260 --> 31:31.500
+como vocês conseguem visualizar
+
+31:31.500 --> 31:33.420
+nossa agenda, nossa rotina,
+
+31:33.420 --> 31:34.860
+na própria plataforma,
+
+31:34.860 --> 31:36.060
+da tripotem,
+
+31:36.060 --> 31:38.620
+na distilada se esquerdo,
+
+31:38.620 --> 31:39.820
+da plataforma,
+
+31:39.820 --> 31:42.540
+clicando na palavra calendário,
+
+31:42.540 --> 31:44.860
+vai abrir nossa agenda.
+
+31:44.860 --> 31:45.580
+Por exemplo,
+
+31:45.580 --> 31:46.940
+vocês estão vendo lá,
+
+31:46.940 --> 31:47.820
+onboarding,
+
+31:47.820 --> 31:49.580
+o reunião de boas vintas.
+
+31:49.580 --> 31:53.180
+E se você clicar nessa mensagem,
+
+31:53.180 --> 31:54.620
+nesse evento,
+
+31:54.620 --> 31:56.380
+vai já aparecer o link
+
+31:56.380 --> 31:57.740
+para participar.
+
+31:57.740 --> 31:59.420
+Por exemplo, daqui a pouco,
+
+31:59.420 --> 32:01.260
+eu vou falar sobre o VBNARC,
+
+32:01.260 --> 32:03.420
+Manaul Contutor,
+
+32:03.420 --> 32:05.420
+que vai acontecer toda terça-feira.
+
+32:05.420 --> 32:09.100
+Então, o link já está disponível
+
+32:09.100 --> 32:11.660
+para vocês neste calendário.
+
+32:11.660 --> 32:12.860
+Tá?
+
+32:12.860 --> 32:14.460
+Mas se que entrecunhas que no canal
+
+32:14.460 --> 32:16.780
+e eu vou falar sobre,
+
+32:16.780 --> 32:18.860
+vou lembrar para vocês sobre o VBNARC,
+
+32:18.860 --> 32:21.100
+passar o link também.
+
+32:21.100 --> 32:21.500
+Tá?
+
+32:21.500 --> 32:22.460
+Pessoas, estou vendo aqui,
+
+32:22.460 --> 32:24.300
+vocês me passando seus usuários.
+
+32:24.300 --> 32:27.340
+Eu estou notando para verificar
+
+32:27.340 --> 32:29.020
+daqui a pouco,
+
+32:29.020 --> 32:29.820
+que entreoculhas.
+
+32:29.820 --> 32:34.140
+A gente vai colocar vocês nos canais hoje mesmo.
+
+32:35.260 --> 32:39.100
+Passando agora parte de preparação de carreira.
+
+32:39.100 --> 32:41.340
+Bom, a Luisa já falou um pouco,
+
+32:41.340 --> 32:42.700
+no início.
+
+32:43.660 --> 32:46.140
+Vocês vão ter encontro semanas com ela.
+
+32:47.420 --> 32:51.740
+E também esses encontros ficam todos gravados.
+
+32:51.740 --> 32:53.820
+Vocês vão ter acesso a essa parte,
+
+32:53.820 --> 32:56.060
+que ainda conseguem participar.
+
+32:56.060 --> 32:58.620
+Também são encontros muito válidosos.
+
+33:00.620 --> 33:03.820
+É um ponto diferenciado da tripotem.
+
+33:03.820 --> 33:06.940
+Por favor, fica a vontade para participar ao vivo,
+
+33:06.940 --> 33:09.260
+ou assistir as carabações mais tarde.
+
+33:11.580 --> 33:12.380
+Bom,
+
+33:12.380 --> 33:13.740
+Luisa, você está por aqui?
+
+33:16.460 --> 33:17.660
+Não sei se é Luisa,
+
+33:17.660 --> 33:18.700
+está aqui, mais bom.
+
+33:18.700 --> 33:22.780
+Eu vou falar para vocês sobre nosso curso de preparação de carreira.
+
+33:23.820 --> 33:26.460
+Luisa já comentou que é um curso opcional.
+
+33:26.460 --> 33:31.100
+E vocês vão receber o convite para começar esse curso,
+
+33:31.100 --> 33:35.020
+assim que completarem 60% do curso principal de vocês.
+
+33:35.020 --> 33:36.140
+No caso,
+
+33:36.140 --> 33:38.780
+análise ou ciência de dados.
+
+33:39.260 --> 33:41.340
+Esse curso vai durar 5 semanas.
+
+33:41.340 --> 33:43.980
+Ele já está em curso no pacote de vocês.
+
+33:43.980 --> 33:45.980
+Não tem nenhum valor adicional.
+
+33:45.980 --> 33:48.540
+É só vocês precisam estudar agora,
+
+33:48.540 --> 33:53.260
+a parte principal do curso de análise de ciência de dados.
+
+33:53.260 --> 33:59.740
+Chegar 60% e bom conseguir ter acesso a curso de preparação de carreira.
+
+33:59.740 --> 34:01.740
+Que também é muito bacana.
+
+34:01.740 --> 34:05.580
+E a gente recomenda que vocês façam isso,
+
+34:05.660 --> 34:10.940
+porque vai acrescentar bastante na vida na carreira de cada um de vocês.
+
+34:10.940 --> 34:11.660
+Então,
+
+34:12.380 --> 34:16.540
+e depois de finalizar o curso de concluir o projeto final,
+
+34:16.540 --> 34:21.740
+cada um será convidado para programar a saleração de carreira.
+
+34:21.740 --> 34:24.380
+Também com a Luisa,
+
+34:24.380 --> 34:29.500
+então vamos agora ficar focados no curso principal,
+
+34:29.500 --> 34:33.660
+para depois aproveitar essa parte de carreira.
+
+34:35.900 --> 34:37.100
+Bom, pessoal.
+
+34:37.100 --> 34:45.100
+Dicas de sucesso, nos próximos passos, vamos agora ver como a gente vai conseguir
+
+34:45.100 --> 34:50.140
+encaixar os estudos no subúdiquempos na vida de cada um de vocês.
+
+34:50.140 --> 34:51.980
+A gente sabe que não é fácil,
+
+34:51.980 --> 34:54.940
+muitas pessoas trabalham,
+
+34:54.940 --> 34:57.420
+estuda, também tem família,
+
+34:57.420 --> 34:58.780
+tudo mais.
+
+34:58.780 --> 35:02.060
+Mas resumindo o botiquempos de análise,
+
+35:02.060 --> 35:03.820
+eu disse em cede dados,
+
+35:03.820 --> 35:08.940
+exigir dedicação de cerca 20 h de semana para o curso.
+
+35:08.940 --> 35:12.540
+O que dá, mais ou menos 4 h por dia.
+
+35:12.540 --> 35:16.140
+E a gente encomenda que vocês aproveitam os próximos dias,
+
+35:16.140 --> 35:17.820
+amanhã, final de semana,
+
+35:17.820 --> 35:22.460
+para se organizar e pensar como de acordo de
+
+35:22.460 --> 35:27.260
+vocês, do dia a dia de vocês, vocês vão fazer o curso.
+
+35:27.260 --> 35:31.820
+É bastante coisa, porém, com organização,
+
+35:31.820 --> 35:37.820
+constância e plano, plano em de ação, tudo é super possível,
+
+35:37.820 --> 35:41.180
+porque recapitolando a partir de hoje,
+
+35:41.180 --> 35:43.980
+a gente já precisa seguir por calendário
+
+35:43.980 --> 35:48.700
+e começar os estudos, começar a primeira sprint, que é
+
+35:48.700 --> 35:50.700
+paitombásico.
+
+35:52.860 --> 35:54.780
+Outra coisa, pessoal, por favor,
+
+35:54.780 --> 35:58.140
+sempre participem dos webinars com o tutor
+
+35:58.140 --> 36:00.700
+e das pessoas de complemento teórico,
+
+36:00.700 --> 36:03.100
+e colarning com o estrutur.
+
+36:03.100 --> 36:06.700
+Dá são os encontros que a gente faz uma vez por semana,
+
+36:06.700 --> 36:08.940
+são online, ao vivo,
+
+36:08.940 --> 36:11.900
+e é um grande diferencial da tripotem.
+
+36:12.940 --> 36:15.180
+Esses eventos são complementares,
+
+36:15.180 --> 36:18.540
+tá? A gente sabe que a plataforma é o nosso
+
+36:18.540 --> 36:23.180
+professor principal, porém esses eventos,
+
+36:23.260 --> 36:26.300
+ajuda bastante para tirar as dúvidas,
+
+36:26.300 --> 36:29.260
+para conhecer melhor a área de vocês,
+
+36:29.260 --> 36:31.740
+tá? Como os eventos serão gravados,
+
+36:31.740 --> 36:34.460
+quem não está no Brasil no momento, por exemplo,
+
+36:34.460 --> 36:39.020
+ou não consegue participar, por conta de outros compromissos.
+
+36:39.020 --> 36:42.380
+No dia seguinte, vocês vão conseguir ver a gravação
+
+36:42.380 --> 36:44.460
+hospedada no guia do estudante.
+
+36:45.580 --> 36:46.620
+Bom,
+
+36:47.820 --> 36:51.340
+eu quero também passar para vocês, nossa agenda semanal,
+
+36:51.500 --> 36:53.820
+fique tranquilos que toda essa informação,
+
+36:53.820 --> 36:56.460
+eu vou passar para vocês também no canal Info,
+
+36:56.460 --> 36:57.820
+Múdios Courts,
+
+36:57.820 --> 37:00.860
+toda a segunda feira, vocês vão receber a agenda
+
+37:00.860 --> 37:03.180
+com a atividade da semana.
+
+37:03.180 --> 37:07.420
+Mas já temos os dias definidos para o webinar
+
+37:07.420 --> 37:09.580
+que vai acontecer toda a terça feira,
+
+37:09.580 --> 37:13.020
+o eutora da noite horário de Brasilia.
+
+37:13.020 --> 37:14.780
+Então,
+
+37:14.780 --> 37:19.340
+isso significa que o primeiro webinar será no dia 23 de abril.
+
+37:19.740 --> 37:22.140
+A momento de colorne, com o instrutor,
+
+37:22.140 --> 37:24.220
+vou já partir de amanhã,
+
+37:24.220 --> 37:25.820
+é uma emcesta feira.
+
+37:25.820 --> 37:27.420
+Então, 5 e meia,
+
+37:27.420 --> 37:31.180
+a sete hora da noite horário de Brasilia,
+
+37:31.180 --> 37:33.820
+vocês vão ter um encontro com a Álvaro,
+
+37:33.820 --> 37:35.500
+no canal colorne.
+
+37:35.500 --> 37:36.780
+Então,
+
+37:36.780 --> 37:43.260
+é uma oportunidade muito bacana para tirar as dúvidas sobre a parte de teórica,
+
+37:43.260 --> 37:45.660
+como falei vocês conseguem conversar,
+
+37:45.660 --> 37:47.340
+porque o canal de voz mesmo,
+
+37:47.340 --> 37:50.380
+não será necessário escrever,
+
+37:50.380 --> 37:51.980
+mandar mensagem,
+
+37:51.980 --> 37:53.660
+vai ser bem mais fácil,
+
+37:53.660 --> 37:56.700
+acredito eu compartilhando a tela,
+
+37:56.700 --> 37:59.100
+vai ter outros colegos também.
+
+37:59.100 --> 38:02.060
+Então, é sempre bom essa troca de experiência,
+
+38:02.060 --> 38:03.500
+um vai ajudar o outro.
+
+38:03.500 --> 38:06.940
+E assim, a gente vai seguindo na nossa jornada.
+
+38:08.460 --> 38:09.180
+Bom, pessoal,
+
+38:09.180 --> 38:12.300
+agora vamos passar para vocês nos próximos passos,
+
+38:12.300 --> 38:13.980
+o resumo de tudo isso,
+
+38:13.980 --> 38:15.180
+que não falei.
+
+38:15.500 --> 38:18.700
+Então, se vocês tiveram alguma dificuldade para
+
+38:18.700 --> 38:21.100
+acessar a plataforma ou discorte,
+
+38:21.100 --> 38:22.940
+por favor, fálico,
+
+38:22.940 --> 38:27.020
+está, eu estou vendo aqui o pessoal com as dúvidas sobre os canais,
+
+38:27.020 --> 38:28.780
+então, a gente já vai fazer isso.
+
+38:30.060 --> 38:31.580
+Também, por favor,
+
+38:31.580 --> 38:34.300
+aproveita nos próximos dias para
+
+38:35.260 --> 38:38.300
+criar o grão de estudos e compromissos
+
+38:38.300 --> 38:41.580
+para encaixar o botiquem na routina de vocês.
+
+38:41.740 --> 38:43.820
+Tá, lembrando que a gente recomenda
+
+38:43.820 --> 38:46.540
+de indicar 20 horas por semana,
+
+38:46.540 --> 38:49.980
+não é um pouco coisa,
+
+38:49.980 --> 38:53.420
+porém, com organização é possível,
+
+38:53.420 --> 38:55.820
+também, pessoal.
+
+38:55.820 --> 38:59.580
+A verificência estão conseguindo acessar
+
+38:59.580 --> 39:01.180
+calendário de estudos,
+
+39:01.180 --> 39:03.580
+que fica na plataforma do curso.
+
+39:03.580 --> 39:08.540
+Se conseguem achar o link para a guia do estudante no noxão,
+
+39:09.500 --> 39:11.340
+e também,
+
+39:12.460 --> 39:14.780
+a dica que a gente passou antes,
+
+39:14.780 --> 39:17.820
+nos dias um pouco antes dessa nossa reunião de hoje,
+
+39:17.820 --> 39:19.980
+é finalizar o curso demonstrativo.
+
+39:19.980 --> 39:23.500
+Então, quem conseguiu finalizar muito bom para a bem,
+
+39:23.500 --> 39:26.220
+quem não conseguiu ainda no tempo problema,
+
+39:26.220 --> 39:30.620
+qualquer momento vocês conseguem voltar para rever essas matérias.
+
+39:30.620 --> 39:34.620
+Agora, a dica é focar na sprint número 1,
+
+39:34.620 --> 39:36.460
+que é Python básico.
+
+39:36.540 --> 39:40.700
+Asprejá começou hoje, já está disponível para vocês,
+
+39:40.700 --> 39:43.500
+e vai terminar no dia primeiro de maio.
+
+39:45.580 --> 39:48.540
+Vamos lá, pessoal, aqui, estou vendo algumas dúvidas no chat.
+
+39:50.380 --> 39:53.740
+O color e em pessoas eventos de color em não serão gravados,
+
+39:53.740 --> 39:56.700
+tá? O que será gravado? Eu os bebenas,
+
+39:56.700 --> 40:02.300
+e vocês são as suas complementares de teoria,
+
+40:02.300 --> 40:05.900
+tá? Quando vocês vão conseguir fazer uma reunião,
+
+40:05.900 --> 40:09.660
+assim como se fosse essa, agora, através do Google Meet com o instrutor.
+
+40:11.580 --> 40:14.140
+É velho em pergunta sobre o computador sim,
+
+40:14.140 --> 40:18.220
+é necessário ter um computador para fazer os exercícios,
+
+40:18.220 --> 40:21.260
+porque não é muito prático,
+
+40:21.260 --> 40:23.340
+não é estudar, não é celular.
+
+40:23.340 --> 40:28.300
+Então, o curso exige o uso de computador do laptop.
+
+40:30.380 --> 40:35.020
+Bom, para bem, isso é isso que conseguiu finalizar o acessor
+
+40:35.020 --> 40:39.100
+e já está no discórter, muito bom, muito bom visual.
+
+40:40.700 --> 40:43.020
+E, no que pergunta, o color e o computador instrutor
+
+40:43.020 --> 40:47.900
+serão contordaturma, sim, sim, claro, a gente convida todos vocês,
+
+40:47.900 --> 40:52.700
+a durma toda para participar, que a gente vê a disponibilidade.
+
+40:53.340 --> 40:58.780
+Luceando, você consegue, se você está na plataforma já,
+
+40:58.780 --> 41:01.340
+e já inscremeu para o curso,
+
+41:01.420 --> 41:06.460
+não se estenálise, eu sinto editados, do lado esquerdo,
+
+41:06.460 --> 41:09.740
+na plataforma, deve aparecer a palavra calendário,
+
+41:09.740 --> 41:14.540
+e que, quando nela, você vai conseguir acessar a plataforma
+
+41:14.540 --> 41:16.700
+e ver o calendário mesmo.
+
+41:21.500 --> 41:24.620
+Padric, como é feito hoje em davendo para tirar dúvidas,
+
+41:24.620 --> 41:27.420
+então, para tirar dúvidas sobre exercícios,
+
+41:27.420 --> 41:32.300
+tem vários versos, primeiro você pode enviar sua dúvida
+
+41:32.300 --> 41:37.180
+no discórde, por escrito no canal, platform com tentada,
+
+41:37.180 --> 41:40.460
+ou participar também das assessores de color,
+
+41:40.460 --> 41:44.860
+em construtor, para assinar suas dúvidas ao vim.
+
+41:47.340 --> 41:51.340
+Então, o pessoal, quem não está no Brasil, quem está no horário diferente,
+
+41:51.340 --> 41:55.580
+se você não conseguir participar das dos eventos online,
+
+41:55.580 --> 41:59.900
+a gente recomenda em ver sua dúvida por escrito no discórde,
+
+41:59.900 --> 42:04.220
+no canal, platform com tentada, deixou voltar para vocês,
+
+42:04.220 --> 42:08.860
+vamos mostrar, voltando aqui para um discórde,
+
+42:08.860 --> 42:11.900
+então, o canal aqui, o platform com tentadas,
+
+42:11.900 --> 42:17.500
+print um Python básico, esse canal dedicado para as dúvidas sobre a teoria.
+
+42:17.500 --> 42:22.220
+Então, a gente convida todo mundo e vier as suas dúvidas por escrito,
+
+42:22.220 --> 42:26.780
+você pode também colocar o print da tela onde está com dúvida,
+
+42:26.780 --> 42:32.380
+o link da plataforma, e, assim, nossos tutores, estrutores terão acesso,
+
+42:32.380 --> 42:35.580
+essa informação e vão conseguir ajudar vocês.
+
+42:38.060 --> 42:45.820
+Dentro da plataforma, a plata forma é única para cada luna,
+
+42:45.820 --> 42:49.020
+se você está falando sobre o discórde, no discórde,
+
+42:49.020 --> 42:53.100
+se você tem a luna da turma de vocês.
+
+42:53.100 --> 42:59.340
+Eu acho que nunca nos canais que são administratos pelo luaiza de carreira,
+
+42:59.340 --> 43:02.780
+vocês conseguem encontrar o alunos de outras turmas,
+
+43:02.780 --> 43:05.500
+e de outras profissões também.
+
+43:05.500 --> 43:11.100
+Mas, a gente sempre, assim, recomenda focar mais dos canais da turma de vocês,
+
+43:11.100 --> 43:15.420
+porque vocês, assim, vão acompanhar a agenda da turma de vocês,
+
+43:15.420 --> 43:19.820
+os lembrentes específicos para essa turma.
+
+43:19.820 --> 43:23.980
+No caso, é data de a 13 ou de a 13.
+
+43:25.980 --> 43:28.780
+Deixa eu contar aqui.
+
+43:28.780 --> 43:32.780
+Então, pessoal, passei para vocês no espaço a passo.
+
+43:33.980 --> 43:37.980
+E, é só isso que eu queria passear para vocês hoje.
+
+43:37.980 --> 43:41.980
+A gente deseja muito boa sorte para todos vocês,
+
+43:41.980 --> 43:44.620
+muito obrigado por escolher a triple time.
+
+43:44.620 --> 43:47.740
+Vou reforçar novamente, que no caso de dúvidas,
+
+43:47.740 --> 43:50.700
+vocês precisam ir procurar.
+
+43:50.700 --> 43:54.220
+Eu estou disponível no discórde, no horário comercial.
+
+43:54.220 --> 43:58.540
+Então, eu vou falar o fiquem a vontade de mandar um oito,
+
+43:58.540 --> 44:01.420
+porque assim, eu vou conseguir ajudar vocês,
+
+44:01.420 --> 44:06.540
+vamos pensar juntos se tiver alguma dúvida alguma pergunta.
+
+44:06.540 --> 44:10.060
+Muito obrigado pelo tempo de vocês,
+
+44:10.060 --> 44:14.300
+por ficar com a gente sobre durante essa hora.
+
+44:15.340 --> 44:18.460
+A pausa de duas semanas, bom brunas.
+
+44:18.460 --> 44:23.820
+Se você não precisa tirar pausa de uma semana durante o custo,
+
+44:23.820 --> 44:27.260
+não tem problema, então você vai conseguir prosseguir.
+
+44:27.260 --> 44:31.660
+E, talvez, finalizar o custo pouco antes ainda.
+
+44:31.660 --> 44:34.300
+Então, depende de você.
+
+44:34.300 --> 44:38.060
+Também se precisarem tirar a licença acadêmica,
+
+44:38.060 --> 44:40.700
+você precisa falar comigo pessoal.
+
+44:40.700 --> 44:45.500
+A gente entende que, né, a vida acontecia e hoje aconteceu alguns imprevistas,
+
+44:45.500 --> 44:46.940
+e tudo mais.
+
+44:46.940 --> 44:54.460
+Porém, a gente recomenda se organizar para finalizar o custo em 6 meses,
+
+44:54.460 --> 44:59.740
+para a naje de dados, ou em 9 meses para sim em 7 dados.
+
+44:59.740 --> 45:04.460
+Tá idário, por favor, fica a vontade para falar.
+
+45:04.540 --> 45:05.980
+Comiou, Gabanote?
+
+45:05.980 --> 45:06.860
+Oi.
+
+45:06.860 --> 45:09.820
+Eu queria saber em relação a essa pausa de duas semanas.
+
+45:09.820 --> 45:12.620
+Ela é encada, exprinte,
+
+45:12.620 --> 45:16.140
+é de bucada, tá errando, exprinte, como é que ela funciona?
+
+45:16.140 --> 45:22.940
+Ela vai funcionar duas vezes, né, a gente vai tirar a massa de pausa, de descanso,
+
+45:22.940 --> 45:24.780
+depois de cada mundo.
+
+45:24.780 --> 45:27.500
+Então, depois do primeiro mundo,
+
+45:27.500 --> 45:30.380
+depois do segundo mundo.
+
+45:30.380 --> 45:32.780
+Então, durante esses 7 meses,
+
+45:32.780 --> 45:37.660
+esse é o custo é a naje de dados, vai ter duas semanas de descanso.
+
+45:37.660 --> 45:39.100
+Tá, é feito.
+
+45:39.100 --> 45:42.620
+E esse lado que você passou vai ficar disponível,
+
+45:42.620 --> 45:44.940
+depois de um descórdino.
+
+45:44.940 --> 45:50.700
+Sim, sim, se quiser, eu vou conseguir compartilhar com vocês essa apresentação.
+
+45:50.700 --> 45:54.220
+Também, a gravação do vídeo mesmo, de agora,
+
+45:54.220 --> 45:56.300
+será disponível a parte de amanhã.
+
+45:56.300 --> 46:00.460
+Se quiser rever, tal, sabe?
+
+46:00.460 --> 46:01.900
+Vai ser interessante também.
+
+46:01.980 --> 46:03.420
+Boa vez, a vocês.
+
+46:03.420 --> 46:05.820
+Era somente isso, meu obrigado.
+
+46:05.820 --> 46:07.820
+Pagina.
+
+46:09.820 --> 46:14.700
+Isso, algumas dúvidas, aproveita o momento,
+
+46:14.700 --> 46:17.340
+aí aqui, toda tá aqui.
+
+46:21.020 --> 46:26.140
+Bom, sim, ninguém tiver a fátima, por favor.
+
+46:27.100 --> 46:28.540
+Olá, meu noite.
+
+46:28.540 --> 46:35.100
+Então, antes tinha uma lá na introdução,
+
+46:35.100 --> 46:38.540
+tinha alguns informações,
+
+46:38.540 --> 46:42.780
+e alguns exercícios, né, para fazer.
+
+46:42.780 --> 46:49.020
+É, os printes, o, acho que na segunda lição,
+
+46:49.020 --> 46:54.940
+eu não conseguir fazer o print, lá, resolver.
+
+46:54.940 --> 46:58.540
+Mas aí, então, eu vi que tem outros colégas também,
+
+46:58.540 --> 47:01.180
+que perguntaram aí na plataforma,
+
+47:01.180 --> 47:03.660
+mas eu não via a resposta ainda,
+
+47:03.660 --> 47:06.620
+dizendo que tá dando o eva, a gente fazia.
+
+47:06.620 --> 47:09.580
+Eu particularmente tava fazendo tudo certinho conforme,
+
+47:09.580 --> 47:12.860
+as orientações, mas tava dando o eru.
+
+47:12.860 --> 47:15.900
+E o rapaza, eu não lembro nome dele, mas ele colocou,
+
+47:15.900 --> 47:21.820
+inclusive, é um print do eru na plataforma.
+
+47:21.820 --> 47:24.220
+E não via a resposta.
+
+47:24.220 --> 47:28.380
+Essa introdução, a gente vai ter que finalizar,
+
+47:28.380 --> 47:33.660
+ou é a partir de hoje com a disponibilidade que está.
+
+47:34.460 --> 47:37.980
+Bom, Fatima, agora vocês já conseguem prosseguir
+
+47:37.980 --> 47:39.500
+para primeiras print.
+
+47:39.500 --> 47:41.740
+Então, se você quiser finalizar a parte
+
+47:41.740 --> 47:43.580
+em tradutória que quer vontade,
+
+47:43.580 --> 47:44.940
+porém, não é obrigatório,
+
+47:44.940 --> 47:49.340
+só se você tiver disponibilidade.
+
+47:49.340 --> 47:51.740
+Quando a sua dúvida, se você expostaram,
+
+47:51.740 --> 47:55.420
+lá no Discord, marcaram dúvidados,
+
+47:55.420 --> 47:58.940
+eu acho que o eeu também passei lá, é marquido pessoal.
+
+47:58.940 --> 48:01.980
+Eu acredito que, até o maelho de manhã, a gente
+
+48:01.980 --> 48:05.900
+já vai ter a resposta dando nos inquipe dos estrutores,
+
+48:05.900 --> 48:09.420
+e eles vão conseguir ajudar com essa dúvida.
+
+48:09.420 --> 48:10.220
+Tá bom?
+
+48:10.220 --> 48:11.660
+OK, obrigada, hein.
+
+48:11.660 --> 48:13.660
+Imagina.
+
+48:14.860 --> 48:19.180
+Acho que foi luciando que levantou a mão também.
+
+48:19.180 --> 48:20.940
+Pode falar por favor?
+
+48:20.940 --> 48:22.940
+Bom, boa noite a todos.
+
+48:22.940 --> 48:25.420
+Eu tinha uma certa dificuldade também.
+
+48:25.420 --> 48:28.220
+Em relação ao tablo, tinha um exercício,
+
+48:28.220 --> 48:31.180
+que precisava ser feito algumas atividades ali.
+
+48:31.180 --> 48:33.180
+Eu não consegui concluir,
+
+48:33.180 --> 48:35.340
+aí eu entrei em contato com o suporte.
+
+48:35.340 --> 48:38.540
+Falando que minha tela estava diferente do exercício,
+
+48:38.540 --> 48:40.460
+não estava conseguindo também,
+
+48:40.460 --> 48:42.700
+só se na ativa da multônoma.
+
+48:42.700 --> 48:44.460
+E aí ele falou, não avança,
+
+48:44.460 --> 48:47.420
+e lá na frente, você tirou dúvida com profissor.
+
+48:47.420 --> 48:50.860
+E aí depois, eu não sei como vai fazer essa parte,
+
+48:50.860 --> 48:52.380
+porque eu queria achar interessante,
+
+48:52.380 --> 48:53.740
+concluir aquela parte do tablo,
+
+48:53.740 --> 48:57.820
+porque é uma ferramenta muito, muito na outra.
+
+48:58.860 --> 49:03.580
+Sim, entendido isso, a dúvida você postou ela no discorso também, né?
+
+49:03.580 --> 49:08.220
+Acredito que não, desculpa de acho que eu comecei a explorar ele hoje,
+
+49:08.220 --> 49:08.860
+mas não é?
+
+49:08.860 --> 49:11.260
+Tá, eu não posso, porém, também, de um.
+
+49:11.260 --> 49:14.300
+Eu também tive a cheia essa diferença no tablo.
+
+49:14.300 --> 49:16.300
+Pô, na gente foi fazer exercício.
+
+49:17.100 --> 49:20.860
+Eu tenho uma parte lá que eu não estava conseguindo avançar, não.
+
+49:20.860 --> 49:24.540
+Eu consegui avançar, mas o meu gráfico ele ficou um pouquinho diferente do gráfico,
+
+49:24.540 --> 49:27.180
+que ele colocou, que eles colocaram no...
+
+49:27.180 --> 49:28.380
+Na plataforma pra gente.
+
+49:28.380 --> 49:30.140
+Mas pouca coisa de diferentes.
+
+49:30.140 --> 49:32.540
+Mas tem dentro diferentes, assim, do conteúdo postado,
+
+49:32.540 --> 49:34.540
+contra o que o tablo tem hoje.
+
+49:35.260 --> 49:37.980
+Eu nem consegui avançar, fichá-la, verdade.
+
+49:37.980 --> 49:40.780
+Consegui ali, em serias duas, as duas,
+
+49:40.780 --> 49:44.300
+duas, dois arquivos, só listava, mas dá sequência não conseguir.
+
+49:45.420 --> 49:51.100
+Ah, Luciano, entendindo, então neste caso, você pode usar o canal de
+
+49:51.100 --> 49:52.620
+de platform contentata, né?
+
+49:52.620 --> 49:56.060
+Aquele gente usa para, para enviar nossas dúvidas.
+
+49:56.060 --> 49:59.740
+Ou você também pode me chamar no Discord no DM,
+
+49:59.740 --> 50:03.340
+da falar-se que tá com um problema enelar,
+
+50:03.340 --> 50:07.180
+que não tá conseguindo prosseguir, que eu também consegui ajudar vocês.
+
+50:07.340 --> 50:10.700
+Tá, vou acionar nossa, nosso time de tutores,
+
+50:10.700 --> 50:13.340
+se estertores pra gente resolver isso.
+
+50:13.340 --> 50:16.140
+O quanto antes você ir pra vocês não perder em tempo.
+
+50:16.140 --> 50:16.940
+Tá bom?
+
+50:16.940 --> 50:17.740
+Que muito obrigado.
+
+50:17.740 --> 50:18.940
+Imagina.
+
+50:18.940 --> 50:21.500
+Bruna, pode falar bruna.
+
+50:23.100 --> 50:26.540
+Oi, Olga, boa noite, boa noite pessoal, prazer.
+
+50:26.540 --> 50:29.340
+Eu mando em lá minha dúvida no Discord,
+
+50:29.340 --> 50:33.020
+a respeito do curso de Excel.
+
+50:33.020 --> 50:35.820
+Acredito que você viu, porque você marcou lá,
+
+50:35.820 --> 50:41.100
+mas ainda não obtive nenhuma resposta de ninguém.
+
+50:41.100 --> 50:45.260
+E eu vivo você falando pra gente agora focar no sprint Juan,
+
+50:45.260 --> 50:48.300
+que é pra aprender Python, o básico.
+
+50:48.300 --> 50:51.020
+Mas eu queria pelo menos terminar essa tarefa.
+
+50:51.020 --> 50:52.220
+Já que eu já comecei,
+
+50:52.220 --> 50:54.540
+e tu mesmo menos na metade, eu queria pelo menos finalizar
+
+50:54.540 --> 50:57.980
+ela antes de sequência pro próximo step.
+
+50:57.980 --> 51:03.260
+Será que eu consigo fazer um ao alguém,
+
+51:03.260 --> 51:05.740
+ou que alguém possa me responder isso até amanhã,
+
+51:05.740 --> 51:08.220
+para eu finalizar com Excel?
+
+51:08.220 --> 51:09.020
+Tá bruna.
+
+51:09.020 --> 51:11.500
+Eu acho que vou ver também daqui a pouco.
+
+51:11.500 --> 51:14.300
+Essa questão, a gente vai passar então pro próximo,
+
+51:14.300 --> 51:17.660
+eu vou reforçar essa espetalha,
+
+51:17.660 --> 51:23.420
+pra você também conseguir finalizar e já focar nas 20 no número 1.
+
+51:23.420 --> 51:25.740
+Tá, mas antes de eu focar nesse sprint número 1,
+
+51:25.740 --> 51:27.580
+eu queria pelo menos terminar esse modo
+
+51:27.580 --> 51:30.700
+entre o tutorial do Excel no qual eu já comecei.
+
+51:30.700 --> 51:32.700
+E eu só não terminei, eu só não continuei
+
+51:32.700 --> 51:35.340
+e por causa dessa minha dúvida,
+
+51:35.340 --> 51:37.420
+que eu tocha um pouco confuso,
+
+51:37.420 --> 51:39.660
+eu especificei bem lá na minha pergunta,
+
+51:39.660 --> 51:42.620
+mandei bem exatamente qual é a tarefa.
+
+51:42.620 --> 51:45.980
+Daí você atrapa, consigo um com alguns professores,
+
+51:45.980 --> 51:49.980
+ou eles vão me responder lá mesmo na...
+
+51:51.180 --> 51:52.860
+É no meu pulso.
+
+51:52.860 --> 51:55.660
+É normalmente a gente consegue resposta
+
+51:55.660 --> 51:58.540
+dos tutores, os estrutores mesmo no Discord.
+
+51:58.540 --> 51:59.500
+Tá bom?
+
+51:59.500 --> 52:02.460
+Então, fica tranquila, acredito que a manhã a gente já
+
+52:02.460 --> 52:04.060
+vai conseguir resolver isso,
+
+52:04.060 --> 52:06.780
+e você vai conseguir para seguir então,
+
+52:06.780 --> 52:08.860
+para outra parte do curso.
+
+52:08.860 --> 52:10.380
+Tá bom?
+
+52:10.380 --> 52:11.980
+Tá bom, muito obrigada.
+
+52:11.980 --> 52:13.420
+Mas gila.
+
+52:17.820 --> 52:21.820
+Um bom pessoal, alguma dúvida,
+
+52:21.820 --> 52:23.820
+a mais.
+
+52:23.820 --> 52:34.780
+Então, eu acho que vamos finalizar por aqui.
+
+52:34.780 --> 52:36.460
+A partir de amanhã, então,
+
+52:36.460 --> 52:38.380
+fica a vontade de entrar em contato,
+
+52:38.380 --> 52:40.780
+também com a gente comigo,
+
+52:40.780 --> 52:45.260
+vamos seguir como a plataforma um discord,
+
+52:45.260 --> 52:48.620
+são ferramentas novas para a maioria,
+
+52:48.620 --> 52:51.820
+super normal, que a gente possa ter algumas dificuldades
+
+52:51.820 --> 52:53.020
+deste primeiro momento,
+
+52:53.020 --> 52:54.780
+então, que tranquilos,
+
+52:54.780 --> 52:56.380
+tá, a gente sabe,
+
+52:56.380 --> 52:57.900
+o mesmo pôde acontecer,
+
+52:57.900 --> 53:00.380
+e a gente está aqui para ajudar vocês.
+
+53:00.380 --> 53:01.580
+Tá?
+
+53:01.580 --> 53:05.340
+Ai, mas uma vez desejamos muito boa sorte,
+
+53:05.340 --> 53:09.900
+e vamos, então, seguir a partir de amanhã no nosso curso,
+
+53:09.900 --> 53:11.820
+fazendo a primeira sprint.
+
+53:11.820 --> 53:14.540
+Bom, eu fico a disposição,
+
+53:14.540 --> 53:16.540
+e desejo um modos cancel,
+
+53:16.540 --> 53:19.100
+e bons estudos para todos vocês.
+
+53:22.780 --> 53:24.540
+Bom, não é o que você quer,
+
+53:24.540 --> 53:26.540
+porque é muito bom, não é o que você quer.
+
+53:26.540 --> 53:27.900
+Bano, é o que você quer.
+
+53:27.900 --> 53:29.900
+Bano, é o que você quer.
+

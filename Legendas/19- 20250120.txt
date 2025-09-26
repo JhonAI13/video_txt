@@ -1,0 +1,1683 @@
+e vamos começando aqui, o bonoit que é o que está aqui comigo, o bonoit que está bom dia botar, a gente precisa estar vendo a gravação depois, vamos começar aqui em um dia, estou compartilhando até o nosso...
+Hoje ainda a gente está no final do Espreend 4, mas eu acho que eu acho que a gente já começava hoje aqui,
+então menos na Olais 35, porque os projetos aqui da Espreend 5, asildades práticas que a gente acaba fazendo são pouco mais densas,
+então principalmente a segunda, então geralmente tem uma hora mais do que uma aula, então é bom a gente já ir começando aqui e é bom também a pessoa vai ver a gravação depois, vai ter no contexto
+do que se trata a Espreend 5, então a ideia que dessa aula é muito mais passar uma visão de como estruturar o repositorio, como pensar em uma visão de projeto,
+propriamente, então além do da questão de...
+Opa, sou o brilho aqui, então, muito além da questão de das ferramentas que a gente foi evoluindo de como a gente aprender o a fazer uma na verdade,
+um pre-processamento, trabalhar com Python, agora a gente vai unir do Alander, vem trabalhando muito com o Notebook, mas...
+tivesse tendendo por que do Notebook não ser a realidade do mundo de produção, né, do que a gente vai pra prática no mundo real,
+muitas vezes a gente não consegue ficar no nível do Notebook, a gente tem parte do Escript Python, né, e aí se a gente tem que ter que ter um pouco mais como a esse script Python se conecta
+com o nosso computador, com a nossa máquina, com a nuvem que a gente está trabalhando, enfim, como no contexto de projeto mesmo, ele está em grande maior ali.
+Então, a ideia hoje, da linha 1º, contato ali, a primeira apresentação sobre linte com o mano, então a gente vai conhecer os berenches com o mano,
+para preparar os ambientes de desenvolvimento e produção ali fora dos Notebooks, então considerando, a gente vai ver o porque, da gente tem que usar nisso com o mano, enfim, porque é contajoso, a gente vai ver tudo isso,
+mas a principal, e conceit dessa aula, a gente pegar, tentar pegar a importância, da gente trabalhar com Python fora do Notebook, né, dentro do Notebook, né,
+a gente vai começar a tornar realmente pronto para construir o portfolio, para, enfim, plantar vagas de mercado de trabalho real assim, no nível de excelente, pronto para entrar e já se adaptar o que tivesse e cheindo,
+da organização, então várias notais assim de trabalhar com diretores e não ficar preso ao Notebook, né, a gente vai introduzir algumas técnicas para tornar os scripts do Python mais flexíveis, então a gente vai voltar dentro do código ali,
+e entender como que o código em tègra com o repositor e se, e algumas flexibilidades que a gente tem lá, a gente vai aprimorar, ver algumas formas de aprimorar, forma de tratamento de egos, então pensando o que a gente vai botar uma aplicação
+para rodar alguma coisa, que vai realmente para producir, que a gente chama de produção, não é alguma coisa que vai ser a mente se usar até o usuário, é bom a gente sempre aprimorar os possíveis erros e, enfim,
+ficarios possíveis gargados do código, onde pode acontecer esses erros para que a gente consiga também, né, fazer esse tratamento e entender aonde que são os erros para poder tratar eles, né, quando eles acontecer.
+Então, no fim, a gente vai também demonstrar como que a gente organiza o projeto em modos e pacotes, se visitar a esclabilidade, reproduitibilidade e imanotension no código.
+Então, isso é fundamental pensando no contexto de realmente, sim, às vezes a gente faz um projeto, fica muito tempo preso, né, mas não, é solamente ele vai ser sempre nosso, né, às vezes a gente vai tocar outra coisa, um colégio vai pegar aquele projeto,
+ou muitas vezes, vai pegar um projeto que já começou, tocar uma parte e deixar para alguém. Então, a gente tem que pensar no meio no contexto, sair um pouco do nosso montebook, no nosso mundozinho, e começar a chegar no resto pra o segundo mundo real.
+Então, no mundo real, escalabilidade, no sentido de, é só, quando eu sair da minha máquina e botar para o ambiente produção, fora, por exemplo, na nuvem, não vou depender mais do meu computador ficar ligado ali 24 horas para ver repente rodar um comando,
+na hora que tiver programado, e aí sim, vou botar a nuvem, vou programar essa atarefa para rodar e detendendo tempo em tempo e isso é escalabilidade, né, então, esse potencial de não depender tanto, não depender mais da sua máquina e poder deixar o código, porque podemos dizer assim, independente e que ele vai rodar, sem o seu controle, sem a sua necessidade do doação humano ali.
+Então, a possibilidade vai muito mais para o contexto de que a gente falou de um comulega, pegar o seu código ou você pegar o código com o comulega, então, é muito mais um contexto de assim, eu consigo rodar na minha máquina que local, é necessário que o comulega é consigual da máquina dele, então, a gente vai passar algumas das necessidades que que isso tem que apertar com o quíso, leva para a gente, então, pensando assim, por exemplo, no termo de milotecas.
+Eu as restamos, temos biotecas no meu notebook, mas se você não tiver no seu ambiente, quando você está assando, vai seguir rodar.
+Eu lutei o notebook que eu estou fazendo aqui, porque tem um qual é isso? Então, é um pequeno exemplo, né, mas é exatamente isso de repetir a habilidade.
+Tem que pensar que nem todo mundo, ou nem todos contadores vão ter aquela, que ele é mente, já configurado você tem ali.
+Então, a gente vai partir para o nível gigante, que as outras pessoas que os emquilo e bódeam vão ter aquela mesma capacidade de fazer o que a gente está fazendo.
+E, uma notícia do código, propriamente, de entender como que o que o código está acontecendo, com o RGR, e também deixar claro, documentado que você está fazendo, que cada função faz, o que são os parâmetros de cada função, o que você está criando, enfim, garantir que alguém que chega ali não cai de parqueadas, né, que tem uma certa base para poder ter que ter que estar acontecendo.
+Isso são boas práticas, mundo realmente às vezes isso é difícil, porque às vezes você está na rootína ali na correria, e vai ter que entregar de parte do próximo, mas isso tem um visto que é fundamental, isso vem muito tempo quando a gente é capaz de garantir um código bem se precado e que outras pessoas conseguimos, também.
+Então, primeiro, pergunta aqui, o que a gente fez uma análise no Chibuque, e a gente botou para rodar a gente que é botar para rodar toda a segunda-feira sem intervenção.
+Então, a gente pegou, vai ali a ideia que a gente fez no projeto 4, por exemplo, é a gente que é construída aquela ideia, a gente tem uma base de som no Mingo de 1.0, tem um alperio, agora a gente tem um bom botar aqui ali para rodar toda a semana, que é a análise que a gente fez.
+E a gente quer botar para rodar toda a segunda-feira sem intervenção humano. Então, o que é o ventáquise que usando a mandar no Chá este é um palpiscar, como que a gente conseguiria fazer essa análise aí toda semana sem quem precisa botar a mão ali no código, legal computador, tá?
+Car Auss Ontario fin Forward.
+Você pensa em nada agora.
+Não, eu intenda.
+Não, não é assim. Mas a questão é powerd hurry que a gente pensa que se a gente estiver se seus dependências de poder
+poder ligar um much dúvida ou no último lugar que happening a��利 e você precisa compreord entrar para um möchte só
+e assim, vamos pensar que isso é de fazer isso para um motor f.
+Mas imagina que são base.
+Você vai fazer toda a segunda-feira e isso,
+você vai ter um motor f,
+você vai ter rodando cor de reinventos do set.
+Então, a ideia é pensar em forma de automais a isso.
+E, ali em de comum, ela é uma das coisas que servez altamente para isso.
+Então, ela ajuda muito no controle na automação dos corros,
+e, quando as principais ferramentas delas,
+navegar e executar as scripts Python,
+dentro de repostor.
+Então, o grupo ficou grosso aqui.
+Então, um pouco mais aqui.
+Então,
+o meu URL.
+Aqui, então, navegar o meu sistema,
+e vai ser um tipo de script Python e gerenciar arquivos e diretores.
+Então, essa é a gente, como a gente está acostumada a ver,
+ela virou um erro muito feio no computador,
+então, por isso que, às vezes, a gente fica assistado.
+Mas agora, a gente vai aprender a usar ela a nosso favor.
+Então, ela permite, quando a gente entra ali,
+ela permite que a gente executa e script Python.
+Isso aqui é uma perramente incrível,
+foi a gente pensem a automação.
+Eu for, só de mim, não ia aqui.
+Aqui, boa.
+Então,
+aí,
+um pouco mais grosso aqui.
+Então, é isso aí. A ideia dela é navegar o sistema,
+executar os scripts a gente consegue e gerenciar os arquivos e diretores.
+Então, através disso, a gente consegue o controle e a automação
+dos scripts que a gente tem rodando o nosso ambiente.
+Então, parece concluir que isso, mas não tentar entender.
+Acho que hoje na próxima atividade,
+a gente vai começar a ter um contato assim,
+vejo no anado de outro mundo e é uma coisa que vai ficando cada vez mais fácil,
+quando a gente vai ter no mais contato.
+Então, esse é o próprio tipo de comum,
+que eu falei era a gente está acostumado a ver quando da erro em alguma coisa,
+e tal, mas a gente não precisa ter medo dele.
+E o Python que fica instalado na nossa máquina,
+se ele tiver no PF,
+às vezes, depende como vocês fizeram a instalação,
+mas depois vai liberificar se o Python está instalado no PF,
+que é o caminho raiz da máquina de vocês.
+Se ele tiver está no PF,
+você consegue a oligar o prompto de comum,
+e executar um Python, barra, barra, vercha?
+Ele chamo Python, vai trazer a versão do Python,
+e isso vai mostrar que o Python está instalado no seu ambiente,
+então você consegue executar com o mundo Python,
+dentro do seu prompto de comum.
+Pem algumas formas mais fáciles de abrir,
+e depois de mim aqui no seu menu inicial e botar o prompto,
+ou você pode digitar o Windows R no Windows também,
+que dá certo.
+Então, essa botar o Windows R,
+ele vai abrir o prompto de comum,
+essa terem a preta,
+então a gente não precisa ter medo dela.
+Então, algumas emplodidos vamos tentar olhar a pasta passas,
+mas não aqui é alguns exemplos do uso do prompto de comum,
+então, quando você tiver dentro de um repositorio,
+através do prompto de comum,
+quando você digita,
+então, o D,
+ele traz todas as informações sobre a pasta,
+então, ele traz aqui a pasta que você está,
+todo conteúdo da pasta,
+o tamanho dos arquivos que ele traz tem um arquivo,
+que tem cinco pastas, o tamanho das pastas,
+o tamanho disponível no meu diretor, o plet,
+e eu consigo dentro da gente como eu não navegar entre os repositorios,
+e, entre os expastos dentro dele,
+então aqui se vocês podem ver,
+uma pasta chamada de irna,
+então aqui,
+ele tem as tags de d,
+e aqui o que for dira uma pasta,
+eu tenho uma pasta chamada de sprint cinco,
+e isso é igual,
+a mesma coisa eu fosse aqui no meus exploradores de arquivos,
+aqui do Windows, estivesse navegado,
+então aqui, o torno nessa pasta aqui,
+TT,
+e eu digito de nela,
+e é isso que mostra o que tem dentro dela,
+dentro dela tenho uma pasta chamada sprint cinco,
+e é nessa pasta sprint cinco,
+a gente vai acessar ela,
+com o que a gente faz isso,
+chamando o comando CD,
+e em seguida o nome da pasta,
+então aqui a gente chamou CD, o nome da pasta,
+e se vocês verem aqui no próximo ano,
+a próxima linha,
+então, ali saiu daqui,
+foi pra cá,
+saiu daqui, foi pra cá,
+que ele já está no próximo nível,
+então ele já abençou a pasta,
+e quando a gente fez o rodo de irro de novo aqui,
+ele já traz o que está dentro da nova pasta,
+então aqui dentro dessa nova pasta,
+a gente tem isso aqui,
+é o próprio repositoro,
+essas aqui por padrão,
+é um padrão do Windows,
+então ele sempre mostra isso aqui,
+é o próprio repositoro,
+a data de criação dele,
+e o dois pontos,
+é um repositoro anterior,
+então, é quando você quiser,
+por exemplo,
+o tapo repositoro anterior,
+você consegue chamando CD,
+ponto ponto,
+e com isso,
+o outro repositoro que você estava,
+em se prepoastório e mãe,
+no repositoro que você está,
+mas aqui,
+a gente consegue ver quais arquivos
+estão dentro da pasta,
+espreendecim,
+são duas pastas,
+quando ele vai,
+e aqui,
+o arquivo,
+exemplo,
+ponto pai,
+que é um script Python,
+que está dentro dele,
+e ali é só o que legal,
+quando eu rodo,
+eu chamo aqui Python,
+eu estou chamando comando Python,
+de novo,
+eu estou dentro da pasta aqui,
+espreendcim,
+dentro dela,
+eu tenho arquivo,
+exemplo,
+ponto pai,
+que é o script Python,
+basicamente com o print,
+para a gente verificar aqui no terminal,
+como é que fique,
+quando eu chamo comando Python aqui,
+eu estou ligando Python,
+dentro do meu terminal,
+e eu vou executar o que está nesse,
+exemplo,
+então,
+isso aqui podia ser muito bem,
+conteúdo de meu notebook,
+mas, no caso,
+é um script,
+ponto pai,
+e,
+por isso,
+ele é só um bloco de código,
+dentro do repostório,
+dentro da minha pasta,
+espreendcim,
+e ao executar aqui,
+viu comando Python no terminal,
+ele roda isso,
+e ele é só o que aparece no meu terminal,
+ou lá,
+ou lá,
+mundo podemos executar um código pai com assim,
+então,
+dessa forma,
+a gente executou um script Python,
+via terminal de comando,
+no Windows,
+então,
+isso aqui,
+mostra a flexibilidade,
+um pequeno passo da flexibilidade,
+e,
+esse processo que a gente está fazendo,
+existem automações que podem fazer isso,
+e automates a tudo isso,
+para a gente,
+então,
+roda o script Python,
+e, o que basta a gente configurar o horário-gantica,
+então,
+essa,
+a resposta ali do como,
+o mestre de aula,
+na gente pode assim,
+automates a estaré-fas,
+e ganhar tempo e evitar esse trabalho,
+por exemplo,
+que,
+por exemplo,
+que a gente deu de fazer,
+rodar um passo a passo,
+manalismo,
+de um conjunto de dados,
+igual a gente fez,
+no projeto 4 agora.
+Então,
+o principal esus,
+control de directo,
+sem depender de UI,
+e UI é,
+basicamente,
+a caixinha do Windows,
+a gente está acostumado,
+então,
+que a gente tem os arquivos,
+então,
+essa é UI,
+e a vantagem,
+control da máquina,
+então,
+a gente consegue rodar
+a nossa máquina sem depender dela,
+e,
+quando a gente pensa,
+num nível de nuvem,
+e sai dela,
+porque a gente consegue rodar,
+exatamente,
+por exemplo,
+que está numa cloud,
+numa AWS,
+numa Azure,
+numa GCP,
+então,
+a gente consegue rodar
+a nível de máquinas vituais,
+então,
+a gente pode as vezes precisar,
+não é uma sociedade,
+vamos,
+porque a gente tem uma análise muito profunda
+para fazer isso,
+quando a gente dá muito grande.
+E,
+nosso processador local,
+não vai ser suficiente para fazer isso.
+Então, a gente pode fazer rodar
+numa cloud através do promos de comando,
+e a gente não depende da UI.
+E, por isso,
+que elas são os dados na cloud,
+não é porque,
+não,
+mas a gente não trabalha o que é dá,
+também para elas fazer.
+Além de se poder utilizar uma máquina,
+a gente pode utilizar todo o interface,
+igual o Windows faz,
+é algo muito mais profundo e muito mais pesado.
+Então,
+quando você tem só,
+como se você trabalhar as seres são,
+os bastidores,
+para o passo a parte da frente,
+que é muito cara,
+muito,
+da muito trabalho visualmente.
+Então,
+por isso,
+que se acessam principalmente
+em máquinas virtuais,
+também via terminal,
+porque a gente não depende da UI,
+que é,
+e usa interface,
+basicamente,
+a interface.
+Outro passo,
+igual a gente falou é automação.
+Então, quando a gente usa,
+o terminal,
+a gente consegue,
+via terminal,
+então,
+aqui no caso a gente está usando o palo Shell,
+que é o Windows.
+Dentro de máquinas virtuais,
+é principalmente usado o BASH,
+que é a linguagem de terminal do Linux.
+Se usa muito Linux,
+e máquinas virtuais,
+e por isso que,
+de como gente não sabe qual a utilidade do Linux
+na sociedade moderna,
+mas o Linux é muito usado em máquinas virtuais,
+principalmente porque é muito leve,
+e ele tem muito controle via terminal também.
+Então,
+muito boa,
+para se comunicar hoje,
+a gente também se consegue usar o BASH no Windows,
+mas o BASH é na ativo do Linux,
+e ele permite basicamente o BASH é o equivalente a essa linguagem
+que a gente está usando do Windows,
+tá pessoal,
+que é a linguagem do palo Shell,
+mas enfim,
+são,
+são,
+igual as muito parecidas,
+que tem a função de controlar
+na veganação da dentro do Gretórios,
+da Escripts,
+e o BASH,
+ele tem essa função aqui dentro do Linux,
+então,
+a gente vai estar inventando também
+quando a gente trabalha,
+e contém final,
+para montar automações,
+com a execução desses scripts,
+então aqui,
+a gente foi executor manualmente,
+então a gente pode pegar todas as processas,
+que a gente fez aqui,
+para executar o scripts.par,
+e montar a automação,
+enfim,
+a gente quiser ser todo dia,
+todo segunda-feira,
+em primeira nossa tela,
+esse script.par,
+e aí,
+vocês podem até testar depois,
+em algum momento,
+mas ele,
+iniciou,
+terminal,
+e ele roda,
+e depois ele apaga,
+ele faz o que ele tem fazer,
+e depois ele inserre,
+então ele,
+ele,
+e também só,
+o script que está lá no repositório,
+então,
+que a gente falou,
+a sessraremoto,
+e, de alprase,
+dos engúvenes,
+justamente,
+quase disso,
+quando você acessar um computador na nuvem,
+que é,
+é,
+não,
+ou,
+viva,
+e,
+mas,
+como você está,
+é,
+ou,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+mas,
+ou,
+e,
+mas,
+mas,
+que vai ter,
+às vezes,
+ou que essa é triste,
+ser,
+ou que na última agenda da take flight
+e me trouxe uma web dessa Sword which
+havia change preso
+até,
+ver,
+Então hoje em dia o GIT, em si já tenho isso, ele tem que ter feio se lá no VSCOG.
+Então quem tiver quiser dar molhada, tem a...
+o GIT a...
+extensão do VSCOG.
+Então, vale a pena dar molhada, porque...
+Basicamente o GIT, ele é o controle de versionaramento e ele vai servir
+para salvar a vida de vocês quando se precisarem voltar numa versão do código.
+Ou...
+Algum colega, que também tiver trabalhando em paralelo.
+E vocês tiverem que em um momento de juntar o que vocês estão fazendo.
+Então, imagina no trabalho aqui, desenvolver numa parte do código,
+qual a gente está desenvolver numa outra parte do código.
+Imagina a gente ter que...
+De uma certa forma, não é possível, porque eu torna minha máquina e ele está na dele.
+Mas não é possível a gente mexer no mesmo script junto ao mesmo tempo.
+Então, o que acontece de VSCOG.
+E depois, se juntar de novo,
+se verifica se ter um conflito, será que o que eu mexi.
+Foi a mesma coisa que o polagueo mexiu.
+Então, se esse foco caso pode ter um conflito.
+Mas esse a ideia do controle de versão do VSCOG,
+é tudo bem documentado de todas as mudanças que foram feitos no código.
+Também serve como um grande...
+Es...
+Becape, né?
+Então, você pode também através do GIT voltar em uma versão atrás
+que tinha alguma coisa que você precisa puxar para a versão atual.
+Ou algum...
+Uma coisa que deu errado atualmente,
+se precisa voltar para aquele ponto que as coisas estavam não certo.
+Então, essa utilidade do GIT trabalha em paralelo
+e equipes permitir acesso também do que você está fazendo local
+para outras pessoas, né?
+Via repostor e também esse controle de backup,
+neve que você está fazendo.
+Então, GIT, ele começou...
+Não comece dele, ele foi utilizado aqui 100% no terminal.
+E hoje, a gente falou já está muito mais fácil,
+já tenho os ele interface,
+não precisa saber todos os comandos da linguagem GIT,
+igual a estigamente, hoje, dia, da pra fazer tudo ali,
+só com buttanzinho no VSCOG,
+e agora a gente vai ver aqui na própria espensinha, né?
+Mas...
+Que aproveitando pra falar, é possível fazer via terminal.
+E talvez a maior teidade para nós,
+que vão ser sentistas e analisisidades,
+que é a gestão de bibliotecas.
+Então, o terminal...
+Ele é muito útil quando a gente fala de gestão de bibliotecas,
+porque esse consegue fazer toda aquela parte do PIP-Stal de bibliotecas,
+quando a gente quer estar lá com o em-biooteca novo,
+via terminal.
+Então, isso acaba sendo muito útil quando a gente pensa
+assim no contexto de á.
+Eu posto os minores bibliotecas aqui,
+mas não, quando eu quero compartilhar com o game pro jeito,
+não necessariamente aquela pessoa vai ter as mesmas versões
+e as mesas bibliotecas que eu tenho no meu ambiente Python aqui.
+E até o mesmo...
+Não vai ter a mesma versão do Python,
+então, tipo, eu posto um 3.1 aqui,
+a pessoa pode ter um 3.9 na casa dela,
+e o que garante que ela vai ver a mesma coisa que eu estou vendo, sabe?
+Então, pode ser que a versão do PANDO DELA seja diferente,
+e tem algum método que eu estou chamando no meu código,
+e não tem na versão do PANDO DELA,
+então, pode dar ero, e isso acontece demais,
+e simplesmente, em projetos mais robustos.
+Então, quando a gente fala de gestão de bibliotecas,
+quando a gente está arrepefazendo um trabalho um projeto,
+dizer, em um arquivo que a gente chama de arquivos e equipos,
+ou o requirements geralmente é um testistei,
+simplizar o mesmo, com quais bibliotecas a gente está usando nesse repostor.
+E antes disso, a gente vai ver também,
+como que a gente costou é o ambiente,
+para ter só os bibliotecas que a gente está usando em casa do projeto.
+Então, essa ideia, não, a gente tem um gestão do que a gente está fazendo,
+para que o projeto fique,
+aos outros pessoas, sejam capazes de produzir de fato que a gente está fazendo.
+Então, beleza, esse foi uma palhinha aqui da linha de comando.
+Então, o que os principais comando é,
+se precisa virar um mestre de linha de comando,
+não jamais, pessoal da gente só,
+está a be escrevei isso aqui igual a gente sabe,
+escrevei já hoje, Python,
+mas a gente não precisa chegar esse nível,
+precisam entender, basicamente, os comando,
+eles principais comando e funcionar em dar,
+mas também nem são todos comando,
+se a gente aprendei.
+Os principais são o dígno de estar tudo que está ali no conteúdo,
+é basicamente aquela parte que a gente vê tudo que está na pasta
+do Windows do Explore,
+o CD, ele é um comando para navegar entre os diretores,
+então, quando você está no nível e você quer entrar numa pasta,
+você quer quando você fosse clicar na pasta,
+então, quando você dá o clicar na pasta,
+e vai para o próximo nível,
+esse é o CD,
+você sabe no diretor,
+o Python, o diretor filho,
+então aqui, por exemplo,
+você lhe dovo com o excelente entra,
+na pasta do meu documento,
+então você vai estar no nível da pasta dos meus documentos.
+O comando que a gente viu ali também,
+o Python, então Python,
+ele executa, um script Python,
+o Vietnam,
+ele é como se fosse entrar,
+se não te bulga e rodasse todo código,
+então aqui, pensa com o script não tem a nível de notebook,
+não tem a nível de céu,
+então, ele executa tudo que está no script,
+ele roda tudo que está dentro daquele script,
+e ali, o exemplo que a gente fez,
+a gente rodou, exemplo,
+ponto para chamando Python primeiro.
+outros comandos,
+tem o MKD,
+então você consegue criar um novo diretor,
+criar um novo pasta,
+então aqui, MKD,
+esse print 5,
+você cria o abaixo,
+chama a despreendcimco,
+MMD,
+você remove o diretor,
+remove a pasta,
+encontrar um nome de Cadi,
+e deu,
+você remove arquivos,
+então, mesmo coisa que,
+que dele está,
+MV,
+ele serve pra mover arquivos,
+então,
+aqui é um pouquinho mais difícil,
+menos de dados porque Python,
+mas é basicamente aqui,
+a estrutura, né,
+eu chamo comandem a MV,
+chamo o arquivo,
+que eu vou colocar,
+mover,
+então aqui,
+essa segunda parte,
+aqui, primeiro a parte,
+chama eu MV,
+chama eu exemplo,
+Python,
+sprintponte 5,
+e aí,
+isso, né, então eu cheguei,
+e joguei o exemplo,
+o exemplo,
+da minha pasta mãe,
+pra minha pasta,
+ele roda arquivos,
+tipo, no Djibout,
+e Pps, no NB,
+não é o ideal,
+então,
+o ideal sempre que,
+porque o notibout,
+ela é muito mais,
+uma interface visual pra gente,
+desenvolver e conseguir ter arte
+para, sem precisar rodar o código inteiro,
+mas a partir do momento que você tem um código fechado,
+e quer botar alguma coisa pra rodar a vida,
+terminar o,
+e ela é sempre,
+e jogar por um arquivo.py,
+e a normal, essa conversão,
+muito amótesse,
+e sair no Notibout,
+e você pode até no runo,
+para ver as coisas,
+tem como,
+aplicar com botão direito,
+ele bigera já um arquivo.py,
+sem precisar fazer nada.
+E então,
+até essa facilidade,
+mas o ideal não é rodar,
+no Notibout,
+via terminal e da hora rodar os arquivos.py,
+então aqui, por exemplo,
+a gente jogou,
+o,
+é,
+é,
+é,
+é,
+a gente pegou um arquivo que estava no nosso diretor,
+e jogou,
+para dentro de uma pasta,
+para a gente ponte sim.
+E,
+e,
+outra,
+funcionalidade que dá pra fazer,
+que eu me vê também,
+é mudar o nome do arquivo.
+Então aqui,
+que nem a gente falou,
+tem um caminho,
+se a minha vez do caminho da pasta,
+eu passar o próprio nome do arquivo,
+e ele renomei o arquivo.
+Então aqui, o nome aqui do arquivo,
+é,
+o novo nome, exemplo,
+ele vai fazer essa conversão,
+mover,
+mas,
+mantendo o mesmo diretor,
+com o nome novo,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não,
+não!
+não,
+não,
+não,
+não,
+não!
+não,
+não,
+não,
+lá,
+não,
+o que tem,
+você está dos saudades.
+fechado, vamos passar agora. E a fluxibilidade, então, um script Python pode ler os
+parâmes com configurações terras, né? Fora do nosso poll. Então, a gente
+passeirita da tração do código a diferentes cenários sem que alguém precisa alterar.
+Então, a gente já vai ver um exemplo, mas é muito fácil falar que funciona na minha
+máquina, né? Funcionar na sua máquina não quer dizer que aquela análise, que é aquela
+aprendizão, que é aquele notebook, que é aquele, aqueles grafos que você
+construiu, vão rodar no processo de produção, né? Fora da sua máquina. Então,
+isso é o processo de flexibilidade, então, através dele a gente pode definir
+alguns parâmetros que são argumentos, a gente usa ao executar no script, né? Então,
+aqui, por exemplo, dentro do terminal, a gente pode definir parâmetros, que ajuda a
+gente a adefinar. Então, aqui, por exemplo, eu tenho o meu par sem, né? Então, eu
+estou aqui, tenho o meu prontos de comando, no caso de empresa, elas linda o Linux,
+ou são os vezes como elas. Então, eu falei muitas vezes, quando você vai para
+cloud e cloud as construções são sempre Linux, grandes malitas vezes, em Linux.
+Nas novas, né? AWS, Amazon, AWS, GCP e Azure. Mas quando a gente fala de
+ambiente, se de trabalho, é Windows, mas você pode usar Linux muitas vezes, quando
+você está trabalhando nessas novas, ou em alguns determinados cenários, existe uma
+abstração do Linux para Windows que chama WSL. Então, você pode até baixar,
+depois você é computador da molyada, mas o WSL, ele pega um espaço da sua máquina
+do Windows e faz o mini computadorzinho Linux, mas sem interface. Então, tipo, interface
+que tem, são as passas do Windows, mesmo. Você consegue, tipo, basicamente,
+tem uma estrutura de pastas Linux dentro do computador do Windows, né? Então, o
+WSL é legal para isso, mas os comas não são os mesmos, o direlino no
+baixo que é o Linux LES, mas a ideia é a mesma.
+A ideia é em si a mesma, temos como as muito parecidos, alguns como as
+pouquinhos diferentes, mas a ideia é em si a mesma, e Linux é usado principalmente na
+movimenta, você muito leve, computacionalmente, né? E flexível também. Então,
+por isso que pessoal acaba usando nas estruturas de cloud, mas hoje também
+tem estrutura para rodar o Windows, mas a padrão da internet é internet,
+e se é construída em Linux, né? Todos os aplicações que a gente conhecem estão rodando em
+Linux no fundo, que é gratuita também, né? Então, tem tudo isso, né?
+De senta bem bem como um contexto assim, e a gente acaba que trabalha no Windows,
+a nossa máquina normal no muda nada, mas a principal ideia é que dentro do Linux
+consegue navegar mais fácil entre as pastas, mas também, na grande maioria das vezes,
+eu usei o Linux e situações muito pontuais. Então, quando trabalha no projeto,
+né, local assim, então eu usei as situações muito pontuais, e sempre que
+precisei fazer alguma coisa que no Linux que eu fazia no Windows, foi muito fácil,
+mas fácil ainda. Então, nós preocupemos. Para aprender no Windows,
+é uma forma boa, porque quando chegar a Linux, vai ser mais fácil, e a lógica é a mesma.
+Então, aqui eu posso passar argumentos, né? Então aqui, por exemplo,
+estamos dando nossos scripts.py, e vamos supor que eu quero passar um argumento aqui
+para voltar ao local, ou não supor que eu tenho esse código hospedado lá no AWS.
+Então, dentro da AWS, ou não supor então, o AWS, ou no próprio colabo mesmo,
+eu tenho meu código lá no colabo, no colabo, na verdade, não vai ser colabo,
+vai ser o GCP, né, que vai ser da Google. Então, não supor que a gente tem o nosso
+código, realmente, virtual, né? E aqui posso botar uma possibilidade de rodar esse
+script, ou é modo ou local. Eu adicionei um parâmetro aqui, então, fonte, e aqui,
+eu boto o parâmetro que eu quero dentro daquele código, né? Então, aqui, quando
+ele rodou, ele falou, print fontidados local. Então, a gente consegue adicionar
+momentos nas funções do que a gente roga no Melindro Comando. E isso é a
+sensibilidade, né? Que, por exemplo, a gente pode rodar o nosso código na nossa
+máquina mesmo, né, no nosso diretor, que a gente está trabalhando, ou, no, por exemplo,
+uma máquina virtual, que tá disponibilizada em algum ambiente.
+Mas a principal, funcionar a lidar, por exemplo, de armazenais,
+várias avis, é quando a gente fala de tokens. Então, a gente vai ver muito sobre a
+país também, na próxima aula. Mas uma peia, uma forma que a gente consegue
+consumir dados de alguma fonte da web. Imagine que a gente quer consumir dados
+do nosso próprio Facebook é possível. Mas, imagine todo mundo com o cara no
+Chegasse e poder acessar dados do Facebook a perto, não é possível, né? Então,
+a gente, o Facebook, a gente disponibiliza tokens e tokens são basicamente senhas que
+a gente usa pra acessar a país. E através de um token, se você consegue acessar
+dados de uma determinada conta. Então, isso é um dado sensível, né? O que a
+gente tem que proteger. Então, aqui, por exemplo, a gente configura como variável de
+ambiente, um exemplo de token, como se fosse uma senha. E, em seguida, dentro do
+código em si, eu não preciso rodar propriamente o meu, um print, algo mesmo
+em visão com com esse com essa peina, com esse token da peina. Então, a principal
+de lidar de a isso, né? Sente vou pensar. É como se você tivesse botando uma senha
+do seu da sua aplicação, do seu email, alguma coisa dentro do código, né? E
+não é inteligente. Então, a gente pode, quando a gente vai descomer o
+Amazon projeito, seja no vídeo HUB, ou passar para um colégio, fazer dessa
+forma. Então, aqui a gente bota uma variável de ambiente, porque aí, quando
+ele fosse essa na máquina dele, ele vai usar a chave dele. Então, isso permite que
+a outras pessoas usam sem prometer, por exemplo, as suas segurança. Então,
+aqui, por exemplo, a gente configura o nomeente, a gente deu o que o
+comando. Em vez a peito, token, então aqui a gente configura o ambiente, o
+token e, em seguida, aqui no código, quando a gente chama através do OS, o
+método GAT-EINV, a gente pega esse token e leva para dentro do código dentro
+da variável aqui, dentro da variável, a peita, então aqui, quando a gente faz,
+quando a gente faz o GAT-EINV, usando OS, o Perechional System, tá, pessoal?
+System operacional. É uma biblioteca nativa do Python para trabalhar com
+algumas coisas do sistema operacional. Isso é um modelo. E, basicamente,
+interactivo com o ambiente comum. Então, aqui, na linha de comum, na
+gente é a amazena, a variável, em seguida, a gente toda vez que a gente
+foi executar aquele código de avatar amazenado no ambiente. Então, a gente
+já consegue ter aqui, o praus, o ZDPOS, sem precisar botar o nosso código,
+um print, ou escrito mesmo, no script, o Oto tem na peita que não dá
+sensível. Principalmente também, porque existem tokens já paye que são pagos,
+então, por exemplo, a peita do iterador já paga. Então, se você
+por limitar o seu token, se vai pagar pelo uso, a peita já te paga também.
+Então, quando você botar lá, tipo, a base do, você vai ganhar um token,
+você vai ter guardaço, você vai você consegue conectar e fazer as chamadas
+pra as posmoleus chat, PT, por exemplo. Mas se outro pessoa pegar aquela
+que ele toque lá, ele vai pro pai também, ele ficava usando, vai debitar
+a sua conta. Então, é uma exemplo que o tipo que a gente tem que fazer os dados
+é um dados sensível, a gente tem que guarda isso, sempre, cuidá-lo.
+Outra possibilidade é usar um arquivo de configuração esteiro, como um
+a gente tem que fazer um operação dentro do escripte. Então, aqui, por exemplo,
+a gente tem um dentro da nossa pasta, a gente tem um arquivo chamado config.json,
+e a gente vai carregar esse diazão que é a gente viu, né, que é aquela estrutura
+de dicionários, e a gente pode ser, por exemplo, um caminho de alguma, alguma peita,
+que a gente vai ter que acessar. Então, ela traz alguma configuração de bem. Então,
+a gente tem que armazer alguma configuração, algum parâmetro do que a gente vai fazer.
+E a gente pode fazer isso, armazer, né, um arquivo, por exemplo,
+de a gente consegue acessar. Vira, quando a gente executa aqui,
+pai do inscrito, por exemplo, o config, aqui no caso, ele pega desse
+edicionário, porque é que é um de a gente, é um de a gente pega essa chave,
+que tem um indepointe, que é o, a gente pode chamar,
+mas, finalmente, o link da peita, a gente vai acessar.
+Que é isso aqui. E o formato dele. Então, aqui,
+nesses impostos, é por exemplo, a gente interagiu
+um arquivo de configuração, que está na mesma pasta,
+é para fazer uso, por exemplo, desses gente põe,
+e se que nente pode chamar aquela peita. Então, esse é um exemplo de
+arquivo de configuração externo, que a gente joga para dentro do nosso código,
+e algo a gente vai precisar ali, depois.
+Tudo certo, pessoal, por enquanto, alguma dúvida,
+sobre terminar, sobre a utilidade de dele no geral até agora,
+beleza. Então, vamos passar aqui,
+um pouquinho, o top com um pouquinho mais avançado do pai,
+e também mais funções avançadas, elas estão no código,
+ele mais didático e reutilizado. Então, aí,
+já acaba vendo muita flexibilidade e consegue escrever menos código.
+Então, aqui, uma peadinha, como escreveu a boa função,
+mas então, algumas características de funções,
+são, por exemplo, closures,
+e elas preservam os valores de variáveis dos conquistagens.
+E foi isso a gente consegue comportamentos persistentes,
+em funções entenas. Então, o que é isso, no fim das contas?
+Aqui, a gente consegue,
+quando a gente chama esse nome local,
+a gente está chamando um variável que não é local, a função incrementar.
+E é essa conta. Então, a gente pegou um variável de fora da função
+e jogou para dentro da função.
+Uma das propriedades de funções,
+é botar uma função dentro de outra.
+Então, isso é uma coge. Aqui, por exemplo, a gente botou a função
+e incrementar dentro de uma função, criar contador.
+O que isso faz? Aqui tem um contador,
+que pega o variável no local,
+então, a única variável no local,
+que é não incrementar, é a que vem de criar contador.
+Essa aqui,
+então, ela vai para dentro de incrementar.
+Isso é uma verdade das funções.
+Eu consigo cada vez que eu executo a função,
+ali aqui, eu comecei pelo 10,
+então, o que o início está compado para o meu depadão,
+o início zero,
+mas eu botei que o início 10,
+vai iniciar no 10 para cá,
+e fica incrementando,
+a cada vez que eu rodar essa função.
+Então, eu dei três prints no meu comando,
+1, 2, 3.
+E, olha o que ele faz?
+Quando eu chamo Python Functions,
+eu botei três prints no meu script.
+É isso é meu script, porque ele tem três prints.
+No terceiro print, ele já está no 13.
+Então, aqui, a gente está incrementando dentro de uma própria função.
+Aqui, a gente pode fazer isso de outras formas,
+aqui, por exemplo,
+uma variável em forma de stringa,
+a gente bota com os fos movariados.
+E, igual a gente está fazendo contes,
+a gente faz com um saldação.
+A gente pode botar aqui, um print dentro da salação.
+Então, toda vez que você executar,
+vai rodar sempre o que estiver lá dentro.
+Mas, no fim, a ideia é,
+você poder ter essa flexibilidade,
+de que você executar uma função,
+você conseguir também mexer dentro dela.
+E os decoradores, os decoradores,
+são bem raros assim,
+algo que tem funcionalidades bem específicas,
+mas eles fazem alguma coisa,
+que, no geral, não vai alterar o código fonte da função original.
+Então, para tornar aquele comportamento e utilizar,
+é fácil de fazer, está uma notenção.
+Então, aqui, no exemplo, a gente fez no função de debunk.
+O função, basicamente, para dizer,
+dentro, ele vai pegar o função mais simples,
+e vai fazer toda estratamento adicional.
+Então, dentro do debunk,
+e a gente fez também, é uma clúgia,
+chamada o Rapper aqui,
+a gente está pegando os argumentos,
+e vai pegar aqui o nome da função,
+os argumentos posicionais,
+os argumentos nomiados, que são os argumentos,
+que a gente precisa, os argumentos posicionais,
+são aqueles que, necessariamente,
+são obrigatórios na função,
+e os nomiados são aqueles que a gente bota o igual,
+bem, toda a função.
+E aqui, são os nomes,
+argas, que eu argas,
+mas aqui, por exemplo, a gente consegue, depois,
+meio que trabalhar, fazer uma função,
+uma subfunção na verdade.
+Então, aqui, uma função que seria uma soma simples,
+são mais bem,
+por a gente chamo decorador de bug,
+e olha o que acontece com a gente executa.
+Ele traz toda esse passo a passo para dentro do prontos.
+Então, aqui, ele vai pintando o...
+O printo nome da função, de soma,
+printos dois argumentos,
+dois e três,
+aqui, no caso, a gente executou com soma dois e três,
+então, ele pintos dois argumentos dois e três,
+não tem nenhum argumento no meado,
+então, no prontonado,
+e trouxe depois de eu restava.
+Então, esse é o exemplo de uso decorador,
+fazer basicamente,
+aqui, que minha gente falou,
+é funcionar de dados e funções,
+sem alterar o código fonte.
+Então, que aconteceu,
+não mexer nada da função de soma,
+mas ele trouxe várias informações,
+quando a gente mudou que no prontos,
+sobre a função soma.
+Isso pode ajudar na execução de
+escrípices mais robustos, né?
+Tratamento de ambos,
+então, a gente já viu alguma coisa,
+isso é um bitrata de anos,
+mas no geral,
+trameixeiros,
+ele melhor é disponibilidade do código,
+né?
+Então, ele previne quando uma fara acontecer,
+você ficar pergindo ali,
+e quando a gente consegue ter um aboco abertura
+dos possíveis,
+e nós conseguimos botar mensagens ao longo do código,
+para saber onde para aquele erro aconteceu, né?
+Então, pode ser tanto para a gente,
+quanto para alguém que está usando a pressão,
+também,
+a gente construiu o nenhum painel do POMBI,
+e pode criar alguma alternativa de erro,
+é quando a gente fizer alguma manipulação, enfim,
+ou seja,
+quando algo,
+não necessariamente,
+que não deu erro no momento que a gente está fazendo naquela análise,
+que não vai dar erro na semana que vem,
+então, pode ser que a contessa um erro lá para frente,
+é importante a gente se cubrir com todas as possibilidades.
+Então, aqui,
+mais um exemplo,
+aí,
+já,
+quando acontece um erro,
+o demog,
+é muito difícil entender o que está acontecendo,
+e aqui no pai,
+então, é bem simples,
+não,
+nos preocupa o seu erro,
+que é o seu boto parêntese na linha,
+se decide.
+Então, quando você consegue entender,
+aprende a entender o erro do POMBI,
+a gente já viu como fazer isso,
+você consegue ficar muito mais cuberto,
+e tem um de,
+sabe exatamente o que vai acontecer,
+a fala e,
+até o que está acontecendo,
+e, no caso,
+ele falou,
+tipo, o seu boto parêntese na linha,
+é 177.
+Então,
+é deixando um pouquinho mais o busto,
+a forma de tratamento de euros,
+além da gente viu,
+basicamente o trai,
+é sépitina,
+mas,
+a gente pode aprofundar um pouco mais,
+deixe ali um pouco mais,
+é bonitinho,
+botando,
+é o seu e-farmel,
+então,
+o seu e-lhe,
+ele,
+basicamente,
+é o contrário desse sépitino,
+é o sépitino,
+é o codo da e,
+então, geralmente,
+a gente dá um trai,
+e rodo que a gente tem aqui,
+se não dá certo,
+ele rodo é que sépitina,
+que é basicamente,
+geralmente,
+o print dizendo o que aquele era aconteceu,
+mas a gente pode ter também uma mensagem,
+para si o código que a gente rodou no trai,
+dessa e-farmel,
+então,
+é o seu basicamente uma mensagem
+positiva aqui do trai,
+e o finel,
+é um complemento de todo esse loop,
+o que a gente tem,
+um atentativo,
+que se derrá-lo,
+a gente vai mostrar uma coisa,
+através da sépice,
+dessa seta,
+a gente vai mostrar uma coisa através do else,
+a gente pode botar um finel aqui,
+e vamos trair aqui no código,
+para,
+basicamente,
+formá-los o ar que foi terminada ali,
+é que o loop de e-mã,
+então,
+por exemplo,
+a gente tem uma função de divisão,
+a gente vai tentar fazer um
+resultado x-plipso,
+no excepte,
+a gente vai chamar o tipo de
+específico,
+o zero de vijo,
+né,
+é o e-o de divisão por e-mã,
+é o divisão por zero,
+porque é um enativo do paito,
+então,
+se separar,
+a gente não importa nada,
+é o enativo do paito,
+e quando vocês digitarem de
+vijo-enho,
+eles já merelei ficar aqui,
+esse é o eno natural do paito,
+e aqui,
+a gente bota x-plipso,
+é o eno de vijo-enho,
+ele vai pintar isso aqui na tela,
+se não,
+ele vai pintar aqui deu certo,
+né,
+se não deu o eno,
+se o traio,
+deu certo,
+ele vai pro else,
+e no fim das contas,
+dependente de ter passado pelo x-plipso,
+ou ter e-o pelo else,
+ele vai rodar aqui pro fan.
+E aqui a gente botou,
+está com a aula de visão de 10,
+por zero,
+ele botou,
+e o nato é aativa de divisão por zero,
+exerução do blog fan,
+ele finalizando o calo,
+e ele botou aqui o,
+ele pulou aqui o maninho,
+e aqui,
+a divisão,
+ele tentou de novo,
+depois aqui pro 10 e 2,
+exerução,
+a divisão foi realizada para a social,
+blog fan ali,
+finalizando o social,
+e agora ele sim,
+ele deu um print no 5.
+Então aqui,
+a gente conseguiu,
+aqui no lugar,
+ele trouxe nony,
+porque a gente está retornando,
+o retâneo aqui,
+dentro do LC,
+então,
+se da seta,
+a gente retou no,
+aqui deu em,
+então ele caiu no x-septis,
+era o indivígio,
+ele printou,
+e trouxe aqui o fan ali,
+então aqui no começo,
+ele trouxe soeses 2,
+e depois ele printou,
+a mensagem de,
+a divisão,
+não, a restada da divisão.
+Então,
+basicamente,
+uma,
+isso aqui é o bebé,
+quando quiser,
+deixar uma função mais completa,
+a usar um traí,
+excepque é o esfane,
+né,
+uma estrutura um pouquinho mais robusto,
+é,
+entendo de cois,
+né, no começo,
+a gente não traz para,
+não assustar aqui,
+parece um bolo de palavra chave,
+tal,
+mas a gente vê que é,
+mas,
+que é,
+é uma estrutura de si,
+e,
+tenta fazer isso,
+se derrado,
+mostra essa mensagem,
+se descer,
+mostra essa mensagem,
+e no final,
+depende de se derrado,
+se descer,
+mostra isso aqui.
+É,
+uma coisa legal,
+do Python,
+é que a gente viu que,
+esse é um erro nativo,
+né,
+os eros de vídeo, né,
+esse é um erro nativo,
+e uma coisa que a gente pode fazer,
+é criar e ir para situações específicas.
+Então,
+aqui, por exemplo,
+a gente tem uma recuperação financeira,
+a gente tem um saldo,
+a gente quer retirar um valor daquele saldo.
+É,
+se o valor foi maior do que o saldo,
+a gente vai criar um novo erro, né,
+então, a gente vai chamar o raise,
+a gente vai chamar um raise
+para o saldo insufficiante,
+exception,
+e a gente vai trazer dois parânteses,
+o saldo e o valor.
+É,
+se não,
+então,
+se o valor foi menor do que o saldo,
+então, não vai rodar isso aqui,
+ele vai tirar o valor do saldo.
+Então, essa é a definição
+da função retiração.
+É, se o valor foi odd que o saldo,
+ele retona um raise,
+com esse novo erro aqui,
+então,
+a gente criou um novo erro,
+chamando isso aqui o raise,
+é,
+e depois,
+aqui,
+é,
+quando a gente bota no trâne,
+é da função,
+a gente pode aqui trai,
+saldo atual,
+retirar saldo,
+então,
+que grande bota a gente irá 150 de 100,
+não dá, né,
+e aqui,
+então, não é que sépica ele já vai
+saldo isso,
+e se a gente é que sépica,
+o que foi,
+o adequinição de reconhecimento
+é o celular da função.
+A gente criou isso aqui.
+Então,
+a gente vai trazer a exceção,
+como isso aqui,
+é,
+é que olha o,
+olha o que o resultado,
+a gente bota,
+bota o pai,
+estão exceções.
+Pai era o nome desse
+script aqui,
+a pai,
+estão exceções.
+Pai,
+a gente rudo ele,
+tentou tirar 150 de 600,
+ele já trouxe,
+essa mensagem de reconhecimento,
+a gente criou,
+saldo,
+isso aí,
+para retirar 150,
+saldo de punir,
+sem.
+Beleza,
+agora,
+falando um pouquinho mais
+de ellos,
+então,
+é que a gente mostrou,
+como a gente pode criar um e-e-e-e,
+também,
+ali,
+além do traí,
+é que sépica,
+que tem tudo de a excepica,
+como a gente pode criar um
+específico,
+um base na necessidade
+de noço,
+tem uma frase mais alguns
+exemplos na aula prática,
+mas acho que o principal ponto dessa aula,
+como organizar bem,
+os modulos,
+estruturas de projetos,
+que vocês vão trabalhar.
+Então, uma estrutura de modulos,
+que é organiza,
+basicamente,
+todo o projeto que a gente vai fazer,
+ela facilita a manutenção,
+realização,
+e coloboração em projetos complexos.
+Então, se a gente for pressar um projeto
+complexo,
+você não vai estar sozinho,
+você vai estar com outras pessoas.
+Então, se precisam trabalhar em conjunto,
+dentro de um mesmo repostório,
+esse torna,
+enfim, parece que isso vai ser muito
+mais complexo quando a gente vai
+escalar para coisas grandes.
+Então, é importante a gente testa
+a base, desde agora,
+para conhecer as boas práticas
+e quando a gente chegar ali,
+meca de trabalhar,
+a gente já está em casa.
+Então, evita em fazer
+caquinha organiza em bem,
+né?
+O repostório,
+porque isso é escalado também.
+Então, sempre,
+vocês vão ver,
+quando você começar um repostório,
+o faz o projeto vai dar vontade
+de abrir um tipo de uma receita exploratura.
+Mas, eu recomendo sempre
+de fazer um repostório,
+mesmo que você fala
+a sua monta e book,
+dentro do repostório,
+para explorar,
+passa dentro do repostório.
+Porque vai escalar,
+você vai ter ideias,
+então,
+é melhor,
+tem uma pasta,
+o gasinho para seu projeto
+desde o começo,
+do que deixar muita coisa surta.
+Tem um jogo organização mesmo.
+Então, a gente pode criar
+modelos de funções,
+para importar e utilizar em outros
+scripts.
+Então, aqui, por exemplo,
+dentro do nosso projeto,
+quando a gente queria uma pasta,
+chamada projeto,
+eu criei em dois,
+duas funções dentro dela.
+Luzescripts, né?
+Calculadora.py e main.py.
+Esse é o meu,
+calculadora.py.
+Então, o que identifica o calador.py,
+eu tenho algumas funções.
+Eu tenho a função soma,
+até a função traçal,
+até a função de explicação.
+Eu tenho a função de visão.
+Dentro do meio,
+nele que eu vou executar o,
+ele que eu estou fazendo meu código.
+Então, é nele que eu produzivo ao ver.
+Então, aqui é esse é o meio.
+No meio,
+eu posso chamar que se eles estão no mesmo nível,
+eu também quero estar no mesmo nível,
+aqui é o mesmo nível.
+Então, estão no mesmo nível,
+eles estão dentro da pasta projeito.
+Eu posso chamar,
+dentro do meio,
+eu posso chamar o calculador.
+Então, ele vai dentro desse escrepe
+de aqui, fronca o calculador.
+Em pote, soma e divisão.
+Então, eu trouxe essas duas funções aqui,
+soma que eu levei para cá.
+E divisão que eu levei para cá.
+E eu usei dentro do meio.
+Aqui eu estou executando o meu escrepe de ponto meio,
+mas dentro do meio,
+eu tenho uma importação do outro escrepe,
+que é o calculador.
+Então, eu queria que o modo de calculador
+é com as duas funções, soma e divisão.
+Então, olha como a gente deixa eu organizar a dina.
+Eu poderia, por exemplo, levar todas essas funções
+e fazer essa operação aqui.
+Mas, quando a gente vive,
+e volta a cara, é coisa no seu lugar,
+fica muito mais fácil de outras pessoas
+interpretarem, saber o que está acontecendo,
+que servida até código,
+e eu já fiz na minha vida de tente
+por três mil minhas.
+É bom se deixar as coisas divididas,
+e no seu lugar.
+E aqui, por exemplo,
+a gente tem um nosso mem,
+que é onde a gente vai rodar o nosso print,
+aqui a gente print, exatamente a gente está fazendo,
+a gente mudou o soma e o divisão aqui,
+o meu escrepe, de passos parantes,
+da vezes 5, 10 e 2,
+e a gente chamou então um mem,
+mas o mem ele chama o calculador.com.
+Então, ali, geralmente,
+uma dependência aqui dentro do nosso repostor.
+É, essa é uma estrutura que eu recomendo vocês,
+quando vocês foram trabalhar em projetos,
+separar sempre em diretores,
+e de acordo com a utilidade de cada arquivo, cada escritif,
+então, esse aqui é um bom exemplo
+para trabalhar, fazer uma análise de dados.
+Então aqui, vocês estão no diretor humano,
+eu recomendo sempre fazer uma pasta data
+para armazenar os dados, os USB,
+seja texte, seja um arquivo de uma base dados,
+é bem, então, enfim, dependente do da fonte da ciência,
+você tiver recomendo criar uma pasta para ela,
+então, aqui data, e aqui no caso,
+ele fez uma estrutura mais complexa, sempre na identidade data,
+ele criou uma pasta chamada ROG,
+que são dados cruços,
+isso aqui já é um conceito de gerir de dados,
+tem etapas para tratar da metidade,
+então aqui ele tem um tratamento cru,
+uma processo de cuidados já processados,
+e vem de alguma etapa em termingir a área,
+e ele tem também um final,
+é com os dados finais, então,
+ele pode ser pós dentro do seu código,
+jogando várias como a dozeripd.tul,
+você é se ver, por exemplo,
+e aí você é a baseana dentro desse repositorio,
+para você ter ele etapas em termingir a área,
+e depois do que você está fazendo.
+O init.py, ele é um arquivo,
+ele é um script,
+que a gente vai botar geralmente em todo,
+quando a gente quer fazer essa ideia que a gente mostrou aqui,
+de importação, de pacote, de modo,
+a gente vai ter aqui no init.py,
+e basicamente fazer dentro do init.py,
+a importação que a gente faria,
+a gente vai dar uma exemplo, mas é só,
+depois, na aula prática, mas é só,
+e no init.py, trazer essa lex,
+tal,
+fron,
+e aí,
+o nome de process,
+aqui, por exemplo,
+então aqui, e trein modo.
+Então, se ele é que está na natal, esse é o init.py,
+porque o bai do já interpreta,
+e já faz a importação
+dessas próprias, desses scripts que estão salvos dele,
+é igual como se a fazer seu imposto,
+é ele fazendo dentro do script que está salvo dentro do próprio impostor.
+Então, são detalhes sim,
+o init.py é uma boa prática,
+para a gente criar,
+bonitinho,
+esses pacotes aqui,
+então aqui,
+a gente queria fron, calculador,
+em português,
+esse é um modo que a gente chama,
+é um modo calculador,
+que vem do script, calculador.
+Mas, na fina das contas,
+o importante é a ideia de que
+eu posso criar,
+igual a gente ponto quando,
+eu posso ter as criar funções que podem ser utilizada dentro do meu código.
+Então, o pão do que tem a função lado
+RITCCV, do TUSSEV,
+para manipular data frame,
+com o loto, tudo isso são funções do pão.
+E a gente pode fazer as nossas funções,
+e separar,
+então a gente pode separar o aparte do código,
+faz o preplosamento,
+separar uma função,
+uma parte,
+separar um script que faz a parte da idea,
+então,
+é isso uma ideia interessante.
+Nesse paral,
+um pacote, por exemplo,
+o modo de preplosamento,
+com os funções que você usa no preplosamento,
+separar um modo com visualizações,
+as funções,
+seus,
+os aparaturas,
+as doenças,
+mas essa ideia.
+Então,
+aqui ele tem um script,
+um script process,
+que faz toda preplosamento dos dados,
+faz tratamentos ali no,
+se você vai mexer no pão,
+e um trein modo,
+depois, um arquivo que aqui,
+faz o treinamento do,
+que sai,
+um treinamento de modelo do fim,
+quer fazer preplosões,
+só que é para ser restitados,
+mas a ideia importante é que é,
+ele pode ser monalys também,
+porque não, pode ser uma ideia,
+em vez de trein modo,
+pode ser uma ideia,
+de um conjunto de dados,
+que já está finalizado,
+né?
+Então,
+é essa ideia na administrutura,
+e aqui,
+é um padrão,
+também,
+o S&C,
+padrão assim,
+dá aqui, vem da gente soft,
+né?
+S&C,
+que é desossos,
+e quer dizer,
+basicamente,
+principal,
+é o,
+a fonte,
+código fonte,
+então,
+só se,
+quando eu vou ver,
+código fonte,
+20 socinado,
+e aqui,
+o código fonte do repositor de vocês,
+a que vocês vão deixar,
+dentro do S&C ali,
+e aqui a gente tem um pasto de supostadata, né?
+Esse aqui é um outro exemplo de estrutura
+de projetos para ser estedados,
+né?
+Então aqui,
+tem uma pasto de projeto,
+tem uma pasta de sórssina,
+e aqui pode ser todo o código relacionado
+ao propulsamento dos dados,
+igual a ele fala aqui,
+é,
+e, enfim,
+em geria de variáveis,
+futeu engirim,
+é,
+textes para rodar textes unitários,
+textes unitários,
+não sei se vocês lembram na
+la de funções,
+mas é,
+só que eles textes que a gente faz
+para ver se as funções
+não estão tengando
+egos,
+então,
+estestam diferentes,
+possibilidades
+ali do,
+dos parâmetros das funções,
+para ver se elas podem gerar o e-m,
+é,
+a uma pasta de modos,
+para a gente armazenar
+os modelos que a gente treina,
+é,
+data,
+então,
+o que a gente falou,
+data uma pasta com os imputos de dados,
+é,
+para o type line,
+então,
+é,
+a inscrito de automação,
+por exemplo,
+para retreinar esse modelo,
+é,
+e documentação,
+então,
+aqui toda parte de documentação,
+como,
+enfim,
+totalmente,
+o que está acontecendo,
+na estucoagem,
+se pode botar no apache de documentação,
+mas essa é uma exépe de estrutura,
+se separar,
+então,
+que se separa no socio,
+o que você está fazendo
+no preplosamento,
+separa os testes unitários,
+separa os modelos que você está criando,
+separa os dados,
+então,
+você está separando
+o rio botando cada coisinha,
+no seu lugar.
+Pessoal,
+por hoje,
+é só,
+em essa fase aqui da exora,
+só,
+mas acho que hoje,
+deu para ter um andar assim,
+a aula de,
+de nitro como um país se está bastante,
+mas vamos ver também na,
+na próxima atividade prática,
+não é nada demais,
+vocês vão ter a estuco em 50,
+não começou,
+mas,
+já vai começar agora esse semana,
+vocês vão ter contato lá,
+vocês vão ver que não é nada de outro mundo,
+a gente,
+como a gente se identitiza,
+a gente não precisa dominar,
+mas a gente precisa saber
+navegar.
+Então,
+precisa ter essa facilidade,
+caso você gine,
+se serem de você saber,
+é,
+o que a gente está fazendo ali,
+e essa questão também
+da organização é muito importante,
+enfim,
+até para questão de por-sforo,
+pessoal,
+estamos ficando oportunidades,
+é,
+é,
+é,
+é,
+é o que é um,
+um projeto,
+é,
+a gente pessoal mesmo,
+pode ter certeza,
+boa,
+boa jambos,
+as pessoas têm certeza,
+que são organizações projetas,
+ela é um diferencial,
+porque,
+que a gente falou,
+reprobustibilidade,
+é um fato muito importante
+de o profissional,
+então,
+não é só,
+ninguém quer alguém que,
+ninguém quer o profissional,
+que ele sabe,
+ele desenvolveu só na máquina dele,
+que alguém que sabe,
+ele fazer,
+e gerava,
+loupa,
+em presa,
+então,
+é muito fácil,
+chegar,
+em garantir que vai tu funcionar no meu,
+é,
+aí,
+quando eu vou passar o código
+pro colega,
+ele que se explora,
+que eu fiz aqui todos as minhas gambias,
+aqui na minha máquina não,
+então,
+é pensando uma forma claro,
+uma forma que fique bem visual,
+ali também com essas pastas,
+e isso o ponto é muito
+muito sponto,
+sim,
+pode ter certeza,
+e é o diferencial,
+porque não,
+não,
+é saber,
+tocar um projeto,
+é que eu,
+eu sandei o ganhizar um projeto
+a nível de repositores,
+a manídeo comando,
+isto já é algo bem,
+mas avançado,
+sim,
+na TV de um analista de
+o sentitidade,
+e é isso,
+já está na espetcim,
+então,
+então,
+avançando,
+eu fico encontrando
+um pouco mais danço,
+mas,
+espero que tenham gostado dela,
+valeu pessoal,
+o ganhou,
+tipo,
+verém,
+a amaliada,
+coisa aí,
+e,
+a gente se encontra,
+então,
+que ainda é feira
+para fazer uma atividade prática,
+sobre o que a gente viu hoje,
+já te há,
+a ganhou,
+o ano,
+o ano,
+o ganhou,
+o ganhou,
+o ganhou,
+o ganhou,
